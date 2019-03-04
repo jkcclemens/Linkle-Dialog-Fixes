@@ -1,0 +1,904 @@
+---
+entries:
+  talk10:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 200
+        - 129
+    - ascii: Heeey! Welcome!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nYou here to buy something for dinner?"
+    - bytes:
+        - 0
+  talk11:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 200
+        - 129
+    - ascii: Heeey! Welcome!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nGot a case of the midnight munchies?"
+    - bytes:
+        - 0
+  Com_Talk_10:
+    - ascii: "You want that, then?"
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 190
+        - 225
+        - 149
+        - 191
+        - 196
+        - 128
+        - 0
+  talk12:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - ascii: "Sorry, but I don't have anything left\nto sell today.\n\nI can still buy stuff from you, though.\nYou interested?"
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 1
+        - 2
+        - 196
+        - 128
+        - 0
+  Com_Talk_11:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 137
+    - ascii: Thank you!
+    - bytes:
+        - 0
+  Com_Talk_13:
+    - ascii: "That's what you're selling?\nHow many? "
+    - bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 225
+        - 149
+        - 188
+        - 225
+        - 150
+        - 132
+        - 225
+        - 149
+        - 191
+        - 200
+        - 128
+        - 0
+  Com_Talk_14:
+    - ascii: "So that's..."
+    - bytes:
+        - 14
+        - 2
+        - 15
+    - ascii: "&\"Shop_TradeItemNum"
+    - bytes:
+        - 0
+    - ascii: " of them.\nI'd say "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - ascii: " "
+    - bytes:
+        - 28
+    - ascii: ShopTradePrice
+    - bytes:
+        - 0
+    - ascii: " rupees "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: is a fair price. OK?
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 188
+        - 225
+        - 149
+        - 189
+        - 196
+        - 128
+        - 0
+  Com_Talk_15:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 142
+    - ascii: "I can't take that off your hands."
+    - bytes:
+        - 0
+  Com_Talk_16:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 142
+    - ascii: "I can't buy something you're wearing!"
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nTake it off, and then sell it to me!"
+    - bytes:
+        - 0
+  Com_Talk_11b:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 135
+    - ascii: Thanks for your business!
+    - bytes:
+        - 0
+  Com_Talk_11c:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 137
+    - ascii: "Thank you! You're helping me out a \nbunch!"
+    - bytes:
+        - 0
+  Com_Talk_11d:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 135
+    - ascii: Thank youuu!
+    - bytes:
+        - 0
+  "0000":
+    - ascii: "I'll buy."
+    - bytes:
+        - 0
+  "0001":
+    - ascii: "I'll sell."
+    - bytes:
+        - 0
+  "0002":
+    - ascii: Quit
+    - bytes:
+        - 0
+  Com_Talk_33:
+    - ascii: Only one?
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: " That'll be "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - ascii: " "
+    - bytes:
+        - 28
+    - ascii: ShopTradePrice
+    - bytes:
+        - 0
+    - ascii: " rupees"
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: "."
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 188
+        - 225
+        - 149
+        - 189
+        - 196
+        - 128
+        - 0
+  talk00:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 200
+        - 129
+    - ascii: Heeey! Welcome!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nYou're a new face!"
+    - bytes:
+        - 0
+  Com_Talk_05b:
+    - ascii: "I'll buy anything off ya!"
+    - bytes:
+        - 0
+  Com_Talk_34:
+    - ascii: "All of them? OK... That'll be "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - ascii: " "
+    - bytes:
+        - 28
+    - ascii: ShopTradePrice
+    - bytes:
+        - 0
+    - ascii: "\nrupees"
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: ", I think. Agreed?"
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 188
+        - 225
+        - 149
+        - 189
+        - 196
+        - 128
+        - 0
+  talk01:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 208
+        - 129
+    - ascii: "Come again!\nI'll be waiting!"
+    - bytes:
+        - 0
+  Com_Talk_00:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 132
+    - ascii: What will ya sell me?
+    - bytes:
+        - 0
+  Com_Talk_05c:
+    - ascii: "Don't hesitate to sell me stuff!"
+    - bytes:
+        - 0
+  Com_Talk_35:
+    - ascii: "Every last one, eh? That'll be\na total of "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - ascii: " "
+    - bytes:
+        - 28
+    - ascii: ShopTradePrice
+    - bytes:
+        - 0
+    - ascii: " rupees"
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: ", OK?"
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 188
+        - 225
+        - 149
+        - 189
+        - 196
+        - 128
+        - 0
+  talk02:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 224
+        - 172
+        - 129
+    - ascii: Thanks for your business!
+    - bytes:
+        - 0
+  Com_Talk_01:
+    - ascii: "You're gonna sell me that?\nIt'll be "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - ascii: " "
+    - bytes:
+        - 28
+    - ascii: ShopTradePrice
+    - bytes:
+        - 0
+    - ascii: " rupees"
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: ", OK?"
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 188
+        - 225
+        - 149
+        - 189
+        - 196
+        - 128
+        - 0
+  Com_Talk_05d:
+    - ascii: "I'll buy a lot of different things from ya!"
+    - bytes:
+        - 0
+  talk03:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 196
+        - 128
+    - ascii: Fresh fish! Just recently caught!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nTake a look!"
+    - bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 200
+        - 128
+        - 0
+  Com_Talk_02:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 137
+    - ascii: Thank you!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nAre you gonna sell me anything else?"
+    - bytes:
+        - 0
+  talk04:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 208
+        - 129
+    - ascii: "If you want something, just let me know\nby standing in front of it and selecting it!"
+    - bytes:
+        - 0
+  talk05:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 224
+        - 172
+        - 128
+    - ascii: "You need more?\nI'll be sure to get some \nmore for next time!"
+    - bytes:
+        - 0
+  Near00:
+    - ascii: Affordable and delicious!
+    - bytes:
+        - 0
+  Com_Talk_04:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 138
+    - ascii: "Oh, that's too bad."
+    - bytes:
+        - 0
+  Com_Talk_50:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - ascii: "It'll be "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - ascii: " "
+    - bytes:
+        - 28
+    - ascii: ShopTradePrice
+    - bytes:
+        - 0
+    - ascii: " rupees"
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: ". Is that OK?"
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 188
+        - 225
+        - 149
+        - 189
+        - 196
+        - 128
+        - 0
+  Com_Talk_02b:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 135
+    - ascii: Thank you!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nI'll take anything you don't need off\nyour hands!"
+    - bytes:
+        - 0
+  Near01:
+    - ascii: You stop that!
+    - bytes:
+        - 0
+  Com_Talk_05:
+    - ascii: "I'll buy anything!"
+    - bytes:
+        - 0
+  Com_Talk_51:
+    - ascii: How many would ya like?
+    - bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 225
+        - 149
+        - 190
+        - 225
+        - 150
+        - 131
+        - 225
+        - 149
+        - 191
+        - 200
+        - 128
+        - 0
+  Com_Talk_02c:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 135
+    - ascii: You make me so happy!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nI'll keep buying stuff from you if\nyou bring it to me!"
+    - bytes:
+        - 0
+  talk07:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 200
+        - 129
+    - ascii: Heeey! Welcome!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nThanks for coming by on such a\nrainy day!"
+    - bytes:
+        - 0
+  Com_Talk_52:
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: "So that's..."
+    - bytes:
+        - 14
+        - 2
+        - 15
+    - ascii: "&\"Shop_TradeItemNum"
+    - bytes:
+        - 0
+    - ascii: " in total. That'll\nbe "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - ascii: " "
+    - bytes:
+        - 28
+    - ascii: ShopTradePrice
+    - bytes:
+        - 0
+    - ascii: " rupees"
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: ". Sound good?"
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 188
+        - 225
+        - 149
+        - 189
+        - 196
+        - 128
+        - 0
+  Com_Talk_02d:
+    - bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+        - 236
+        - 180
+        - 137
+    - ascii: Thank you very much!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nDid you need anything else?"
+    - bytes:
+        - 0
+  "5500":
+    - ascii: Yes.
+    - bytes:
+        - 0
+  talk08:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 200
+        - 129
+    - ascii: Heeey! Welcome!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nI just got fresh stuff in this morning!"
+    - bytes:
+        - 0
+  Com_Talk_53:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 224
+        - 176
+        - 131
+    - ascii: "Oh, you've changed your mind?\nWhat a shame."
+    - bytes:
+        - 0
+  "5501":
+    - ascii: No.
+    - bytes:
+        - 0
+  talk09:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 200
+        - 129
+    - ascii: Heeey! Welcome!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nKnow what sounds good on such a hot\nday? Some fish! What do you think?"
+    - bytes:
+        - 0
+  Com_Talk_54:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 225
+        - 128
+        - 133
+    - ascii: "You don't have enough rupees!"
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nCome back later!"
+    - bytes:
+        - 0
+  "5502":
+    - ascii: "I'd like to buy."
+    - bytes:
+        - 0
+  Com_Talk_55:
+    - bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 225
+        - 128
+        - 133
+    - ascii: You have so much stuff!
+    - bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - ascii: "\nOrganize your stuff, make some room,\nand then come back!"
+    - bytes:
+        - 0
+  "5503":
+    - ascii: Never mind.
+    - bytes:
+        - 0
+  Com_Talk_56:
+    - ascii: "Only one? That'll be "
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - ascii: " "
+    - bytes:
+        - 28
+    - ascii: ShopTradePrice
+    - bytes:
+        - 0
+    - ascii: " rupees"
+    - bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 239
+        - 191
+        - 191
+    - ascii: "."
+    - bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 225
+        - 149
+        - 190
+        - 225
+        - 149
+        - 191
+        - 196
+        - 128
+        - 0
+  "5507":
+    - ascii: "I'll take 'em all!"
+    - bytes:
+        - 0
+  "5508":
+    - ascii: All of them.
+    - bytes:
+        - 0
