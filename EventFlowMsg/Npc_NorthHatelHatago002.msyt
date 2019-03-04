@@ -2,174 +2,159 @@
 entries:
   "0008":
     - ascii: Yeah.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Zzz...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Great question, Mr. Perceptive.\nHyrule Castle.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: "There's a hidden escape route from\nHyrule Castle called the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: East Passage
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nI hear it leads directly into the castle.\nIt was made for the old royal family\nthough, so who knows if it's still usable."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0009":
     - ascii: "No, thanks..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: You know
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Death Mountain
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " and some\nother junk. "
-    - bytes:
+    - utf16_bytes:
         - 0
   talk17:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: See you around...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "My older brothers Izra and Yolero play\nall day long, but I have to stay here and\ngive directions."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 4
         - 4
-        - 236
-        - 180
-        - 129
+        - 52481
         - 0
   talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tHah..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 4
         - 3
-        - 236
-        - 180
-        - 129
+        - 52481
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: Yeah.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Chapter four, article nine of the \nStable Association Regulations states:\n\n\"Each stable must have personnel\nready to give directions to visitors\nat all times.\"\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tAnd somehow I got stuck with this dumb\njob instead of playing like my brothers.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I guess that's what I get for being the\nonly person at Wetland Stable with a\ngrasp on geography..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 128
+        - 4608
     - ascii: "OK, let's get this over with.\nWhat do you want to know about the\nsurrounding area?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
@@ -182,26 +167,25 @@ entries:
         - 0
         - 2
         - 0
-        - 204
-        - 128
+        - 768
         - 0
   "0002":
     - ascii: I have to go.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: "What's the matter?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: All right. Next.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
@@ -214,115 +198,107 @@ entries:
         - 0
         - 2
         - 0
-        - 204
-        - 128
+        - 768
         - 0
   "0004":
     - ascii: Directions?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "You want to know what's south of\nhere?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
         - 18
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
         - 8
         - 0
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 0
-        - 204
-        - 128
+        - 768
         - 0
   "0005":
     - ascii: "What's to the east?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Me too,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " but I never get to leave this\nstable."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " If you really want to know, you\nshould go ask at "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Riverside Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0006":
     - ascii: "What's to the west?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: My life is a joke.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0007":
     - ascii: "What's to the north?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Zora's Domain."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nThat's about it."
-    - bytes:
+    - utf16_bytes:
         - 0

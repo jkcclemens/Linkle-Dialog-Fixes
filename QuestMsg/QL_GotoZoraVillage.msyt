@@ -2,49 +2,45 @@
 entries:
   QL_GotoZoraVillage_Name:
     - ascii: "Reach Zora's Domain"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_GotoZoraVillage_Desc:
     - ascii: "Sidon, prince of the Zora, invited you to\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "come to Zora's Domain"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nHe warned you that owing to the heavy rains,\nthe rocks along the path are dangerously\nslippery."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_GotoZoraVillage_Step1:
     - ascii: "You arrived at Zora's Domain. The next step\nis to visit King Dorephan in the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: throne room
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\non the top floor."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_GotoZoraVillage_Finish:
     - ascii: "You arrived at the throne room in\nZora's Domain.\n\nAccording to Sidon, Zora's Domain is in\ndanger, and they need the help of a strong\nHylian."
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -2,298 +2,272 @@
 entries:
   TerrorEnemy:
     - ascii: Whoa!
-    - bytes:
+    - utf16_bytes:
         - 0
   GoodBye00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "I look forward to seeing what type of\ntreasure you secure out there."
-    - bytes:
+    - utf16_bytes:
         - 0
   GoodBye01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 136
+        - 52488
     - ascii: Oho ho!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " If you still wish to acquire the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: paraglider
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", you must put in the effort.\nI will not simply give it away, you see."
-    - bytes:
+    - utf16_bytes:
         - 0
   GoodBye04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 156
-        - 133
+        - 5893
     - ascii: "You did well to make it this far without\nthe proper clothing.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 135
+        - 52487
     - ascii: "Please take this warm doublet as a\nreward for your tenacity."
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorExplosion:
     - ascii: Huh?!
-    - bytes:
+    - utf16_bytes:
         - 0
   ClearTerrorEnemy:
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorSword:
     - ascii: Easy there!
-    - bytes:
+    - utf16_bytes:
         - 0
   NakedPlayer:
     - ascii: "Aren't you...a bit chilly?"
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorImpulse:
     - ascii: Whoa!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorFire:
     - ascii: Toasty...
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 136
+        - 52488
     - ascii: Ahhh...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " I enjoy gazing out at the world\nfrom here."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 207
-        - 170
-        - 207
-        - 171
-        - 196
-        - 128
+        - 1002
+        - 1003
+        - 256
         - 0
   "1002":
     - ascii: B-b-breathtaking view...
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 2
         - 24
         - 22
     - ascii: CustomLaughOho ho!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 207
-        - 170
-        - 207
-        - 171
-        - 196
-        - 128
+        - 1002
+        - 1003
+        - 256
         - 0
   "1003":
     - ascii: Bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 128
+        - 512
     - ascii: "There are few things in life filled with\nas much mystery and wonder as the\nmoments before a sunrise..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 128
+        - 512
     - ascii: "The fierce cold atop these mountains can\ntake quite a toll as the night sets in."
-    - bytes:
+    - utf16_bytes:
         - 0
   Nagameru00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "This may be the best place to get a full\nview of the entire plateau."
-    - bytes:
+    - utf16_bytes:
         - 0
   Nagameru01:
     - ascii: "Use your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: scope
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " to look for shrines."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nWhen you locate one, place a pin\non your map as a marker."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Have you procured the treasure from\nthe shrine yet?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " I'm old, you know.\nWho knows how much longer I can wait..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Have you found the remaining shrines?
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorArrow:
     - ascii: What is this?!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 2
         - 24
         - 22
     - ascii: CustomLaughOho ho!
-    - bytes:
+    - utf16_bytes:
         - 0
   Near00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
     - ascii: CustomLaughOho ho!
-    - bytes:
+    - utf16_bytes:
         - 0
   Near01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
     - ascii: CustomLaughWhat a sight!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorBomb:
     - ascii: What is it?!
-    - bytes:
+    - utf16_bytes:
         - 0

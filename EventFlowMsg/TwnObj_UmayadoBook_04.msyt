@@ -2,67 +2,54 @@
 entries:
   "0000":
     - ascii: Read.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "Don't read."
-    - bytes:
+    - utf16_bytes:
         - 0
   Book00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
     - ascii: "This is Traysi! I have a taste for\nthe rumors of worlds long gone and\nworlds yet to come!\nEveryone gossiping in the present\nworld? Here's my favorite bit of the\nlatest news...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}Treasures of the Falling Star!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nThe stars spread out in the sky like a\ntapestry, and across that expanse, you\nsee one streak of light"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "a shooting star!\nAnd I've heard that there is treasure\nwaiting where these stars have landed.\n\nThe next time you see one, why not track\nit down to see where it lands?\n\nTraysi's Recommendation: "
-    - bytes:
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 134
+    - utf16_bytes:
+        - 9733
+        - 9733
+        - 9733
+        - 9733
+        - 9734
         - 0
   BookFirst:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
     - ascii: "Rumor Mill: Volume 4"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0

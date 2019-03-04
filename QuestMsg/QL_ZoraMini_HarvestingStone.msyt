@@ -2,45 +2,41 @@
 entries:
   QL_ZoraMini_HarvestingStone_Finish:
     - ascii: "You gave Ledo 10 luminous stones to aid in\nthe repairs to Zora's Domain."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_ZoraMini_HarvestingStone_Name:
     - ascii: Luminous Stone Gathering
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_ZoraMini_HarvestingStone_Desc:
     - ascii: "Ledo asked you to bring him "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "ten luminous\nstones"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " to help rebuild Zora's Domain.\n\nApparently there's a place in "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Upland Zorana
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nwhere they're pretty common."
-    - bytes:
+    - utf16_bytes:
         - 0

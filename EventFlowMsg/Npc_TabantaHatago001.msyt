@@ -2,217 +2,196 @@
 entries:
   "0003":
     - ascii: Tell me about Mary.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 159
+        - 52511
     - ascii: Harry... Mary...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: "I've gotta run."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
     - ascii: "There's an "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: enormous maze
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " beyond the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Tabantha Tundra
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " just north of here.\nI don't know who built it or when.\nThe adults always said not to go near it.\nThey said it was too dangerous there.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "One day, I urged "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Harry
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " to go into\nthe maze as a test of courage.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: I...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I never saw him again.\n\n\nI learned the hard way that it really is\ndangerous there. Children have no\nreal sense of danger, I suppose...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tTo this day, the mere memory breaks\nmy heart."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "When you get to be my age, you start\nreminiscing about all the memories\nfrom your childhood.\nHeh, to be honest, growing up out in the\nmiddle of nowhere... Well, there weren't\nreally other kids around.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 164
-        - 139
+        - 6411
     - ascii: "My only friends were "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Harry "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "and "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Mary
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI remember playing with "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Harry "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "out in\nthe maze "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "and "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Mary "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: out by the ruins...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -220,189 +199,174 @@ entries:
         - 2
         - 3
         - 4
-        - 200
-        - 128
+        - 512
         - 0
   talk_07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 128
+        - 4608
     - ascii: "Maybe you've seen the big canyon to\nthe southeast."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " There are some secret\nruins down at the base of that valley.\nI don't know who built them or when.\nThe adults always said not to go near.\nThey said it was too dangerous there.\nOne day "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Mary "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "and I went out there to\nexplore and search for the ruins.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "In the blink of an eye, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Mary
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " lost her\nfooting. She slipped and tumbled down\nthe cliff. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: I...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I never saw her again.\nSometimes a child's innocent curiosity\ncan cause tragedies that can never be\ntaken back.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tThat memory "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "will haunt me until my\ndying day..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3
     - ascii: "I just can't relax..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "As I grew older, I learned to overcome\nmy grief over losing them."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You can't\nchange the past, only the future.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Harry "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "and "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Mary
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " never made it back,\nbut two of their descendants are in\nthat stall over there.\nMy only friends out in these parts were\nhorses, you see. I suppose that's still\ntrue to this day."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: What kind of story?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "A traveler, eh?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Can you spare a minute\nto listen to a bored, old retiree tell\na story?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   "0001":
     - ascii: "Sorry, I'm too busy."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Tell me about Harry.
-    - bytes:
+    - utf16_bytes:
         - 0

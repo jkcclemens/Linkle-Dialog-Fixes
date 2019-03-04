@@ -1,7 +1,7 @@
 ---
 entries:
   Com_Talk_13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -16,44 +16,36 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: Well? How many?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 225
-        - 149
-        - 188
-        - 225
-        - 150
-        - 132
-        - 225
-        - 149
-        - 191
-        - 200
-        - 128
+    - ascii: ᕼ
+    - utf16_bytes:
+        - 5508
+        - 5503
+        - 512
         - 0
   Com_Talk_14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Right, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 15
     - ascii: "&\"Shop_TradeItemNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: ", huh...\nThat means it'll be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -63,44 +55,37 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_60:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "That'll be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -110,221 +95,194 @@ entries:
         - 2
         - 16
     - ascii: ",(Shop_SelectItemPrice"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: Sorry...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I can't buy that from you."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_61:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 128
+        - 512
     - ascii: "...Right."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
     - ascii: "You realize you're still wearing that,\nright? Credit for being creative, but\nyou'll have to take that off yourself."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "This is the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Secret Club
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\nor "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: GSC
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " for short.\n\nThis is the only shop in Gerudo Town\nwhere someone could buy clothes meant\nfor a voe to wear.\nDespite it being illegal to sell voe\nclothing in this town, there is a high\ndemand for such things.\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Haha, don't worry..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Your secret is safe\nwith me."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Oh ho. That's a special one,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " made using \n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: luminous stone
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nIf you're interested, you'll need "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "to trade\nme the materials"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "Oh, and there's a\nhandling fee, too."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "Sarqso. It's a precious item, so be sure\nto take good care of it."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "Sarqso. I recommend pairing it with\nother clothing items from this series."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_33:
     - ascii: "Just one, huh?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nIn that case, it'll be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -334,52 +292,45 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_05b:
     - ascii: Are you finished already?
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Though I'd love to pick up something\nrare, if you've got anything like that..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_35:
     - ascii: "Every single one? Well then, that'll\nbe..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -389,58 +340,51 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_05c:
     - ascii: "Heehee, if it's OK with you, I'd gladly\ntake something off your hands."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0006":
     - ascii: What is this place?
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: For that...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "how about "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -450,141 +394,122 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_05d:
     - ascii: "I haven't traveled very much, so you'd\nreally help me out by selling me a lot\nof stuff."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0007":
     - ascii: Buy from me!
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: Sarqso.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0008":
     - ascii: I should be going.
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 128
+        - 512
     - ascii: Oh.
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02b:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Heehee, first-class deal. Sarqso."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'd be happier if it were something\nmore uncommon..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02c:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 164
-        - 129
+        - 6401
     - ascii: "Pretty good deal, heehee. Sarqso."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02d:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 164
-        - 129
+        - 6401
     - ascii: "I was just thinking about how I wanted\none of these. Sarqso."
-    - bytes:
+    - utf16_bytes:
         - 0
   "5500":
     - ascii: Sure!
-    - bytes:
+    - utf16_bytes:
         - 0
   "5501":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 155
+        - 52507
     - ascii: "Sav'saaba.\n\n\nElsewhere it might be sav'otta or\nsav'aaq, but here it's always sav'saaba."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -592,20 +517,17 @@ entries:
         - 6
         - 7
         - 8
-        - 200
-        - 128
+        - 512
         - 0
   Talk_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "We each have something to hide, I\nsuppose. Let's ignore that and move on\nto business."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -613,96 +535,87 @@ entries:
         - 6
         - 7
         - 8
-        - 200
-        - 128
+        - 512
         - 0
   "5503":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Have you ever noticed how the darker it\nis, the more beautiful the light becomes?\nIsn't it great, young vai?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Time to go, is it?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I'm not surprised."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nYou've bought everything I have."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "I suppose I could. But I won't be paying\nmore than any other trader would."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: Sarqso.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Hahaha...sarqso.\nI'll make sure to restock for you."
-    - bytes:
+    - utf16_bytes:
         - 0
   "5508":
     - ascii: All of them.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "The bright light of the sun doesn't agree\nwith me. I haven't paid my respects to\nit for many years..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -710,6 +623,5 @@ entries:
         - 6
         - 7
         - 8
-        - 200
-        - 128
+        - 512
         - 0

@@ -1,143 +1,135 @@
 ---
 entries:
   Talk21:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "The warrior and his soldiers at\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Fort Hateno "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "risked their lives to\nprotect the world."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "I wasn't there at the time, but I'm alive\nnow because of them, and I've got to\nmake sure future generations know it!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk22:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "If I'd been alive 100 years ago...I like\nto think I'd have fought these Guardians\nhere, right at the warrior's side."
-    - bytes:
+    - utf16_bytes:
         - 0
   near00:
     - ascii: Incredible!
-    - bytes:
+    - utf16_bytes:
         - 0
   near01:
     - ascii: Check out this angle!
-    - bytes:
+    - utf16_bytes:
         - 0
   near02:
     - ascii: Zzz...
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Hiya! My name's Garill. Come to see\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", I take it?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   Talk13:
     - ascii: "I wasn't sleeping..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I wasn't!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "I was praying for the souls of the warrior\nand all who died here at "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThat's a totally different thing!\nYou're welcome to join me if you want."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 2
         - 3
-        - 196
-        - 128
+        - 256
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -152,11 +144,9 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "The more I see of this place, the more\nit hits me just how hard the old tragedy\nstruck here."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -167,23 +157,23 @@ entries:
         - 2
         - 0
     - ascii: "But even knowing that, seeing so many\nGuardians... It boggles the mind."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "That warrior must have been some threat\nto the forces of darkness, huh?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
     - ascii: "Figured as much. It's well worth seeing!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -199,28 +189,24 @@ entries:
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " here was the last line of\ndefense between Hateno Village and the\nawful tragedy all those years ago.\nEveryone's got to come and pay their\nrespects at least once in life, right?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 144
-        - 132
+        - 5124
     - ascii: "You come up to talk to me and then\ngive me the brush-off? What gives?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -231,122 +217,112 @@ entries:
         - 2
         - 0
     - ascii: "Listen, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " here was the last line\nof defense between Hateno Village and\nthe tragedy all those years ago.\nYou're a Hylian"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "you ought to know \nthese things!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Have some respect!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: Learn some history!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I don't mean to pressure you. But\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " here was the last line of\ndefense for Hateno all those years ago.\nIf not for this fort and the soldiers who\nheld the line here, Hateno Village as we\nknow it might be gone entirely.\nI hang around to pray that those who\ngave their lives find peace and to pass\non the story of the heroine.\nI owe that much to the soldiers who\nfought so that we might live today!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: I think everyone does.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Almost hard to believe they managed to\nhold back a whole horde of Guardians\nhere.\nIf not for "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " and the warrior,\nthere'd be no such place as\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hateno Village
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " anymore."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: "That's right."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk17:
     - ascii: "That's a pretty enlightened thing to say\nfor such a young kid!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -357,213 +333,199 @@ entries:
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " here was the last line of\ndefense between Hateno Village and the\nterrible tragedy all those years ago.\nIf not for this fort and the soldiers who\nheld the line here, Hyrule as we know it\nmight be gone entirely.\nIt's our duty as the survivors to pray that\nthose who gave their lives find peace\nand to pass on the story of the warrior."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk18:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Do you know the story of the warrior\nwho fought here at "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
         - 5
-        - 200
-        - 128
+        - 512
         - 0
   Talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'd love to keep jawing with you about\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fort Hateno
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " and the warrior"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "don't get\nme wrong."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "But I'm observing a moment of silence\nfor the warrior and his troops who fought\nto the last against the Guardians.\nWe can pick it up again in the morning."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Sure.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk19:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "So 100 years ago, we had these\nspecial warriors called Champions."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "The warrior who fought here was\nsupposedly one of them."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I heard the\nothers all died in the big fight.\nThe warrior, though... Some say she gave\nher life here too."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "But others think she went into a deep\nsleep to prepare to fight another day."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nWhich would mean she's still alive, right?\nI wonder if I'll still be around when she\nwakes up."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I'd love to meet the girl."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: "I'll pass."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 128
+        - 4096
     - ascii: "I used to think the old tragedy was\nancient history. Nothing to do with\nmy life."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "But when I stop to consider that my\nlife is only possible because of those\nwho fought tooth and nail for us..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 139
+        - 267
     - ascii: "Well, I start to feel a tear in my eye.\nAlthough that could also just be the rain."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: "No, tell me."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0005":
     - ascii: You could say that.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Oh, that's excellent! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Saves me the\ntrouble of having to tell you."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "You know, most people think the warrior\ngave her life here in battle with the\nforces of darkness.\nBut some believe she actually went into a\ndeep sleep, so she could live again to\nfight another day!\nIf that's true,s he must still be alive."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI wonder if I'll still be around when she\nwakes up..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I'd love to meet the girl."
-    - bytes:
+    - utf16_bytes:
         - 0

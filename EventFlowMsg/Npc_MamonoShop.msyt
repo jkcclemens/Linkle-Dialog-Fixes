@@ -1,63 +1,63 @@
 ---
 entries:
   talk66:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: But I share your pain...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk205:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "You're a forest-giant slayer!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk67:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Thanks to you, I now know their\nmusculoskeletal structure"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "...as well as\ntheir general diet.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Thank you so much for your help.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk68:
     - ascii: How many would you like?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -65,12 +65,11 @@ entries:
         - 6
         - 28
         - 3
-        - 200
-        - 128
+        - 512
         - 0
   talk70:
     - ascii: "That'll be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -80,42 +79,39 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". Sound good?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 7
-        - 196
-        - 128
+        - 256
         - 0
   talk69:
     - ascii: "You want "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 15
     - ascii: "&\"Shop_TradeItemNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " of them?\nThat'll be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -125,34 +121,31 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", please."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   talk71:
     - ascii: "That comes out to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -162,34 +155,31 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". Deal?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   talk72:
     - ascii: "You've only got "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -201,36 +191,33 @@ entries:
         - 26
         - 22
     - ascii: CurrentMamo
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", which won't\ndo much for you, but feel free to take a\nlook."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk17B:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 129
+        - 513
     - ascii: Good evening...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nCan I help you with anything?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -238,631 +225,591 @@ entries:
         - 2
         - 0
     - ascii: "\t"
-    - bytes:
-        - 200
-        - 128
+    - utf16_bytes:
+        - 512
         - 0
   talk73:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Me?\n\n\nMy name is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Kilton
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk74:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 131
+        - 4611
     - ascii: I see...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " That's unfortunate, but not\nentirely unexpected."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk75:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 131
+        - 4611
     - ascii: I see...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " That's unfortunate, but not\nunexpected."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk76:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "Ah... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Another thing.\n\n\nI'm always developing new "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster gear
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ","
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nso remember to check back in between\nyour "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: adventures
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk77:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "I've developed a new piece of\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster gear
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I call it the...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spring-loaded hammer
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nWhack a small monster with this thing,\nand..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: BOING!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " It'll launch the monster\ninto the distance!\nIt's really useful for getting rid of pesky\nmonsters that you don't feel like fighting.\nPlus, it's just fun to use!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk78:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "It's been a while, but I've developed a\nnew piece of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster gear
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I call it the...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Lizalfos mask
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nThose Lizalfos"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " can really be a pain to\ndeal with when you're injured.\n\nJust when you think they're sleeping,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nthey attack you without a moment's\nnotice!\nSome of those scaled sneaks can even\nuse camouflage to blend in to their\nsurroundings!\nBut if you wear this Lizalfos mask"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: ", they\nwill think you're one of them"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " and they'll\nignore you!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk80:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "I'VE DONE IT!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I've developed an\nunprecedented piece of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster gear
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n\nI can't believe I was able to pull this off!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nI'm actually a bit terrified of myself right\nnow... \n*ahem* "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nI present to you the ultimate in monster\ncamouflage! I call it...\nthe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: dark series
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nWear this, and you will become a\nmonster yourself!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I hope you like being\nhunted for your organs!\n...\n\n\nOr you could just,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " you know,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " think of it\nas a costume.\n\nOh, yes. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "And when night falls, you might\njust be able to move a little bit faster.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "PNot sure how it turned out that way, but I'm not\ncomplaining..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk79:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "I've developed a KILLER piece of\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster gear
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "! I call it the...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Lynel mask
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nLynels are monsters that are half man,\nhalf horse."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " They are absolutely vicious.\n\nThey wield a multitude of weapons with\nincredible strength and grace.\n\nIf I was a monster, I'd want to be a Lynel\nfor sure!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "PActually, I was"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " almost killed by a Lynel"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " while\ndesigning this mask."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " It was one of the best\nmoments of my life"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\nAnyhow..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " This incredible mask can \nfool Lynels into thinking you're one of\nthem!\nTry it for yourself! It's quite a rush."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk81:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "Thank you for converting your monster\nparts into "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nNow then, how else can "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fang and Bone
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nserve you today?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 2
         - 0
         - 18
     - ascii: "\t"
-    - bytes:
-        - 204
-        - 128
+    - utf16_bytes:
+        - 768
         - 0
   talk82:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "My "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: monster shop
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " is now open for\nbusiness!\n\nSeeing as how you're a first-time\ncustomer here at "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fang and Bone
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "...\n\nour first order of business will be\nconverting your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "monster parts "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -870,18 +817,17 @@ entries:
         - 23
         - 24
         - 25
-        - 200
-        - 128
+        - 512
         - 0
   talk20B:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: Did you need anything else?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -889,289 +835,272 @@ entries:
         - 2
         - 0
     - ascii: "\t"
-    - bytes:
-        - 200
-        - 128
+    - utf16_bytes:
+        - 512
         - 0
   talk83:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Da da...DAAAAAAAA!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk84:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: This smell...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sniff sniff*\nIs it a Lynel? Or perhaps..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   talk100:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: The stone colossus...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " More commonly\nknown as the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Stone Talus
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nThey masquerade as normal rocks,\nburying themselves in the ground."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nStubborn is an understatement...\nAccording to the most recent count,\nthere are "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "40"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " of them in Hyrule."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk85:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: This smell...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sniff sniff*\nIs it a Lizalfos? Or perhaps..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk101:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Let's see how many "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Stone Taluses
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nyou've harvested so far...\nLooks like "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 15
     - ascii: $ DefeatedGolemNum
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " out of 40."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk86:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: This smell...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sniff sniff*\nIs it a Chuchu? Or perhaps..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   talk102:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 139
+        - 1035
     - ascii: "*sniff sniff*\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: You...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "you haven't killed any\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Stone Taluses "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "yet?! Whew... You have\nyour work cut out for you.\nLet me give you a hint: these guys are\nliterally made of stone, so you can't just\nswing blindly and hope to take them out.\nBut one part of their body is a\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: different color
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " If you hit them there,\nyour fortune may improve."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk87:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: This smell...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sniff sniff*\nIs it a Moblin? Or perhaps..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   talk103:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: You
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "You've defeated every last\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Stone Talus
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n\nOh, you are FRAGRANT, my friend."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1185,138 +1114,131 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nIt smells like there's a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Stone Talus
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nstanding right in front of me!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk88:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: This smell...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sniff sniff*\nIs it a Hinox? Or perhaps..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   talk90:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: This smell...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sniff sniff*\nIs it a Stone Talus? Or perhaps..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   talk104:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "This is proof you have defeated every\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Stone Talus
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " in the land."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk89:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: This smell...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sniff sniff*\nIs it a Molduga? Or perhaps..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   talk91:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: All of them?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " So "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 15
     - ascii: "&\"Shop_TradeItemNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " of them will be\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1326,106 +1248,102 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   talk105:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "You're a real rock crusher!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk106:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: I wonder how big that thing will get...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThings just keep getting more and more\ninteresting."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Thank you very much!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk92:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 132
+        - 1540
     - ascii: All of them?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " You have "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 15
     - ascii: "&\"Shop_TradeItemNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: ", so you'll\nget "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1435,158 +1353,145 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   talk107:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I knew there were four types of\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hinoxes
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", but I just recently learned that\neach type has different food preferences.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Not me, though. I'll eat anything!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk93:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 134
+        - 1030
     - ascii: "I can't make any more trades right now,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nbut thanks for being such a great\ncustomer."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk94:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: You bought out my entire stock!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " But I\ncan still show you the type of stuff I\ncarry, if you'd like."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 7
-        - 196
-        - 128
+        - 256
         - 0
   talk95:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 135
+        - 4615
     - ascii: "Ahhh...it's just you."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nYou startled me."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk96:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 148
-        - 134
+        - 5382
     - ascii: "AHHHH! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "Oh, it's just you."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk97:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 168
-        - 128
+        - 10752
     - ascii: "I feel like I'm being watched..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "by a pair\nof tremendously evil eyes."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -1594,742 +1499,688 @@ entries:
         - 0
   talk98:
     - ascii: "That's a pretty terrifying outfit, if I do say\nso myself."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " It could make even the bravest\nmerchant cry for his mummy."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk99:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
     - ascii: "Ahhh! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "That heavenly smell...\n\n\nCould it be that you've been mingling\nwith monsters?\n\nI must admit I'm a bit jealous.\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "So let's exchange the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster parts
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nyou have for "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 16
         - 23
         - 24
         - 25
-        - 204
-        - 129
+        - 769
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 129
+        - 513
     - ascii: Good evening.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " And welcome to\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fang and Bone
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "If you come across some\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster parts
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ","
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " come on back!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "I imagine you have some "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster parts
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\non your person."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: So now...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Oh, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: thank you very much!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Yes, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: yes.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI'm happy to explain as many times as\nyou need."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Mon "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "is a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: currency
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " I invented to\ndestabilize the market and fight the\nestablishment!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nJust kidding, there is no establishment in\nHyrule! I just love monsters so much that\nI turned them into money!\nHere's the deal: if you bring me\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster parts
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 14
         - 5
         - 0
         - 0
     - ascii: ", I'll exchange them for\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nI'm the"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: " only business"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " in Hyrule that\naccepts "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "mon "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: as payment!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nPretty exclusive, eh?\nAnyway,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " you can spend your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " on\nvarious types of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "monster gear "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "that I've\ncreated based on my research."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "This smells like "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Bokoblin "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: or maybe...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tI see... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "That's a shame."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I hope to see you again another\nmonstrous "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: night
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "What would you like to buy with your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 2
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   talk14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Monster parts "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "are the things that\nmonsters drop when they expire.\n\nYou know"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "horns, fangs, eyes..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThe color and size may differ a bit,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nbut they're all monster parts.\nThe more rare they are, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "the more "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nthey're worth!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Do you not have any\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster parts
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: Hmm?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Seems like you don't have any\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster parts
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk17:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 129
+        - 513
     - ascii: Good evening...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nHow may I help you?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 2
         - 0
         - 18
     - ascii: "\t"
-    - bytes:
-        - 204
-        - 128
+    - utf16_bytes:
+        - 768
         - 0
   "0000":
     - ascii: Exchange for mon.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk18:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "The things that monsters drop when\nthey die."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Come back at "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: night
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " once\nyou get some."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: Can I help you with anything else?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 2
         - 0
         - 18
     - ascii: "\t"
-    - bytes:
-        - 204
-        - 128
+    - utf16_bytes:
+        - 768
         - 0
   talk19:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "What will you exchange for "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk21:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Your current balance is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2341,84 +2192,78 @@ entries:
         - 26
         - 22
     - ascii: CurrentMamo
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nWhat "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "monster gear "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "would you like\nto buy?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Spend some mon!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk22:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "This doesn't smell like a monster."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nI only deal in "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monster parts
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " here."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk23:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2428,23 +2273,21 @@ entries:
         - 2
         - 11
     - ascii: "*&Shop_SelectItemName"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nHow many are you willing to give me?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -2452,12 +2295,11 @@ entries:
         - 0
         - 27
         - 3
-        - 200
-        - 128
+        - 512
         - 0
   talk24:
     - ascii: "You want to exchange "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2467,19 +2309,17 @@ entries:
         - 2
         - 15
     - ascii: "&\"Shop_TradeItemNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "of them?\nHow about "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2489,132 +2329,123 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   "0005":
     - ascii: "Actually, I like them."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk25:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 128
+        - 3072
     - ascii: Do what you must...
-    - bytes:
+    - utf16_bytes:
         - 0
   "0006":
     - ascii: OK.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk26:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 135
+        - 2823
     - ascii: Thank you much!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I'll add your new "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nto your balance."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0007":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk27:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Understood...
-    - bytes:
+    - utf16_bytes:
         - 0
   "0008":
     - ascii: Who are you?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0010":
     - ascii: I like them.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk28:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Sorry, I'm sold out right now."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nI'll make more soon..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk30:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Huh... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2628,71 +2459,65 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "Your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: inventory
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " is full."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nPlease come again once you're all sorted\nout."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0009":
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0011":
     - ascii: I hate them.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk29:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Sorry, you don't have enough\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " for that."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk31:
     - ascii: "The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2702,23 +2527,21 @@ entries:
         - 2
         - 11
     - ascii: "*&Shop_SelectItemName"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nThat will be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2728,41 +2551,38 @@ entries:
         - 2
         - 16
     - ascii: ",(Shop_SelectItemPrice"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 7
-        - 196
-        - 128
+        - 256
         - 0
   "0012":
     - ascii: I ADORE monsters!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk32:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I see. So the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2772,23 +2592,21 @@ entries:
         - 2
         - 11
     - ascii: "*&Shop_SelectItemName"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nI'll give it to you for a special price of\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2798,41 +2616,38 @@ entries:
         - 2
         - 16
     - ascii: ",(Shop_SelectItemPrice"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 7
-        - 196
-        - 128
+        - 256
         - 0
   "0013":
     - ascii: A whole lot!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk33:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Ah, a classic.\nThe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2846,19 +2661,17 @@ entries:
         - 2
         - 11
     - ascii: "*&Shop_SelectItemName"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "will cost\nyou "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2868,40 +2681,37 @@ entries:
         - 2
         - 16
     - ascii: ",(Shop_SelectItemPrice"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: Is that OK?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 7
-        - 196
-        - 128
+        - 256
         - 0
   "0014":
     - ascii: Quite a bit.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk34:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2916,11 +2726,9 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2930,23 +2738,21 @@ entries:
         - 2
         - 11
     - ascii: "*&Shop_SelectItemName"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?\nYou have a good eye!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nThat'll run you "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -2956,274 +2762,253 @@ entries:
         - 2
         - 16
     - ascii: ",(Shop_SelectItemPrice"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " mon"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". Deal?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 7
-        - 196
-        - 128
+        - 256
         - 0
   "0015":
     - ascii: Just a little.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk35:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 128
+        - 2816
     - ascii: Thank you much!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nWould you like anything else?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0016":
     - ascii: Exchange for mon.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk300:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "The giant sand beast... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "More commonly\nknown as the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Molduga
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nThey're giant monsters that live in the\nsands of the desert.\n\nAccording to my sources, there are only\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: four
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " of them in Hyrule."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk37:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}Dya... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: DYAAAAAAAH!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: You want to know about monsters?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nI just LOOOOOVE talking about monsters!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Ooh. OOOOOOOH!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nLet's talk about the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: huge ones
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n\nThe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: stone colossus
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "? The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: forest giant
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: giant sand beast
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Which monster\ndo you want to hear about?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 19
         - 20
         - 21
         - 3
-        - 204
-        - 128
+        - 768
         - 0
   talk301:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Let's see how many "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Moldugas
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " \nyou've defeated..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Looks like you've\ntaken out "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -3233,171 +3018,161 @@ entries:
         - 2
         - 15
     - ascii: "*&DefeatedSandwormNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: so far out of four.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0018":
     - ascii: About monsters...
-    - bytes:
+    - utf16_bytes:
         - 0
   "0020":
     - ascii: The forest giant.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk38:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Oh, yeeeeah!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nWhich monster do you want to talk\nabout?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 19
         - 20
         - 21
         - 3
-        - 204
-        - 128
+        - 768
         - 0
   talk40:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}HOOOOOOOYAG!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk302:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 139
+        - 1035
     - ascii: "*sniff sniff*\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: You...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "you haven't killed any "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Moldugas
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nyet? Here, let me give you a hint.\n\nI've noticed that they're "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "very sensitive to\nsound"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nIf you scare them from a distance with\na big noise,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " maybe you can stun\nthem long enough to take them out."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0019":
     - ascii: The stone colossus.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0021":
     - ascii: The giant sand beast.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk39:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I just love the field of monster research\nso much that I decided to open a shop\nall about monsters!\nI call it..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fang and Bone
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n\n\nI travel all around Hyrule in search of\nrare and exciting monster parts. But I'm\nnot sure which village I should visit next.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -3409,270 +3184,248 @@ entries:
         - 2
         - 2
     - ascii: Kakariko Village
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "or "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hateno Village
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nThough "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Rito Village "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "and "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Zora's Domain"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nare also good options."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Hmm...\nI suppose I could go all the way to\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Town
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " or "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Lurelin Village
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nBut "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Lake Akkala
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " is much closer.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: RAWWWWWRGH!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I'm so excited I can\nhardly contain myself!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "I can't just sit around while there are\nmonsters to be studied!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " I'm off!\n\nI'm sure we'll meet again in some "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: village
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "during the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: night
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Fare thee well!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk41:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Yes. I'm opening a monster shop called\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fang and Bone
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". But I'm still preparing\nfor my grand opening."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk303:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "You've done it! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "You've defeated all the"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Moldugas
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n\nOh, this scent! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -3686,385 +3439,362 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "It's as if a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Molduga
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nwas standing right in front of me!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk304:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "This is proof you have defeated every\nlast "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Molduga
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " in Hyrule."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0023":
     - ascii: What is mon?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk43:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "So... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "You're really not into monsters?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 5
         - 11
-        - 200
-        - 128
+        - 512
         - 0
   talk305:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "You're a giant-sand-beast slayer!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0024":
     - ascii: Monster parts?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk44:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: Anyway...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Do you,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " uh..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nAre you into monsters?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 11
-        - 200
-        - 128
+        - 512
         - 0
   "0025":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk45:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Although, it saddens me to know I truly\nam all alone in this world."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0026":
     - ascii: Monster shop?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk46:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
     - ascii: "How, uh...\nHow much do you like them?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n\f\r"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 15
-        - 208
-        - 128
+        - 1024
         - 0
   "0027":
     - ascii: All of them!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk47:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "I LOVE MONSTERS MORE THAN\nYOU DO!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0028":
     - ascii: "I'll buy them all!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk48:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "...\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tI..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: uh...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Sorry!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nI did it again."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk50:
     - ascii: "- Fang and Bone -\nCome see ol' Kilton for the most\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: monstrous
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " deals in all of Hyrule! "
-    - bytes:
+    - utf16_bytes:
         - 0
   talk49:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Here's my business card..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk53:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 139
+        - 1547
     - ascii: "...\n\n\nHmm?\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tOh."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " It's just a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hylian
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 4
         - 8
-        - 236
-        - 180
-        - 129
+        - 52481
         - 0
   talk54:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I suppose you're here because you\nheard I was opening a monster shop,\nand you wanted to see it for yourself."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 4
         - 26
-        - 236
-        - 180
-        - 129
+        - 52481
         - 0
   talk81B:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "Thank you for converting your monster\nparts into "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: mon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nNow then, how can "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Fang and Bone
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nmeet your monstrous needs today?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -4072,192 +3802,182 @@ entries:
         - 2
         - 0
     - ascii: "\t"
-    - bytes:
-        - 200
-        - 128
+    - utf16_bytes:
+        - 512
         - 0
   talk57:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'm..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: going to need that card back.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nIt's the only one I have."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk60:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'm currently after them myself, but\nthey're just so big!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I can't even get near\nthem...\nSo could I ask you to find them and,\nuh, harvest their materials? I'm talking\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "all "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "of them.\nThat way, I'll be able to analyze the scent\nof their fluids that will inevitably stick\nto your body during battle.\nThat will allow me to determine their\nhabits, behaviors, and overall qualities.\n\nI'm counting on you..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk59:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Ack!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Is it that time already?\nI need to get this show on the road!\n\nMay we meet again on another\nmonstrous "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: night
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk61:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "*sniff sniff*"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nAh, that scent..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nMost interesting."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk200:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "The forest giant... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Also known as the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hinox
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nThese sleepy, one-eyed giants spend\ntheir days in forests around the world.\n\nAccording to the latest count,\nthere are "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "40"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " of them in Hyrule."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk62:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Good luck on your hunt.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI'm counting on you."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk201:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "So far you've defeated "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -4267,189 +3987,176 @@ entries:
         - 2
         - 15
     - ascii: "0,DefeatedForestGiantNum"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " of the 40\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hinoxes
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk63:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "*sniff sniff*"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThis scent...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "This!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: This is!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk202:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 139
+        - 1035
     - ascii: "*sniff sniff*\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: You...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "you haven't killed a single "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hinox
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nyet? Goodness.\n\nHere, let me give you a hint: Hinoxes\nwear "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: necklaces
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " strung with "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: weapons
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nthey've picked up.\nIf your arsenal is running low, try to\nsnatch some of their weapons during\nthe fight!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk64:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Tha-thank you so much!\n\n\nOh, yes! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Here, let me give you this."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk203:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "You've done it! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "You've defeated all the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hinoxes
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Oh...you are FRAGRANT. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -4463,93 +4170,87 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "It's as if there"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nwas a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hinox
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " standing right in front of me."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk65:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "As long as you have this...\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "I'll always be with you!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "You don't have to suffer in silence \nanymore. I know how much it hurts you\nevery time you kill a monster.\nDestroying monsters for their materials\nis soul-crushing work, but it must be\ndone."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk204:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "This is proof you've defeated every last\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hinox
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". "
-    - bytes:
+    - utf16_bytes:
         - 0

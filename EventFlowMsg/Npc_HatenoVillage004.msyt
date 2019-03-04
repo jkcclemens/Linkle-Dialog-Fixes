@@ -2,28 +2,28 @@
 entries:
   near02:
     - ascii: "*pant*"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tWhew... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I'm pretty much beat!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Let's call\nthis the end of the tour, yah?\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -34,121 +34,113 @@ entries:
         - 2
         - 2
     - ascii: "PJust don't have the pep for tour guiding like\nI used to..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   near03:
     - ascii: "I'm not so young now..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 136
-        - 137
-    - ascii: "I'm probably just gonna kick back for the\nrest of the day. "
-    - bytes:
+    - ascii: "∉I'm probably just gonna kick back for the\nrest of the day. "
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "But if you want a guide\nagain, come find me."
-    - bytes:
+    - utf16_bytes:
         - 0
   near04:
     - ascii: Graaawww...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "*grind grind*"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: "Yes, please."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "No, thanks."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "My philosophy is, if it rains on you, then\nyou were meant to be wet.\n\nIf you share my outlook on life, then why\nnot let me show you around the village?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   "0002":
     - ascii: "It's raining..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk22:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "You've got the look of a traveler!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Is this\nyour first time in Hateno Village?\n\nWell, you're in luck, because you have\na lifelong resident to show you around!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
         - 18
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
         - 0
         - 0
@@ -156,56 +148,51 @@ entries:
         - 0
         - 1
         - 0
-        - 204
-        - 128
+        - 768
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "That "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: blue flame
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Is that from Purah?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk24:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 134
+        - 4102
         - 14
         - 0
         - 2
         - 2
     - ascii: "P*pant pant* "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -215,159 +202,151 @@ entries:
         - 2
         - 2
     - ascii: dAlmost there!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Keep it together,\nkeep it together..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "That "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: blue flame
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Grandma Purah might\nbe interested in seein' that..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk25:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: "Can't talk while I'm on the move! Gotta\nkeep my heart rate up!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "You've got the look of a traveler!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Is this\nyour first time in Hateno Village?\n\nWell, you're in luck, because you have\na lifelong resident to show you around!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   talk13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "And now, on with the tour!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk26:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 134
+        - 4102
     - ascii: "Thanks for using Seldon's Village Tours."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nOur next tour will begin..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "whenever I get\nmy breath back..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tWell, fine then..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk27:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 134
+        - 4102
     - ascii: "Seldon's Village Tours is now closed."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nPlease come again if you like..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -378,97 +357,89 @@ entries:
         - 2
         - 2
     - ascii: PBut let me rest for a bit first...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: OK!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Let's get you a good ol' fashioned\ndose of Hateno hospitality!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "This is the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "general store, East Wind"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThey sell a lot of everyday goods..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nand even some everyday greats!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3
     - ascii: "That's enough touristry for the day. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nBut don't fret"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "this village ain't goin'\nanywhere. You can come back tomorrow!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -479,192 +450,174 @@ entries:
         - 2
         - 2
     - ascii: "PMaybe I'll be more awake then..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 144
-        - 131
+        - 9219
     - ascii: "*pant pant...*"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 134
+        - 1030
     - ascii: "This is the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Kochi Dye Shop
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\nknown for their "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hateno dyeing
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " They'll\ndye your clothes whatever color you like!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk17:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "That "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: blue flame
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Does that belong to\nthe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: research lab director
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 144
-        - 131
+        - 9219
     - ascii: "*pant pant...*"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: "This here is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Ton Pu Inn
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -673,77 +626,63 @@ entries:
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
     - ascii: "If you need to sleep overnight, then this\nis the place!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk18:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "That "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: blue flame
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Why don't you go \ndeliver it to the"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: " research lab"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 0
   near01:
-    - bytes:
-        - 226
-        - 153
-        - 170
-        - 239
-        - 189
-        - 158
-        - 239
-        - 189
-        - 158
-        - 226
-        - 153
-        - 170
+    - utf16_bytes:
+        - 9834
+    - ascii: ～～
+    - utf16_bytes:
+        - 9834
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -754,7 +693,7 @@ entries:
         - 2
         - 2
     - ascii: "P*pant pant...* "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -764,98 +703,92 @@ entries:
         - 2
         - 2
     - ascii: "dThis is the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "clothing store,\nVentest Clothing"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " They sell...well, I'm\nsure you can guess what they sell.\nTo be straight with you, this is actually\nmy store! So come hang out when you've\ngot some time.\nStock up here first before heading\nover to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Kochi Dye Shop
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk19:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "The shop is in my daughter's capable\nhands these days, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "so I've got a lot of\ntime on my hands."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI thought it might be nice to do a good\nturn for the village where I was born and\nraised, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: so I volunteered as a tour guide.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nStick with me, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "and I'll show you around\nthe best parts of this place.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 168
-        - 135
+        - 2567
     - ascii: "In fact, in just a minute, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I'll show you\nsomething really special!"
-    - bytes:
+    - utf16_bytes:
         - 0

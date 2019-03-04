@@ -2,45 +2,44 @@
 entries:
   talk03:
     - ascii: "That's it, then?\n\n\nVery well. I shall return your equipment\nto you. Visit the island again should you\nwish to prove yourself."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
     - ascii: "Where are you going? If you intend to\novercome my challenge, you should\nreturn to the island."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
     - ascii: "Offer up the orbs to the three altars on\nthis island. Only then will I acknowledge\nyour skill and return your items."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
     - ascii: "Come, enter the shrine."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
     - ascii: "To you who has traveled to this island...\n\n\nI present you with a challenge. In your\ntravels, you've relied on the equipment\nyou've found along the way.\nHere, you must cast this equipment\naside and face this trial with only your\nwits and whatever you can scavenge."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
     - ascii: "You've done well to complete the trial.\nI will now return your things, as\nI promised."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: I give up.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
     - ascii: Give up on the challenge?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   "0001":
     - ascii: Never!
-    - bytes:
+    - utf16_bytes:
         - 0

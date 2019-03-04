@@ -2,18 +2,17 @@
 entries:
   "0001":
     - ascii: "No, thanks."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: "Oh, one thing to note... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -24,421 +23,382 @@ entries:
         - 2
         - 2
     - ascii: Akkala buns
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\ngo bad fast since they're made of\nfresh ingredients.\nSo you'll have to eat it here, that way we\ncan ensure its quality. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: That OK?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 2
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   "0002":
     - ascii: OK.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 129
+        - 257
     - ascii: "That'll be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: 10 rupees
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", please!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   "0003":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 140
-        - 129
+        - 8961
     - ascii: "Heheh, thanks for your business!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nNow then, close your eyes and open\nyour mouth "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}wiiiiiiiiiiiide..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: Here ya go.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: Come back soon!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 129
+        - 52481
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: Helloooo!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\n\n\nWelcome to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: East Akkala Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\nThe premiere stable of the east!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 132
-        - 130
+        - 4354
     - ascii: "Ohhh, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: good sir...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I'm sorry, but you don't\nhave enough rupees!"
-    - bytes:
+    - utf16_bytes:
         - 0
   near00:
     - ascii: Welcome!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 188
-        - 134
+        - 3846
     - ascii: See you around!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Now just
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " MUNCH 'N' CRUNCH!\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}And down the hatch it goes..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "By the way, good sir..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 135
+        - 2311
     - ascii: So how was it?!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Amazing, right?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "The outside is crunchy while the inside\nis chewy."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Take one bite, and your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "energy\nwill go through the roof"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Go on! Try one of our "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Akkala buns
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThey're a delicacy straight from\nthe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: East Akkala Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   talk13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "Care to buy an "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Akkala bun
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 140
-        - 129
+        - 8961
     - ascii: Thank you soooo much!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "Hm? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "That's odd.\n\n\nYour "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "energy "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "didn't "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -449,29 +409,26 @@ entries:
         - 2
         - 0
     - ascii: go through the roof
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: Sounds yummy.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 134
+        - 1030
     - ascii: Welcome!
-    - bytes:
+    - utf16_bytes:
         - 0

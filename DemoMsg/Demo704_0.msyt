@@ -2,68 +2,63 @@
 entries:
   Demo704_0_Text000:
     - ascii: "Well now, I've seen that face before..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
     - ascii: H
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: "\n\n\nI had a feeling you would show\nup eventually. But making me wait\na hundred years is a bit...indulgent."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
-        - 195
-        - 150
+        - 214
         - 0
     - ascii: "\nYou're here to wrest control of Medoh\naway from Ganon, correct?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
     - ascii: g
-    - bytes:
+    - utf16_bytes:
         - 0
         - 0
   Demo704_0_Text001:
     - ascii: "That "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Guidance Stone "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "has the information\nfor the layout of this Divine Beast. Can\nyou make it there?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
-        - 194
         - 188
         - 0
         - 0
   Demo704_0_Text002:
     - ascii: "If so, then the first thing you'll want to\ndo is find yourself a map."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
-        - 194
         - 150
         - 0
         - 0

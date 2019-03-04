@@ -2,29 +2,27 @@
 entries:
   QL_Gerudo_Ch_SandWarm_Desc:
     - ascii: "Malena's husband has fallen ill. He needs the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "guts of a Molduga "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "in order to get better. The\nMolduga is a ferocious monster that's sensitive\nto the slightest vibration, and it attacks anything\nthat comes near it. The woman is desperately\nlooking for help, but nobody seems capable..."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Gerudo_Ch_SandWarm_Name:
     - ascii: Medicinal Molduga
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Gerudo_Ch_SandWarm_Finish:
     - ascii: "You handed over the Molduga guts to Malena\nto help fix her husband's illness.\n\nShe was overjoyed and left to get her husband\nhealthy again."
-    - bytes:
+    - utf16_bytes:
         - 0

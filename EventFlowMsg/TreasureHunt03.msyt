@@ -2,110 +2,93 @@
 entries:
   "0000":
     - ascii: Read.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "Don't read."
-    - bytes:
+    - utf16_bytes:
         - 0
   Book00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
     - ascii: "I've loved rumors since before I was\nborn. In fact, I was the first to report\non my rumored birthday! Traysi here!\nThis time I've got a juicy bite of gossip\nI've been dying to share!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}Ancient horse gear is real,\nand it's FABULOUS!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\nApparently, there's some incredible\nhorse gear from Hyrule's distant past.\nI'm talking the long, long ago, folks!\nA bridle that increases your horse's skill\nand a saddle that can instantly summon\nyour horse to your side.\nThe bridle is south of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hyrule Ridge
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "beneath a cherry blossom tree at a\nmountain where creatures gather"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nThe saddle is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "at a mysterious spring\nwhere a horse spirit resides"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nAt least, that's what the rumors say.\nSounds like the ancients liked to\nhorse around. I NEED that gear!\nTraysi's Recommendation: "
-    - bytes:
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
+    - utf16_bytes:
+        - 9733
+        - 9733
+        - 9733
+        - 9733
+        - 9733
         - 0
   BookFirst:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
     - ascii: "Super Rumor Mill EX: Volume 3"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0

@@ -2,40 +2,37 @@
 entries:
   Npc_SouthernVillage014_R_006:
     - ascii: "This stone monument was once much\nlarger, but it broke apart during an\nearthquake a while back."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_R_007:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "If you really want to help, help me find\nthe missing fragments, will you? They'll\nbe scattered all around.\nI think the fragments had the same kind\nof script carved into them..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n\nIf you find a fragment, please draw a\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: picture
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " of it and bring it to me.\n\nI'll be here finishing my examination of\nthis stone monument!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -44,17 +41,15 @@ entries:
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 133
+        - 4101
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "Oh, right."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -67,73 +62,67 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "And the words on the stone monument\nglow with an eerie light at night..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n\nThat should make them easier to find."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_020:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
     - ascii: "...No luck?\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
         - 14
         - 0
         - 2
         - 2
     - ascii: "PIt may be possible that the ocean carried\na fragment all the way to Cape Cresia or\nSoka Point."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_R_008:
     - ascii: "Ah, it's you. Did you need something?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   Npc_SouthernVillage014_R_009:
     - ascii: "This place has a very...spiritual aura to it.\nDo you feel it?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_011:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 135
+        - 2311
     - ascii: Wow!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -142,38 +131,37 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: "Thanks to you, I've deciphered the\nentire passage!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_012:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "\"When the two find their place and kneel\nin reverence, the shrine will reveal\nitself.\"\n."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: Ah!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -182,53 +170,46 @@ entries:
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 131
+        - 4099
     - ascii: I...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "haven't the foggiest what that's\nsupposed to mean."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_013:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 147
+        - 52499
     - ascii: Huh?!
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_001:
     - ascii: "Did you find any fragments of the\nstone monument?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
         - 5
-        - 196
-        - 128
+        - 256
         - 0
   Npc_SouthernVillage014_F_001:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -241,90 +222,82 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "\"When the two find their place and kneel\nin reverence, the shrine will reveal\nitself.\"\n...Ah!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nI..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "haven't the foggiest what that's\nsupposed to mean."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_014:
     - ascii: "...Is that it?!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: What are you doing?
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_002:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 139
+        - 3083
     - ascii: "Yeah, they're kind of hard to spot..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "But the letters on the stone glow with an\neerie light at night..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "You might want to try searching for them\nafter the sun's gone down.\n\nIf you find a fragment, please draw a\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: picture
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " of it and show it to me."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_015:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 135
+        - 2311
     - ascii: So you found some fragments!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -333,22 +306,21 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -358,50 +330,47 @@ entries:
         - 4
         - 0
     - ascii: "Sorry, but could you draw a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: picture
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " so I\ncan see what was engraved on the\nfragments?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "I don't need anything."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_003:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 139
+        - 267
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -414,38 +383,33 @@ entries:
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Excellent. Thanks to you, I've got a good\nshot at deciphering the entire monument.\n\nGive me a second to see if I can put this\nall together..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_016:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: Amazing! Show me the next one!
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Can I help?
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_004:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -459,13 +423,13 @@ entries:
         - 2
         - 2
     - ascii: PSome of the fragments must still be missing.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -476,7 +440,7 @@ entries:
         - 2
         - 0
     - ascii: "Well, keep looking."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -485,65 +449,59 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 132
+        - 52484
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI suppose the waves may have washed some away\nor pulled them underwater..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_017:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 132
+        - 2308
     - ascii: "Perfect! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: You have more?!
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_R_Near_001:
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_005:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -557,13 +515,13 @@ entries:
         - 2
         - 2
     - ascii: PSome of the fragments must still be missing...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -574,7 +532,7 @@ entries:
         - 2
         - 0
     - ascii: "Well, keep looking."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -583,78 +541,72 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 132
+        - 52484
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI imagine a fragment may have rolled down to the\nbeach nearby."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_018:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
     - ascii: "No new findings?\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI suppose one may have rolled away to the nearby\nbeach..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: I sure did.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_006:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -668,13 +620,13 @@ entries:
         - 2
         - 2
     - ascii: "PI didn't expect any of the fragments to be washed\nTHAT far away. But some of the fragments must still\nbe missing..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -685,7 +637,7 @@ entries:
         - 2
         - 0
     - ascii: "Well, keep looking."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -694,78 +646,72 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 132
+        - 52484
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI imagine a fragment may have rolled down to the\nbeach nearby."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_019:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
     - ascii: "...No luck?\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI suppose the waves could have carried some away\nor pulled them underwater..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0005":
     - ascii: Still looking.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_007:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -779,13 +725,13 @@ entries:
         - 2
         - 2
     - ascii: PSome of the fragments must still be missing...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -796,7 +742,7 @@ entries:
         - 2
         - 0
     - ascii: "Well, keep looking."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -805,76 +751,68 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 132
+        - 52484
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI wonder if the currents are strong enough to have\ncarried a fragment all the way to Cape Cresia\nor Soka Point..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_R_010:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 142
+        - 52494
     - ascii: "I recently realized that there is writing\nengraved on this stone monument...\n\nSo now I'm trying to figure out what\nexactly is written here."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 2
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   Npc_SouthernVillage014_R_011:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "One of them should be right around\nhere."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Please find that first!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_008:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -888,13 +826,13 @@ entries:
         - 2
         - 2
     - ascii: PSome of the fragments must still be missing...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -905,7 +843,7 @@ entries:
         - 2
         - 0
     - ascii: "Well, keep looking."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -914,39 +852,35 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 132
+        - 52484
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI imagine a fragment may have rolled down to the\nbeach nearby."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_S1_009:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -960,13 +894,13 @@ entries:
         - 2
         - 2
     - ascii: PSome of the fragments must still be missing.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -977,7 +911,7 @@ entries:
         - 2
         - 0
     - ascii: "Well, keep looking."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -986,55 +920,48 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 132
+        - 52484
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI suppose the waves may have washed some of\nthem away or pulled them underwater..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_R_001:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Hmmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   Npc_SouthernVillage014_R_002:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 148
-        - 138
-    - ascii: Ahhh!
-    - bytes:
+    - ascii: ᔊAhhh!
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -1047,65 +974,59 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: Sorry about that. I was in the zone.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nDid you need something?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   Npc_SouthernVillage014_R_003:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: "I was just examining this stone\nmonument."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   Npc_SouthernVillage014_R_004:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: PTypical...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_SouthernVillage014_R_005:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 151
+        - 52503
     - ascii: "Ah, so you're the curious type, too."
-    - bytes:
+    - utf16_bytes:
         - 0

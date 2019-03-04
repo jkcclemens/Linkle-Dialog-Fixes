@@ -2,47 +2,43 @@
 entries:
   TerrorHorse:
     - ascii: Watch it!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorArrow:
     - ascii: Stop it!
-    - bytes:
+    - utf16_bytes:
         - 0
   Challenge000:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 135
+        - 2823
     - ascii: "Ah, I knew we'd meet again!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThough, I never imagined it would be\nhere..."
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorFire:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 148
+        - 52500
     - ascii: Ack!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorSword:
     - ascii: Knock it off!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorExplosion:
     - ascii: WAAAAAA!
-    - bytes:
+    - utf16_bytes:
         - 0

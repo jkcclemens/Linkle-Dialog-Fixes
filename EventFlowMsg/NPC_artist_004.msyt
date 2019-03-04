@@ -1,79 +1,72 @@
 ---
 entries:
   Talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "I've been all over the world, but this\nplace is truly the hottest of them all.\nI'd die here without a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: fireproof elixir
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nYeah, I'm not sure I'll be able to draw\nanything here... So I'll just burn this\nscenery into my memory."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 139
+        - 1035
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " I can see "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Hyrule Castle "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "and the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Great Hyrule Forest
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", which neighbors\nit to the north.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -83,60 +76,52 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "Looking down on the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Great Hyrule Forest
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nfrom the southeast, you can see scenery\nlike this."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "That reminds me... If you travel south\nof here, you'll find a stable called\nthe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Woodland Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -146,33 +131,28 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 139
+        - 267
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "I hear there's some high ground\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: north of the Woodland Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nwith an incredible view.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
@@ -181,15 +161,13 @@ entries:
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: Sorry...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " That's all I know."
-    - bytes:
+    - utf16_bytes:
         - 0

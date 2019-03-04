@@ -2,178 +2,162 @@
 entries:
   QL_Wind_Relic_Name:
     - ascii: Divine Beast Vah Medoh
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_Saki:
     - ascii: "You found Saki and asked where Teba went.\nIt sounds like he headed for the Flight Range.\n\nSearch the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Flight Range "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: for Teba.
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_Battle:
     - ascii: "The battle with Divine Beast Vah Medoh\nhas begun!\n\nUse the paraglider to launch into the air for a\ngood vantage point, and then take out all\nthe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "cannons "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "with your bomb arrows.\n\nBut be careful"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "if you get too close, you'll run\ninto the Divine Beast's barrier!"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_ParashawlFailed:
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_ParashawlFinished:
     - ascii: "You proved your mettle by hitting the targets at\nthe Flight Range.\n\nWhen it comes time to battle Divine Beast Vah\nMedoh, Teba will draw the focus of its attacks\nso you can focus on destroying its cannons.\n\nTeba will carry you into the sky where\nDivine Beast Vah Medoh awaits."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_BattleEscape:
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_Step1:
     - ascii: "You found Teba at the Flight Range, but he has\nno intention of returning to the village before\nDivine Beast Vah Medoh has been appeased.\n\nHe intends to appease the Divine Beast\nhimself. You had better help him out."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_Parashawl:
     - ascii: "Teba won't let you anywhere near\nDivine Beast Vah Medoh unless you can at\nleast hit the targets at the Flight Range.\n\nIf you catch an updraft with your paraglider, it'll\ncarry you high into the sky. Use this technique\nto destroy "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "five targets "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "with arrows within the time\nlimit to prove yourself to Teba."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_ParashawlPlaying:
     - ascii: "You proved your mettle by hitting the targets at\nthe Flight Range.\n\nWhen it comes time to battle Divine Beast Vah\nMedoh, Teba will draw the focus of its attacks\nso you can focus on destroying its cannons.\n\nTeba will carry you into the sky where\nDivine Beast Vah Medoh awaits."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_ParashawlSucceeded:
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_BattleSucceeded:
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_Dungeon:
     - ascii: "You defeated Windblight Ganon, which had\ninfested the insides of Divine Beast Vah Medoh.\n\nThe Divine Beast has been enshrined at the\nhighest point of Rito Village, and moreover,\nit looks like Teba was able to safely return\nto Rito Village.\n\nGo report to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Kaneli
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_Desc:
     - ascii: "Kaneli, elder of Rito Village, wants you to help\na local soldier named Teba. You offered your\nassistance, but first you must find the soldier.\n\nTeba's wife "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Saki
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " may know where he is. Ask\naround Rito Village to gather more information."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_BattlePlaying:
     - ascii: "You destroyed all of Divine Beast Vah Medoh's\ncannons and landed on its back, but Teba\nsuffered injuries and had to retreat.\n\nYou must finish what you both started. Enter\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Divine Beast Vah Medoh
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " on your own to stop\nit once and for all!"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_BattleFinished:
     - ascii: "You destroyed all of Divine Beast Vah Medoh's\ncannons and landed on its back, but Teba\nsuffered injuries and had to retreat.\n\nYou must finish what you both started. Enter\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Divine Beast Vah Medoh
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " on your own to stop\nit once and for all!"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Wind_Relic_Finish:
     - ascii: "You reported to Kaneli that Divine Beast Vah\nMedoh has regained its senses.\n\nYour efforts have earned you the power of the\nChampion Revali, Revali's Gale."
-    - bytes:
+    - utf16_bytes:
         - 0

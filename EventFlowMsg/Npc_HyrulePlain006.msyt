@@ -1,22 +1,20 @@
 ---
 entries:
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 136
-        - 131
+        - 8707
     - ascii: "Who are you? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Who shows up at a time\nlike this?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
@@ -24,24 +22,23 @@ entries:
         - 0
   near00:
     - ascii: "*snooooooore*"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Oh, hey, bud."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I'm just contemplating\nwhether or not I should risk my life to\ngo treasure hunting in the castle."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -49,187 +46,169 @@ entries:
         - 2
         - 3
         - 1
-        - 200
-        - 128
+        - 512
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 135
+        - 2311
     - ascii: "You're right!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I can't let a smoking-hot\nrumor like this go to waste!\nI just gotta act on it, bud!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 131
+        - 259
     - ascii: "Thanks for nothing, bud."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: "What's wrong?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: See you around.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Go for it.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Take it easy...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 180
-        - 131
+        - 3331
     - ascii: Take it easy?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " And let a rumor like this go\nto waste?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Nah, I gotta go big..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
         - 0
   talk11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: "There's a docks on the north side of\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hyrule Castle
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", see, and I hear you can\nget inside the castle from there.\nThere's also an ancient "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: shrine
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nsomewhere around there."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Smells\nlike treasure to me. Stinks like it, even!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 180
-        - 133
+        - 3333
     - ascii: "Of course, no one I know who's gone to\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hyrule Castle
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " has come back. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "Probably\nbecause they're too busy being rich!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: "I just need to come up with a solid plan.\nThen I'll be living the good life!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 133
+        - 4101
     - ascii: Ahhh!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I just don't know what to do!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -240,80 +219,68 @@ entries:
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "Listen, if you wanna get anywhere in this\nlife, you gotta have cash and cachet.\n\nAnd the only way to do that in this day\nand age is to go to"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-        - 226
-        - 128
-        - 148
+        - 8212
     - ascii: stay with me here
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hyrule Castle
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 135
+        - 2311
     - ascii: I know
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "it sounds crazy. But rumor has it\nthat it's full of abandoned treasure and\nweapons!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: "They're just sitting in there, free for the\ntaking! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "Well...if you can get past all of\nthe bloodthirsty monsters, of course."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -321,6 +288,5 @@ entries:
         - 2
         - 3
         - 1
-        - 200
-        - 128
+        - 512
         - 0

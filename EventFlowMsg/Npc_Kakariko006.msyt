@@ -1,67 +1,57 @@
 ---
 entries:
   Talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 128
+        - 512
     - ascii: "Did you enjoy that "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: fortified pumpkin
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Ha! You've got a keen eye to pick\nthat one."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "I'm so glad my beloved pumpkins are\nuseful to somebody.\n\nI'll work extra hard to grow an even\nbetter batch next time!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 180
-        - 137
-    - ascii: Mmm...
-    - bytes:
+    - ascii: ഉMmm...
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -72,60 +62,52 @@ entries:
         - 0
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "It's really delicious, though..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
     - ascii: Ha!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "You wanna buy a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: fortified pumpkin
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\ndon'tcha? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -139,11 +121,9 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: Of course ya do!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -157,21 +137,19 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " As it were,\nI'm heading to the fields right now...\nMind waiting just a bit longer?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "What are you doing out in the middle\nof the night?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -185,49 +163,42 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\n\nAs for me, the first step to achieving\ngreat defense is training your legs.\nThat's why I'm running at this hour.\nTraining is the best way to learn the\nsecret art of defense, after all."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   Talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 164
-        - 139
+        - 6411
     - ascii: "Sorry, mister. It's dinnertime now."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nIf this is about my pumpkins,\ncan it wait until tomorrow?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
     - ascii: The Sheikah tribe is exceedingly wise.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -241,25 +212,22 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nThat is because you cannot protect\nwhat you love with force alone.\nI know everyone has their own way of\nfighting, but please try to remember that."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 4
         - 5
         - 6
         - 3
-        - 204
-        - 128
+        - 768
         - 0
   Talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -269,18 +237,14 @@ entries:
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "That'll cost ya "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -290,138 +254,128 @@ entries:
         - 2
         - 16
     - ascii: "\""
-    - bytes:
+    - utf16_bytes:
         - 30
     - ascii: PlacedItemPrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 14
         - 5
         - 2
         - 0
     - ascii: ".\nInterested?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   Talk12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Long ago, a wise master known simply\nas the swordsman was enshrined"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "\nright in this village, no less.\nIt is said that if you overcome his trial,\nyou will master the secret art of defense.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "However, no one knows exactly what\nthis \"trial\" entails...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "That is why I must stay vigilant with my\ntraining, so that I am ready whenever\nthis trial presents itself to me!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 149
+        - 52501
     - ascii: "My wife's "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: fortified pumpkin
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " dishes\nare the best.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Way better than a barrel o' carrots,\nthat's for sure!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: There are savage old men out there
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " who\ndo nothing but prattle on about how the\nbest defense is a good offense...\nBut I know better. I believe that one\nwho masters the art of defense is the\nstrongest of all."
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorArrow:
     - ascii: Respect your elders!
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: "I'll take it."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "Sorry to interrupt, but..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -435,11 +389,9 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\n\n\nThis plum garden is very special to \nmy wife."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -450,95 +402,88 @@ entries:
         - 0
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "Please be considerate\nof that."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Keep focusing on the enemy, and jump to\nthe side."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " We call this a side jump.\n\nHeh, see that? You get to look stylish \neven while minding your defenses!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 138
+    - ascii: Ċ
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 148
+        - 52500
     - ascii: "OH! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Oh... It's you."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nWh-what do you need?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 7
         - 8
-        - 200
-        - 128
+        - 512
         - 0
   "0001":
     - ascii: Bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 138
+    - ascii: Ċ
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 145
+        - 52497
     - ascii: "Who's there?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk21:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -548,26 +493,22 @@ entries:
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Fortified pumpkins "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "are Kakariko Village's\nspecialty."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " I put my heart and soul into\nevery one of 'em. They're delicious.\nIf you want more, I can give you some."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -581,64 +522,58 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nJust stop by the fields and say hello."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Tell me your secrets!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 156
-        - 129
+        - 5889
     - ascii: "Ha! It's rare to see a young lady\nlike you in a village like this!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk22:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "It's getting late. I should head home."
-    - bytes:
+    - utf16_bytes:
         - 0
   Near00:
     - ascii: Want some pumpkins?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Not interested.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk23:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Ha! That old geezer is as savage\nas ever.\n\nHe's always running around yelling\nnonsense like, \"The best defense is\na good offense!\""
-    - bytes:
+    - utf16_bytes:
         - 0
   Near01:
     - ascii: "Rain won't stop ME!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk18:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -648,99 +583,88 @@ entries:
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 128
+        - 2816
     - ascii: "Fortified pumpkins "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "make you stronger.\nI ask the old lady to keep 'em cookin'"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 3
         - 0
     - ascii: "\nso I can eat some every day."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
     - ascii: "\r"
-    - bytes:
+    - utf16_bytes:
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   "0004":
     - ascii: Secret art?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0010":
     - ascii: Backflip.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk30:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 160
-        - 128
+        - 6144
     - ascii: "But being caught in the act "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "makes\nme realize what I've become...\n\nAs of today...I'll stop taking my anger\nout on the crops."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk24:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 128
-        - 128
+        - 8192
     - ascii: "When I was young, I used to dash\nthrough the village like the wind.\n\nPeople knew me as the Olkin who never\nran out of breath, never slowed down.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 137
-    - ascii: "Unfortunately, you can't outrun aging...\nno matter how hard you train.\nTrust me, I've tried."
-    - bytes:
+    - ascii: "ĉUnfortunately, you can't outrun aging...\nno matter how hard you train.\nTrust me, I've tried."
+    - utf16_bytes:
         - 0
   Near02:
     - ascii: Aha ha!
-    - bytes:
+    - utf16_bytes:
         - 0
   "0005":
     - ascii: Dodge jump.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk31:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Jumping is one of the basics of dodging.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -754,78 +678,72 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nYou'll want to at least master these\ntwo skills."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
     - ascii: "\t\n"
-    - bytes:
-        - 200
-        - 128
+    - utf16_bytes:
+        - 512
         - 0
   Talk19:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Ha! I'm just pullin' your leg!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " You looked\nso serious,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I couldn't help but goad\nya a bit."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk25:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "If there are any other skills you'd like\nto learn, just let me know."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 4
         - 5
         - 6
         - 3
-        - 204
-        - 128
+        - 768
         - 0
   Near03:
     - ascii: Hyah! Hyah!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk26:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "What are you doing out on\nsuch a rainy night?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -839,33 +757,30 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\n\nAs for me, the first step to achieving\ngreat defense is training your legs.\nThat's why I'm running at this hour.\nTraining is the best way to learn the\nsecret art of defense, after all."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   "0006":
     - ascii: Perfect block.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk32:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Keep focusing on your foe, and then\njump back."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -876,345 +791,309 @@ entries:
         - 0
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "We call this a backflip.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 135
+        - 52487
     - ascii: "Ha! See that? Even an old man like me\nknows what's hip and cool!"
-    - bytes:
+    - utf16_bytes:
         - 0
   SupriseHouse:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 138
+    - ascii: Ċ
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 147
+        - 52499
     - ascii: Baaah! Hm?!
-    - bytes:
+    - utf16_bytes:
         - 0
   Near04:
     - ascii: I need to grow more...
-    - bytes:
+    - utf16_bytes:
         - 0
   Near10:
     - ascii: I should head home.
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorBomb:
     - ascii: A blue pumpkin?!
-    - bytes:
+    - utf16_bytes:
         - 0
   "0013":
     - ascii: "Cookin'?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0007":
     - ascii: I saw that...
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk27:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 180
-        - 137
-    - ascii: It seems...
-    - bytes:
+    - ascii: ഉIt seems...
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "you caught me.\n\n\nI could never get along with Steen..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nno matter how I tried.\n\nEven when we'd go hunting together,\nI'd slowly crouch down to get close to\nour prey, but he'd just charge in yelling.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 220
-        - 136
+        - 1800
     - ascii: "\"Offense is kiiing!\""
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nThat's what he'd bellow.\nAnnoyed the tar outta me.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 137
-    - ascii: "Needless to say, our prey always ran...\nOn top of that, he just refuses to sell\nmy pumpkins in his "
-    - bytes:
+    - ascii: "ĉNeedless to say, our prey always ran...\nOn top of that, he just refuses to sell\nmy pumpkins in his "
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: shop
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "But... My, what have I done?"
-    - bytes:
+    - ascii: "촊But... My, what have I done?"
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nI'm just so mortified..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Near05:
     - ascii: Another beautiful day...
-    - bytes:
+    - utf16_bytes:
         - 0
   Near11:
     - ascii: "I'm exhausted today."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk34:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "We call those who swear allegiance to\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Calamity Ganon "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Yiga Clan
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". They...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 139
+        - 267
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 143
+        - 52495
     - ascii: "Well, let's just say they don't take kindly\nto those who would stand against "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Ganon
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\nIt seems they're active again, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "ever since\nthat big earthquake the other day.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "But don't worry. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I don't think you're part\nof that awful "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Yiga Clan
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "I can figure that\nmuch out just by lookin' at ya."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0008":
     - ascii: I saw nothing...
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk28:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 129
+        - 4609
     - ascii: "Ha! Then I suppose all is well.\n\n\nHowever... I'm a tad busy right now.\n\n\nIf ya need something, mind coming\nback later?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Near06:
     - ascii: "Ah, the rain of life!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk35:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Use a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "fortified pumpkin "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "in your cooking\nto make a dish as firm as my abs.\nFood like that will increase your defense.\nPutting lots of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "fortified pumpkin "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "in the\ndish is key. Go on"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: experiment a bit!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk41:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "Sorry to bother you when you're having\na good time, but... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1228,11 +1107,9 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "Don't you think\nyou're going a bit overboard?\nThis plum garden is very special to\nmy wife."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1243,99 +1120,91 @@ entries:
         - 0
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "Please be considerate\nof that."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0009":
     - ascii: Side jump.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk29:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 152
-        - 136
+        - 5640
     - ascii: "You aren't..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "part of the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Yiga Clan
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\nare you?\n\n..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   Near07:
     - ascii: So hungry...
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk36:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "There's a hotheaded geezer who says,\n\"The best defense is a good offense.\" \nPoppycock, I say!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I firmly believe the best offense\nis a good defense."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk42:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 138
+    - ascii: Ċ
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 148
+        - 52500
     - ascii: WHAT ARE YOU DOING?!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1346,24 +1215,20 @@ entries:
         - 2
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "What happened\nto the plum trees?!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 137
-    - ascii: "This plum garden is very special to my\nwife."
-    - bytes:
+    - ascii: "ĉThis plum garden is very special to my\nwife."
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1374,453 +1239,409 @@ entries:
         - 0
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "She's going to be awfully sad...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "They might just be plums to you, but to\nsome people, they're little treasures.\n\nDon't you forget that!"
-    - bytes:
+    - ascii: "촊They might just be plums to you, but to\nsome people, they're little treasures.\n\nDon't you forget that!"
+    - utf16_bytes:
         - 0
   Near08:
     - ascii: My stress just melts away!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk43:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Oof, I worked my tail off today!\nNow time for some grub!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk37:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 131
+        - 52483
     - ascii: "I'll protect you...my sweet wife..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   Near09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: Pumpkins are superior...
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorSword:
     - ascii: Save the pumpkins!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk44:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 129
+        - 257
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 149
+        - 52501
     - ascii: "My wife's tough dishes"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "are made from\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: fortified pumpkins
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". They're out of\nthis world.\nThere are A LOT of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: fortified pumpkins
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nin that recipe, I tell ya what."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk50:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 180
-        - 137
-    - ascii: You caught me again...
-    - bytes:
+    - ascii: ഉYou caught me again...
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nI try to stop myself, but this grudge has\ngrown over the years. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "It takes me over.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "No! The past is behind me! It really is...\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tStill..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I just can't stand the fact\nthat he refuses to stock my\npumpkins at his "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: shop
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk51:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 137
-    - ascii: "But whatever the reason may be, I plain\nshouldn't be doing such things...\n\n"
-    - bytes:
+    - ascii: "ĉBut whatever the reason may be, I plain\nshouldn't be doing such things...\n\n"
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 160
-        - 128
+        - 6144
     - ascii: "I've come to my senses now that you've\ncaught me again."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Thank you.\n\nAs of today...I'll stop taking my anger\nout on the crops."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk39:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
     - ascii: "Well, whaddaya know."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk45:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "It's raining now... I suppose I should\nhead home."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk46:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Phew! I worked my tail off today.\nI should warm up with some grub\nbefore I catch a cold in this rain."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk52:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 132
+        - 260
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 147
+        - 52499
     - ascii: "You... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "You're still here?\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "A lot happened today, but it's the perfect\nnight to train and try to get my mind off\nthe foolish things that distract it.\nTraining is the best way to learn the\nsecret art of defense, after all."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   Talk47:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'm feeling worn out all of a sudden...\nProbably time to turn in."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk53:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
     - ascii: "That's a mighty fine pumpkin...\nYou'll get in big trouble if you\ntake it without permission.\nCome back when the owner is here."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk54:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: Thank goodness!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk48:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 140
-        - 128
+        - 4864
     - ascii: Hm?
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk55:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
     - ascii: "Please don't hold it against me."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nHere, take this in exchange."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk49:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 138
+    - ascii: Ċ
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 148
+        - 52500
     - ascii: "OH! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Oh... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "You're still here, eh?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 7
         - 8
-        - 200
-        - 128
+        - 512
         - 0
   Talk56:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   SupriseHouse_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 137
-    - ascii: "Oh! It's you.\n\n\n"
-    - bytes:
+    - ascii: "ሉOh! It's you.\n\n\n"
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "No one's usually home, other than\nmy wife. So, yeah..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Don't scare me\nlike that!"
-    - bytes:
+    - utf16_bytes:
         - 0
   SupriseHouse_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2

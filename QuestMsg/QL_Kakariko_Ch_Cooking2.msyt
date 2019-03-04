@@ -2,53 +2,45 @@
 entries:
   QL_Kakariko_Ch_Cooking2_Finish:
     - ascii: "Koko heated up the pot in an attempt to make\nhot buttered apples, but the lack of goat butter\nhad her stymied.\nYou provided some goat butter, and the dish\nwas saved.\n\n"
-    - bytes:
-        - 227
-        - 128
-        - 128
-        - 227
-        - 128
-        - 128
+    - utf16_bytes:
+        - 12288
+        - 12288
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "/////Koko's Recipe Corner/////"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nOne bushel of hot buttered apples:\n\nCoat apples evenly in goat butter and apply\nheat so it forms a nice, thick glaze."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Kakariko_Ch_Cooking2_Name:
     - ascii: Cooking with Koko
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Kakariko_Ch_Cooking2_Desc:
     - ascii: "Koko heated up the pot in an attempt to make\nhot buttered apples, but the lack of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: goat butter
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nhad her stymied."
-    - bytes:
+    - utf16_bytes:
         - 0

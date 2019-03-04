@@ -2,115 +2,105 @@
 entries:
   "0008":
     - ascii: And then?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0009":
     - ascii: "That's enough."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk060:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Satty
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "? Well..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I owe him my life.\nIt's a pretty long story"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "are you sure you\nwant to hear it?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 7
-        - 196
-        - 128
+        - 256
         - 0
   talk000:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Yo...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk061:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "All right. Here goes...\n\n\nHave you heard that rumor about the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: strange mountain
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 14
         - 5
         - 0
         - 0
     - ascii: " on which a bunch of\nanimals appear at a certain time?\nWell, when I heard that, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I went there\nto do some hunting.\n\nI thought it sounded like a good\nopportunity to turn a profit, selling\nthe meat and whatnot..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 8
     - ascii: "\t"
-    - bytes:
-        - 196
-        - 128
+    - utf16_bytes:
+        - 256
         - 0
   talk001:
     - ascii: "The only people I can meet here at this\nstable are men..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -118,50 +108,46 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk062:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 128
+        - 3072
     - ascii: So I go to the mountain
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " and wait\nfor the animals to show up.\n\nWhen suddenly this dirty little pup\nappears out of nowhere!\n\nI figure he's been separated from his\nparents or abandoned by his last owner.\n\nHe starts begging for food, so I give him\nsome jerky, and he runs off over a hill..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 8
     - ascii: "\t"
-    - bytes:
-        - 196
-        - 128
+    - utf16_bytes:
+        - 256
         - 0
   talk002:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\nOh!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Hey, girl...\nIt's been a while since I've seen one around..\n\nI cant meet any\nwomen at this crummy stable."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -169,319 +155,289 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk050:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Yeah... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: See ya.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk063:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 133
+        - 4101
     - ascii: "Later on, I doze off for a little while, and\nwhen I come to, there's a big "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "glowing\nbeast "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "standing right in front of me!\nIt caught me completely off guard."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI couldn't even draw my bow!\nI just stared at it.\nAnd then the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "beast "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "runs at me like it\nwants to trample me!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "Suddenly the pup I gave food to jumps\nin between us!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " He starts barking at the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: beast
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", who was ten times his size!\nAll to..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: protect me...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nEven though he was trembling with fear..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
     - ascii: "\n\t"
-    - bytes:
-        - 196
-        - 128
+    - utf16_bytes:
+        - 256
         - 0
   talk064:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 128
+        - 3072
     - ascii: "Then the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: beast
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " recoiled a bit...\n\n\nSo I took that chance to snatch up the\npup"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " and flee down the mountain,\ntripping and falling all the way...\n...\n\n\nAnd that's my story.\n\n\nThe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: strange mountain
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 14
         - 5
         - 0
         - 0
     - ascii: " is called\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Satori Mountain
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". It's west of\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Central Hyrule
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "I brought "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Satty
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " back here, and we've\nbeen best buds ever since.\n\nIf you're feeling brave, you should go\nfind that "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "glowing beast "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "on the mountain\nand give it a stern talking to."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk120:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 143
+        - 52495
     - ascii: "The beast... It's...back...\nRun, Satty. Save yourself..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0010":
     - ascii: And then? And then?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk065:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "You wanna hear the touching story about\nhow Satty and I became best friends\nagain?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 6
         - 7
-        - 196
-        - 128
+        - 256
         - 0
   talk005:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Hm?!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Oh, it's just you..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " You want\nsomething? Or are you just here to\ndisappoint me again?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -489,267 +445,246 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk040:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: "You don't know who the Zora are?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nThey're, like, slippery fish people.\n\nThey live east of here..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "up "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Zora River "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "in\na place called Zora's Domain.\n\nThey wanted me to stop by their domain\nbecause they need a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Hylian "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "for\nsomething...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 133
+        - 3077
     - ascii: "But I don't want to abandon Satty or put\nhim in danger, so I'm in a bit of a tight\nspot..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 5
         - 4
-        - 196
-        - 128
+        - 256
         - 0
   talk110:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'm so hungry right now..."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: What is this place?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: You seem grumpy.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk030:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "I don't want to hear it.\n\n\nThe only visitors we get at this stable\nthese days are guys and the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Zora prince
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nMen. Men everywhere..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 3
         - 4
-        - 196
-        - 128
+        - 256
         - 0
   "0002":
     - ascii: "I'm sorry."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk100:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I wonder what'll happen today..."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: The Zora?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk101:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Ugh... Where's the sun?\nAnd the girls?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: See ya.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk020:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: Take a look to the east.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nIt's always covered in clouds, right?\n\nRain and stuff really sours my mood."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nGood thing Satty's here to cheer me up."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 5
         - 4
-        - 196
-        - 128
+        - 256
         - 0
   "0005":
     - ascii: Satty?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0006":
     - ascii: I want to hear it.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk070:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Oh...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Bye."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0007":
     - ascii: Not really.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk010:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 131
+        - 3075
     - ascii: "It's a filthy stable filled with nothing but\nunwashed men...\n\nAnd even when we were finally visited by\na Zora..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "turns out he was some\nmanly "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "prince "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "guy who's a dude.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
     - ascii: "Satty's the only reason I'm sticking\naround this dump."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -757,6 +692,5 @@ entries:
         - 3
         - 5
         - 4
-        - 200
-        - 128
+        - 512
         - 0

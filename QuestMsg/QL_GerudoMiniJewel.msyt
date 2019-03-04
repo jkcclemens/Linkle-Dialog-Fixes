@@ -2,29 +2,27 @@
 entries:
   QL_GerudoMiniJewel_Finished:
     - ascii: "Isha, the jeweler, ran out of flint and was feeling\npretty worried. But since you brought her 10\npieces, she is able to reopen her store."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_GerudoMiniJewel_Name:
     - ascii: Tools of the Trade
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_GerudoMiniJewel_Desc:
     - ascii: "Isha, the jeweler, is in a bind. She ran out of\nthe flint she needs to keep making her\naccessories. She says that she can reopen her\nstore if you bring her "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: 10 pieces of flint
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0

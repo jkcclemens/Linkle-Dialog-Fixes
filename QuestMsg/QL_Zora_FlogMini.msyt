@@ -2,31 +2,29 @@
 entries:
   QL_Zora_FlogMini_Finish:
     - ascii: "Tumbo gave you an armoranth in exchange for\nfive hot-footed frogs. He seemed pretty\npleased with the whole arrangement."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Zora_FlogMini_Name:
     - ascii: Frog Catching
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Zora_FlogMini_Desc:
     - ascii: "Tumbo in Zora's Domain wants you to donate\nfive "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "hot-footed frogs "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "to his cause.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -36,25 +34,21 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nApparently hot-footed frogs are pretty easy to\nfind on "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: rainy days
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0

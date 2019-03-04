@@ -1,89 +1,82 @@
 ---
 entries:
   RetMSG_Gerud_01_3:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: "The desert's rough going, no two ways\nabout it, but what else is a man to do if\nhe wants to meet Gerudo ladies?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Rest_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: You got a thing for Gerudo girls too?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThat's OK, buddy. Nothing to be\nashamed of!\nWhat's not to love? They're tall, strong,\nbeautiful..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "strong... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "I mentioned how\nstrong they are, right?"
-    - bytes:
+    - utf16_bytes:
         - 0
   GoodBye00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: Please visit again!
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_04_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 148
-        - 132
+        - 5380
     - ascii: "Business is my top priority! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "Wh-why,\nwhat else would I be interested in?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05b:
     - ascii: "If you have stuff to unload, go ahead and\nshow me!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_56:
     - ascii: "Just one, huh? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "That'll run you\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -93,68 +86,59 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   MSG_Gerud_02_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
     - ascii: "Nothing like a line of work that lets you\nmake small talk with Gerudo ladies."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05c:
     - ascii: Gonna sell me something?
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05d:
     - ascii: "I'm interested in seeing what you've got\nfor sale."
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_00_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
         - 14
         - 0
         - 2
         - 2
     - ascii: PThere has to be SOME way in there...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -163,36 +147,35 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
         - 14
         - 0
         - 2
         - 2
     - ascii: "dWhoa! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Just thinking out loud. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "Don't\nmind me."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_30:
     - ascii: The whole shebang will be...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -202,210 +185,185 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". How's that grab you?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   MSG_Gerud_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "I wish I could get closer to one of these\nGerudo ladies. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "Not for anything bad,\nI mean! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Just as a business partner!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "That's the whole reason I came, only to\nfind out that men aren't allowed in town."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nFigures, don't it?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_31:
     - ascii: "Oh, yeah? How many?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 225
-        - 149
-        - 190
-        - 225
-        - 150
-        - 131
-        - 225
-        - 149
-        - 191
-        - 200
-        - 128
+    - ascii: ᕾ
+    - utf16_bytes:
+        - 5507
+        - 5503
+        - 512
         - 0
   MSG_Gerud_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 128
+        - 512
     - ascii: "Didja get a load of that giant stompy\nmonster? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Who'd brave the desert with\nthat thing around?\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "On the other hand... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "I GOTTA get to\nknow these Gerudo ladies better!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
     - ascii: "Think I'll just chance it and make a mad\ndash for town!"
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Gerud_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 168
-        - 135
+        - 2567
     - ascii: "Kicking back in the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Kara Kara Bazaar
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\nmaking small talk with the lovely\nGerudo... Good times, good times.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "Hey, don't get me wrong! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "It's all part of\nthe job! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "You have to make friends to\nmake money. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: Want some apples?
-    - bytes:
+    - utf16_bytes:
         - 0
   Thanks00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 129
+        - 257
     - ascii: "Good save! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I'll give you a little bonus\nfor that one!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_33:
     - ascii: "Just one, huh? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "How about\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -415,89 +373,77 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   MSG_Gerud_03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "They sure make these Gerudo ladies tall,\ndon't they? What a bunch of beauts!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
         - 14
         - 0
         - 2
         - 2
     - ascii: "PNow if they'd just let me move into "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Town
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_03_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -512,31 +458,27 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "I haven't had any peace of mind\nsince I heard there were thieves in\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Town
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_34:
     - ascii: "All of them? Really? In that case...\nHow about "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -546,62 +488,53 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   MSG_Gerud_01_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Truth be told, I'm too scared to go into\nthe desert. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "Maybe I'll just make a mad\ndash for town so I can meet the ladies!"
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Gerud_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "I wish more of those Gerudo ladies would\ncome by this stable! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
@@ -610,32 +543,31 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI have so many apples\nfor them...apples and love..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_35:
     - ascii: "So "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 15
     - ascii: "&\"Shop_TradeItemNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: "? In that case... How about\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -645,234 +577,193 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_36:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: "That's all of it. Thanks for the business!"
-    - bytes:
+    - ascii: "촉That's all of it. Thanks for the business!"
+    - utf16_bytes:
         - 0
   SavedLv1_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "I'm still kicking!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Thanks mostly to you."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_37:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: "I'm all cleaned out!"
-    - bytes:
+    - ascii: "촉I'm all cleaned out!"
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Thanks for all your\nbusiness. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "Do you...want to look at what\nI'll be stocking up on soon?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   SavedLv1_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: Scared? Me?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Never!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_11b:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 136
+        - 52488
     - ascii: Thanks a bundle!
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_11c:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: Thanks a heap!
-    - bytes:
+    - ascii: 촉Thanks a heap!
+    - utf16_bytes:
         - 0
   MSG_Gerud_04_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: "I hope we'll see more and more Gerudo\nladies come visit this place..."
-    - bytes:
+    - utf16_bytes:
         - 0
   SavedLv2_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "Whew... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: I feel like a cat on his ninth life!
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_11d:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: Thanks a heap!
-    - bytes:
+    - ascii: 촉Thanks a heap!
+    - utf16_bytes:
         - 0
   Com_Talk_20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: "Tell you what, "
-    - bytes:
+    - ascii: "촉Tell you what, "
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "for being such a trooper\nand coming to shop in this weather, I'll\nalso sell you this "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: energetic rhino beetle
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
         - 14
         - 0
         - 2
         - 2
     - ascii: PThere must be some way in...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -881,116 +772,103 @@ entries:
         - 3
         - 1
         - 2
-        - 225
-        - 148
-        - 132
+        - 5380
         - 14
         - 0
         - 2
         - 2
     - ascii: dOh!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Don't mind me, ha ha!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " I wasn't\ntalking to nobody about nothing!"
-    - bytes:
+    - utf16_bytes:
         - 0
   SavedLv2_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "The surefire answer for not getting killed\nby monsters is to run far, far away!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: "That old "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Divine Beast
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " makes the road\nbetween "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Kara Kara Bazaar
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " and\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Gerudo Town "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "a dangerous place.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "But I'm too keen on getting to know\nthose Gerudo ladies to let that stop me!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI'll dash right on through the desert!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1000,80 +878,68 @@ entries:
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "Kara Kara Bazaar "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "is brimming with\nGerudo ladies! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I get antsy just thinking\nabout them!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "Say, speaking of antsy things, how about\nsome "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: restless crickets
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 0
   SavedLv3_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "If I have to have something pounce on\nme, why couldn't it be a lady?!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 152
-        - 138
-    - ascii: Wh-who goes there?!
-    - bytes:
+    - ascii: ᘊWh-who goes there?!
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Oh...just a Hylian."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -1082,36 +948,33 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "Someone told me there were thieves in\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Town
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", and I've been jumping at\nshadows ever since!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "The emporium is open! Come one, come\nall! All the little bits and bobs you need\nto spice up your dishes!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -1119,19 +982,17 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   SavedLv3_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 129
+        - 257
     - ascii: The only thing scarier than monsters...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
@@ -1140,47 +1001,41 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 135
+        - 52487
     - ascii: "\nare those Gerudo ladies!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Near00:
     - ascii: "Don't be shy, ladies..."
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
         - 14
         - 0
         - 2
         - 2
     - ascii: "PI'll get into "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Gerudo Town "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "and cozy up to those\nladies if it's the last thing I do..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -1189,30 +1044,29 @@ entries:
         - 3
         - 1
         - 2
-        - 196
-        - 132
+        - 260
         - 14
         - 0
         - 2
         - 2
     - ascii: "dHm? Oh, just sales stuff. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "I mutter so\nno one learns my important business\nsecrets!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "And will that be all for you, or can I\ninterest you in something else?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -1220,165 +1074,141 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Near01:
     - ascii: Gerudo ladies... Whew!
-    - bytes:
+    - utf16_bytes:
         - 0
   Near02:
     - ascii: What do Gerudo want?
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02b:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: Thanks a bundle!
-    - bytes:
+    - ascii: 촉Thanks a bundle!
+    - utf16_bytes:
         - 0
   Near03:
     - ascii: "They'll ALL come running!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02c:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 135
+        - 52487
     - ascii: Thanks!
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02d:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 136
+        - 52488
     - ascii: I appreciate your business!
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_10:
     - ascii: You all set with that?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 190
-        - 225
-        - 149
-        - 191
-        - 196
-        - 128
+    - ascii: ᕾ
+    - utf16_bytes:
+        - 5503
+        - 256
         - 0
   Com_Talk_11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 136
+        - 52488
     - ascii: Thanks a bundle!
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_02_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "I get antsy around these Gerudo\nknockouts. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: Restless as a cricket.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nIs that a phrase? It is now!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: This is all I got right at the moment.
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Gerud_00_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I came all this way to get to know these\nGerudo ladies better..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "only to find out\nthat they don't let men in town."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_13:
     - ascii: "And how many of those are you looking\nto unload?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 225
-        - 149
-        - 188
-        - 225
-        - 150
-        - 132
-        - 225
-        - 149
-        - 191
-        - 200
-        - 128
+    - ascii: ᕼ
+    - utf16_bytes:
+        - 5508
+        - 5503
+        - 512
         - 0
   Com_Talk_14:
     - ascii: The whole shebang will be...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1388,164 +1218,147 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". How's that grab you?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "Aw, I wouldn't part you with that!"
-    - bytes:
+    - ascii: "촊Aw, I wouldn't part you with that!"
+    - utf16_bytes:
         - 0
   Com_Talk_16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 142
+        - 52494
     - ascii: "I'm not gonna buy the clothes off your\nback!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " What do you take me for?"
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Gerud_03_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "Fine-looking ladies, these Gerudo, every\nlast one of them. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
         - 14
         - 0
         - 2
         - 2
     - ascii: "PIt's a crying shame they\nwon't let me move into their town..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: What have you got?
-    - bytes:
+    - utf16_bytes:
         - 0
   "5500":
     - ascii: OK.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "Look what I've got."
-    - bytes:
+    - utf16_bytes:
         - 0
   Failed00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tMonsters all clear?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Then now's the time\nto beat feet!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "5501":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   Failed01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tOuch! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "That stung, but not as bad as\nmy pride after asking out a Gerudo."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: What have you got for me?
-    - bytes:
+    - utf16_bytes:
         - 0
   "5502":
     - ascii: "I'll buy."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_01:
     - ascii: "I'd pay "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1555,248 +1368,213 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " for that."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   "5503":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: "Thanks! Was that all, or is there more?"
-    - bytes:
+    - ascii: "촉Thanks! Was that all, or is there more?"
+    - utf16_bytes:
         - 0
   Com_Talk_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: What a shame!
-    - bytes:
+    - ascii: 촊What a shame!
+    - utf16_bytes:
         - 0
   Com_Talk_05:
     - ascii: "I'll buy anything!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "5507":
     - ascii: "I'll take 'em all!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_06:
     - ascii: Which one did you want?
-    - bytes:
+    - utf16_bytes:
         - 0
   "5508":
     - ascii: All of them.
-    - bytes:
+    - utf16_bytes:
         - 0
   Atacked00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 168
-        - 131
+        - 10755
     - ascii: "Might be time to think about adjusting\nmy travel plans..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "Sorry, but I'm fresh out of that one!"
-    - bytes:
+    - ascii: "촊Sorry, but I'm fresh out of that one!"
+    - utf16_bytes:
         - 0
   Atacked01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 168
-        - 131
+        - 10755
     - ascii: "So you deal with monsters often,\ndo you? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "I bet a man like you could\nuse some of my food supplies!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "No rupees, no sale!"
-    - bytes:
+    - ascii: "촊No rupees, no sale!"
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I'm here to sell\nmy wares not to fool around!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: Your pouch looks full.
-    - bytes:
+    - ascii: 촊Your pouch looks full.
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " There must be a\nfew things in there you don't need,\nright? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Go ahead, clear them out!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_01_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: "I get nervous thinking of that "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Divine\nBeast"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " roaming around. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "But "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Town
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nis just past it... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: How can I say no?
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Gerud_01_2:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: "The desert's just monsters and bad\nsandstorms through and through. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "They\ncall it a wasteland for a reason.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "But what else is a man supposed to do\nif he wants to meet Gerudo ladies?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nWasteland, here I come!"
-    - bytes:
+    - utf16_bytes:
         - 0

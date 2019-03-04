@@ -2,67 +2,61 @@
 entries:
   TerrorArrow:
     - ascii: "What's your problem?!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Challenge000:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 180
-        - 131
+        - 3331
     - ascii: Excuse me.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI fear I may have gotten carried away.\nNostalgia will do that to a person."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
         - 0
   TerrorFire:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 148
+        - 52500
     - ascii: Ack!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorSword:
     - ascii: Knock it off!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorExplosion:
     - ascii: WHOOOOA!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "That was...stupendous. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "I suppose I\nshould have expected nothing less."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
@@ -72,11 +66,11 @@ entries:
         - 4
         - 0
     - ascii: No doubt I shall see you again.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nMay the light illuminate your path."
-    - bytes:
+    - utf16_bytes:
         - 0

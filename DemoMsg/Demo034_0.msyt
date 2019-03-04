@@ -2,45 +2,41 @@
 entries:
   talk07:
     - ascii: "In exchange for "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: four
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spirit Orbs
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ","
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I will\namplify your being. So tell me what it\nis that you desire."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -48,89 +44,84 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk08:
     - ascii: I shall grant the power you seek.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
     - ascii: I can offer you great power.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk30:
     - ascii: Your path has shown itself. Now go forth.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk31:
     - ascii: "I, Goddess Hylia,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " will guide you."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: Heart Container.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk32:
     - ascii: "The blue spirit, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naydra
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", is released.\n\n\nYou must now offer "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Naydra's scale"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " to\nthe spring here."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Stamina Vessel.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nYou have done well to find this spring."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -138,173 +129,159 @@ entries:
         - 0
   talk33:
     - ascii: "Linkle... It appears that you have sufficient\npower. You should not seek to increase\nthis any further."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Yes.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk22:
     - ascii: "You who has claimed the Spirit Orbs.\n\n\nRid the blue spirit "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Naydra "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "of Malice.\nShow me the power you hold."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: No.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk23:
     - ascii: "By your power, the blue spirit of\nMount Lanayru, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naydra
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", has been freed\nof Malice."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk11:
     - ascii: "Go, and bring peace to Hyrule..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk24:
     - ascii: "Now, at last, you must pierce the body\nof "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naydra
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " This final ritual will release\nthe spirit of this land."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk12:
     - ascii: "It appears you have claimed "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: four
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spirit Orbs
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
     - ascii: The Goddess Statue smiles upon you...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk13:
     - ascii: "It appears you still possess "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spirit Orbs
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
     - ascii: "You who have conquered the shrines and\nclaimed their "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spirit Orbs
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk14:
     - ascii: Understood. Which power do you seek?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -312,226 +289,201 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk27:
     - ascii: "Offer "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Dinraal's scale"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", received from\nthe red spirit, to the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spring of Power
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
     - ascii: "But you do not yet have "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "four "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spirit Orbs
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\n\nSeek out the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: shrines
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " scattered across\nHyrule, and face more challenges.\n\nOnce you have claimed "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "four "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spirit Orbs
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ","
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nreturn to me."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk15:
     - ascii: "Your life force already tests the seams of\nyour being.\n\nThere is no need to increase your\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Heart Containers
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " further."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk28:
     - ascii: "Offer "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Farosh's scale"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", received from the\ngolden spirit, to the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Spring of Courage
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk16:
     - ascii: "Your being overflows with vigor.\n\n\nThere is no need to increase your\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Stamina Wheel "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: further.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
     - ascii: "You wish for another "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Heart Container
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\nyes?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -539,32 +491,29 @@ entries:
         - 3
         - 4
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk17:
     - ascii: "You already overflow with life force and\nstamina. Increasing your power any\nfurther may destroy you."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
     - ascii: "You wish to expand your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Stamina Wheel
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\nyes?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -572,28 +521,25 @@ entries:
         - 3
         - 4
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk18:
     - ascii: "Increase your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Heart Containers
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -601,28 +547,25 @@ entries:
         - 3
         - 4
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk19:
     - ascii: "Expand your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Stamina Wheel
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -630,6 +573,5 @@ entries:
         - 3
         - 4
         - 2
-        - 200
-        - 128
+        - 512
         - 0

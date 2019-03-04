@@ -2,49 +2,46 @@
 entries:
   "0000":
     - ascii: Enter.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_DungeonPriest_talk000:
     - ascii: "To the one who approaches this\nDivine Beast... In the name of the\nGoddess Hylia, I offer this trial."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_DungeonPriest_talk100:
     - ascii: "In exchange for Ruta's Emblems...\nyou will be granted the chance to\ntread through the realm of memories."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_DungeonPriest_talk200:
     - ascii: "Courageous heroine... Dare you confront a\nrealm of illusion and memory... Dare you\nenter the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Divine Beast Vah Ruta
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   "0001":
     - ascii: Quit.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_DungeonPriest_talk101:
     - ascii: "Those who lack determination will find\nthis trial unforgiving.\n\nDo not take this place lightly, nor dismiss\nit as merely a world within your mind.\nThe truth is much deeper than you know."
-    - bytes:
+    - utf16_bytes:
         - 0

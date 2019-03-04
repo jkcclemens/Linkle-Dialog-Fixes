@@ -1,14 +1,14 @@
 ---
 entries:
   Talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Oh! You! You're the one who helped my\nlittle sister!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -16,130 +16,122 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   "0002":
     - ascii: "You're welcome."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Even though we all thought it was just\na child's fairy tale, my sister actually\ndug up the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: secret of the hero
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Now he's so into digging, he'll pretty\nmuch dig anywhere, anytime.\n\nI'm proud, but I'm also his big sister.\nI can't let him beat me! I'll have to stop\nskippin' leg day and train harder!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "As a fellow Goron, of course I'm\nthrilled about it...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tBut as a sister, I'm mostly just worried\nour house is gonna get all dug up\nbetween the two of us..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tI'm happy to see my little sister so\nmotivated and all, but...\n\nI'm worried he's gonna end up digging\nthe house to pieces!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 139
+        - 267
     - ascii: My shoulder? Huh?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n...Ah! That's right!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Well, the shock of seeing the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "secret of\nthe hero"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " dug up totally cured me!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: The
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: " secret of the hero "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "is amazing!\nUnbelievable!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -149,70 +141,66 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Although, it looks just like the shrine we have\nnear the city..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'll never forget the debt I owe you for\nall this, sister. Not in my entire life!\n\nWe'll pass down stories about it.\nNot just of the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: secret of the heroine
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\nbut of you too!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk30:
     - ascii: Hrnghhh... Grrrghh...
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: Your sister?
-    - bytes:
+    - utf16_bytes:
         - 0
   Near00:
     - ascii: Hrnghhh...
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "How's the shoulder?"
-    - bytes:
+    - utf16_bytes:
         - 0

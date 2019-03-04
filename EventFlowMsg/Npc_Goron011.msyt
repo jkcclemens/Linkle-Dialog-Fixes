@@ -1,138 +1,132 @@
 ---
 entries:
   talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "Good mornin'..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I'm still sleepy,\nbut I always have time to answer\na student's questions."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: "It's still hot today... Woof."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nNow, listen closely, my student."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 136
-        - 128
+        - 8704
     - ascii: "I'm pretty sleepy, but I'm always game to\nanswer a student's questions."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: "I'm a traveler."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "I don't have any troubles."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Who are you?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk21:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 139
+        - 267
     - ascii: "If you're lookin' for someone with issues,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nBoss Bludo is in a fix because of his\nback pain..."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Where am I?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk22:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "It seems "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Boss
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " Bludo's back pain got\nbetter all of a sudden... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "It's a miracle!\nFinally, peace has returned to the land."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: Where do you live?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Did ya wanna ask me somethin'?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -140,60 +134,55 @@ entries:
         - 5
         - 6
         - 1
-        - 200
-        - 128
+        - 512
         - 0
   "0005":
     - ascii: Something wrong?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: Hmm...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk24:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 136
-        - 131
+        - 8707
     - ascii: I was just about to go to bed...
-    - bytes:
+    - utf16_bytes:
         - 0
   "0006":
     - ascii: What are you doing?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 131
+        - 3075
     - ascii: "I'm on my way home..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk25:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Need somethin' else?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -201,322 +190,298 @@ entries:
         - 5
         - 6
         - 1
-        - 200
-        - 128
+        - 512
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: "What's with you?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   talk13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "Hmph... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: Hmph...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 128
+        - 3072
     - ascii: Hmmm...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 128
+        - 4096
     - ascii: You again?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " What's your problem?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "What?!\n\n\nYou're the one who approached ME!\nWhy would you just walk up and\nsay good-bye?!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Heh. I like your style!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " In fact,\nI'm gonna do you a favor and\naccept you as my student."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Anything else?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 2
         - 3
         - 4
         - 1
-        - 204
-        - 128
+        - 768
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "It's settled. I'm the professor, got it?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nAnd I expect my students..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "to lemme\nknow if they have any questions."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
     - ascii: v
-    - bytes:
+    - utf16_bytes:
         - 2
     - ascii: " NPC_Goron011_You"
-    - bytes:
+    - utf16_bytes:
         - 3
     - ascii: "\"NPC_Goron011_Hear"
-    - bytes:
+    - utf16_bytes:
         - 4
     - ascii: "\"NPC_Goron011_Home"
-    - bytes:
+    - utf16_bytes:
         - 1
         - 0
-        - 204
-        - 128
+        - 768
         - 0
   talk16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "I'm just..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "so happy to have a pupil who's\nso curious! Ask me anything you want,\nwhenever you want!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Slergo
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk17:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: My pupil...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Your professor will provide\nany answers you seek."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
     - ascii: v
-    - bytes:
+    - utf16_bytes:
         - 2
     - ascii: " NPC_Goron011_You"
-    - bytes:
+    - utf16_bytes:
         - 3
     - ascii: "\"NPC_Goron011_Hear"
-    - bytes:
+    - utf16_bytes:
         - 4
     - ascii: "\"NPC_Goron011_Home"
-    - bytes:
+    - utf16_bytes:
         - 1
         - 0
-        - 204
-        - 128
+        - 768
         - 0
   near00:
-    - bytes:
-        - 226
-        - 153
-        - 170
+    - utf16_bytes:
+        - 9834
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: Goron City.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk18:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "*smack...smack...*"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: The smithy
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "'s place."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk19:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "I'm...answering my student's questions!"
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -2,366 +2,338 @@
 entries:
   "0001":
     - ascii: "No, I don't."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 128
+        - 3072
     - ascii: "Oh, I see..."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Where am I?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Good morning.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nDo you need a bed?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 1
         - 2
         - 3
-        - 204
-        - 128
+        - 768
         - 0
   talk_10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 129
+        - 1025
     - ascii: Ha!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Are you lost or something?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nThis is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Rito Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "We can help you with horse affairs\nat the counter outside,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " or you can stay\nthe night at the inn inside.\nIf you're wondering why we called this\nplace "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Rito Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", well..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Hello. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: Do you need a bed?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 1
         - 2
         - 3
-        - 204
-        - 128
+        - 768
         - 0
   talk_11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 128
+        - 3072
     - ascii: "I see... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 132
+        - 2820
     - ascii: "You're coming in pretty late. You need a\nbed?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 1
         - 2
         - 3
-        - 204
-        - 128
+        - 768
         - 0
   talk_12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "We took our name from the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Rito "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "people\nwho live there."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Good morning.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nIt looks like we're going to have beautiful\nweather today."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 129
+        - 1025
     - ascii: "If you'd like to use the stable,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " speak to\nthe master at the counter."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: Good morning.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nIt's too bad the weather's like this\ntoday..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: You see that tower over there?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 129
+        - 1025
     - ascii: "This is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Rito Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\n\nWe can help you with horse affairs\nat the counter outside,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " or you can stay\nthe night at the inn inside.\nThe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Rito
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " live in the village just west of\nhere.\n\nHence the name "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Rito Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". "
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: "Yes, I do."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk_08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: "Ah, a customer. Need a bed?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 1
         - 2
         - 3
-        - 204
-        - 128
+        - 768
         - 0

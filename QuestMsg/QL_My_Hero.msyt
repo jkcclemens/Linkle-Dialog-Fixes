@@ -2,29 +2,27 @@
 entries:
   QL_My_Hero_Finish:
     - ascii: "Aliza was waiting for the hero's return around a\nstable at the plain's edge. When you showed\nher the Master Sword, she acknowledged you\nas the one she had been waiting for."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_My_Hero_Name:
     - ascii: My Hero
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_My_Hero_Desc:
     - ascii: "Aliza waits for the hero's return around a stable\nat the edge of the plain. She says that she'll\nknow him by the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "sword of legend "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: he carries.
-    - bytes:
+    - utf16_bytes:
         - 0

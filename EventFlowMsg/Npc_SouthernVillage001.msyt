@@ -2,163 +2,151 @@
 entries:
   "0003":
     - ascii: Until noon.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: I see...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nCome stay with us some other\ntime, then!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: Until night.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: "Sir, you don't have enough rupees..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nCome back when you do."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0005":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 129
+        - 1025
     - ascii: Did you sleep well?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\n\n\nAs a little treat for staying with us,\nplease feel free to use the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "raft "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "at the\ndock."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Come again!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: How long would you like to rest?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 6
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 2
         - 3
         - 4
         - 5
-        - 204
-        - 128
+        - 768
         - 0
   "0007":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "A normal bed would be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: 20 rupees
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". If you\nwant to soothe your body and soul,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I can\noffer you the fluffy bed for "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: 40 rupees
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -166,56 +154,53 @@ entries:
         - 0
         - 1
         - 7
-        - 200
-        - 128
+        - 512
         - 0
   "0000":
     - ascii: "Normal bed, please."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 129
+        - 513
     - ascii: Welcome!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nYou must be tired from your long trip.\nDo you want to stay?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Fluffy bed for me!
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Until morning.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 129
+        - 1025
     - ascii: All right then.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Go get some rest!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Near00:
     - ascii: Welcome!
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -2,19 +2,19 @@
 entries:
   "0003":
     - ascii: Next page.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: Previous page.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0005":
     - ascii: Done.
-    - bytes:
+    - utf16_bytes:
         - 0
   DiaryFirst:
     - ascii: Read the Mountain Peak Log?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -22,88 +22,78 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk00:
     - ascii: "This is a log of my findings concerning\nthe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "shrine "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "that sleeps on a snowy\nGerudo peak."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 3
         - 5
-        - 196
-        - 128
+        - 256
         - 0
   talk01:
     - ascii: "Discovery Log: Day One\n\n\nI come to this snowy mountain intending\nto find the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "ancient shrine "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "that was\nwritten about in an old text.\n\"The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "shrine "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "slumbers near the pedestal\non a snowy Gerudo peak.\"\n\nI believe I've arrived at the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: pedestal
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nmentioned in the passage."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -115,48 +105,43 @@ entries:
         - 3
         - 4
         - 5
-        - 200
-        - 128
+        - 512
         - 0
   "0000":
     - ascii: First page.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
     - ascii: "Discovery Log: Day Seven\n\n\nIt's been seven days since I arrived at\nthe pedestal mentioned in the ancient\ntexts.\nUnfortunately, I'm eating through my\nfood provisions more quickly than I\nanticipated.\nOn a brighter note, I've found an\nexplanation in the source text that may\nbe the key to this riddle.\n\"When the snowy mountain "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: pedestal
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nglows, cast a cold shadow onto its core.\"\n\nI noticed a faint glow to the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "pedestal "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "for\na short while each day. But how to\n\"cast a cold shadow onto its core\"...?\nIt seems that this calls for further\nresearch here."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -168,92 +153,82 @@ entries:
         - 3
         - 4
         - 5
-        - 200
-        - 128
+        - 512
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Last page.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
     - ascii: "Discovery Log: Day... I've lost count.\n\n\nI can feel that I'm a hair's breadth away\nfrom unlocking the secrets hidden within\nthe "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: pedestal
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nI'm certain that \""
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: casting
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\" and \""
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: cold
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\"\nrefer to using a specific type of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: shadow
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nBut I've run out of food entirely, and I\ndoubt now that I ever had the tools to\ndo the job...whatever they might be."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
         - 5
-        - 196
-        - 129
+        - 257
         - 0
   "0002":
     - ascii: "Don't read."
-    - bytes:
+    - utf16_bytes:
         - 0

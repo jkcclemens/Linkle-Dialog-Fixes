@@ -1,29 +1,28 @@
 ---
 entries:
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Feel free to ask me anything whenever\nyou like!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Near01:
     - ascii: "All right, all right!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: Anything else you want to ask about?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -31,53 +30,51 @@ entries:
         - 1
         - 0
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Near02:
     - ascii: Zzz...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
     - ascii: Hrnghhh...
-    - bytes:
+    - utf16_bytes:
         - 0
   Near03:
     - ascii: Phew!
-    - bytes:
+    - utf16_bytes:
         - 0
   Near04:
     - ascii: Time for bed...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 129
+        - 513
     - ascii: "Thank you so much for your help!\nIn return, I'll happily tell you about\nthis area. \n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 3
         - 0
     - ascii: "Are you, perchance, interested in a giant\nhorse? "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: Or in...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: resurrecting horses?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -85,94 +82,87 @@ entries:
         - 1
         - 0
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   talk01:
     - ascii: Zzz...
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: Resurrecting horses?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Not far from here lives the mysterious\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: god of horses
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". If a horse dies, he can\nbring it back to life.\nSounds crazy, right? But it's true."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: A giant horse? Hm...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "If you head west of here, you'll reach a\nplace called "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Taobab Grassland
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nA "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: really big horse
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " lives there.\nAnd by big...I mean REALLY big."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: "I'm good."
-    - bytes:
+    - utf16_bytes:
         - 0
   Near00:
     - ascii: "Hmm, looks like rain..."
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -2,15 +2,15 @@
 entries:
   "0003":
     - ascii: Next page.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: Previous page.
-    - bytes:
+    - utf16_bytes:
         - 0
   Obj_DiaryIceVillage011_A_01_030:
     - ascii: "I've left a few things behind on the\nmountain trails and at the base of the\nflags planted.\nIf you're in trouble, spot a flag and head\ntoward it. Hopefully these items will be\nof use to you!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -18,50 +18,46 @@ entries:
         - 3
         - 4
         - 5
-        - 200
-        - 128
+        - 512
         - 0
   "0005":
     - ascii: Stop reading.
-    - bytes:
+    - utf16_bytes:
         - 0
   Obj_DiaryIceVillage011_A_01_060:
     - ascii: "Selmie, thanks for the food that was left\nhere. It seriously saved my life. I'll be\nsure to leave some for the next person.\nTo whoever is reading this, please take\nas much of the food as you need."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
         - 5
-        - 196
-        - 129
+        - 257
         - 0
   Obj_DiaryIceVillage011_A_01_010:
     - ascii: "Whether you've come to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hebra Mountain
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nto shield surf the slopes, hunt treasure,\nor just take a walk, you must remember...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}This. Mountain. Will. Kill. You!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -71,23 +67,21 @@ entries:
         - 2
         - 2
     - ascii: "dThe accident rate on this mountain is too\nhigh to measure!\n\nAnd before anything else, you must\ndress appropriately for the weather here,\nnot like you're heading to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hyrule Field
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -95,12 +89,11 @@ entries:
         - 3
         - 4
         - 5
-        - 200
-        - 128
+        - 512
         - 0
   Obj_DiaryIceVillage011_A_01_040:
     - ascii: Someone else has added notes...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -108,12 +101,11 @@ entries:
         - 3
         - 4
         - 5
-        - 200
-        - 128
+        - 512
         - 0
   DiaryFirst:
     - ascii: "Evacuation Hut Notes\nBy Selmie, The Duchess of Downhill"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -121,32 +113,29 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   "0000":
     - ascii: First page.
-    - bytes:
+    - utf16_bytes:
         - 0
   Obj_DiaryIceVillage011_A_01_020:
     - ascii: "Despite the dangers, though, this snowy\npeak really is extremely beautiful.\nAnd it's an ideal spot for shield surfing.\nI want as many people as possible to\nenjoy shield surfing, so I'll leave behind\nthis manual for survival on the mountain.\nI hope that it can help people enjoy\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hebra Mountain
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -154,25 +143,22 @@ entries:
         - 3
         - 4
         - 5
-        - 200
-        - 128
+        - 512
         - 0
   "0001":
     - ascii: Final entry.
-    - bytes:
+    - utf16_bytes:
         - 0
   Obj_DiaryIceVillage011_A_01_050:
     - ascii: "Selmie! Baby! I think I'm a better shield\nsurfer! If I prove it, can we get married?\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 7
         - 2
-        - 236
-        - 180
-        - 155
+        - 52507
     - ascii: This total loser will never win!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 4
@@ -182,29 +168,27 @@ entries:
         - 2
         - 2
     - ascii: "PI didn't know what love was until I saw Selmie\nsliding down the slopes... I can't believe you\nretired... Where did you go?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\nSelmie, thank you for leaving the food!\nI'll make good use of it here in the hut!\n\nI saw some kid north of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Coldsnap Hollow
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!\nHe looked like he was pretty great at\nshield surfing!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -212,10 +196,9 @@ entries:
         - 3
         - 4
         - 5
-        - 200
-        - 128
+        - 512
         - 0
   "0002":
     - ascii: "Don't read."
-    - bytes:
+    - utf16_bytes:
         - 0

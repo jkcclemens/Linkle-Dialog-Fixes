@@ -1,21 +1,21 @@
 ---
 entries:
   "0015":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "Powered-up bombs now have a stronger blast and\nrecharge faster. The force of the blast can"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -32,7 +32,7 @@ entries:
         - 2
         - 5
     - ascii: damage
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -44,266 +44,254 @@ entries:
         - 2
         - 4
     - ascii: "\nmonsters or"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " destroy objects"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: ". There are round and cube\nbombs, so use whichever best fits the situation."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0016":
     - ascii: FirstItem
-    - bytes:
+    - utf16_bytes:
         - 0
   "0017":
     - ascii: SecondItem
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: Create a pillar of ice from a water surface.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0018":
     - ascii: Stop the flow of time for an object.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "Builds ice pillars that are very stable. These pillars can be\nused as"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " stepping stones "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: or as
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " obstacles"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: ". Use Cryonis on\nan ice pillar to"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " break "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: it.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0019":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "Stops an object in time while storing its "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: kinetic energy
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: ".\nThe stored energy will act upon the object when the flow\nof time resumes. Making good use of the stored energy\ncan"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " move even the largest of objects"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0002":
     - ascii: FifthItem
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Instantly render a visible image into a picture.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0020":
     - ascii: Stop the flow of time for an object.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "Pictures created are saved in the album. It has a useful\nfeature that connects to the Hyrule Compendium and\nautomatically registers pictures of new entries."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0021":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "This powered-up Stasis rune can now time-stop evil creatures.\nStopped objects store "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: kinetic energy
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: ". The stored energy will act\nupon the object when the flow of time resumes. Making good use\nof the stored energy can"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " move even the largest of objects"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0005":
     - ascii: SixthItem
-    - bytes:
+    - utf16_bytes:
         - 0
   "0022":
     - ascii: FourthItem
-    - bytes:
+    - utf16_bytes:
         - 0
   "0006":
     - ascii: Use an amiibo to summon something useful.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0023":
     - ascii: "You do not have the required\nitem, so you cannot use this now."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0007":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "You never know what's going to come through when you\nuse it. Some amiibo can only be used once a day."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0024":
     - ascii: Summon Master Cycle Zero
-    - bytes:
+    - utf16_bytes:
         - 0
   "0008":
     - ascii: SeventhItem
-    - bytes:
+    - utf16_bytes:
         - 0
   "0025":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -315,115 +303,109 @@ entries:
         - 2
         - 0
     - ascii: Insert materials into the tank
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: " to convert them into fuel.\nYou can freely call upon this item, but summoning it\nwill not work in certain areas."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0009":
     - ascii: Manipulate metallic objects using magnetism.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0026":
     - ascii: EighthItem
-    - bytes:
+    - utf16_bytes:
         - 0
   "0010":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "Grab on to metallic objects using the magnetic energy that\npours forth from the Magnesis rune. Objects held in the magnetic\nsnare can be"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " lifted up and moved freely"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: ". "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0011":
     - ascii: ThirdItem
-    - bytes:
+    - utf16_bytes:
         - 0
   "0012":
     - ascii: A bomb that can be detonated remotely.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0013":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: The force of the blast can be used to
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: " damage "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: "monsters or\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 5
     - ascii: destroy objects
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 4
     - ascii: ". There are both round and cube bombs,\nso use whichever best fits the situation."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   "0014":
     - ascii: A bomb that can be detonated remotely.
-    - bytes:
+    - utf16_bytes:
         - 0

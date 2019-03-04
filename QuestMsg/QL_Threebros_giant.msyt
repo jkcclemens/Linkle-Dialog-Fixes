@@ -2,29 +2,27 @@
 entries:
   QL_Threebros_giant_Finish:
     - ascii: "The three Hinox brothers living on Mount Taran\neach had an orb hanging from their neck.\n\nOffering these orbs to the matching pedestals\ncaused an ancient shrine to appear."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Threebros_giant_Name:
     - ascii: The Three Giant Brothers
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Threebros_giant_Desc:
     - ascii: "The ancient spheres guarded by the\nMount Taran sentinels shall lead you to\nthe hero's trial.\n\nCould the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "giants "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "who inhabit the area hold\nthe key to unlocking the trial?"
-    - bytes:
+    - utf16_bytes:
         - 0

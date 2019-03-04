@@ -1,36 +1,34 @@
 ---
 entries:
   Talk_43:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Now that "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naboris
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " has been appeased,\nthe desert seems different..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I suppose\nit is, actually. It's back to normal now.\nI thought that Hylians were a small, weak\nlittle people, but you're not so bad..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -38,26 +36,23 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Talk_44:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 133
+        - 4101
     - ascii: I suppose you could say...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nIt would be a mistake to judge people\non appearances alone."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -65,93 +60,84 @@ entries:
         - 0
         - 1
         - 4
-        - 200
-        - 128
+        - 512
         - 0
   Talk_45:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 133
+        - 4101
     - ascii: "The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "chief "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "said she'd leave everything to\nyou, but ever since she returned, I could\ntell something was wrong.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: She was clearly worried about you.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nYou should hurry to her at once."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nI'm sure she'll be relieved to see you."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_46:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 132
+        - 4612
     - ascii: "We've been waiting for you!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "There sure are a lot of Hylians coming by\ntoday.\n\nThis is the home of the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: chief
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " of the\nGerudo. It is my duty to make sure that\nno one suspicious enters.\nDo not distract me from my job!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -159,76 +145,75 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Talk_21:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "You're short!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nYour hair is the wrong color!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nAnd I can't even see your abs!!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nIt is absolutely ridiculous for you to claim\nthat you're Gerudo. All evidence says\notherwise."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_22:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "We're busy!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nIt's an emergency!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nAuthorized personnel only!!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -238,93 +223,86 @@ entries:
         - 2
         - 2
     - ascii: "d\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "...That's what I would say if I had my\nway, but the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: chief
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " is a kind person.\nShe's told me to allow visitors.\nIf you want to go inside, be my guest.\nBut if you say even one rude thing to\nthe chief..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_23:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "You are free to go inside, but if you are\nrude to the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: chief
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_25:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "You and my spear will have a very\npersonal conversation!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_26:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 131
+        - 259
     - ascii: "Allowing the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Thunder Helm
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " to be stolen\nwas a failure shared by everyone tasked\nwith guarding this town.\nIf I'm being honest, I'd prefer to ban all\nbut Gerudo from the palace for the\nmoment..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -332,19 +310,17 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Talk_27:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 128
+        - 512
     - ascii: "Security is really tight lately!\nI'd rather there only be Gerudo in the\npalace right now, if I could make it so..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -352,40 +328,37 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Talk_28:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Now that "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naboris
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " has calmed, it seems\nlike the desert is different..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I suppose it\nis, actually. It's back to normal now.\nI thought that Hylians were a small, weak\nlittle people, but you're not so bad..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -393,40 +366,39 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   "0000":
     - ascii: "I'm Gerudo!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_29:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "You're short!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nYou're blond!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nAnd I can't even see your abs!!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -436,53 +408,53 @@ entries:
         - 2
         - 2
     - ascii: "d\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "Though... I can imagine that those traits\nmight be considered appealing in the\noutside world...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "In some eyes, you'd be considered an\nattractive vai, then."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Can I go in?
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_30:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Of course!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nAnytime!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nYou're welcome!!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
@@ -492,101 +464,95 @@ entries:
         - 2
         - 2
     - ascii: "d\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Naturally, you are already one of us! You\nare welcome here anytime!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Lookout post?
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_32:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "Not \"good-bye\"!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
     - ascii: "You're among friends here. It's\nsav'orq!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_33:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 154
+        - 52506
     - ascii: "Sav'aaq."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: "Sav'ork!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_34:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 153
+        - 52505
     - ascii: "Sav'otta."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_35:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 155
+        - 52507
     - ascii: "Sav'saaba."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_36:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "First that vai, Traysi, and now you..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nThere sure are a lot of Hylians coming\naround today."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -594,123 +560,111 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Talk_37:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "It's best to head to the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: lookout post
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nthrough the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: southeastern gate
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nAsk the guard there for directions."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_38:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: chief
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " has left for the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: lookout post
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "We can breathe a little easier now that\nwe have the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Thunder Helm
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " back, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 136
+        - 264
     - ascii: "but we\ncan't let our guard down again.\nFor the good of Gerudo pride, we must\nmake sure that such an embarrassment\nnever, ever happens again!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -718,73 +672,68 @@ entries:
         - 3
         - 0
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Talk_39:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
     - ascii: "The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "chief "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "left on her own, but I wonder\nif she'll be all right.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: If I meet anyone flouting the rule of law...
-    - bytes:
+    - utf16_bytes:
         - 0
   Near_Raimei_001:
     - ascii: That looks good on you...
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_40:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "They'll have a sudden meeting with the\nsharp end of my spear."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_41:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: I suppose you could say...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nIt would be a mistake to judge people\non appearances alone."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -792,22 +741,21 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Talk_42:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "It's not \"sav'ork\"!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n\n\nYou're a friend to the Gerudo now, and\nit's \"sav'orq\" among friends!\n\nYou just need to work on your\npronunciation a little bit!"
-    - bytes:
+    - utf16_bytes:
         - 0

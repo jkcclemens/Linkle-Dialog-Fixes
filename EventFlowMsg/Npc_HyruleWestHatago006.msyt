@@ -1,45 +1,43 @@
 ---
 entries:
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\nHuh?! An "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: ancient shrine
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " thingie\nappeared? Who'da thunk that platform\nthingie was hidin' a mystery like that!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I guess that means I have to solve the\nmystery of the shrine thingie now."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -51,148 +49,139 @@ entries:
         - 2
         - 2
     - ascii: Ancient shrine
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nThe mystery deepens..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
         - 0
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "Oooh, I don't have time to be lookin'\nafter mountain goats right now..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "You stayin' here at our stable?\nThat's nice, but check this out.\n\nGo way out south of here, and you'll \nfind a flat hill called "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Washa's Bluff"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "On that hill, there's this mysterious-\nlookin' platform thingie..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n\nMe and Geggle tried all day to figure out\nwhat it does, but we're stumped..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "Oooh, I don't have time to be drinkin'\nright now..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "If you want to see the platform thingie, \ngo south toward "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "Washa's Bluff"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: There was this one...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Rito
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " guy that went\nflying to the south after I told him about\nit.\nHe was a big ol' bard with some fancy\ninstrument thingie. He probably wanted\nto see the altar thingie himself."
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -2,95 +2,85 @@
 entries:
   QL_TreasureHunt04_Desc:
     - ascii: "Rumor has it a Royal Guard uniform can still be\nfound at Hyrule Castle.\n\nApparently "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Riverside Stable
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " has a copy of\nSuper Rumor Mill EX, which details some\nrumors about this rare outfit."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_TreasureHunt04_Finish:
     - ascii: "You found the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: royal guard uniform
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " from treasure\nchests in the hidden room near the dining hall,\nthe storage space in the guards' chamber,\nand on the second floor of the castle.\n\nBelieving those rumors really paid off!"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_TreasureHunt04_Step01:
     - ascii: "You read Super Rumor Mill EX: Volume 4!\nAccording to this special issue, Hyrule Castle\nstill houses a uniform once belonging to the\nroyal guards who protected the royal family.\nIt can supposedly be found in treasure chests\nhidden near the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: dining hall
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", in the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "guards'\nchamber"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", and on the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: second floor
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nIf you believe the rumors, try to find the\nhidden treasure!\nTreasure chests remaining: "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -100,17 +90,15 @@ entries:
         - 2
         - 2
     - ascii: ":6TreasureHunt04_RemainingBox"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   QL_TreasureHunt04_Name:
     - ascii: EX Royal Guard Rumors
-    - bytes:
+    - utf16_bytes:
         - 0

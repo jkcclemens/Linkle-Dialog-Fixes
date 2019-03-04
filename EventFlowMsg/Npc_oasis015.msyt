@@ -1,175 +1,152 @@
 ---
 entries:
   Npc_oasis015_003:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: "It's so nice and cool this evening, isn't\nit? On nights like this, I like to relax\nand grab a drink at the canteen."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis015_004:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 135
+        - 519
     - ascii: "Oooh, that "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo top
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " looks really good\non you...\n\nBut you haven't really lived until you've\ngot "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: several colors
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " to choose from!\nWhat do you say?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 7
-        - 200
-        - 128
+        - 512
         - 0
   Npc_oasis015_006:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\nYou don't know? Really?!\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: "Changing the color of your clothes is a\nreally trendy thing to do right now\nfor young vai traveling beyond town! \nThere's a store in Hateno Village"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Kochi Dye Shop
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
-        - 226
-        - 128
-        - 148
+        - 65535
+        - 8212
     - ascii: "where you can dye\nyour clothes!\nHateno Village is pretty far away, though.\nNot everyone gets to go there..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis015_007:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: "It's really hot today, isn't it? Makes me\nwant to get an ice-cold something from\nthe canteen."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: How many?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 225
-        - 149
-        - 188
-        - 225
-        - 150
-        - 132
-        - 225
-        - 149
-        - 191
-        - 200
-        - 128
+    - ascii: ᕼ
+    - utf16_bytes:
+        - 5508
+        - 5503
+        - 512
         - 0
   Npc_oasis015_008:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Gladly!
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: "OK, so "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 15
     - ascii: "&\"Shop_TradeItemNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " of them? I can do...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -179,45 +156,37 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_60:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: "Ah yes, it'll be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -227,108 +196,97 @@ entries:
         - 2
         - 16
     - ascii: ",(Shop_SelectItemPrice"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Npc_oasis015_009:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: Anything else you need?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 7
-        - 200
-        - 128
+        - 512
         - 0
   Com_Talk_15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tI'm sorry, but I can't buy that from you."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_61:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: "I completely understand. It's part of the\nfun of shopping to go back and forth\non a purchase."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tI'm sorry, but I can't buy clothes that\nyou're wearing. There's \"used,\""
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " and then\nthere's buying them right off your body."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: I hope to do business with you again.
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_33:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: One is worth...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -342,74 +300,65 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". OK?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_05b:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: Sarqso.
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Which item?
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_35:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: "I'll buy all "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 15
     - ascii: "&\"Shop_TradeItemNum"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " of those for a total of\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -419,56 +368,47 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_05c:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: I truly appreciate your business.
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: "I can do "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -478,506 +418,458 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nIs that all right?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_05d:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: "I've never seen such beautiful items.\nSarqso!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0007":
     - ascii: "No, thank you."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Sarqso.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nDid you need anything else?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0008":
     - ascii: A different color?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0009":
     - ascii: Buy from me.
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: "Of course. I don't mind."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02b:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Please feel free to show me anything\nyou'd like to sell."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis015_010:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: Anything else you need?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 7
-        - 200
-        - 128
+        - 512
         - 0
   Npc_oasis015_Near01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 156
+        - 52508
     - ascii: Over here!
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
     - ascii: "Was there something else you wanted\nto sell me?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02c:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: No problem at all
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "I'll buy as many\nas you like."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis015_011:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 153
+        - 52505
     - ascii: "Sav'otta!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02d:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 135
+        - 1031
     - ascii: Sarqso for the sale.
-    - bytes:
+    - utf16_bytes:
         - 0
   "5500":
     - ascii: Sure!
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis015_012:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 154
+        - 52506
     - ascii: "Sav'aaq!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "5501":
     - ascii: No.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis015_013:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 155
+        - 52507
     - ascii: "Sav'saaba!\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Sarqso.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis015_014:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Geez, it looks really good on you!\nHow about one more to try in a\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: different color
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "! You've got to buy it!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "I recommend wearing all the items from\na particular series as a set!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "5503":
     - ascii: Never mind.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis015_015:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 156
+        - 52508
     - ascii: "It's the trend now to create a stylish\nwardrobe by arranging different colors.\nWhy not buy one more Gerudo top?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 7
-        - 200
-        - 128
+        - 512
         - 0
   Npc_oasis015_016:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 135
+        - 519
     - ascii: "All our Gerudo clothing is sold out now.\n\n\nIf you already have a lot of clothes, you\nshould think about filling out your\nwardrobe with different colors instead."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 7
-        - 200
-        - 128
+        - 512
         - 0
   Npc_oasis015_017:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Little "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naboris
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " is acting all calm and\nproper now..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nI wonder what happened.\nAnyway, it looks like I'll be getting more\ncustomers, so I've got to do my best,\ntoo!\nAs long as you're here, why don't you\nsee about getting another outfit in a\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: different color
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 7
-        - 200
-        - 128
+        - 512
         - 0
   Npc_oasis015_018:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Little "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naboris
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " is acting all calm and\nproper now..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nI wonder what happened.\nAnyway, it looks like I'll be getting more\ncustomers, so I'd better hurry up and\nrestock my shop!\nI think I'll try and restock it with a\nbunch of outfits in "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: different colors
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 7
-        - 200
-        - 128
+        - 512
         - 0
   Npc_oasis015_019:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 135
+        - 263
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 156
+        - 52508
     - ascii: Vasaaq!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "It's also a fashionable thing among vai\nlately to wear different colors of clothes\nthat are from the same set."
-    - bytes:
+    - utf16_bytes:
         - 0
   "5508":
     - ascii: All of them.
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "You can always change the color of an\nitem, so there's really no reason not to\nown several of the same thing!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: "Ah,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " um,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " that doorway isn't for\ncustomers, actually...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -988,11 +880,11 @@ entries:
         - 2
         - 2
     - ascii: "PIf you're a member, please head around to the\ndoor on the side."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -2,78 +2,65 @@
 entries:
   "0000":
     - ascii: Read.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "Don't read."
-    - bytes:
+    - utf16_bytes:
         - 0
   Book00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
     - ascii: "Traysi here! Awake or asleep, my quest\nfor juicy rumors never rests! EVER.\nDoesn't everyone gossip in their sleep?\nToday I've got a hot rumor fresh from the\nmill that is...wait for it...an EXCLUSIVE!\nAnd that special topic is...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}the mysterious Korok Mask!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nThey say if you pour enough love into an\nobject, a spirit will inhabit it. Something\nthat creepy's just gotta be true!\nAnd apparently, this Korok Mask really\nis inhabited by a spirit!\n\nIf you wear it, it supposedly shakes\nand makes adorably weird noises\nevery now and then.\nMaybe it does that to tell you when\nfriends are nearby and you can't\nsee them? Who knows!\nSome say the treasure chest containing\nthis mask is hidden "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "in a tree hollow in a\nforest that makes people lose their way"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nHmm, sounds like a tough place to find\nsomething! Luckily, word has it there's a\nconvenient trick for finding your way...\nTraysi's Recommendation: "
-    - bytes:
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
-        - 226
-        - 152
-        - 133
+    - utf16_bytes:
+        - 9733
+        - 9733
+        - 9733
+        - 9733
+        - 9733
         - 0
   BookFirst:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
     - ascii: "Super Rumor Mill EX: Volume 1"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0

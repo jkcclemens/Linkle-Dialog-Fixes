@@ -2,72 +2,66 @@
 entries:
   QL_Bottle_Mes_Name:
     - ascii: Special Delivery
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Bottle_Mes_Desc:
     - ascii: "Follow the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "letter "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "down the river without losing\nsight of it, and find out who receives it. The\nletter's casing is fragile, so take care when\npursuing it downstream.\n\nIf you lose sight of the letter, return to Finley\nto try again."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Bottle_Mes_Step10:
     - ascii: "The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: letter
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "'s casing is fragile, so keep a close\neye on it.\n\nIf you lose sight of the letter, return to Finley\nto try again."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Bottle_Mes_Step20:
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Bottle_Mes_Step30:
     - ascii: "It turns out that Sasan picked up the message.\nHe's heading to Zora's Domain to meet\nFinley now.\n\nIf you want to see what happens, you should\nget to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Zora's Domain"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " too..."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Bottle_Mes_Finish:
     - ascii: "Sasan arrived safely at Zora's Domain and met\nwith Finley. Your part in the matter is concluded,\nthough it remains to be seen whether Sasan\ncan put on the muscle Finley hopes for."
-    - bytes:
+    - utf16_bytes:
         - 0

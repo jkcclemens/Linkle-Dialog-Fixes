@@ -1,7 +1,7 @@
 ---
 entries:
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -13,42 +13,40 @@ entries:
         - 2
         - 2
     - ascii: Aris Beach
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " is a great place to fish!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nTons of fish, and even a couple of little\nsecrets...\nCheck this out:"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " if you see a bunch of fish\ngathered around a reef,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " sometimes you\ncan find treasure hidden there..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I sure know how to catch 'em!"
-    - bytes:
+    - utf16_bytes:
         - 0

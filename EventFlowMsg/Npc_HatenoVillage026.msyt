@@ -2,111 +2,106 @@
 entries:
   near02:
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Hey, hey, hey!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   near03:
     - ascii: Zzz... Zzz...
-    - bytes:
+    - utf16_bytes:
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 168
-        - 135
+        - 2567
     - ascii: "Kya ha ha! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "LAME!\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'll do it again. Watch carefully this time!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 128
+        - 2304
     - ascii: "Of course you do. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "That means you have\ngood taste."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: Yes?
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: I love that bit.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Have you seen that carpenter behind the\ngeneral store?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Never seen it.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk21:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "All right, I'll teach you, but you gotta pay\nattention, OK?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: See you later.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk22:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -117,54 +112,49 @@ entries:
         - 2
         - 2
     - ascii: "PI actually heard...he's not a carpenter "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "but a\nreally famous designer..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: Bolson?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 167
-        - 226
-        - 153
-        - 170
+    - ascii: 촧
+    - utf16_bytes:
+        - 9834
         - 14
         - 0
         - 2
         - 2
     - ascii: "}SHAKEEEEEEN!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
-        - 226
-        - 153
-        - 170
+    - utf16_bytes:
+        - 9834
         - 0
   talk23:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -175,51 +165,46 @@ entries:
         - 2
         - 2
     - ascii: "PI actually heard...he's not a carpenter "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "but a\nreally famous luminary in his field...\n\nBut I don't know what that means..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0005":
     - ascii: Dance?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 167
-        - 226
-        - 153
-        - 170
+    - ascii: 촧
+    - utf16_bytes:
+        - 9834
         - 14
         - 0
         - 2
         - 2
     - ascii: "}SHAKEEEEEEN!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
-        - 226
-        - 153
-        - 170
+    - utf16_bytes:
+        - 9834
         - 14
         - 1
         - 5
@@ -227,11 +212,10 @@ entries:
         - 1
         - 2
         - 3
-        - 200
-        - 128
+        - 512
         - 0
   talk24:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -242,37 +226,36 @@ entries:
         - 2
         - 2
     - ascii: "PI actually heard...he's not a carpenter "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "but a\nreally famous president!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0006":
     - ascii: You can stop.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 129
+        - 257
     - ascii: "Easy as pie, right?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk25:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -283,267 +266,246 @@ entries:
         - 2
         - 2
     - ascii: "PI actually heard...he's not a carpenter "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "but a\nconstruction company...\n\nI don't really know how that's possible, though..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "Whatever! You're lame."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk13:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 131
+        - 3075
     - ascii: "You still don't know the Bolson dance?\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: How uncool!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk26:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 134
+        - 262
     - ascii: "Whatever he is, I want you to get Bolson\nto show you his dance!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 144
-        - 132
+        - 5124
     - ascii: Whoa! Pretty!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk14:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Have you seen this one?
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Nice!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 132
-        - 128
+        - 8448
     - ascii: Mama...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tI'm heading home. Time to hit the hay!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 132
-        - 128
+        - 8448
     - ascii: Mmm...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tI'll be in trouble if I don't get home soon."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk17:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 165
-        - 226
-        - 153
-        - 170
+    - ascii: 촥
+    - utf16_bytes:
+        - 9834
     - ascii: "Ba ba ba, Bolson..."
-    - bytes:
-        - 226
-        - 153
-        - 170
+    - utf16_bytes:
+        - 9834
         - 0
   near00:
     - ascii: Kya ha ha!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Bye-bye!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk18:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 166
-        - 226
-        - 153
-        - 170
+    - ascii: 촦
+    - utf16_bytes:
+        - 9834
         - 14
         - 0
         - 2
         - 2
     - ascii: PFu-
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: dWA
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P! Fu-
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: dWA
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
-        - 226
-        - 153
-        - 170
+    - utf16_bytes:
+        - 9834
         - 0
   near01:
     - ascii: "What, what?!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Hey, hey! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "Traveler!\n\n\nHave you learned the Bolson dance?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
         - 18
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
         - 4
         - 0
@@ -551,25 +513,22 @@ entries:
         - 0
         - 6
         - 0
-        - 204
-        - 128
+        - 768
         - 0
   talk19:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Hrm?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
         - 18
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
         - 4
         - 0
@@ -577,6 +536,5 @@ entries:
         - 0
         - 6
         - 0
-        - 204
-        - 128
+        - 768
         - 0

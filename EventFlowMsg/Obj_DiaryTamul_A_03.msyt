@@ -2,82 +2,64 @@
 entries:
   "0003":
     - ascii: Stop reading.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
     - ascii: "The Sheikah Sensor + is a rune that\nexpands the features of the normal\nSheikah Sensor.\nIt is able to detect any object that\nis listed in the Hyrule Compendium.\nHere's how it works...\n1. Open the Hyrule Compendium by\nselecting Map"
-    - bytes:
-        - 226
-        - 134
-        - 146
+    - utf16_bytes:
+        - 8594
     - ascii: Sheikah Sensor
-    - bytes:
-        - 226
-        - 134
-        - 146
+    - utf16_bytes:
+        - 8594
     - ascii: "\nHyrule Compendium.\n2. Select a picture from the\nHyrule Compendium.\n\n3. Select \"Target with sensor.\"\n\n\n4. Select \"Target This.\"\n\n\nDo this and the Sheikah Sensor + will\nuse a series of sounds to lead you to\nthe object you want to detect.\nTo detect shrines again, select Map"
-    - bytes:
-        - 226
-        - 134
-        - 146
+    - utf16_bytes:
+        - 8594
     - ascii: "\nSheikah Sensor"
-    - bytes:
-        - 226
-        - 134
-        - 146
+    - utf16_bytes:
+        - 8594
     - ascii: "Shrine.\n\nTo stop detecting altogether, just select\nMap"
-    - bytes:
-        - 226
-        - 134
-        - 146
+    - utf16_bytes:
+        - 8594
     - ascii: Sheikah Sensor
-    - bytes:
-        - 226
-        - 134
-        - 146
+    - utf16_bytes:
+        - 8594
     - ascii: OFF.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 4
         - 2
-        - 236
-        - 180
-        - 129
+        - 52481
         - 0
   talk07:
     - ascii: "About the Sheikah Sensor\nAuthor: Symin"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk08:
     - ascii: "To stop searching for your object of\nchoice, set the Sheikah Sensor on\nyour map to OFF."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
     - ascii: "To stop searching for your object of\nchoice, set the Sheikah Sensor on\nyour map to OFF."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 4
         - 2
-        - 236
-        - 180
-        - 129
+        - 52481
         - 0
   talk00:
     - ascii: "Sheikah Sensor Notes\nAuthor: Symin"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 8
         - 18
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
         - 1
         - 0
@@ -85,30 +67,29 @@ entries:
         - 0
         - 3
         - 0
-        - 204
-        - 128
+        - 768
         - 0
   "0000":
     - ascii: Sheikah Sensor.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
     - ascii: About the Sheikah Sensor +.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Sheikah Sensor +.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
     - ascii: About the Sheikah Sensor.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: First page.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
     - ascii: "The Sheikah Sensor is one of the basic\nrunes found on the Sheikah Slate.\n\nIf it senses an ancient shrine containing\na heroine trial nearby, it will lead you there\nby emitting a series of sounds.\nThe interval between sounds shortens\nthe closer you get to a shrine."
-    - bytes:
+    - utf16_bytes:
         - 0

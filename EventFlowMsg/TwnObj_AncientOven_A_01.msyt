@@ -1,167 +1,155 @@
 ---
 entries:
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 184
-        - 128
+        - 3584
     - ascii: "Insufficient materials available\nfor exchange."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Make exchange.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 184
-        - 128
+        - 3584
     - ascii: "Insufficient rupees available\nfor exchange."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: Change exchange.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 184
-        - 128
+        - 3584
     - ascii: No room in inventory.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
     - ascii: OK.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 200
-        - 128
+        - 512
     - ascii: "Hello, *zzzt*, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: FamiliarNameMissing!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nWelcome!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk10:
     - ascii: "Hey hey, *beep*,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " FamiliarNameMissing!"
-    - bytes:
+    - utf16_bytes:
         - 0
   near00:
     - ascii: "*zzzzzzrt*"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
     - ascii: Insert materials and rupees.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nReceive ancient equipment in exchange."
-    - bytes:
+    - utf16_bytes:
         - 0
   near01:
     - ascii: Materials required.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 128
+        - 2816
     - ascii: Thanks for your time.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Come\nagain, *bwop*,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " FamiliarNameMissing!"
-    - bytes:
+    - utf16_bytes:
         - 0
   near02:
     - ascii: Systems green.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 134
+        - 4102
     - ascii: "Exchange for "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 2
         - 11
     - ascii: "*&Shop_SelectItemName"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 2
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   near03:
     - ascii: Optimal conditions.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
     - ascii: "Exchanging... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -171,19 +159,19 @@ entries:
         - 2
         - 2
     - ascii: P*beeeeeep beep*
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nExchanging... "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -193,41 +181,39 @@ entries:
         - 2
         - 2
     - ascii: P*beeeeeep beep*
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "}"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 128
+        - 2816
     - ascii: Results available.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n*bweep* "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0

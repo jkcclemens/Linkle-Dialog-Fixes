@@ -2,17 +2,17 @@
 entries:
   "0003":
     - ascii: "Let's fall back."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Are you OK to keep going?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -20,116 +20,104 @@ entries:
         - 0
         - 1
         - 2
-        - 204
-        - 129
+        - 769
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 128
-        - 128
+        - 8192
     - ascii: "You're all out of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: bows
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nLet's head back for now."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0004":
     - ascii: "Let's keep going."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 128
+        - 3072
     - ascii: "Hey, what's going on?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nYou really want to go back?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 3
         - 4
-        - 200
-        - 129
+        - 513
         - 0
   talk11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 128
-        - 128
+        - 8192
     - ascii: "You're out of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: bomb arrows
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nLet's head back for now."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "So you're OK to keep going?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -137,42 +125,37 @@ entries:
         - 0
         - 1
         - 2
-        - 204
-        - 129
+        - 769
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 128
-        - 128
+        - 8192
     - ascii: Looks like the weather is not on our side.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nAre you all set for "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: cold protection
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -180,26 +163,23 @@ entries:
         - 0
         - 1
         - 2
-        - 204
-        - 129
+        - 769
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 128
-        - 128
+        - 8192
     - ascii: Man...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Are you OK to keep going?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -207,70 +187,67 @@ entries:
         - 0
         - 1
         - 2
-        - 204
-        - 129
+        - 769
         - 0
   "0000":
     - ascii: "I'm good to go."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "All right. Take out those "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: cannons
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: I need to prepare.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
     - ascii: Got that. Watch yourself!
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Back to Flight Range.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Understood.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Let's head back to the\nground for a bit."
-    - bytes:
+    - utf16_bytes:
         - 0

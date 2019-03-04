@@ -1,30 +1,28 @@
 ---
 entries:
   Npc_oasis012_001:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'm sorry, but the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Jewelers
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " isn't\nopen right now...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -39,11 +37,9 @@ entries:
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "With that beast causing a ruckus and\nthe guards in an uproar over some kind\nof theft, things have been pretty crazy.\nAnd on top of it all, my shop...\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -53,52 +49,46 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "The village is facing quite a few\nproblems lately."
-    - bytes:
+    - ascii: "촊The village is facing quite a few\nproblems lately."
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sigh*"
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_002:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "I heard you brought some flint for us,\nlittle vai.\n\nYou're a lifesaver!\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "PHow about...I tell you one of the owner's secrets\nas my way of saying sarqso?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_010:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -108,18 +98,16 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 156
+        - 52508
     - ascii: Vasaaq.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
         - 0
   Npc_oasis012_004:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -130,74 +118,70 @@ entries:
         - 2
         - 2
     - ascii: PI heard the owner...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nsleeps wearing nothing..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nbut accessories...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: I wonder if she gets cold...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_011:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'm sorry, but the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Jewelers
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " isn't\nopen right now...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naboris
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " has calmed down, and the whole\nthing with the thieves has resolved...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -207,30 +191,27 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: But my shop...
-    - bytes:
+    - ascii: 촊But my shop...
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\nWhat to do, what to do."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " *sigh*"
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_Near01:
     - ascii: "*sigh*"
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_005:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -241,23 +222,23 @@ entries:
         - 2
         - 2
     - ascii: "PThe owner's name is actually an alias. Her real\nname is Jewel.\n\nIt's a little too coincidental for a jeweler to be\nnamed Jewel, so she was embarrassed.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I think it's a fine name, personally..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_006:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -268,117 +249,111 @@ entries:
         - 2
         - 2
     - ascii: "PThe owner claims that she's not doing anything\nspecial with her looks, but she actually visits\nHotel Oasis once a week.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "It's always good to remember..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " If someone says\nthey don't do anything at all to maintain their\nlooks, it's probably not quite true."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: Tell me!
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_007:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
     - ascii: "Apparently she and the teacher of the relationship\nclass, Ashai, were embroiled in a tragic love\ntriangle...\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "They're both still single, so I guess we know how\nthat went..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_008:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 129
+        - 2817
     - ascii: "This shop owes you everything, young\nvai. Your requests fill us with a greater\nsense of purpose than normal!\nIf you see an accessory you like, please\nfeel free to pick it up and look at it."
-    - bytes:
+    - utf16_bytes:
         - 0
   Npc_oasis012_009:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "I'm sorry, but the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Gerudo Jewelers
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " isn't\nopen right now...\n\nThe big theft seems to have been solved,\nbut "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Naboris
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " is out there causing a\nruckus, so it's dangerous to travel.\nAnd on top of it all, my shop...\n\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -388,15 +363,12 @@ entries:
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "The village is facing quite a few\nproblems lately."
-    - bytes:
+    - ascii: "촊The village is facing quite a few\nproblems lately."
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " *sigh*"
-    - bytes:
+    - utf16_bytes:
         - 0

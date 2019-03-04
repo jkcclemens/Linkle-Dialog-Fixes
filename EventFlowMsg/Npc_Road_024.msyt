@@ -1,199 +1,184 @@
 ---
 entries:
   MSG_Rane_03_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: The trick to proper cooking is even heat
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nand no bugs. Isn't that right, my finicky\nfriend?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Rest_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: "Now, it's a long story, but"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " the way my\ndonkey and I met..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Well...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "I couldn't possibly do justice to it, so\nnever you mind."
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_03_2:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "You understand, don't you, donkey?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nOf course you do. You understand me."
-    - bytes:
+    - utf16_bytes:
         - 0
   Rest_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: "It brings a tear to my eye, just thinking\nabout the circumstances"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " that brought me\nand my devoted donkey together."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: "Oh, don't you mind my woolgathering."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI had no intention of boring you with\nmy tale."
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_03_3:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 132
+        - 260
     - ascii: "Oh, dear."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You...weren't asking for\ncooking tips?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Rest_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 139
+        - 4107
     - ascii: "Rain is just the clouds' way of telling\nyou, hey, friend, it's time to take a break."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThat's what my donkey and I think."
-    - bytes:
+    - utf16_bytes:
         - 0
   GoodBye00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Sure, sure. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "Maybe later, then."
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "This? Oh, this is the Wetland Donkey\nHotel."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " No, that's not quite right."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " It's...the\nWetland Stable. That's right.\nStables make for a pleasant place to do\nsome cooking"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " or brew up an elixir.\nMy donkey does enjoy my culinary crafts."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05b:
     - ascii: "I'm none too picky about what I'll buy."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_56:
     - ascii: "That will be "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -203,291 +188,267 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Sound good?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 190
-        - 225
-        - 149
-        - 191
-        - 196
-        - 128
+    - ascii: ᕾ
+    - utf16_bytes:
+        - 5503
+        - 256
         - 0
   RetMSG_Rane_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Oh, dear."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You're asking why you should\ncook food?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Don't you realize that eating\nraw foods can lead to food poisoning?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05c:
     - ascii: "Whatever you sell me, I'll simply pack\nonto my dear donkey here and sell\nsomewhere else!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "I don't pay any mind to the horses that\npass me by."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Horses think they're so\nelegant, but give me a donkey any day.\nSlow of foot, to be sure, but strong of\nback and stubborn as a...well, you know."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThat's what's great about donkeys!\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 140
-        - 132
+        - 4868
     - ascii: "Oh, dear."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You mean you weren't asking\nme to pontificate upon the charms of\nthe equus donkus, as they are known?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05d:
     - ascii: "I'd be ever so grateful if you'd sell me\nsomething, my friend. I'm sure I'll find\na willing buyer somewhere."
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "Of course,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " if you want to make your own\nelixirs,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " you'll need to use bugs, not\nto mention some monster parts."
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 140
-        - 129
+        - 4865
     - ascii: "There, there, my sweet donkey."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Looks\nlike someone wants to talk to me, so you\njust sit tight for a second.\nYou've done such a good job,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " carrying\nthose vegetables all the way from\nKakariko Village!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_02_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: Slow of foot and strong of back.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " That's\nyou, isn't it, my dutiful donkey?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Guardian00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 152
-        - 132
+        - 5636
     - ascii: "Whoa! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "A "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Guardian
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "POh, no! Why did I yell..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: d
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 140
-        - 129
+        - 4865
     - ascii: "...There, there, my devoted donkey."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nLooks like I have company, so why don't\nyou sit there and be patient a moment.\nLater on, we can go to Kakariko Village"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nand find you some yummy carrots to eat,\nso don't you worry."
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "My delightful donkey,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " you've done such\ngood work! You get a yummy reward, in\nthe form of a vegetal treat!"
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: Indubitably.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You would want to head east\nfrom here for Kakariko Village"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " and west\nfor the Riverside Stable."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
@@ -495,7 +456,7 @@ entries:
         - 0
   Com_Talk_30:
     - ascii: "That comes to a total of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -505,191 +466,171 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThat's quite reasonable, yes?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 190
-        - 225
-        - 149
-        - 191
-        - 196
-        - 128
+    - ascii: ᕾ
+    - utf16_bytes:
+        - 5503
+        - 256
         - 0
   MSG_Rane_02_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: Head east for Kakariko Village
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " and west\nfor the Riverside Stable. Isn't that right,\nmy esteemed equine?"
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 208
-        - 128
+        - 1024
     - ascii: "You must understand, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "there are two key\ncomponents to cooking:"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " heating the food\nevenly and...not putting any bugs in it."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_31:
     - ascii: "Ah, a stupendous choice, my friend.\nYou have a good eye for quality."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " And\nhow many?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 225
-        - 149
-        - 190
-        - 225
-        - 150
-        - 131
-        - 225
-        - 149
-        - 191
-        - 200
-        - 128
+    - ascii: ᕾ
+    - utf16_bytes:
+        - 5507
+        - 5503
+        - 512
         - 0
   MSG_Rane_02_2:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Isn't that right,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " O donkey, my donkey!"
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 128
+        - 4096
     - ascii: "Well, my dedicated donkey, it looks like\nwe've finally reached Kakariko Village."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nI'm anxious to open shop, but first...\nA little dinner for my darling donkey."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nSome veggies, rock salt, and milk make\nfor a delightful veggie cream soup."
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_02_3:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 132
+        - 260
     - ascii: "Oh, dear."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You weren't asking for \ndirections?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Thanks00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 129
+        - 257
     - ascii: This is for you.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Take it, with my\ngratitude."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_33:
     - ascii: "Just one? Well, that does make the math\neasier."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " That comes to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -699,44 +640,37 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nDo we have a deal?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_34:
     - ascii: "You want all of them? Why, I might close\nup shop early today!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " That's "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -746,44 +680,37 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " \nrupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". Will that be all right?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_35:
     - ascii: "All of them? Do you know something I\ndon't know?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " That'll come to a total of\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -793,308 +720,263 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". Do we have a deal?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_36:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: "Well, that's everything."
-    - bytes:
+    - ascii: "촉Well, that's everything."
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Thank you for\nbeing such an...enthusiastic customer!"
-    - bytes:
+    - utf16_bytes:
         - 0
   SavedLv1_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 129
+        - 4609
     - ascii: "Phew, I'm saved!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " My donkey is, too!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_37:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 142
+        - 52494
     - ascii: "I'm afraid I don't have anything left to\nsell!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " I'll be happy to show you what I've\ngot on order, if you like."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   SavedLv1_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 132
+        - 2820
     - ascii: My dear and most valuable customer!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nAre you all right?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_11b:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: I am MOST appreciative.
-    - bytes:
+    - ascii: 촉I am MOST appreciative.
+    - utf16_bytes:
         - 0
   Com_Talk_11c:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: Thank you for your business.
-    - bytes:
+    - utf16_bytes:
         - 0
   SavedLv2_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 137
-    - ascii: "Oh, donkey! "
-    - bytes:
+    - ascii: "ఉOh, donkey! "
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "I can't believe I abandoned\nyou..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " I was in such a state!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_11d:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: "Thank you, dear patron!"
-    - bytes:
+    - ascii: "촉Thank you, dear patron!"
+    - utf16_bytes:
         - 0
   Com_Talk_20:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 142
+        - 52494
     - ascii: Weather like this is bad for business.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nOnly one thing for it."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I must break out\nmy top-quality meats and mushrooms!"
-    - bytes:
+    - utf16_bytes:
         - 0
   SavedLv2_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 184
-        - 136
+        - 3592
     - ascii: "Take that, you moronic monstrosities!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_01_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Cook your food properly,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " or you'll find\nyourself with a vicious case of food\npoisoning."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
     - ascii: " Don't you agree, donkey?"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_01_2:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "You're ever so clever, my little donkey."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nYou know all about that!"
-    - bytes:
+    - utf16_bytes:
         - 0
   SavedLv3_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 137
-    - ascii: "I'm not much use in a crisis,\nas it turns out..."
-    - bytes:
+    - ascii: "ఉI'm not much use in a crisis,\nas it turns out..."
+    - utf16_bytes:
         - 0
   RetMSG_Rane_01_3:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 132
+        - 260
     - ascii: "Oh, dear."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You mean to tell me that you\nweren't asking what the point of cooking\nyour food is? Perhaps I misheard..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 128
+        - 256
     - ascii: Say...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I see you eyeballing the packs on\nmy donkey."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Wanna see my goods?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -1102,49 +984,43 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   SavedLv3_01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 135
+        - 2823
     - ascii: "My donkey may not seem as swift as\nany horse, but you should see him when\nhe's running for his life!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Near00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 152
+        - 52504
     - ascii: "Get along, li'l donkey..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 129
+        - 257
     - ascii: "Whoa there, donkey! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "We've got a guest."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -1152,265 +1028,229 @@ entries:
         - 0
         - 1
         - 2
-        - 200
-        - 128
+        - 512
         - 0
   Near01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 152
+        - 52504
     - ascii: Love my donkey.
-    - bytes:
+    - utf16_bytes:
         - 0
   Near02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 152
+        - 52504
     - ascii: "Me an' donkey."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02b:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: "Wonderful, wonderful!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_04_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "My darling donkey, you've done such a\ngood job"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " carrying those vegetables all\nthe way from Kakariko Village!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Near03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 152
+        - 52504
     - ascii: "Travelin' with my donkey."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02c:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: Thank you so much!
-    - bytes:
+    - ascii: 촉Thank you so much!
+    - utf16_bytes:
         - 0
   RetMSG_Rane_04_2:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: "Now, what do we have here..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Could you\nbe a customer?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Near04:
     - ascii: "My donkey's getting wet..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02d:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: "Thank you, my valued customer!"
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_01_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 128
+        - 3072
     - ascii: "Very well, my darling donkey. I shall\ngive you a vegetal delight."
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_01_2:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 132
+        - 260
     - ascii: Oh!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " But perhaps it would be better\nto sell them"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " to a paying customer,\nof course..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_10:
     - ascii: "You want that? You know I don't do\nrefunds, right?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 190
-        - 225
-        - 149
-        - 191
-        - 196
-        - 128
+    - ascii: ᕾ
+    - utf16_bytes:
+        - 5503
+        - 256
         - 0
   Com_Talk_11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: Thank you!
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_12:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 130
+        - 52482
     - ascii: Fresh meat and vegetables!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Straight from\nKakariko Village! Only the best for you!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nTake your time, and have a good look."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_13:
     - ascii: "Ah, very well."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " And how many did you\nwant to sell me?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 225
-        - 149
-        - 188
-        - 225
-        - 150
-        - 132
-        - 225
-        - 149
-        - 191
-        - 200
-        - 128
+    - ascii: ᕼ
+    - utf16_bytes:
+        - 5508
+        - 5503
+        - 512
         - 0
   MSG_Rane_04_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 128
+        - 4096
     - ascii: "Now that we've reached Kakariko Village,\nI'll use some rock salt and milk to make\nsome veggie cream soup for my donkey."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_14:
     - ascii: "Let me see, let me see..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: P
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "\nOh, math is such a bother."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\nI'll give you a total of "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1420,169 +1260,145 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " OK?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   Com_Talk_15:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "I'm afraid you've caught me in a lie."
-    - bytes:
+    - ascii: "촊I'm afraid you've caught me in a lie."
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nThat, my entrepreneurial friend, is\nsomething I simply cannot buy from you."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_16:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 135
+        - 52487
     - ascii: "Oh, my..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Well, I do appreciate a good\njoke,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " but I can't exactly buy the clothes\nright off your back."
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: "I'm buying."
-    - bytes:
+    - utf16_bytes:
         - 0
   "5500":
     - ascii: Yes.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "I'm selling."
-    - bytes:
+    - utf16_bytes:
         - 0
   Failed00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 137
-    - ascii: "Monsters truly are, well, monstrous,\naren't they..."
-    - bytes:
+    - ascii: "ఉMonsters truly are, well, monstrous,\naren't they..."
+    - utf16_bytes:
         - 0
   "5501":
     - ascii: No.
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_00_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 128
+        - 4096
     - ascii: "Oh, look at the time. Perhaps I'd better\nstop at the Wetland Stables"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " and prepare\ndinner"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: and an elixir or two.
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: Good-bye.
-    - bytes:
+    - utf16_bytes:
         - 0
   Failed01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 176
-        - 137
-    - ascii: "Oh, I really am not altogether too\nfond of monsters..."
-    - bytes:
+    - ascii: "ఉOh, I really am not altogether too\nfond of monsters..."
+    - utf16_bytes:
         - 0
   Com_Talk_00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 132
+        - 52484
     - ascii: What would you like to sell me?
-    - bytes:
+    - utf16_bytes:
         - 0
   "5502":
     - ascii: Yeah.
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_01:
     - ascii: "Well, I'll give you "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1592,277 +1408,246 @@ entries:
         - 2
         - 18
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 28
     - ascii: ShopTradePrice
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " rupees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nHow does that suit you?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 225
-        - 149
-        - 188
-        - 225
-        - 149
-        - 189
-        - 196
-        - 128
+    - ascii: ᕼᕽ
+    - utf16_bytes:
+        - 256
         - 0
   "5503":
     - ascii: On second thought...
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 137
-    - ascii: A pleasure doing business with you!
-    - bytes:
+    - ascii: 촉A pleasure doing business with you!
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nAnything else?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: Very well.
-    - bytes:
+    - ascii: 촊Very well.
+    - utf16_bytes:
         - 0
   RetMSG_Rane_03_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 128
+        - 1536
     - ascii: "If you are making elixirs, you need bugs\nand monster parts as ingredients."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_05:
     - ascii: "I'll gladly buy whatever you have to sell."
-    - bytes:
+    - utf16_bytes:
         - 0
   "5507":
     - ascii: "I'll take 'em all!"
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_03_2:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Who is just the cleverest donkey in all\nof donkeydom?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " That's right! You!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_06:
     - ascii: And what would you like to buy?
-    - bytes:
+    - utf16_bytes:
         - 0
   "5508":
     - ascii: All of them.
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_00_1:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 164
-        - 129
+        - 2305
     - ascii: "Darling donkey,"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " later on, we can go to \nKakariko Village"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " and find you some\nyummy carrots to eat."
-    - bytes:
+    - utf16_bytes:
         - 0
   RetMSG_Rane_03_3:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 132
+        - 260
     - ascii: "Oh, dear."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Do you mean to tell me that\nyou had not asked me how to make\nelixirs?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Atacked00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 168
-        - 131
+        - 10755
     - ascii: Are those terrible monsters gone?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nAre they?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Really? Truly?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: "Oh, sorry!"
-    - bytes:
+    - ascii: "촊Oh, sorry!"
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " I could have sworn I had\nmore, but I seem to be sold out of that."
-    - bytes:
+    - utf16_bytes:
         - 0
   MSG_Rane_00_2:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 216
-        - 139
+        - 1547
     - ascii: "...Now what have we here?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Could you\nbe that most delightful of sights...a\ncustomer?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Atacked01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 226
-        - 168
-        - 131
+        - 10755
     - ascii: "What you don't know about me is..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: "\nI'm a pacifist..."
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 135
+        - 52487
     - ascii: "Oh, dear. What a pity..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You don't seem\nto have enough money."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Why don't you\nrun along and earn a little more?"
-    - bytes:
+    - utf16_bytes:
         - 0
   Com_Talk_09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 135
+        - 52487
     - ascii: "Oh, dear. What a pity..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Your inventory is\nfull!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " You'll just have to sell me\nsomething. Or perhaps throw it away?"
-    - bytes:
+    - utf16_bytes:
         - 0

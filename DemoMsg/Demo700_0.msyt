@@ -2,46 +2,43 @@
 entries:
   OP_DRC04:
     - ascii: "That is a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Sheikah Slate
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
     - ascii: K
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: "Take it. "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
     - ascii: "7"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: "It will\nhelp guide you after your long slumber."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
-        - 194
         - 157
         - 0
         - 0

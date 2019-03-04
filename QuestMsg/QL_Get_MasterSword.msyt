@@ -2,45 +2,41 @@
 entries:
   QL_Get_MasterSword_Desc:
     - ascii: "Through the Lost Woods and deep within the\nKorok Forest sleeps the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "sword that seals the\ndarkness"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ", a weapon said to be capable of\nstriking down the Calamity.\n\nThough you came to claim the sword, the \nDeku Tree told you the blade would test you...\nAlthough you wielded it 100 years ago, can\nyou pull the sword out in your current state?"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Get_MasterSword_Name:
     - ascii: "The Hero's Sword"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Get_MasterSword_Finish:
     - ascii: "You've acquired the legendary "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Master Sword
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ",\nthat which seals the darkness. You feel that the\nsword itself delights to be in your possession...\n\nEven at this moment, Princess Zelda is within\nHyrule Castle, fighting to suppress the Calamity.\nShe endures, believing you will come for her...\n\nWill you be able to save her as you are now?"
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -2,79 +2,69 @@
 entries:
   QL_HatenoMini_BlueFire_Name:
     - ascii: "Robbie's Research"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_HatenoMini_BlueFire_Finish:
     - ascii: "Though Robbie initially presumed that it was the\npower of love that set the ancient oven right\nagain, he soon realized the cause was actually\nyou lighting the furnace with blue flame.\n\nIf you give it some ancient materials\nand a generous supply of rupees, the\nancient oven will provide some\nancient soldier gear in exchange."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_HatenoMini_BlueFire_Meet:
     - ascii: "You met Robbie, the director of the\nAkkala Ancient Tech Lab.\n\nHowever, Cherry"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "or rather, the ancient oven"
-    - bytes:
-        - 226
-        - 128
-        - 148
+    - utf16_bytes:
+        - 8212
     - ascii: "\nisn't working at the moment, meaning it can't\ncreate ancient soldier gear for you.\n\nAll it (she?) needs to be up and running again\nis for you to light the furnace outside with the\nblue flame."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_HatenoMini_BlueFire_Carry:
     - ascii: "You lit the furnace at the\nAkkala Ancient Tech Lab with blue flame.\nThe ancient oven is now up and running\nagain.\n\nIt's time to go tell Robbie."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_HatenoMini_BlueFire_Desc:
     - ascii: "Purah told you that any "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: ancient materials
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nyou find can be turned over to "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Robbie
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nYou can find him presiding over the\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Akkala Ancient Tech Lab
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 0

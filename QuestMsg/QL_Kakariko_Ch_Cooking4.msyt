@@ -2,69 +2,59 @@
 entries:
   QL_Kakariko_Ch_Cooking4_Finish:
     - ascii: "When you handed over the courser bee honey,\nthe missing ingredient Koko needed for her\nmother's special dessert, she prepared the dish.\nA single taste brought back a flood of memories\nfor her, as tears of joy streamed down her face.\n\n"
-    - bytes:
-        - 227
-        - 128
-        - 128
-        - 227
-        - 128
-        - 128
+    - utf16_bytes:
+        - 12288
+        - 12288
     - ascii: "\t"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "/////Koko's Recipe Corner/////"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\n1 serving of Mother's honeyed apples:\n\nDip an apple in courser bee honey. Heat until\nready to be sliced and serve warm."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Kakariko_Ch_Cooking4_Name:
     - ascii: "Koko's Specialty"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_Kakariko_Ch_Cooking4_Desc:
     - ascii: "Koko is trying to replicate the recipe for\nher mother's beloved honeyed apples,\nbut she's missing the essential\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: courser bee honey
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ". The "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: courser bees
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\nare found in dangerous territory outside\nof the village, beyond her reach..."
-    - bytes:
+    - utf16_bytes:
         - 0

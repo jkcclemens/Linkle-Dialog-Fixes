@@ -2,29 +2,27 @@
 entries:
   QL_ZoraMini_FlowedWife_Finish:
     - ascii: "You found Mei fishing in Lake Hylia.\n\nShe left the fish she caught with you and\nhurried back to Fronk."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_ZoraMini_FlowedWife_Name:
     - ascii: A Wife Washed Away
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_ZoraMini_FlowedWife_Desc:
     - ascii: "Divine Beast Vah Ruta has calmed down, yet\nFronk's wife, Mei, has not yet returned home.\n\nFronk is too discouraged to search for her\nhimself, so search for "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Mei
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " in his place.\n\nWhere could she be?"
-    - bytes:
+    - utf16_bytes:
         - 0

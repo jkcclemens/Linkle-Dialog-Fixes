@@ -2,29 +2,27 @@
 entries:
   QL_SetugenUmayadoMini_Umahonephoto_Name:
     - ascii: "Stalhorse: Pictured!"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_SetugenUmayadoMini_Umahonephoto_Finish:
     - ascii: "When you showed the picture of the Stalhorse\nto Juannelle, she carefully traced it so she'd\nhave her own copy.\n\nIt seems she plans on using the picture in an\narticle she's writing. With the picture for\ninspiration, she's excited to get to work!"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_SetugenUmayadoMini_Umahonephoto_Desc:
     - ascii: "Juannelle in the Snowfield Stable wants to see\nwhat a "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Stalhorse
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " looks like.\n\nWhat would be the best way to show her?\n\nShe's heard that the Stalhorse appears in the\neastern part of N. Tabantha Snowfield, in the\narea surrounding some strange ruins."
-    - bytes:
+    - utf16_bytes:
         - 0

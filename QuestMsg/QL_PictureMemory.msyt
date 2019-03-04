@@ -2,27 +2,25 @@
 entries:
   QL_PictureMemory_Name:
     - ascii: Captured Memories
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_PictureMemory_Desc:
     - ascii: "Princess Zelda left behind an album with twelve\npictures in it. Traveling to the places shown in\nthese pictures may help you to regain your\nmemories of the princess.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Memories remaining
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ": "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -32,35 +30,31 @@ entries:
         - 2
         - 14
     - ascii: "0,PictureMemory_Spot_Int"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   QL_PictureMemory_First1:
     - ascii: "Princess Zelda left behind an album with twelve\npictures in it. Traveling to the places shown in\nthese pictures may help you to regain your\nmemories of the princess.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Memories remaining
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ": "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -70,37 +64,33 @@ entries:
         - 2
         - 14
     - ascii: "0,PictureMemory_Spot_Int"
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\n\nYou decided to report your progress so far to\nImpa in Kakariko Village."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_PictureMemory_GetShirt:
     - ascii: "Princess Zelda left behind an album with twelve\npictures in it. Traveling to the places shown in\nthese pictures may help you to regain your\nmemories of the princess.\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Memories remaining
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ": "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -110,27 +100,25 @@ entries:
         - 2
         - 14
     - ascii: "0,PictureMemory_Spot_Int"
-    - bytes:
+    - utf16_bytes:
         - 0
     - ascii: " "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   QL_PictureMemory_Find11:
     - ascii: "You've found all of the locations in\nthe pictures!\n\nGo and report the news to Impa in\nKakariko Village."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_PictureMemory_Last1:
     - ascii: "The location of the final memory is hanging on\nthe wall of Impa's home.\n\nWhat memory of your past with Princess Zelda\nawaits you there?"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_PictureMemory_Finish:
     - ascii: "You've visited all 13 of the locations shown in\nthe old pictures and recovered the associated\nmemories of your days with Princess Zelda.\n\nIn your memories, Princess Zelda always \nseemed burdened by her task...\n\nGo and save her as quickly as you can\nto finally ease that burden."
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -1,17 +1,17 @@
 ---
 entries:
   Talk_06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
     - ascii: "Is that any way to treat a fragile old\nwoman!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -22,16 +22,16 @@ entries:
         - 2
         - 2
     - ascii: "}Hey, hey, hey!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nOnly someone who has proven\nthemselves may touch that ancient item!\n\nDon't for a moment think you can just\nwalk up and touch it anytime you like!\nIt's not for you!"
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -42,50 +42,48 @@ entries:
         - 2
         - 2
     - ascii: "}Hey, hey!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: " Hey, hey, hey!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " Hey!!!"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nThat item is only for those who have\nproven themselves in the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: "sand-seal\nraces"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
     - ascii: Hands off!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk_05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
@@ -96,27 +94,25 @@ entries:
         - 2
         - 2
     - ascii: "}Hey, hey! Hey, hey! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
     - ascii: "d\n\n\nThat "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: sand-seal race
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " trophy is obviously\nonly for those who've proven themselves\nworthy!\nCool it with the grabby grabby!"
-    - bytes:
+    - utf16_bytes:
         - 0

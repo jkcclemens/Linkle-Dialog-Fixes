@@ -2,32 +2,29 @@
 entries:
   Pa_Distance_00-T_Unit_00:
     - ascii: m
-    - bytes:
+    - utf16_bytes:
         - 0
   Pa_Golf_00-T_Unit_00:
     - ascii: Hits
-    - bytes:
+    - utf16_bytes:
         - 0
   Pa_Golf_00-T_Haifun_00:
-    - bytes:
-        - 239
-        - 188
-        - 154
+    - utf16_bytes:
+        - 65306
         - 0
   Pa_Finish_00-T_Finish_00:
     - ascii: Finish!
-    - bytes:
+    - utf16_bytes:
         - 0
   "0000":
     - ascii: New Record!
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Challenge Failed
-    - bytes:
+    - utf16_bytes:
         - 0
   Pa_Distance_00-T_Unit_00_EURu:
-    - bytes:
-        - 208
-        - 188
+    - ascii: м
+    - utf16_bytes:
         - 0

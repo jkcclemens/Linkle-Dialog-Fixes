@@ -2,95 +2,85 @@
 entries:
   QL_TreasureHunt_touzoku03_Name:
     - ascii: "EX Treasure: Fairy Clothes"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_TreasureHunt_touzoku03_Finish:
     - ascii: "\"The green garments of the man who wished to\nbe a fairy are hidden in the ruins of Hyrule Field.\nFind these pieces at the ruins where trade\nflourished...at the ruins where sinners were\nimprisoned...and at the village ruins next to\nfarmland where many people once gathered.\"\n\nYou found the treasure that was hidden\nat Exchange Ruins, Castle Town Prison,\nand Mabe Village Ruins. You obtained\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Tingle's Outfit"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "!"
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_TreasureHunt_touzoku03_Step01:
     - ascii: "\"The green garments of the man who wished to\nbe a fairy are hidden "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: in the ruins of Hyrule Field
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\nFind these pieces "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "at the ruins where trade\nflourished"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "at the ruins where sinners were\nimprisoned"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "...and "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "at the village ruins next to\nfarmland where many people once gathered"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\"\n\nMisko's EX Journal gives the location\nof the fairy's green garments.\nGarments still hidden: "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -100,33 +90,29 @@ entries:
         - 2
         - 2
     - ascii: JFTreasureHunt_touzoku03_RemainingBox
-    - bytes:
+    - utf16_bytes:
         - 0
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 0
   QL_TreasureHunt_touzoku03_Desc:
     - ascii: "The royal family of Hyrule collected historically\nsignificant outfits, but they were stolen by a\nbandit named Misko. Among the items stolen\nwere a fairy's green garments.\n\nThere's a journal that places the locations of\nthe treasure somewhere in the "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Outpost Ruins
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "..."
-    - bytes:
+    - utf16_bytes:
         - 0

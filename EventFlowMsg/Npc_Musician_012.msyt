@@ -2,91 +2,83 @@
 entries:
   TerrorArrow:
     - ascii: Stop it!
-    - bytes:
+    - utf16_bytes:
         - 0
   Challenge000:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
     - ascii: Ah!
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: " You've done well climbing all the way\nup here!\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorFire:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 236
-        - 180
-        - 148
+        - 52500
     - ascii: Ack!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorSword:
     - ascii: Knock it off!
-    - bytes:
+    - utf16_bytes:
         - 0
   TerrorExplosion:
     - ascii: WAAAAAA!
-    - bytes:
+    - utf16_bytes:
         - 0
   Talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 133
+        - 261
     - ascii: "Ah! "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
     - ascii: "So \""
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "nothing between you and the\nnight air"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "\" meant naked!\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 224
-        - 172
-        - 135
+        - 2823
     - ascii: "Boldly standing naked on the pedestal...\nThat's definitely reminiscent of the\nheroine of legend.\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 129
+        - 257
     - ascii: "Take care, and may the light illuminate\nyour path."
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -2,27 +2,25 @@
 entries:
   "0003":
     - ascii: Previous page.
-    - bytes:
+    - utf16_bytes:
         - 0
   Diary_03:
     - ascii: "The blue garb of the hero who controlled\nthe wind and traveled the ocean is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "where\nthe Menoat River was born"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -30,32 +28,29 @@ entries:
         - 2
         - 3
         - 4
-        - 200
-        - 128
+        - 512
         - 0
   "0004":
     - ascii: Stop reading.
-    - bytes:
+    - utf16_bytes:
         - 0
   Diary_04:
     - ascii: "The helm of the self-proclaimed King of\nShadows is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "in the swamp of the valley\nof dead trees, south of Dueling Peaks"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -63,80 +58,71 @@ entries:
         - 2
         - 3
         - 4
-        - 200
-        - 128
+        - 512
         - 0
   "0005":
     - ascii: First page.
-    - bytes:
+    - utf16_bytes:
         - 0
   Diary_05:
     - ascii: "The evil spirit's armor set is hidden\nwithin "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Faron's sea of trees"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: ".\n\nFind these pieces "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "at the highest of three\nwaterfalls north of Lake Floria"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "...\n\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "at the bridge between small waterfalls\nover Floria River"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "...\n\nand "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "at the broken stone bird\nof Ebara Forest"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -144,30 +130,28 @@ entries:
         - 2
         - 3
         - 4
-        - 200
-        - 128
+        - 512
     - ascii: "\n"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0006":
     - ascii: Last page.
-    - bytes:
+    - utf16_bytes:
         - 0
   Diary_06:
     - ascii: "\"EX 2\" is all that's written on the\nlast page. What could it mean?"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 3
         - 4
-        - 196
-        - 128
+        - 256
         - 0
   Diary_00:
     - ascii: Was this book always here?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -175,78 +159,70 @@ entries:
         - 5
         - 6
         - 1
-        - 200
-        - 128
+        - 512
         - 0
   "0001":
     - ascii: "Don't read."
-    - bytes:
+    - utf16_bytes:
         - 0
   Diary_01:
     - ascii: "I hid the six priceless relics I stole from\n"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Hyrule Castle
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " in treasure chests...\nI shall write down their locations. -"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
     - ascii: Misko
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
         - 14
         - 1
         - 4
         - 6
         - 2
         - 4
-        - 196
-        - 128
+        - 256
         - 0
   "0002":
     - ascii: Next page.
-    - bytes:
+    - utf16_bytes:
         - 0
   Diary_02:
     - ascii: "The traveling merchant's hood is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "in the\nright hand of the dragon that consumes\nthe Spring of Courage at Dracozu Lake"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 5
@@ -254,6 +230,5 @@ entries:
         - 2
         - 3
         - 4
-        - 200
-        - 128
+        - 512
         - 0

@@ -2,65 +2,59 @@
 entries:
   QL_HatenoMini_DevilSeal_GiveUtsuwa:
     - ascii: "The horned statue in Hateno Village took one\nof your containers!\n\nThe only thing to do is "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: talk
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " to him and try to\nconvince him to give it back."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_HatenoMini_DevilSeal_Finish:
     - ascii: "You persuaded the horned statue to return your\ncontainer. Now you can exchange containers\nfor a small cost.\n\nThe horned statue will buy a Heart Container or\nStamina Vessel for 100 rupees and sell your\nchoice afterward for 120 rupees."
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_HatenoMini_DevilSeal_Desc:
     - ascii: "The horned statue in Hateno Village told you\nto increase either your "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: Heart Containers
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " or\nyour "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Stamina Vessel "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: by one and come back.
-    - bytes:
+    - utf16_bytes:
         - 0
   QL_HatenoMini_DevilSeal_Name:
     - ascii: "The Statue's Bargain"
-    - bytes:
+    - utf16_bytes:
         - 0

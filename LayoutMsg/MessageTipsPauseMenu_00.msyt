@@ -1,59 +1,49 @@
 ---
 entries:
   "0002":
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "Hero's Path mode"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: " unlocked.\nPress "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 7
         - 2
-        - 236
-        - 180
-        - 166
-    - ascii: " on the map screen to\nsee your journey's path thus far."
-    - bytes:
+    - ascii: "촦 on the map screen to\nsee your journey's path thus far."
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: "Press "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 7
         - 2
-        - 236
-        - 180
-        - 138
-    - ascii: " on an active\nquest to display its\n"
-    - bytes:
+    - ascii: "촊 on an active\nquest to display its\n"
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "waypoints "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: on the map.
-    - bytes:
+    - utf16_bytes:
         - 0

@@ -1,32 +1,28 @@
 ---
 entries:
   talk04:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 131
+        - 4099
     - ascii: "Nowadays, "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: "bands of riders "
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "roam the\nplains, acting like they own the place."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
@@ -35,14 +31,14 @@ entries:
         - 0
         - 0
   talk10:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
     - ascii: I want to give you something...
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
@@ -50,23 +46,21 @@ entries:
         - 30
         - 0
     - ascii: "\nbut your inventory seems to be full.\nCome back later, OK?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0003":
     - ascii: "No, not my first time."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk11:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 135
+        - 4615
     - ascii: I saw you.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
@@ -74,58 +68,53 @@ entries:
         - 15
         - 0
     - ascii: " You took care of those jerks\nthat thought they owned the plain.\nWe were all fed up with them."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk05:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 135
+        - 4615
     - ascii: "Oh, really? I'm so glad to hear that.\nI'm counting on you!"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk06:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
     - ascii: "\tOh. Well, sorry for bothering you..."
-    - bytes:
+    - utf16_bytes:
         - 0
   talk07:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: Is this your first time here?
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 2
         - 3
-        - 196
-        - 128
+        - 256
         - 0
   talk08:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 128
-        - 134
+        - 4102
     - ascii: "I'm counting on you..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
@@ -133,27 +122,27 @@ entries:
         - 30
         - 0
     - ascii: "\nBut don't overdo it, OK?"
-    - bytes:
+    - utf16_bytes:
         - 0
   talk09:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
     - ascii: This is a small token of my thanks!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk00:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: I see.
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
@@ -161,7 +150,7 @@ entries:
         - 15
         - 0
     - ascii: "\n\n\nThese plains are home to many quality\nhorses. In the past, nomadic tribes would\ngather here, but..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 0
@@ -170,71 +159,65 @@ entries:
         - 0
         - 0
   talk01:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 196
-        - 131
+        - 259
     - ascii: "I can only hope that someone steps up\nand deals with those hooligans..."
-    - bytes:
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
         - 1
-        - 196
-        - 128
+        - 256
         - 0
   "0000":
     - ascii: Leave it to me!
-    - bytes:
+    - utf16_bytes:
         - 0
   talk02:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 225
-        - 136
-        - 135
+        - 4615
     - ascii: You took care of the
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
     - ascii: " hooligans"
-    - bytes:
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 239
-        - 191
-        - 191
+        - 65535
     - ascii: "?"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0001":
     - ascii: Sorry.
-    - bytes:
+    - utf16_bytes:
         - 0
   talk03:
-    - bytes:
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
     - ascii: "Horses really love it! Try sharing it with\none, and you'll see what I mean!"
-    - bytes:
+    - utf16_bytes:
         - 0
   "0002":
     - ascii: "It's my first time."
-    - bytes:
+    - utf16_bytes:
         - 0
