@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Yeehoo! What a wonderful tone that is!\n"
+    - text: "Yeehoo! What a wonderful tone that is!\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: I might try that out on one of my outfits!
+    - text: I might try that out on one of my outfits!
     - utf16_bytes:
         - 0
   talk36:
@@ -22,28 +22,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "Now! "
+    - text: "ЇNow! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'll dye your clothes to the color\nof your choosing for "
+    - text: "I'll dye your clothes to the color\nof your choosing for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". That\nincludes all consulting fees!"
+    - text: ". That\nincludes all consulting fees!"
     - utf16_bytes:
         - 14
         - 1
@@ -52,7 +51,8 @@ entries:
         - 7
         - 8
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk53:
     - utf16_bytes:
@@ -61,7 +61,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You look dashing!
+    - text: You look dashing!
     - utf16_bytes:
         - 0
   talk37:
@@ -71,21 +71,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I can also "
+    - text: "I can also "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: remove color
+    - text: remove color
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " from dyed\nfabric so your clothes will be restored to\ntheir original, if not drab, luster."
+    - text: " from dyed\nfabric so your clothes will be restored to\ntheir original, if not drab, luster."
     - utf16_bytes:
         - 0
   talk54:
@@ -95,13 +95,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's downright miraculous what a\ndifference a new set of duds makes."
+    - text: "It's downright miraculous what a\ndifference a new set of duds makes."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou're looking very chic!"
+    - text: "\nYou're looking very chic!"
     - utf16_bytes:
         - 0
   talk55:
@@ -111,36 +111,35 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Only "
+    - text: "Only "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "the clothes you're wearing that can\nbe dyed"
+    - text: "the clothes you're wearing that can\nbe dyed"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " will change color!"
+    - text: " will change color!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Are you sure\nyou wanna go with this outfit?"
+    - text: " Are you sure\nyou wanna go with this outfit?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
-    - ascii: "\n"
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   talk38:
     - utf16_bytes:
@@ -149,21 +148,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Welcome to "
+    - text: "Welcome to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kochi Dye Shop
+    - text: Kochi Dye Shop
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", where we\nlive to dye!"
+    - text: ", where we\nlive to dye!"
     - utf16_bytes:
         - 0
   talk39:
@@ -173,33 +172,33 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "And the total price is "
+    - text: "And the total price is "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "just "
+    - text: "just "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nSo now..."
+    - text: "\nSo now..."
     - utf16_bytes:
         - 0
   talk56:
@@ -209,19 +208,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Let's get this right on our first dye!"
+    - text: "Let's get this right on our first dye!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Yes, dye!"
+    - text: "Yes, dye!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Wear clothes.
+    - text: Wear clothes.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "No, thanks."
+    - text: "No, thanks."
     - utf16_bytes:
         - 0
   talk00:
@@ -230,18 +229,17 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Welcome! If you were looking to add\nsome color to your wardrobe, you found\nthe right place! "
+    - text: "इWelcome! If you were looking to add\nsome color to your wardrobe, you found\nthe right place! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Hue do you do?
+    - text: Hue do you do?
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: OK!
+    - text: OK!
     - utf16_bytes:
         - 0
   talk01:
@@ -250,39 +248,37 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Oh, no, no, no, no, no."
+    - text: "؋Oh, no, no, no, no, no."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm sorry, but you\ndon't have "
+    - text: " I'm sorry, but you\ndon't have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Come on back some other time.
+    - text: ĆCome on back some other time.
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Choose again.
+    - text: Choose again.
     - utf16_bytes:
         - 0
   talk02:
@@ -291,28 +287,27 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "OK then,"
+    - text: "ċOK then,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " that'll be "
+    - text: " that'll be "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
@@ -320,10 +315,11 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: "Actually, never mind."
+    - text: "Actually, never mind."
     - utf16_bytes:
         - 0
   talk03:
@@ -332,35 +328,33 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Oh, no, no, no, no, no. "
+    - text: "؋Oh, no, no, no, no, no. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You don't even\nhave any "
+    - text: "You don't even\nhave any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dye ingredients
+    - text: dye ingredients
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n"
+    - text: "!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Come back later and we'll set you up."
+    - text: "ĀCome back later and we'll set you up."
     - utf16_bytes:
         - 0
   talk20:
@@ -370,17 +364,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Do you find this palette-able?
+    - text: Do you find this palette-able?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If you'd\nlike to do a redye, just let me know!"
+    - text: " If you'd\nlike to do a redye, just let me know!"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: "Let's do it!"
+    - text: "Let's do it!"
     - utf16_bytes:
         - 0
   talk04:
@@ -389,8 +383,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Come 'round again! Every day is a good\nday to dye!"
+    - text: "इCome 'round again! Every day is a good\nday to dye!"
     - utf16_bytes:
         - 0
   talk21:
@@ -399,93 +392,94 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hateno dyeing "
+    - text: "Hateno dyeing "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is a traditional craft of\nHateno Village. In days past, we'd\nuse our own prepared "
+    - text: "is a traditional craft of\nHateno Village. In days past, we'd\nuse our own prepared "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dye ingredients
+    - text: dye ingredients
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut these days, there are so many\n"
+        - 9
+    - text: "But these days, there are so many\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: monsters
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " about, that it's difficult for\nus to gather "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: ingredients
+    - text: monsters
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... \n"
+    - text: " about, that it's difficult for\nus to gather "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: ingredients
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "... \n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "That's why we switched to the customer\nbringing us the "
+    - text: "ĆThat's why we switched to the customer\nbringing us the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dye ingredients
+    - text: dye ingredients
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and in\nreturn, we have a small service charge."
+    - text: ", and in\nreturn, we have a small service charge."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Tell me more.
+    - text: Tell me more.
     - utf16_bytes:
         - 0
   talk22:
@@ -495,39 +489,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "All right! Choose your "
+    - text: "All right! Choose your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "dye color "
+    - text: "dye color "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: wisely!
+    - text: wisely!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nOr do you want to change clothes again?"
+    - text: "\nOr do you want to change clothes again?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\t\n"
+        - 9
+    - text: "\n"
     - utf16_bytes:
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0009":
-    - ascii: Choose a color.
+    - text: Choose a color.
     - utf16_bytes:
         - 0
   talk06:
@@ -537,19 +533,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Wonderful. "
+    - text: "Wonderful. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Now go wait up there.
+    - text: Now go wait up there.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'll just be a minute."
+    - text: "\nI'll just be a minute."
     - utf16_bytes:
         - 0
   talk23:
@@ -559,7 +555,7 @@ entries:
         - 1
         - 2
         - 2816
-    - ascii: Thanks for the business!
+    - text: Thanks for the business!
     - utf16_bytes:
         - 0
   talk40:
@@ -568,7 +564,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHrm...I think nature's dye is pretty much\nas intended. Not much to do about that.\n\nPut some clothes on and we'll talk!"
+        - 9
+    - text: "Hrm...I think nature's dye is pretty much\nas intended. Not much to do about that.\n\nPut some clothes on and we'll talk!"
     - utf16_bytes:
         - 14
         - 1
@@ -576,7 +573,8 @@ entries:
         - 6
         - 2
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk07:
     - utf16_bytes:
@@ -584,14 +582,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: Yeehoo!
+    - text: ਇYeehoo!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " We made something very special\nhere if I do say so myself!"
+    - text: " We made something very special\nhere if I do say so myself!"
     - utf16_bytes:
         - 0
   talk24:
@@ -601,36 +598,35 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "You're wearing some clothes you "
+    - text: "You're wearing some clothes you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "actually\ncan't dye"
+    - text: "actually\ncan't dye"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Is that OK?"
+    - text: " Is that OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 4
-    - ascii: "\n"
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   talk41:
     - utf16_bytes:
@@ -639,13 +635,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "These rainy days remind me of the most\nromantic date I ever went on.\n\nThere we were, standing in the soaking\nrain, and I got down on one knee to\npropose. "
+    - text: "These rainy days remind me of the most\nromantic date I ever went on.\n\nThere we were, standing in the soaking\nrain, and I got down on one knee to\npropose. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Couldn't have timed it better!"
+    - text: "Couldn't have timed it better!"
     - utf16_bytes:
         - 0
   talk08:
@@ -655,75 +651,74 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "That "
+    - text: "That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm pretty sure that's \nfrom the "
+    - text: " I'm pretty sure that's \nfrom the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: research lab
+    - text: research lab
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", no?\n\n"
+    - text: ", no?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I wonder what that ol' "
+    - text: "इI wonder what that ol' "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "director "
+    - text: "director "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is up to\nthese days!\n\n"
+    - text: "is up to\nthese days!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "I've always thought that director was real\nsketchy if you ask me! "
+    - text: "I've always thought that director was real\nsketchy if you ask me! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Suspicious outfits!
+    - text: Suspicious outfits!
     - utf16_bytes:
         - 0
   talk25:
@@ -732,36 +727,38 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh, we can't dye "
+        - 9
+    - text: "Oh, we can't dye "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: those clothes
+    - text: those clothes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIt's a fabric thing. "
+    - text: ".\nIt's a fabric thing. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Wanna change?
+    - text: Wanna change?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk42:
     - utf16_bytes:
@@ -769,14 +766,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Hee har ha! "
+    - text: "इHee har ha! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "If you're not a pigment of\nmy imagination, you must be a customer!"
+    - text: "If you're not a pigment of\nmy imagination, you must be a customer!"
     - utf16_bytes:
         - 0
   talk09:
@@ -786,62 +782,62 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That "
+    - text: "That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That belongs to the\n"
+    - text: "That belongs to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "director "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "at the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: research lab
+    - text: "director "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", right?\n\n"
+    - text: "at the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: research lab
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", right?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: What is that weirdo up to these days?
+    - text: What is that weirdo up to these days?
     - utf16_bytes:
         - 0
   talk26:
@@ -850,29 +846,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Hrm... You don't have any "
+    - text: "؋Hrm... You don't have any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "clothes that\ncan be dyed"
+    - text: "clothes that\ncan be dyed"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! "
+    - text: "! "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Come back after you\ndevelop your wardrobe a bit."
+    - text: "ĆCome back after you\ndevelop your wardrobe a bit."
     - utf16_bytes:
         - 0
   talk43:
@@ -882,7 +876,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: All right now... Hold your breath!
+    - text: All right now... Hold your breath!
     - utf16_bytes:
         - 0
   talk27:
@@ -891,13 +885,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHmm... You don't quite have enough\ningredients to dye to that color."
+        - 9
+    - text: "Hmm... You don't quite have enough\ningredients to dye to that color."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Sorry!"
+    - text: " Sorry!"
     - utf16_bytes:
         - 0
   talk44:
@@ -907,7 +902,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "All right now... Stay like that and don't\nmove a muscle!"
+    - text: "All right now... Stay like that and don't\nmove a muscle!"
     - utf16_bytes:
         - 0
   talk28:
@@ -917,21 +912,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Choose "
+    - text: "Choose "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: five
+    - text: five
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " ingredients you'd like to use\nin your dye!"
+    - text: " ingredients you'd like to use\nin your dye!"
     - utf16_bytes:
         - 0
   talk45:
@@ -941,7 +936,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: All right now...hold on to your britches!
+    - text: All right now...hold on to your britches!
     - utf16_bytes:
         - 0
   talk29:
@@ -950,14 +945,13 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Did you want to try another color?
+    - text: ĆDid you want to try another color?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Or do\nyou want to stop here?"
+    - text: " Or do\nyou want to stop here?"
     - utf16_bytes:
         - 14
         - 1
@@ -965,7 +959,8 @@ entries:
         - 6
         - 5
         - 11
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk46:
     - utf16_bytes:
@@ -974,7 +969,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hue we go!
+    - text: Hue we go!
     - utf16_bytes:
         - 0
   talk47:
@@ -983,22 +978,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It's the Hateno tradition to dye a\nperson's "
+    - text: "ЀIt's the Hateno tradition to dye a\nperson's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: whole outfit
+    - text: whole outfit
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", from head to toe,\nall at once!"
+    - text: ", from head to toe,\nall at once!"
     - utf16_bytes:
         - 0
   talk48:
@@ -1008,27 +1002,27 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Get ready! Because we are going to dye
+    - text: Get ready! Because we are going to dye
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nall the "
+    - text: "\nall the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "clothes you're wearing"
+    - text: "clothes you're wearing"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " at once!"
+    - text: " at once!"
     - utf16_bytes:
         - 0
   talk49:
@@ -1038,37 +1032,37 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "Another great day to dye that "
+    - text: "Another great day to dye that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "whole\noutfit"
+    - text: "whole\noutfit"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " all at once!"
+    - text: " all at once!"
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Change clothes.
+    - text: Change clothes.
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Quit.
+    - text: Quit.
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: Back to the original.
+    - text: Back to the original.
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: Use these clothes.
+    - text: Use these clothes.
     - utf16_bytes:
         - 0
   talk10:
@@ -1078,7 +1072,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Which dye color would you like?
+    - text: Which dye color would you like?
     - utf16_bytes:
         - 0
   talk12:
@@ -1087,8 +1081,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Come back again. Every day is a good\nday to dye!"
+    - text: "इCome back again. Every day is a good\nday to dye!"
     - utf16_bytes:
         - 0
   talk13:
@@ -1097,49 +1090,47 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you have any "
+    - text: "ЀIf you have any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dye ingredients
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", it's\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 20 rupees
+    - text: dye ingredients
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to dye an item..."
+    - text: ", it's\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " to dye an item..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That includes\nour service charge, of course.\n"
+    - text: " That includes\nour service charge, of course.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "Let's get going and dye your getup to\nthe color of your choosing!"
+    - text: "ਇLet's get going and dye your getup to\nthe color of your choosing!"
     - utf16_bytes:
         - 14
         - 1
@@ -1148,7 +1139,8 @@ entries:
         - 7
         - 8
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk30:
     - utf16_bytes:
@@ -1156,23 +1148,24 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Sometimes it's necessary to reset\neverything! Throw it all out the window!\n\nLet's go right back to the way things\nwere, shall we?"
+    - text: "ЀSometimes it's necessary to reset\neverything! Throw it all out the window!\n\nLet's go right back to the way things\nwere, shall we?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Simpler times.\n\nThe clothes you're wearing now...are\nthose the ones we'll be changing? Or do\nyou need to change into something else?"
+    - text: " Simpler times.\n\nThe clothes you're wearing now...are\nthose the ones we'll be changing? Or do\nyou need to change into something else?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\r\n"
+        - 13
+    - text: "\n"
     - utf16_bytes:
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk14:
     - utf16_bytes:
@@ -1180,46 +1173,44 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "Here we go! For "
+    - text: "ЇHere we go! For "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "20 rupees "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "total, I'll\ndye your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: clothes
+    - text: "20 rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " here to the color of\nyour choosing! \nOr would you like to get back to square\none and change your clothes back to\ntheir original color?"
+    - text: "total, I'll\ndye your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: clothes
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " here to the color of\nyour choosing! \nOr would you like to get back to square\none and change your clothes back to\ntheir original color?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 1
         - 8
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 3
         - 768
         - 0
@@ -1230,16 +1221,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So will it be the clothes you're wearing\nnow? Or do you need to change?"
+    - text: "So will it be the clothes you're wearing\nnow? Or do you need to change?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\r\n"
+        - 13
+    - text: "\n"
     - utf16_bytes:
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk15:
     - utf16_bytes:
@@ -1248,14 +1241,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "All right, choose your "
+    - text: "All right, choose your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "dye color "
+    - text: "dye color "
     - utf16_bytes:
         - 14
         - 0
@@ -1266,30 +1259,32 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "or go\nahead and "
+    - text: "or go\nahead and "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: change clothes
+    - text: change clothes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\t\n"
+        - 9
+    - text: "\n"
     - utf16_bytes:
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk32:
     - utf16_bytes:
@@ -1297,29 +1292,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "What do you know, you don't even have\nany "
+    - text: "؋What do you know, you don't even have\nany "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dyed clothes
+    - text: dyed clothes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! "
+    - text: "! "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Let's get some color\ngoing here!"
+    - text: "ĆLet's get some color\ngoing here!"
     - utf16_bytes:
         - 0
   talk16:
@@ -1329,41 +1322,40 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "I love the fact that someone so young is\nso interested in our unique "
+    - text: "I love the fact that someone so young is\nso interested in our unique "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hateno dyes
+    - text: Hateno dyes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "It is indeed part of my duty to keep the\nyoung people from losing their interest\nin the tradition..."
+    - text: "ĆIt is indeed part of my duty to keep the\nyoung people from losing their interest\nin the tradition..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Let me give you all the colorful details of\nhow the magic works!"
+    - text: "Let me give you all the colorful details of\nhow the magic works!"
     - utf16_bytes:
         - 0
   talk33:
@@ -1372,8 +1364,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "All right, let's reset everything! OK?"
+    - text: "؋All right, let's reset everything! OK?"
     - utf16_bytes:
         - 14
         - 1
@@ -1381,7 +1372,8 @@ entries:
         - 6
         - 4
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk50:
     - utf16_bytes:
@@ -1390,25 +1382,25 @@ entries:
         - 1
         - 2
         - 2560
-    - ascii: "It's time to tint! Another day to dye that\n"
+    - text: "It's time to tint! Another day to dye that\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "whole outfit "
+    - text: "whole outfit "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: all at once!
+    - text: all at once!
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Greetings and saturations!
+    - text: Greetings and saturations!
     - utf16_bytes:
         - 0
   talk17:
@@ -1418,13 +1410,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Wow! "
+    - text: "Wow! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Absolutely chromatic!
+    - text: Absolutely chromatic!
     - utf16_bytes:
         - 0
   talk34:
@@ -1434,20 +1426,19 @@ entries:
         - 1
         - 2
         - 2816
-    - ascii: "Well this isn't so bad!\n\n\n"
+    - text: "Well this isn't so bad!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "If you have need of my services at any\npoint,"
+    - text: "ĆIf you have need of my services at any\npoint,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " don't hesitate to call on me!"
+    - text: " don't hesitate to call on me!"
     - utf16_bytes:
         - 0
   talk51:
@@ -1457,13 +1448,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "And?! "
+    - text: "And?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: How is it?
+    - text: How is it?
     - utf16_bytes:
         - 0
   talk18:
@@ -1473,13 +1464,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: By the tints!
+    - text: By the tints!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " We hardly ever get this\ncolor to come out!"
+    - text: " We hardly ever get this\ncolor to come out!"
     - utf16_bytes:
         - 0
   talk35:
@@ -1488,36 +1479,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "Hrm? "
+    - text: "؆Hrm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "But the clothes you're wearing\nhaven't been dyed yet!\n\n"
+    - text: "But the clothes you're wearing\nhaven't been dyed yet!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Change your clothes or forget about it.\n"
+    - text: "ĀChange your clothes or forget about it.\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Your choice!
+    - text: Your choice!
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk52:
     - utf16_bytes:
@@ -1526,6 +1516,6 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You look great!
+    - text: You look great!
     - utf16_bytes:
         - 0

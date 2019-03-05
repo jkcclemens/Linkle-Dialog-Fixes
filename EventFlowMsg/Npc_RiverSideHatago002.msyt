@@ -1,7 +1,7 @@
 ---
 entries:
   "0010":
-    - ascii: Zora style!
+    - text: Zora style!
     - utf16_bytes:
         - 0
   talk_sellWeaponShield00:
@@ -11,11 +11,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, that shield..."
+    - text: "Hey, that shield..."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Another way!
+    - text: Another way!
     - utf16_bytes:
         - 0
   talk_sellWeaponShield01:
@@ -25,7 +25,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a ruby?
+    - text: Will you trade it for a ruby?
     - utf16_bytes:
         - 14
         - 1
@@ -33,7 +33,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_00:
     - utf16_bytes:
@@ -42,39 +43,37 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Have you gone to the giant castle north\nof here? That's Hyrule Castle.\n\nIt's said to have fallen to ruin over a\nhundred years ago.\n\nI used to sneak in there to salvage\nancient treasures, but it's too dangerous\nto go in there now.\n"
+    - text: "Have you gone to the giant castle north\nof here? That's Hyrule Castle.\n\nIt's said to have fallen to ruin over a\nhundred years ago.\n\nI used to sneak in there to salvage\nancient treasures, but it's too dangerous\nto go in there now.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "These days it's surrounded by an eerie\nmist and savage machine-like creatures.\n\n"
+    - text: "ဋThese days it's surrounded by an eerie\nmist and savage machine-like creatures.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Back when it was safer, I went in looking\nfor this ultra-rare equipment that once\nbelonged to the "
+    - text: "ĆBack when it was safer, I went in looking\nfor this ultra-rare equipment that once\nbelonged to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: royal guard
+    - text: royal guard
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIt's legendary among collectors, but I\nwas never able to find any..."
+    - text: ".\nIt's legendary among collectors, but I\nwas never able to find any..."
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: Gerudo style!
+    - text: Gerudo style!
     - utf16_bytes:
         - 0
   talk_hintGoron:
@@ -83,8 +82,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Right, Goron style. Do this if you have\nfaith in your willpower and strength.\nThe way in is simple and clear.\nStorm the castle's front gates! The key\nhere is to bring along food that will\nrestore your health and stamina."
+    - text: "ЀRight, Goron style. Do this if you have\nfaith in your willpower and strength.\nThe way in is simple and clear.\nStorm the castle's front gates! The key\nhere is to bring along food that will\nrestore your health and stamina."
     - utf16_bytes:
         - 0
   talk_sellWeaponShield02:
@@ -94,7 +92,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a sapphire?
+    - text: Will you trade it for a sapphire?
     - utf16_bytes:
         - 14
         - 1
@@ -102,7 +100,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_01:
     - utf16_bytes:
@@ -111,11 +110,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I bet you there are still all kinds of \ntreasures hidden away in Hyrule Castle\nthat we don't even know about..."
+    - text: "I bet you there are still all kinds of \ntreasures hidden away in Hyrule Castle\nthat we don't even know about..."
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: Sheikah style!
+    - text: Sheikah style!
     - utf16_bytes:
         - 0
   talk_sellWeaponShield03:
@@ -125,7 +124,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a topaz?
+    - text: Will you trade it for a topaz?
     - utf16_bytes:
         - 14
         - 1
@@ -133,10 +132,11 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0014":
-    - ascii: My own way!
+    - text: My own way!
     - utf16_bytes:
         - 0
   talk_hintShiekah:
@@ -145,32 +145,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Sheikah style, eh?\nThis is the method I use.\n\nObserve from a distance, and then try to\nsneak in a back entrance where there\naren't many monsters patrolling.\n"
+    - text: "ЀSheikah style, eh?\nThis is the method I use.\n\nObserve from a distance, and then try to\nsneak in a back entrance where there\naren't many monsters patrolling.\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
+    - text: 촇
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "I'll tell you about the two entrances I've\nfound. The first one is called\nEast Passage.\nTo find it, cross Helmhead Bridge to the\neast of the castle, and with the castle on\nyour left, climb up the hill.\nLook closely and you'll see an entrance\nto a tunnel in the middle of the castle.\n\nThe luminous stones near the entrance\nsparkle at night, making it easy to find.\n\n"
+    - text: "ćI'll tell you about the two entrances I've\nfound. The first one is called\nEast Passage.\nTo find it, cross Helmhead Bridge to the\neast of the castle, and with the castle on\nyour left, climb up the hill.\nLook closely and you'll see an entrance\nto a tunnel in the middle of the castle.\n\nThe luminous stones near the entrance\nsparkle at night, making it easy to find.\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
+    - text: 촇
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "The second entrance is the docks.\n\n\nFrom the island west of the castle, use\nthe raft near the dock to sail to the\nnorth side. You'll find the docks there.\nThose are the only hidden entrances I\nknow of."
+    - text: "ćThe second entrance is the docks.\n\n\nFrom the island west of the castle, use\nthe raft near the dock to sail to the\nnorth side. You'll find the docks there.\nThose are the only hidden entrances I\nknow of."
     - utf16_bytes:
         - 0
   talk_sellWeaponShield04:
@@ -180,7 +179,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a diamond?
+    - text: Will you trade it for a diamond?
     - utf16_bytes:
         - 14
         - 1
@@ -188,7 +187,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_hintRito:
     - utf16_bytes:
@@ -196,8 +196,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Rito style? If you're comfortable sailing\nthrough the air, this method is for you.\n\nJust head east or west from these plains,\nand swing 'round up the mountain to the\nnorth of the castle.\nThen just fly down toward the castle from\nthere, over the moat, and find a safe spot\nto land."
+    - text: "ЀRito style? If you're comfortable sailing\nthrough the air, this method is for you.\n\nJust head east or west from these plains,\nand swing 'round up the mountain to the\nnorth of the castle.\nThen just fly down toward the castle from\nthere, over the moat, and find a safe spot\nto land."
     - utf16_bytes:
         - 0
   talk_showWeaponBow:
@@ -206,7 +205,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊWait just a minute! Can you show me\nthat bow you've got there?!"
+    - text: "ᐊWait just a minute! Can you show me\nthat bow you've got there?!"
     - utf16_bytes:
         - 0
   talk_showWeaponShield:
@@ -215,7 +214,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊWait just a minute! Can you show me\nthat shield you've got there?!"
+    - text: "ᐊWait just a minute! Can you show me\nthat shield you've got there?!"
     - utf16_bytes:
         - 0
   talk_sellPorchFull:
@@ -225,11 +224,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Looks like you're full up. Come again\nafter you make room in your pouch."
+    - text: "Looks like you're full up. Come again\nafter you make room in your pouch."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "It's yours."
+    - text: "It's yours."
     - utf16_bytes:
         - 0
   talk_showWeaponSword:
@@ -238,7 +237,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊWait just a minute! Can you show me\nthat sword you've got there?!"
+    - text: "ᐊWait just a minute! Can you show me\nthat sword you've got there?!"
     - utf16_bytes:
         - 0
   talk_showWeaponLSword:
@@ -247,11 +246,11 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊWait just a minute! Can you show me\nthat big sword you've got there?!"
+    - text: "ᐊWait just a minute! Can you show me\nthat big sword you've got there?!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "It's yours."
+    - text: "It's yours."
     - utf16_bytes:
         - 0
   talk_sleep00:
@@ -260,14 +259,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: HEY!
+    - text: จHEY!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You've got some gall waking up a\nsleeping stranger! Show a little respect!"
+    - text: " You've got some gall waking up a\nsleeping stranger! Show a little respect!"
     - utf16_bytes:
         - 0
   talk_hintSelf:
@@ -277,37 +275,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you're so confident, you should do it\nlike the legendary heroine herself and just\ncrush all the Guardians on your way in."
+    - text: "If you're so confident, you should do it\nlike the legendary heroine herself and just\ncrush all the Guardians on your way in."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: "...Ah, just joking.\n"
+    - text: "초...Ah, just joking.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: Heh...
+    - text: ĂHeh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm just messing with you.\nOnly a fool would try that."
+    - text: " I'm just messing with you.\nOnly a fool would try that."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "It's yours."
+    - text: "It's yours."
     - utf16_bytes:
         - 0
   talk_sellWeaponSpear00:
@@ -317,7 +313,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, that spear..."
+    - text: "Hey, that spear..."
     - utf16_bytes:
         - 0
   talk_sleep01:
@@ -326,12 +322,11 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: "I'M SLEEPY! GO AWAY!"
+    - text: "จI'M SLEEPY! GO AWAY!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "It's yours."
+    - text: "It's yours."
     - utf16_bytes:
         - 0
   talk_sellWeaponSword00:
@@ -341,7 +336,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, that sword..."
+    - text: "Hey, that sword..."
     - utf16_bytes:
         - 0
   talk_sellWeaponSpear01:
@@ -351,7 +346,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a ruby?
+    - text: Will you trade it for a ruby?
     - utf16_bytes:
         - 14
         - 1
@@ -359,7 +354,8 @@ entries:
         - 6
         - 2
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sleep02:
     - utf16_bytes:
@@ -367,32 +363,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᔊHEY! You've got some nerve waking\nup a sleeping stranger. "
+    - text: "ᔊHEY! You've got some nerve waking\nup a sleeping stranger. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: And...
+    - text: And...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWHERE ARE YOUR CLOTHES?!\n"
+    - text: "\nWHERE ARE YOUR CLOTHES?!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: "GET AWAY FROM ME, YOU CREEP!"
+    - text: "จGET AWAY FROM ME, YOU CREEP!"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 0
   talk_hintZora:
     - utf16_bytes:
@@ -400,12 +396,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Ah, Zora style. If you're a strong\nswimmer who can swim up streams and \nwaterfalls, this is a good option.\nThere's a moat surrounding the castle.\nIt's a little tough to swim through, but\nthere are a few waterfalls still running.\nJust swim up one of those and you\nshould be able to make it."
+    - text: "ЀAh, Zora style. If you're a strong\nswimmer who can swim up streams and \nwaterfalls, this is a good option.\nThere's a moat surrounding the castle.\nIt's a little tough to swim through, but\nthere are a few waterfalls still running.\nJust swim up one of those and you\nshould be able to make it."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "It's yours."
+    - text: "It's yours."
     - utf16_bytes:
         - 0
   talk_sellWeaponSword01:
@@ -415,7 +410,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a ruby?
+    - text: Will you trade it for a ruby?
     - utf16_bytes:
         - 14
         - 1
@@ -423,7 +418,8 @@ entries:
         - 6
         - 0
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sellWeaponSpear02:
     - utf16_bytes:
@@ -432,7 +428,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a sapphire?
+    - text: Will you trade it for a sapphire?
     - utf16_bytes:
         - 14
         - 1
@@ -440,7 +436,8 @@ entries:
         - 6
         - 2
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sleep03:
     - utf16_bytes:
@@ -448,17 +445,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: "Here's some friendly advice"
-    - utf16_bytes:
-        - 8212
-    - ascii: "don't wake\nup strangers when you're not wearing\nclothes,"
+    - text: "จHere's some friendly advice—don't wake\nup strangers when you're not wearing\nclothes,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " you little creep."
+    - text: " you little creep."
     - utf16_bytes:
         - 0
   talk_hintSelect00:
@@ -468,11 +461,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The best way to get into Hyrule Castle is\nto employ the styles of the people of\nHyrule, obviously."
+    - text: "The best way to get into Hyrule Castle is\nto employ the styles of the people of\nHyrule, obviously."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "I can't trade now."
+    - text: "I can't trade now."
     - utf16_bytes:
         - 0
   talk_sellWeaponSword02:
@@ -482,7 +475,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a sapphire?
+    - text: Will you trade it for a sapphire?
     - utf16_bytes:
         - 14
         - 1
@@ -490,7 +483,8 @@ entries:
         - 6
         - 0
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sellWeaponSpear03:
     - utf16_bytes:
@@ -499,7 +493,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a topaz?
+    - text: Will you trade it for a topaz?
     - utf16_bytes:
         - 14
         - 1
@@ -507,10 +501,11 @@ entries:
         - 6
         - 2
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Tell me...
+    - text: Tell me...
     - utf16_bytes:
         - 0
   talk_hintSelect01:
@@ -520,7 +515,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Another way, huh?"
+    - text: "Another way, huh?"
     - utf16_bytes:
         - 0
   talk_sellWeaponSword03:
@@ -530,7 +525,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a topaz?
+    - text: Will you trade it for a topaz?
     - utf16_bytes:
         - 14
         - 1
@@ -538,7 +533,8 @@ entries:
         - 6
         - 0
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sellWeaponSpear04:
     - utf16_bytes:
@@ -547,7 +543,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a diamond?
+    - text: Will you trade it for a diamond?
     - utf16_bytes:
         - 14
         - 1
@@ -555,10 +551,11 @@ entries:
         - 6
         - 2
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0007":
-    - ascii: "Nope, I'm good."
+    - text: "Nope, I'm good."
     - utf16_bytes:
         - 0
   talk_hintSelect02:
@@ -568,7 +565,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Want to hear other ways?
+    - text: Want to hear other ways?
     - utf16_bytes:
         - 14
         - 1
@@ -576,7 +573,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sellWeaponSword04:
     - utf16_bytes:
@@ -585,7 +583,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a diamond?
+    - text: Will you trade it for a diamond?
     - utf16_bytes:
         - 14
         - 1
@@ -593,7 +591,8 @@ entries:
         - 6
         - 0
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_hintSelect03:
     - utf16_bytes:
@@ -602,25 +601,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So what's your style?\nGoron? Rito? Zora?\nOr another way?"
+    - text: "So what's your style?\nGoron? Rito? Zora?\nOr another way?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "\t\n"
+        - 9
+    - text: "\n"
     - utf16_bytes:
         - 11
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 0
   "0008":
-    - ascii: Goron style!
+    - text: Goron style!
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Rito style!
+    - text: Rito style!
     - utf16_bytes:
         - 0
   talk_hintSelect04:
@@ -630,14 +631,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Gerudo? Sheikah? Or something else?
+    - text: Gerudo? Sheikah? Or something else?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\f\r"
-    - utf16_bytes:
+        - 12
+        - 13
         - 14
         - 768
         - 0
@@ -648,7 +649,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, that big sword..."
+    - text: "Hey, that big sword..."
     - utf16_bytes:
         - 0
   talk_sellWeaponLSword01:
@@ -658,7 +659,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a ruby?
+    - text: Will you trade it for a ruby?
     - utf16_bytes:
         - 14
         - 1
@@ -666,7 +667,8 @@ entries:
         - 6
         - 1
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sellWeaponLSword02:
     - utf16_bytes:
@@ -675,7 +677,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a sapphire?
+    - text: Will you trade it for a sapphire?
     - utf16_bytes:
         - 14
         - 1
@@ -683,7 +685,8 @@ entries:
         - 6
         - 1
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sellDone:
     - utf16_bytes:
@@ -692,7 +695,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Really?! Thank you!
+    - text: Really?! Thank you!
     - utf16_bytes:
         - 0
   talk_sellDiamond:
@@ -702,7 +705,7 @@ entries:
         - 1
         - 2
         - 2561
-    - ascii: "I've finally collected everything in the\nroyal guard's series! Thank you!\n\nI'll trade you a ruby for another\nroyal guard weapon.\n\nI already have the entire set, but I want\nto keep collecting them!"
+    - text: "I've finally collected everything in the\nroyal guard's series! Thank you!\n\nI'll trade you a ruby for another\nroyal guard weapon.\n\nI already have the entire set, but I want\nto keep collecting them!"
     - utf16_bytes:
         - 0
   talk_sellWeaponLSword03:
@@ -712,7 +715,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a topaz?
+    - text: Will you trade it for a topaz?
     - utf16_bytes:
         - 14
         - 1
@@ -720,7 +723,8 @@ entries:
         - 6
         - 1
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_showWeaponSpear:
     - utf16_bytes:
@@ -728,7 +732,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊWait just a minute! Can you show me\nthat spear you've got there?!"
+    - text: "ᐊWait just a minute! Can you show me\nthat spear you've got there?!"
     - utf16_bytes:
         - 0
   talk_sellWeaponLSword04:
@@ -738,7 +742,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a diamond?
+    - text: Will you trade it for a diamond?
     - utf16_bytes:
         - 14
         - 1
@@ -746,7 +750,8 @@ entries:
         - 6
         - 1
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_notSell:
     - utf16_bytes:
@@ -754,7 +759,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ఉI guess it wasn't meant to be...\nWish I had something else to offer you."
+    - text: "ఉI guess it wasn't meant to be...\nWish I had something else to offer you."
     - utf16_bytes:
         - 0
   talk_showWeapon00:
@@ -763,14 +768,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4619
-    - ascii: This is
+    - text: ላThis is
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -778,7 +782,7 @@ entries:
         - 4
         - 30
         - 0
-    - ascii: incredible.
+    - text: incredible.
     - utf16_bytes:
         - 0
   talk_hintGerudo:
@@ -787,15 +791,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Gerudo style? If you have faith in your\ncourage and technique, this is for you.\n\nThere are machine-like monsters called\nGuardians lurking around the castle.\n\nEven if they target you with their lasers,\ndon't back down. Just gallop past\nthrough the ruins of castle town!"
+    - text: "ЀGerudo style? If you have faith in your\ncourage and technique, this is for you.\n\nThere are machine-like monsters called\nGuardians lurking around the castle.\n\nEven if they target you with their lasers,\ndon't back down. Just gallop past\nthrough the ruins of castle town!"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "\nIt won't be easy, but if you're confident\nin your archery skills, just aim for the\nGuardians' eyes.\nHitting them in their eyes will stun them\nlong enough for you to slip past\nunharmed."
+    - text: "촇\nIt won't be easy, but if you're confident\nin your archery skills, just aim for the\nGuardians' eyes.\nHitting them in their eyes will stun them\nlong enough for you to slip past\nunharmed."
     - utf16_bytes:
         - 0
   talk_showWeapon01:
@@ -805,7 +807,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Thank you. You have shown me\nsomething truly spectacular. I need to go\nout and find one of these myself."
+    - text: "Thank you. You have shown me\nsomething truly spectacular. I need to go\nout and find one of these myself."
     - utf16_bytes:
         - 0
   talk_sellWeaponBow00:
@@ -815,7 +817,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, that bow..."
+    - text: "Hey, that bow..."
     - utf16_bytes:
         - 0
   talk_hint00:
@@ -824,8 +826,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5120
-    - ascii: "What?! You're planning to break into the\ncastle? There are various ways to get in.\nYou want some advice?"
+    - text: "᐀What?! You're planning to break into the\ncastle? There are various ways to get in.\nYou want some advice?"
     - utf16_bytes:
         - 14
         - 1
@@ -833,7 +834,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_showWeapon02:
     - utf16_bytes:
@@ -842,7 +844,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Here's a token of my appreciation."
+    - text: "Here's a token of my appreciation."
     - utf16_bytes:
         - 0
   talk_sellWeaponBow01:
@@ -852,7 +854,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a ruby?
+    - text: Will you trade it for a ruby?
     - utf16_bytes:
         - 14
         - 1
@@ -860,7 +862,8 @@ entries:
         - 6
         - 3
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_hint01:
     - utf16_bytes:
@@ -869,7 +872,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Do you want me to give you some advice\non getting into the castle?"
+    - text: "Do you want me to give you some advice\non getting into the castle?"
     - utf16_bytes:
         - 14
         - 1
@@ -877,7 +880,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sellWeaponBow02:
     - utf16_bytes:
@@ -886,7 +890,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a sapphire?
+    - text: Will you trade it for a sapphire?
     - utf16_bytes:
         - 14
         - 1
@@ -894,7 +898,8 @@ entries:
         - 6
         - 3
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_hint02:
     - utf16_bytes:
@@ -903,7 +908,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's deathly dangerous near there so I\ncan't recommend it, but if you're set on\ngoing, make sure you're prepared."
+    - text: "It's deathly dangerous near there so I\ncan't recommend it, but if you're set on\ngoing, make sure you're prepared."
     - utf16_bytes:
         - 0
   talk_sellWeaponBow03:
@@ -913,7 +918,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a topaz?
+    - text: Will you trade it for a topaz?
     - utf16_bytes:
         - 14
         - 1
@@ -921,7 +926,8 @@ entries:
         - 6
         - 3
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_sellWeaponBow04:
     - utf16_bytes:
@@ -930,7 +936,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Will you trade it for a diamond?
+    - text: Will you trade it for a diamond?
     - utf16_bytes:
         - 14
         - 1
@@ -938,5 +944,6 @@ entries:
         - 6
         - 3
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

@@ -6,18 +6,17 @@ entries:
         - 3
         - 1
         - 2
-        - 8704
-    - ascii: "Well, we're going to bed."
+    - text: "∀Well, we're going to bed."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCome back tomorrow."
+    - text: "\nCome back tomorrow."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Why don't you do it?"
+    - text: "Why don't you do it?"
     - utf16_bytes:
         - 0
   talk07:
@@ -26,52 +25,51 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: Good stuff.
+    - text: ଇGood stuff.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\nRemember, it's called "
+    - text: "\n\n\nRemember, it's called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Aris Beach
+    - text: Aris Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The\n"
+    - text: " The\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "monsters "
+    - text: "monsters "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "have set up shop there.\n\nStay sharp."
+    - text: "have set up shop there.\n\nStay sharp."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I've already done it."
+    - text: "I've already done it."
     - utf16_bytes:
         - 0
   talk08:
@@ -81,7 +79,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Believe me, I'd love to...but I have a\nfamily to look after. I can't be risking my\nlife.\nIf I had it my way, I'd be out there\nskewering those monsters with this\nharpoon."
+    - text: "Believe me, I'd love to...but I have a\nfamily to look after. I can't be risking my\nlife.\nIf I had it my way, I'd be out there\nskewering those monsters with this\nharpoon."
     - utf16_bytes:
         - 0
   talk09:
@@ -91,41 +89,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "What are you waiting for?\nGo take back "
+    - text: "What are you waiting for?\nGo take back "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Aris Beach
+    - text: Aris Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nMaybe the "
+    - text: "\n\nMaybe the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "monsters "
+    - text: "monsters "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "will have their\nguard down in this rain.\n"
+    - text: "will have their\nguard down in this rain.\n"
     - utf16_bytes:
         - 0
   talk00:
@@ -135,41 +133,41 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: You a traveler?
+    - text: You a traveler?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm a fisherman of this village, but we're\nin a bit of a bind lately.\n"
+    - text: "\nI'm a fisherman of this village, but we're\nin a bit of a bind lately.\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Monsters "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "have taken over the best\nfishing spots.\n\nYou used to be able to pull in a good\nhaul at "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Aris Beach
+    - text: "Monsters "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", but these days you'd\nbe lucky to leave there with your life."
+    - text: "have taken over the best\nfishing spots.\n\nYou used to be able to pull in a good\nhaul at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Aris Beach
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", but these days you'd\nbe lucky to leave there with your life."
     - utf16_bytes:
         - 0
   talk10:
@@ -179,13 +177,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You look pretty tough.
+    - text: You look pretty tough.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThink you could go take care of them?"
+    - text: "\nThink you could go take care of them?"
     - utf16_bytes:
         - 14
         - 1
@@ -193,7 +191,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk01:
     - utf16_bytes:
@@ -202,26 +201,26 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: So
+    - text: So
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " how about it?"
+    - text: " how about it?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\nYou going to deal with the "
+    - text: "\n\n\nYou going to deal with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "monsters "
+    - text: "monsters "
     - utf16_bytes:
         - 14
         - 0
@@ -242,21 +241,21 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "\nthat took over "
+    - text: "\nthat took over "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Aris Beach
+    - text: Aris Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -264,7 +263,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk11:
     - utf16_bytes:
@@ -273,33 +273,33 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I can't believe it!"
+    - text: "I can't believe it!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You took care of the\nmonsters at "
+    - text: " You took care of the\nmonsters at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Aris Beach
+    - text: Aris Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! "
+    - text: "! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's been so long\nsince I've had a fish from those waters!\nThanks, mate. I suppose I should give\nyou this to show my appreciation."
+    - text: "It's been so long\nsince I've had a fish from those waters!\nThanks, mate. I suppose I should give\nyou this to show my appreciation."
     - utf16_bytes:
         - 0
   talk12:
@@ -309,26 +309,26 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: So...
+    - text: So...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " How about it?"
+    - text: " How about it?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\nYou going to deal with the "
+    - text: "\n\n\nYou going to deal with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: monsters
+    - text: monsters
     - utf16_bytes:
         - 14
         - 0
@@ -339,29 +339,30 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "\nthat took over "
+    - text: "\nthat took over "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Aris Beach
+    - text: Aris Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk02:
     - utf16_bytes:
@@ -370,31 +371,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "What are you waiting for?\nThe monsters are at "
+    - text: "What are you waiting for?\nThe monsters are at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Aris Beach
+    - text: Aris Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nTake back my fishing spot!"
+    - text: "\nTake back my fishing spot!"
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "I'm going to sleep."
+    - text: "I'm going to sleep."
     - utf16_bytes:
         - 0
   talk13:
@@ -404,21 +405,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You look pretty tough.
+    - text: You look pretty tough.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThink you could go take care of them?"
+    - text: "\nThink you could go take care of them?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk03:
     - utf16_bytes:
@@ -427,45 +429,45 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Heyyyyy! You took care of the "
+    - text: "Heyyyyy! You took care of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: monsters
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nat "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Aris Beach
+    - text: monsters
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! "
+    - text: "\nat "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Aris Beach
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's been too long since\nI've had a fish from those waters!\nThanks, mate. I suppose I should give\nyou this to show my appreciation."
+    - text: "It's been too long since\nI've had a fish from those waters!\nThanks, mate. I suppose I should give\nyou this to show my appreciation."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Mmmm nuuuhhh...
+    - text: Mmmm nuuuhhh...
     - utf16_bytes:
         - 0
   talk04:
@@ -475,17 +477,17 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Come back whenever you'd like!"
+    - text: "Come back whenever you'd like!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'll share the day's haul with you."
+    - text: "\nI'll share the day's haul with you."
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Phew...
+    - text: Phew...
     - utf16_bytes:
         - 0
   talk05:
@@ -494,15 +496,14 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Mmmgh myah...
+    - text: ℀Mmmgh myah...
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: More rain...
+    - text: More rain...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Consider it done.
+    - text: Consider it done.
     - utf16_bytes:
         - 0

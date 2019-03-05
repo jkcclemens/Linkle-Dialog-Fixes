@@ -6,13 +6,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᘉI... No, of course not!"
+    - text: "ᘉI... No, of course not!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHere, this is what I meant to give you!"
+    - text: "\nHere, this is what I meant to give you!"
     - utf16_bytes:
         - 0
   Lady16:
@@ -21,13 +21,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta."
+    - text: "촙Sav'otta."
     - utf16_bytes:
         - 0
   Lady17:
@@ -36,13 +36,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq."
+    - text: "촚Sav'aaq."
     - utf16_bytes:
         - 0
   Lady18:
@@ -51,51 +51,51 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I didn't think I'd meet you during\na downpour...\n\nAre you..."
+    - text: "ȀI didn't think I'd meet you during\na downpour...\n\nAre you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Could you be the vai I am\ndestined to meet?\n\n"
+    - text: " Could you be the vai I am\ndestined to meet?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tNo..."
+        - 9
+    - text: No...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " No, I don't think so. But then..."
+    - text: " No, I don't think so. But then..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThis IS the pond of legend, is it not?"
+    - text: "\nThis IS the pond of legend, is it not?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThe one where a person finds true love?\n"
+    - text: "\nThe one where a person finds true love?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Yet all I see right now is that strange\nvoe on the other side of the pond."
+    - text: "Yet all I see right now is that strange\nvoe on the other side of the pond."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCould I be at the wrong one?"
+    - text: "\nCould I be at the wrong one?"
     - utf16_bytes:
         - 0
   Lady19:
@@ -104,59 +104,59 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I didn't think I'd meet you in the middle\nof a thunderstorm...\n\nAre you..."
+    - text: "ȀI didn't think I'd meet you in the middle\nof a thunderstorm...\n\nAre you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Could you be the vai I am\ndestined to meet?\n\n"
+    - text: " Could you be the vai I am\ndestined to meet?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tNo..."
+        - 9
+    - text: No...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " No, I don't think so. But then..."
+    - text: " No, I don't think so. But then..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThis IS the pond of legend, is it not?"
+    - text: "\nThis IS the pond of legend, is it not?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThe one where a person finds true love?\n"
+    - text: "\nThe one where a person finds true love?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Yet all I see right now is that strange\nvoe on the other side of the pond."
+    - text: "Yet all I see right now is that strange\nvoe on the other side of the pond."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCould I be at the wrong one?"
+    - text: "\nCould I be at the wrong one?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: A gift from that guy.
+    - text: A gift from that guy.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Who knows?
+    - text: Who knows?
     - utf16_bytes:
         - 0
   Boy00:
@@ -165,7 +165,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHah, I'm lucky it's crying...er...I mean,\nraining today..."
+        - 9
+    - text: "Hah, I'm lucky it's crying...er...I mean,\nraining today..."
     - utf16_bytes:
         - 0
   Boy01:
@@ -174,11 +175,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tIf there's no way to win her heart, I may\nas well stand here until the lightning\nstrikes me down..."
+        - 9
+    - text: "If there's no way to win her heart, I may\nas well stand here until the lightning\nstrikes me down..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: If you say so...
+    - text: If you say so...
     - utf16_bytes:
         - 0
   Boy02:
@@ -187,11 +189,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tIf there's no way for me to win her heart,\nthen I hope to at least burn the memory\nof her beauty into my mind forever..."
+        - 9
+    - text: "If there's no way for me to win her heart,\nthen I hope to at least burn the memory\nof her beauty into my mind forever..."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Get your own!
+    - text: Get your own!
     - utf16_bytes:
         - 0
   Boy04:
@@ -205,13 +208,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Thank you!"
+    - text: "}Thank you!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Boy05:
@@ -220,21 +223,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t...I suppose I can understand your\nhesitation.\n\nThough, I think that my "
+        - 9
+    - text: "...I suppose I can understand your\nhesitation.\n\nThough, I think that my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwill have dried out and died before I find\nthe nerve to do this myself..."
+    - text: "\nwill have dried out and died before I find\nthe nerve to do this myself..."
     - utf16_bytes:
         - 0
   Boy23:
@@ -244,27 +248,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "...Phew.\n\n\n"
+    - text: "...Phew.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "I'm so glad!"
+    - text: "I'm so glad!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Oh, by the way, my name\nis Wabbin!\n\n"
+    - text: " Oh, by the way, my name\nis Wabbin!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "To be honest, I lost my way earlier."
+    - text: "To be honest, I lost my way earlier."
     - utf16_bytes:
         - 0
   Boy06:
@@ -274,21 +278,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'll give you back this "
+    - text: "I'll give you back this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Boy24:
@@ -298,7 +302,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Grrr...\nI won't let you stand in the way of my\ndestiny!"
+    - text: "Grrr...\nI won't let you stand in the way of my\ndestiny!"
     - utf16_bytes:
         - 0
   Lady01:
@@ -307,51 +311,51 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Are you...
+    - text: ȀAre you...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nCould you be the vai I am destined to\nmeet?\n"
+    - text: "\nCould you be the vai I am destined to\nmeet?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tNo..."
+        - 9
+    - text: No...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " No, I don't think so. But then..."
+    - text: " No, I don't think so. But then..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThis IS the pond of legend, is it not?"
+    - text: "\nThis IS the pond of legend, is it not?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThe one where a person finds true love?\n"
+    - text: "\nThe one where a person finds true love?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Yet all I see right now is that strange\nvoe on the other side of the pond."
+    - text: "Yet all I see right now is that strange\nvoe on the other side of the pond."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCould I be at the wrong one?"
+    - text: "\nCould I be at the wrong one?"
     - utf16_bytes:
         - 0
   Boy07:
@@ -361,13 +365,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh! "
+    - text: "Oh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "And don't forget to mention it's a\npresent from ME!"
+    - text: "And don't forget to mention it's a\npresent from ME!"
     - utf16_bytes:
         - 0
   Boy25:
@@ -376,39 +380,40 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAh..."
+        - 9
+    - text: Ah...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I just... Ugh."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\nWhen I look at her, my legs freeze up.\nMy throat goes dry. I..."
+    - text: " I just... Ugh."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I can't do it.\nPlease, could you take "
+    - text: "\nWhen I look at her, my legs freeze up.\nMy throat goes dry. I..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "I can't do it.\nPlease, could you take "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: my gift
+    - text: my gift
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to her?"
+    - text: " to her?"
     - utf16_bytes:
         - 14
         - 1
@@ -416,7 +421,8 @@ entries:
         - 6
         - 14
         - 15
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Boy08:
     - utf16_bytes:
@@ -425,16 +431,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Remember
-    - utf16_bytes:
-        - 8212
-    - ascii: "this is a request carrying all\nthe weight of this life and the next. Tell\nher how I feel. "
+    - text: "Remember—this is a request carrying all\nthe weight of this life and the next. Tell\nher how I feel. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Please!
+    - text: Please!
     - utf16_bytes:
         - 0
   Lady02:
@@ -443,8 +446,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "What's this?"
+    - text: "ȀWhat's this?"
     - utf16_bytes:
         - 14
         - 1
@@ -452,10 +454,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Near_01:
-    - ascii: Ohh la la!
+    - text: Ohh la la!
     - utf16_bytes:
         - 0
   Lady03:
@@ -465,24 +468,24 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Well, that vai over there doesn't seem\nso bad, but..."
+    - text: "Well, that vai over there doesn't seem\nso bad, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I was always told not to\nmake the first move.\n"
+    - text: "I was always told not to\nmake the first move.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "But all she's doing is looking over here,\nthen quickly looking away. Does she have\nno idea what to do next?"
+    - text: "But all she's doing is looking over here,\nthen quickly looking away. Does she have\nno idea what to do next?"
     - utf16_bytes:
         - 0
   Boy26:
-    - ascii: "A little rain and lightning doesn't scare\nher at all. Just look at her standing\nover there... So beautiful!"
+    - text: "A little rain and lightning doesn't scare\nher at all. Just look at her standing\nover there... So beautiful!"
     - utf16_bytes:
         - 0
   Lady20:
@@ -492,7 +495,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I don't sense any deceit from you..."
+    - text: "I don't sense any deceit from you..."
     - utf16_bytes:
         - 0
   Lady21:
@@ -501,15 +504,14 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "No, that's not right at all!\n\n\n"
+    - text: "ĀNo, that's not right at all!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "I'm talking about what a voe says\nto a vai!"
+    - text: "I'm talking about what a voe says\nto a vai!"
     - utf16_bytes:
         - 0
   Boy27:
@@ -519,7 +521,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "She stands there, completely unfazed\nby the rain falling around her...\nSo splendid!"
+    - text: "She stands there, completely unfazed\nby the rain falling around her...\nSo splendid!"
     - utf16_bytes:
         - 0
   Lady05:
@@ -529,21 +531,21 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "So you're the one who gave me\nthe"
+    - text: "So you're the one who gave me\nthe"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " flowers"
+    - text: " flowers"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Lady22:
@@ -553,15 +555,15 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "You know, something like, \"I like you,\" or,\n\"Please, go out with me!\""
+    - text: "You know, something like, \"I like you,\" or,\n\"Please, go out with me!\""
     - utf16_bytes:
         - 0
   Boy28:
-    - ascii: "I can't tear my eyes away from her..."
+    - text: "I can't tear my eyes away from her..."
     - utf16_bytes:
         - 0
   Near_04:
-    - ascii: Am I in the right place?
+    - text: Am I in the right place?
     - utf16_bytes:
         - 0
   Lady06:
@@ -571,39 +573,39 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: Why would you say that?
+    - text: Why would you say that?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " This is my\nfavorite kind of "
+    - text: " This is my\nfavorite kind of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: flower
+    - text: flower
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How did you\nknow that anyway? "
+    - text: " How did you\nknow that anyway? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Are you a Yiga spy?!
+    - text: Are you a Yiga spy?!
     - utf16_bytes:
         - 0
   Lady23:
@@ -612,7 +614,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWh..."
+    - text: "\nWh..."
     - utf16_bytes:
         - 14
         - 5
@@ -625,21 +627,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI want to talk to her, but I don't have\nanything worthy of being a gift. If only\nI had "
+        - 9
+    - text: "I want to talk to her, but I don't have\nanything worthy of being a gift. If only\nI had "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Lady07:
@@ -649,20 +652,20 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Your true love...
+    - text: Your true love...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nSo this is what they call destiny...\n\n"
+    - text: "\nSo this is what they call destiny...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "You're the vai that destiny has chosen\nfor me, then? All right! Go ahead and\nspeak your piece!"
+    - text: "You're the vai that destiny has chosen\nfor me, then? All right! Go ahead and\nspeak your piece!"
     - utf16_bytes:
         - 0
   Lady24:
@@ -672,13 +675,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: What?
+    - text: What?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " That's it?!\n\n\nThat's all you're willing to offer her for\neverything she's done for you?!"
+    - text: " That's it?!\n\n\nThat's all you're willing to offer her for\neverything she's done for you?!"
     - utf16_bytes:
         - 0
   Lady25:
@@ -687,8 +690,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: Much better.
+    - text: ᠀Much better.
     - utf16_bytes:
         - 14
         - 5
@@ -701,28 +703,27 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: I see...
+    - text: ȀI see...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " So...you're delivering these\n"
+    - text: " So...you're delivering these\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: flowers
+    - text: flowers
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for that vai over there?"
+    - text: " for that vai over there?"
     - utf16_bytes:
         - 0
   Lady26:
@@ -732,14 +733,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, you!\n\n\n"
+    - text: "Hey, you!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "I guess I owe you too... I hope you have\nas much luck finding someone as I did...\nthanks to you!"
+    - text: "I guess I owe you too... I hope you have\nas much luck finding someone as I did...\nthanks to you!"
     - utf16_bytes:
         - 0
   Lady09:
@@ -748,40 +749,39 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: So...
+    - text: ȀSo...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " What about that vai over there?\n\n\n"
+    - text: " What about that vai over there?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "You...\n\n\n"
+    - text: "You...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "Wait, are you guys mocking me?"
+    - text: "Wait, are you guys mocking me?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You\nknow it isn't wise to upset a Gerudo..."
+    - text: " You\nknow it isn't wise to upset a Gerudo..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWe're a strong and proud people."
+    - text: "\nWe're a strong and proud people."
     - utf16_bytes:
         - 0
   Lady27:
@@ -790,13 +790,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba."
+    - text: "촛Sav'saaba."
     - utf16_bytes:
         - 0
   Boy10:
@@ -805,37 +805,38 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᘊEeek, I'm sorry!!!"
+    - text: "ᘊEeek, I'm sorry!!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tCould...could it be that you don't\nlike "
+        - 9
+    - text: "Could...could it be that you don't\nlike "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: No problem.
+    - text: No problem.
     - utf16_bytes:
         - 0
   Boy11:
@@ -844,39 +845,39 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᘊN-no...\nTh-that's not it!\n\n"
+    - text: "ᘊN-no...\nTh-that's not it!\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Blue nightshade
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " just happens to be my\nfavorite "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: flower
+    - text: Blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! Long ago, I decided to\ngive my true love this flower..."
+    - text: " just happens to be my\nfavorite "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: flower
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "! Long ago, I decided to\ngive my true love this flower..."
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: Nope. Rival time!
+    - text: Nope. Rival time!
     - utf16_bytes:
         - 0
   Boy12:
@@ -886,11 +887,11 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: What do you mean?
+    - text: What do you mean?
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: Sure!
+    - text: Sure!
     - utf16_bytes:
         - 0
   Boy13:
@@ -900,15 +901,16 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "H-hey! I'm trying to work up the courage\nto talk to her. Just... Let me, yeah?"
+    - text: "H-hey! I'm trying to work up the courage\nto talk to her. Just... Let me, yeah?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\f\r"
+        - 12
+        - 13
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   Boy30:
     - utf16_bytes:
@@ -916,75 +918,76 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI want to talk to her, but I don't have\nanything worthy of being a gift. If only\nI had "
+        - 9
+    - text: "I want to talk to her, but I don't have\nanything worthy of being a gift. If only\nI had "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n"
+    - text: "...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Ahh, the smell of it... I can almost\nimagine it right now. It's so clear, almost\nlike...it's...\n"
+    - text: "Ahh, the smell of it... I can almost\nimagine it right now. It's so clear, almost\nlike...it's...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nWait,"
+    - text: "\nWait,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " do you have some "
+    - text: " do you have some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\non you right now?\n\n"
+    - text: "\non you right now?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Please! You must give me that "
+    - text: "Please! You must give me that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: flower
+    - text: flower
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nIt couldn't be more important!"
+    - text: "!\nIt couldn't be more important!"
     - utf16_bytes:
         - 14
         - 1
@@ -992,41 +995,39 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0015":
-    - ascii: Ehhh...
+    - text: Ehhh...
     - utf16_bytes:
         - 0
   Boy14:
-    - ascii: But...
+    - text: But...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Please! I beg you! "
+    - text: " Please! I beg you! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "She's the girl\nof my dreams"
-    - utf16_bytes:
-        - 8212
-    - ascii: I know it!
+    - text: "She's the girl\nof my dreams—I know it!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'll pay you\nback, just... "
+    - text: " I'll pay you\nback, just... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Please!
+    - text: Please!
     - utf16_bytes:
         - 14
         - 1
@@ -1034,7 +1035,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Boy31:
     - utf16_bytes:
@@ -1042,21 +1044,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'll need to leave this place if I want to\nfind any "
+        - 9
+    - text: "I'll need to leave this place if I want to\nfind any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...but if I go,\nshe might leave too..."
+    - text: "...but if I go,\nshe might leave too..."
     - utf16_bytes:
         - 0
   Boy32:
@@ -1070,19 +1073,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Thank you!!!"
+    - text: "}Thank you!!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThis is so perfect! It's exactly what I\nneeded!"
+    - text: "\nThis is so perfect! It's exactly what I\nneeded!"
     - utf16_bytes:
         - 0
   Boy15:
@@ -1091,40 +1094,41 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI..."
+        - 9
+    - text: I...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I can't give up! But I also can't get\nmy legs to move...\n\n"
+    - text: "I can't give up! But I also can't get\nmy legs to move...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I beg of you... Please fulfill my one wish\nin this life. It can be my wish in the next\nlife too, if that helps!\nJust please..."
+    - text: "I beg of you... Please fulfill my one wish\nin this life. It can be my wish in the next\nlife too, if that helps!\nJust please..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "give the "
+    - text: "give the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "blue nightshade "
+    - text: "blue nightshade "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nto her for me!"
+    - text: "\nto her for me!"
     - utf16_bytes:
         - 14
         - 1
@@ -1132,7 +1136,8 @@ entries:
         - 6
         - 14
         - 15
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Boy33:
     - utf16_bytes:
@@ -1140,13 +1145,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Ohh la la!"
+    - text: "}Ohh la la!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
@@ -1160,19 +1165,19 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Wait, are you guys mocking me?"
+    - text: "Wait, are you guys mocking me?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You\nknow it isn't wise to upset a Gerudo..."
+    - text: " You\nknow it isn't wise to upset a Gerudo..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWe're a strong and proud people."
+    - text: "\nWe're a strong and proud people."
     - utf16_bytes:
         - 0
   Boy34:
@@ -1182,44 +1187,44 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I closed my eyes for a minute, and when\nI opened them, the most beautiful woman\nI've ever seen was standing before me.\n"
+    - text: "I closed my eyes for a minute, and when\nI opened them, the most beautiful woman\nI've ever seen was standing before me.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "At first I thought I was dreaming...or that\nshe was a ghost or something.\n\n"
+    - text: "At first I thought I was dreaming...or that\nshe was a ghost or something.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I mean, it's not every day you run into a\ngorgeous woman in the middle of\nnowhere..."
+    - text: "I mean, it's not every day you run into a\ngorgeous woman in the middle of\nnowhere..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "But figment of my imagination or not, it\nwas love at first sight."
+    - text: "But figment of my imagination or not, it\nwas love at first sight."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nAnd so I've decided to gather my\ncourage and go confess my feelings to\nher!"
+    - text: "\n\nAnd so I've decided to gather my\ncourage and go confess my feelings to\nher!"
     - utf16_bytes:
         - 0
   Lady11:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
@@ -1233,7 +1238,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh! Uh, sure! Asking so directly, how\ncould I possibly say no?!"
+    - text: "Oh! Uh, sure! Asking so directly, how\ncould I possibly say no?!"
     - utf16_bytes:
         - 0
   Boy18:
@@ -1243,21 +1248,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I decided long ago that when I meet the\ngirl of my dreams, I'll hand her a\n"
+    - text: "I decided long ago that when I meet the\ngirl of my dreams, I'll hand her a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "blue nightshade "
+    - text: "blue nightshade "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "and confess my love!\n"
+    - text: "and confess my love!\n"
     - utf16_bytes:
         - 14
         - 0
@@ -1274,49 +1279,49 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "If I had a "
+    - text: "If I had a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I'd head\nstraight over to that woman...\n\n"
+    - text: ", I'd head\nstraight over to that woman...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I mean, imagine her and a \n"
+    - text: "I mean, imagine her and a \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blue nightshade
+    - text: blue nightshade
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n\n"
+    - text: "...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "That'd make a beautiful scene. Don't\nyou think?"
+    - text: "That'd make a beautiful scene. Don't\nyou think?"
     - utf16_bytes:
         - 0
   Boy36:
@@ -1326,38 +1331,38 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh, wow! Did you hear that?!"
+    - text: "Oh, wow! Did you hear that?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nShe said she likes me, and she wants to\ngo out!\nThis is the first time anyone has ever said\nthey like me, and for it to come from the\nwoman of my dreams...\n"
+    - text: "\nShe said she likes me, and she wants to\ngo out!\nThis is the first time anyone has ever said\nthey like me, and for it to come from the\nwoman of my dreams...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "This is such an amazing feeling...\n\n\n"
+    - text: "This is such an amazing feeling...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "⨉I'm so glad I was born into this world..."
+    - text: "⨉I'm so glad I was born into this world..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "There's no way I can truly thank you, but\nplease take this as a token of my thanks."
+    - text: "There's no way I can truly thank you, but\nplease take this as a token of my thanks."
     - utf16_bytes:
         - 0

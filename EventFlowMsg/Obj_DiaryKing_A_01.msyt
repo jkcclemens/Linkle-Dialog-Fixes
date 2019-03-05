@@ -6,16 +6,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ah, and I will now write down this\nperfect recipe so that I will never\nforget it.\n"
+    - text: "Ah, and I will now write down this\nperfect recipe so that I will never\nforget it.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Place some raw meat, spicy pepper,\nand hyrule bass in a pot, and then\nturn up the heat. Voil"
-    - utf16_bytes:
-        - 224
-    - ascii: "!"
+    - text: "Place some raw meat, spicy pepper,\nand hyrule bass in a pot, and then\nturn up the heat. Voilà!"
     - utf16_bytes:
         - 14
         - 1
@@ -23,10 +20,11 @@ entries:
         - 6
         - 7
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0008":
-    - ascii: Read again.
+    - text: Read again.
     - utf16_bytes:
         - 0
   Diary06:
@@ -35,39 +33,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Eating this dish allows you to walk the\nsnowy mountains with ease, though I did\nforget there's a time limit on the effect.\n"
+    - text: "Eating this dish allows you to walk the\nsnowy mountains with ease, though I did\nforget there's a time limit on the effect.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "It is too bad I already gave away that\n"
+    - text: "It is too bad I already gave away that\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: warm doublet
+    - text: warm doublet
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", which keeps you warm\nno matter how long you wear it."
+    - text: ", which keeps you warm\nno matter how long you wear it."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: L
+    - text: L
     - utf16_bytes:
         - 8
         - 0
         - 0
         - 0
         - 1
-    - ascii: ":Npc_King_ChoiceExclude_Finish"
+    - text: ":Npc_King_ChoiceExclude_Finish"
     - utf16_bytes:
         - 5
         - 0
@@ -79,19 +77,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Linkle...\n\n\n"
+    - text: "Linkle...\n\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Bit by bit, you may come to realize who\nI am. I am sorry for not revealing my\ntrue identity to you sooner.\n"
+    - text: "Bit by bit, you may come to realize who\nI am. I am sorry for not revealing my\ntrue identity to you sooner.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "The truth is, after you awoke from your\nlong Slumber of Restoration, I did not\nknow how to tell you all there was to say."
+    - text: "The truth is, after you awoke from your\nlong Slumber of Restoration, I did not\nknow how to tell you all there was to say."
     - utf16_bytes:
         - 14
         - 1
@@ -99,7 +97,8 @@ entries:
         - 6
         - 7
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Diary08a:
     - utf16_bytes:
@@ -107,31 +106,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Perhaps deceiving you was not the right\nthing to do. Still...you must admit I put\non a great performance!\n"
+    - text: "Perhaps deceiving you was not the right\nthing to do. Still...you must admit I put\non a great performance!\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "But all joking aside...what I ask of you\nis of the utmost importance, dear heroine.\n\n"
+    - text: "But all joking aside...what I ask of you\nis of the utmost importance, dear heroine.\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I implore you, with all my heart...\ndefeat Calamity Ganon and save\nmy precious daughter, Zelda.\n"
+    - text: "I implore you, with all my heart...\ndefeat Calamity Ganon and save\nmy precious daughter, Zelda.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I understand this is no simple task I am\nasking of you, but I know beyond a\nshadow of a doubt that you can do it.\n"
+    - text: "I understand this is no simple task I am\nasking of you, but I know beyond a\nshadow of a doubt that you can do it.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I do not doubt it for a moment. I see\ncourage in your eyes, just as I did\n100 years ago. I believe in you, Linkle."
+    - text: "I do not doubt it for a moment. I see\ncourage in your eyes, just as I did\n100 years ago. I believe in you, Linkle."
     - utf16_bytes:
         - 14
         - 1
@@ -140,10 +139,10 @@ entries:
         - 8
         - 0
         - 4
-    - ascii: ":Npc_King_ChoiceExclude_Recipe"
+    - text: ":Npc_King_ChoiceExclude_Recipe"
     - utf16_bytes:
         - 0
-    - ascii: 8Npc_King_ChoiceExclude_Diary
+    - text: 8Npc_King_ChoiceExclude_Diary
     - utf16_bytes:
         - 5
         - 0
@@ -155,31 +154,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Perhaps deceiving you was not the right\nthing to do. Still...you must admit I put\non a great performance!\n"
+    - text: "Perhaps deceiving you was not the right\nthing to do. Still...you must admit I put\non a great performance!\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "But all joking aside...what I ask of you\nis of the utmost importance, dear heroine.\n\n"
+    - text: "But all joking aside...what I ask of you\nis of the utmost importance, dear heroine.\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I implore you, with all my heart...\ndefeat Calamity Ganon and save\nmy precious daughter, Zelda.\n"
+    - text: "I implore you, with all my heart...\ndefeat Calamity Ganon and save\nmy precious daughter, Zelda.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I understand this is no simple task I am\nasking of you, but I know beyond a\nshadow of a doubt that you can do it.\n"
+    - text: "I understand this is no simple task I am\nasking of you, but I know beyond a\nshadow of a doubt that you can do it.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I do not doubt it for a moment. I see\ncourage in your eyes, just as I did\n100 years ago. I believe in you, Linkle."
+    - text: "I do not doubt it for a moment. I see\ncourage in your eyes, just as I did\n100 years ago. I believe in you, Linkle."
     - utf16_bytes:
         - 14
         - 1
@@ -187,7 +186,8 @@ entries:
         - 6
         - 7
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Diary09:
     - utf16_bytes:
@@ -195,52 +195,52 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ah, yes, one more thing. I have left the\n"
+    - text: "Ah, yes, one more thing. I have left the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "warm doublet "
+    - text: "warm doublet "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "here as a gift of sorts.\nI'm sure it will be useful on your journey.\n"
+    - text: "here as a gift of sorts.\nI'm sure it will be useful on your journey.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "You can also weather the cold with\ncooking alone, but I caution against it.\nThere is no time for recklessness.\n"
+    - text: "You can also weather the cold with\ncooking alone, but I caution against it.\nThere is no time for recklessness.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: We are all counting on you.
+    - text: We are all counting on you.
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: J
+    - text: J
     - utf16_bytes:
         - 65535
         - 0
         - 8
         - 0
         - 0
-    - ascii: 8Npc_King_ChoiceExclude_Diary
+    - text: 8Npc_King_ChoiceExclude_Diary
     - utf16_bytes:
         - 5
         - 0
         - 771
         - 0
   DiaryFirst00:
-    - ascii: "The old man's diary..."
+    - text: "The old man's diary..."
     - utf16_bytes:
         - 14
         - 1
@@ -248,10 +248,11 @@ entries:
         - 6
         - 6
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   DiaryFirst01:
-    - ascii: "The old man's diary..."
+    - text: "The old man's diary..."
     - utf16_bytes:
         - 14
         - 1
@@ -260,14 +261,15 @@ entries:
         - 6
         - 0
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: First page.
+    - text: First page.
     - utf16_bytes:
         - 0
   DiaryFirst02:
-    - ascii: "The old man's diary..."
+    - text: "The old man's diary..."
     - utf16_bytes:
         - 14
         - 1
@@ -276,21 +278,21 @@ entries:
         - 6
         - 0
         - 4
-    - ascii: ":Npc_King_ChoiceExclude_Recipe"
+    - text: ":Npc_King_ChoiceExclude_Recipe"
     - utf16_bytes:
         - 0
-    - ascii: 8Npc_King_ChoiceExclude_Diary
+    - text: 8Npc_King_ChoiceExclude_Diary
     - utf16_bytes:
         - 2
         - 0
         - 768
         - 0
   "0001":
-    - ascii: Last page.
+    - text: Last page.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0
   Diary00:
@@ -299,17 +301,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "On this desolate plateau, the only\npleasure that brings me comfort\nis cooking.\n"
+    - text: "On this desolate plateau, the only\npleasure that brings me comfort\nis cooking.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "And today, I outdid myself! Truly,\nI created the perfect dish. I call it...\nspicy meat and seafood fry."
+    - text: "And today, I outdid myself! Truly,\nI created the perfect dish. I call it...\nspicy meat and seafood fry."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Next page.
+    - text: Next page.
     - utf16_bytes:
         - 0
   Diary01:
@@ -318,27 +320,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This recipe not only restores health,\nbut it also keeps me warm, even when\ntraveling in the snowy mountains.\n"
+    - text: "This recipe not only restores health,\nbut it also keeps me warm, even when\ntraveling in the snowy mountains.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "With this dish on my side, I no longer\nhave need of that itchy "
+    - text: "With this dish on my side, I no longer\nhave need of that itchy "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: warm doublet
+    - text: warm doublet
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -346,10 +348,11 @@ entries:
         - 6
         - 7
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: Previous page.
+    - text: Previous page.
     - utf16_bytes:
         - 0
   Diary02:
@@ -358,19 +361,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I do not know how I allowed this to\nhappen, but it seems I forgot to\nwrite down a very important recipe.\n"
+    - text: "I do not know how I allowed this to\nhappen, but it seems I forgot to\nwrite down a very important recipe.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I know it contained raw meat and\nspicy pepper. However...\n\n"
+    - text: "I know it contained raw meat and\nspicy pepper. However...\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I simply cannot remember what else\nI used! My age is catching up to me."
+    - text: "I simply cannot remember what else\nI used! My age is catching up to me."
     - utf16_bytes:
         - 14
         - 1
@@ -378,10 +381,11 @@ entries:
         - 6
         - 7
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: Stop reading.
+    - text: Stop reading.
     - utf16_bytes:
         - 0
   Diary03:
@@ -390,33 +394,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Sadly, on this lonely plateau, I have only\nmy own knowledge and memory to\nrely on. Still...\n"
+    - text: "Sadly, on this lonely plateau, I have only\nmy own knowledge and memory to\nrely on. Still...\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "If I did find someone who knew the\nmissing ingredient, I would happily\nreward them with my "
+    - text: "If I did find someone who knew the\nmissing ingredient, I would happily\nreward them with my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: warm doublet
+    - text: warm doublet
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "However, it seems unlikely that such a\nmiraculous wish will ever be fulfilled."
+    - text: "However, it seems unlikely that such a\nmiraculous wish will ever be fulfilled."
     - utf16_bytes:
         - 14
         - 1
@@ -425,17 +429,17 @@ entries:
         - 8
         - 0
         - 3
-    - ascii: ":Npc_King_ChoiceExclude_Recipe"
+    - text: ":Npc_King_ChoiceExclude_Recipe"
     - utf16_bytes:
         - 1
-    - ascii: ":Npc_King_ChoiceExclude_Finish"
+    - text: ":Npc_King_ChoiceExclude_Finish"
     - utf16_bytes:
         - 5
         - 0
         - 771
         - 0
   "0006":
-    - ascii: Read.
+    - text: Read.
     - utf16_bytes:
         - 0
   Diary04:
@@ -444,27 +448,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "To my surprise and delight, I did happen\nupon someone who was able to re-create\nmy spicy meat and seafood fry.\n"
+    - text: "To my surprise and delight, I did happen\nupon someone who was able to re-create\nmy spicy meat and seafood fry.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I gave him my "
+    - text: "I gave him my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: warm doublet
+    - text: warm doublet
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and I was\nhappy to do so. He is a fine young lady\nwith great potential, that one."
+    - text: ", and I was\nhappy to do so. He is a fine young lady\nwith great potential, that one."
     - utf16_bytes:
         - 14
         - 1
@@ -472,9 +476,10 @@ entries:
         - 6
         - 7
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0007":
-    - ascii: Read more.
+    - text: Read more.
     - utf16_bytes:
         - 0

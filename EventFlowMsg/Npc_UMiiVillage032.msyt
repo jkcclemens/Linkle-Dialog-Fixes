@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Goooood morning!
+    - text: Goooood morning!
     - utf16_bytes:
         - 0
   talk15:
@@ -17,7 +17,7 @@ entries:
         - 2
         - 18
         - 16
-    - ascii: Happy_01OK!
+    - text: Happy_01OK!
     - utf16_bytes:
         - 0
   talk03:
@@ -27,7 +27,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hiya!
+    - text: Hiya!
     - utf16_bytes:
         - 0
   talk16:
@@ -37,13 +37,13 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "Karson! "
+    - text: "Karson! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "We're going home!"
+    - text: "We're going home!"
     - utf16_bytes:
         - 0
   talk04:
@@ -53,7 +53,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Goooood evening!
+    - text: Goooood evening!
     - utf16_bytes:
         - 0
   talk17:
@@ -63,7 +63,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, can you hold on for a second?\nMaybe once we get settled, we can\nchat, OK?"
+    - text: "Hey, can you hold on for a second?\nMaybe once we get settled, we can\nchat, OK?"
     - utf16_bytes:
         - 0
   talk06:
@@ -73,19 +73,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Do you need something from me?\n\n\n"
+    - text: "Do you need something from me?\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PUrk...
+    - text: PUrk...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk07:
@@ -95,11 +95,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Sorry, but we're heading to sleep now..."
+    - text: "Sorry, but we're heading to sleep now..."
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: Watch out!
+    - text: Watch out!
     - utf16_bytes:
         - 0
   talk08:
@@ -109,13 +109,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Sorry, dear, but I'm going to bed... "
+    - text: "Sorry, dear, but I'm going to bed... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSee you later."
+    - text: "\nSee you later."
     - utf16_bytes:
         - 0
   talk09:
@@ -125,15 +125,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Talk to Hudson! Let's get this\nceremony started!"
+    - text: "Talk to Hudson! Let's get this\nceremony started!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Indeed!
+    - text: Indeed!
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: What is THAT?!
+    - text: What is THAT?!
     - utf16_bytes:
         - 0
   talk10:
@@ -143,13 +143,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "We're here!"
+    - text: "We're here!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Talk to Hudson and let's\nget this ceremony started!"
+    - text: " Talk to Hudson and let's\nget this ceremony started!"
     - utf16_bytes:
         - 0
   talk11:
@@ -159,15 +159,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The bride and groom were so lovely,\nweren't they?"
+    - text: "The bride and groom were so lovely,\nweren't they?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk12:
     - utf16_bytes:
@@ -176,17 +177,17 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: Love...
+    - text: Love...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's such a sublime, precious\nthing, you know?\n\nMy best wishes to the couple."
+    - text: " It's such a sublime, precious\nthing, you know?\n\nMy best wishes to the couple."
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Cut it out!
+    - text: Cut it out!
     - utf16_bytes:
         - 0
   talk00:
@@ -196,7 +197,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hey there!
+    - text: Hey there!
     - utf16_bytes:
         - 0
   talk13:
@@ -206,13 +207,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Now that the wedding's over,"
+    - text: "Now that the wedding's over,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " we should\nprobably head back to Hateno Village."
+    - text: " we should\nprobably head back to Hateno Village."
     - utf16_bytes:
         - 0
   talk01:
@@ -222,19 +223,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Wow!
+    - text: Wow!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " How exciting!"
+    - text: " How exciting!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nNow then..."
+    - text: "\n\n\nNow then..."
     - utf16_bytes:
         - 0
   talk14:
@@ -244,6 +245,6 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Well then...
+    - text: Well then...
     - utf16_bytes:
         - 0

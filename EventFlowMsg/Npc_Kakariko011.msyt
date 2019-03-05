@@ -6,14 +6,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh, OK... "
+    - text: "ЀOh, OK... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You'd sleep great, though..."
+    - text: "You'd sleep great, though..."
     - utf16_bytes:
         - 0
   Talk14:
@@ -22,36 +21,35 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Noon?
+    - text: ကNoon?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Alrighty. If you insist.\n\n\n"
+    - text: " Alrighty. If you insist.\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PI wonder...
+    - text: PI wonder...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "if I'll be awake..."
+    - text: "if I'll be awake..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   Talk15:
@@ -60,36 +58,35 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Night?
+    - text: ကNight?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Got it. If you insist.\n\n\n"
+    - text: " Got it. If you insist.\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PI wonder...
+    - text: PI wonder...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "if I'll be awake..."
+    - text: "if I'll be awake..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Regular bed.
+    - text: Regular bed.
     - utf16_bytes:
         - 0
   Talk16:
@@ -98,24 +95,23 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Good m-morning.
+    - text: ЀGood m-morning.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Or wait... Good day."
+    - text: " Or wait... Good day."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI guess."
+    - text: "\nI guess."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Soft bed.
+    - text: Soft bed.
     - utf16_bytes:
         - 0
   Talk17:
@@ -124,20 +120,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Good mor...
+    - text: ЀGood mor...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Wait. I mean, good evening."
+    - text: " Wait. I mean, good evening."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI guess."
+    - text: "\nI guess."
     - utf16_bytes:
         - 0
   Talk00:
@@ -146,28 +141,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Well...
+    - text: ЀWell...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The regular bed is "
+    - text: " The regular bed is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
@@ -183,48 +177,47 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "\nAnd..."
+    - text: "\nAnd..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "th-the soft bed is "
+    - text: "th-the soft bed is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 40 rupees
+    - text: 40 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI guess..."
+    - text: "\nI guess..."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
         - 2
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 768
         - 0
   "0002":
-    - ascii: The difference?
+    - text: The difference?
     - utf16_bytes:
         - 0
   Talk18:
@@ -233,19 +226,18 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: When should I...
+    - text: ЀWhen should I...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: wake you up?
+    - text: wake you up?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 3
         - 4
@@ -254,7 +246,7 @@ entries:
         - 768
         - 0
   "0003":
-    - ascii: Morning.
+    - text: Morning.
     - utf16_bytes:
         - 0
   Talk02:
@@ -263,25 +255,24 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Th-thank you...
+    - text: ЀTh-thank you...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " So, um..."
+    - text: " So, um..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhen should I wake you?"
+    - text: "\nWhen should I wake you?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 3
         - 4
@@ -290,11 +281,11 @@ entries:
         - 768
         - 0
   "0004":
-    - ascii: Noon.
+    - text: Noon.
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Night.
+    - text: Night.
     - utf16_bytes:
         - 0
   Talk03:
@@ -303,30 +294,29 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Well...
+    - text: ЀWell...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: d-do come again...
+    - text: d-do come again...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: OK?
+    - text: OK?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nGood night..."
+    - text: "\nGood night..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Changed my mind.
+    - text: Changed my mind.
     - utf16_bytes:
         - 0
   Talk04:
@@ -335,32 +325,31 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: M-morning?
+    - text: ကM-morning?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Alrighty.\nIf you insist.\n\n"
+    - text: " Alrighty.\nIf you insist.\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PI wonder...
+    - text: PI wonder...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "if I'll be awake..."
+    - text: "if I'll be awake..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk05:
@@ -369,28 +358,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Um...
+    - text: ЀUm...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Oh, my... It seems you don't..."
+    - text: " Oh, my... It seems you don't..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nhave enough rupees."
+    - text: "\nhave enough rupees."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Thank you.
+    - text: Thank you.
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: "Nah, never mind."
+    - text: "Nah, never mind."
     - utf16_bytes:
         - 0
   Talk06:
@@ -400,23 +388,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Um...
+    - text: Um...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Well..."
+    - text: " Well..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " OK, I guess."
+    - text: " OK, I guess."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   Talk08:
@@ -425,8 +413,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Good m-morning.
+    - text: ЀGood m-morning.
     - utf16_bytes:
         - 0
   Talk10:
@@ -435,31 +422,31 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ⴊAck! "
+    - text: "ⴊAck! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Are you...
+    - text: Are you...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "a g-guest?\n"
+    - text: "a g-guest?\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I suppose so...\n\n"
+    - text: "I suppose so...\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
@@ -471,7 +458,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You s-scared me half to death...
+    - text: You s-scared me half to death...
     - utf16_bytes:
         - 14
         - 0
@@ -482,7 +469,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk11:
@@ -491,32 +478,31 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Hrm... "
+    - text: "ကHrm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Well... I guess it's OK."
+    - text: "Well... I guess it's OK."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt is your first time here..."
+    - text: "\nIt is your first time here..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "right?\n\nI'll give you a freebie..."
+    - text: "right?\n\nI'll give you a freebie..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: just this once.
+    - text: just this once.
     - utf16_bytes:
         - 14
         - 1
@@ -524,7 +510,8 @@ entries:
         - 6
         - 7
         - 8
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk12:
     - utf16_bytes:
@@ -532,43 +519,42 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "The soft bed is stuffed with premium\nCucco feathers..."
+    - text: "ကThe soft bed is stuffed with premium\nCucco feathers..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: or something.
+    - text: or something.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI think.\nSleep on that, and..."
+    - text: "\nI think.\nSleep on that, and..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Um..."
+    - text: " Um..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Ya know..."
+    - text: " Ya know..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou'll be more energized"
+    - text: "\nYou'll be more energized"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " than usual."
+    - text: " than usual."
     - utf16_bytes:
         - 0

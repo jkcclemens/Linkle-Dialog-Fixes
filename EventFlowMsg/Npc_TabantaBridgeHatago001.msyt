@@ -6,22 +6,21 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Good morning! Welcome to\n"
+    - text: "ȀGood morning! Welcome to\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Bridge Stable
+    - text: Tabantha Bridge Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", home of the\ncutest white goats in all of Hyrule."
+    - text: ", home of the\ncutest white goats in all of Hyrule."
     - utf16_bytes:
         - 0
   talk100:
@@ -31,12 +30,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you need directions, just ask me.\nAny direction you want to know about?"
+    - text: "If you need directions, just ask me.\nAny direction you want to know about?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -45,7 +44,7 @@ entries:
         - 768
         - 0
   "0001":
-    - ascii: About the south.
+    - text: About the south.
     - utf16_bytes:
         - 0
   talk001:
@@ -55,25 +54,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hello! And welcome to\n"
+    - text: "Hello! And welcome to\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Bridge Stable
+    - text: Tabantha Bridge Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", where I'm busy\ncataloging some very important cargo."
+    - text: ", where I'm busy\ncataloging some very important cargo."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: About the west.
+    - text: About the west.
     - utf16_bytes:
         - 0
   talk101:
@@ -83,35 +82,34 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "The east, huh?\nThe east...\nYeah...\n"
+    - text: "The east, huh?\nThe east...\nYeah...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "My aunt always tells me I should travel\nall over while I'm still young...\n\nBut that "
+    - text: "ĀMy aunt always tells me I should travel\nall over while I'm still young...\n\nBut that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Ludfo's Bog "
+    - text: "Ludfo's Bog "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "isn't a place\nanyone should travel to in my opinion.\n\n"
+    - text: "isn't a place\nanyone should travel to in my opinion.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "It's had a constant cover of black storm\nclouds since long before my aunt was\nborn.\nIf you ask me, it's a sign from Hylia\nherself telling us not to go there.\nAnd I don't want to make Hylia angry..."
+    - text: "It's had a constant cover of black storm\nclouds since long before my aunt was\nborn.\nIf you ask me, it's a sign from Hylia\nherself telling us not to go there.\nAnd I don't want to make Hylia angry..."
     - utf16_bytes:
         - 0
   talk111:
@@ -121,56 +119,56 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "South, huh? My aunt used to tell us\nsome crazy stories about that area.\n\nAbout how past "
+    - text: "South, huh? My aunt used to tell us\nsome crazy stories about that area.\n\nAbout how past "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tamio River
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", on\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Satori Mountain
+    - text: Tamio River
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", there lived a "
+    - text: ", on\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: lord
+    - text: Satori Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwith dominion over all living things...\n"
+    - text: ", there lived a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: lord
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nwith dominion over all living things...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2304
-    - ascii: "It's an old legend that she tells the\nchildren before bedtime, even today.\n\nShe also tells them about \"the god who\nwatches over the stables.\"\nPfft..."
+    - text: "It's an old legend that she tells the\nchildren before bedtime, even today.\n\nShe also tells them about \"the god who\nwatches over the stables.\"\nPfft..."
     - utf16_bytes:
         - 0
   talk121:
@@ -179,40 +177,39 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Ah, the west...\n\n\nIf you head west, you'll spot the\nnamesake of our stable, the\n"
+    - text: "ЀAh, the west...\n\n\nIf you head west, you'll spot the\nnamesake of our stable, the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Great Bridge
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nIf you cross the bridge and follow the\nroad, you'll eventually get to"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: " Rito Village"
+    - text: Tabantha Great Bridge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nwhere the Rito people live.\nIt's a REALLY long walk to Rito Village,\nthough, so you'll definitely want to bring\nsome snacks."
+    - text: ".\nIf you cross the bridge and follow the\nroad, you'll eventually get to"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: " Rito Village"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nwhere the Rito people live.\nIt's a REALLY long walk to Rito Village,\nthough, so you'll definitely want to bring\nsome snacks."
     - utf16_bytes:
         - 0
   talk131:
-    - ascii: "Really? Well, be careful."
+    - text: "Really? Well, be careful."
     - utf16_bytes:
         - 14
         - 1
@@ -220,7 +217,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk141:
     - utf16_bytes:
@@ -229,12 +227,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Anything else you want to know about?
+    - text: Anything else you want to know about?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -248,26 +246,25 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Yes, welcome to "
+    - text: "ȀYes, welcome to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Bridge Stable
+    - text: Tabantha Bridge Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nwhere caring for the horses is the most\npressing matter on my plate."
+    - text: ",\nwhere caring for the horses is the most\npressing matter on my plate."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "I'm fine."
+    - text: "I'm fine."
     - utf16_bytes:
         - 0
   talk102:
@@ -277,35 +274,34 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Well, to the east there's..."
+    - text: "Well, to the east there's..."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Ludfo's Bog"
+    - text: "Ludfo's Bog"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nFunny story, actually.\n\nThere used to be a constant cover of \ndark storm clouds that had been there\nlong before even my aunt was born.\n"
+    - text: ".\nFunny story, actually.\n\nThere used to be a constant cover of \ndark storm clouds that had been there\nlong before even my aunt was born.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "But then they suddenly all vanished!\nPraise Hylia!\n\n"
+    - text: "But then they suddenly all vanished!\nPraise Hylia!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm even thinking of taking the horses\nthere on a field trip soon."
+    - text: "ĀI'm even thinking of taking the horses\nthere on a field trip soon."
     - utf16_bytes:
         - 0
   talk122:
@@ -315,28 +311,27 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "But...have you seen that THING?\nThat...that "
+    - text: "But...have you seen that THING?\nThat...that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: creepy bird in the sky
+    - text: creepy bird in the sky
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n"
+    - text: "?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "It suddenly appeared above Rito Village\nand won't go away. \n\nIf you're going there, you should be\ncareful. Who knows what's going on\nthere."
+    - text: "ąIt suddenly appeared above Rito Village\nand won't go away. \n\nIf you're going there, you should be\ncareful. Who knows what's going on\nthere."
     - utf16_bytes:
         - 0
   talk132:
@@ -345,41 +340,39 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: The north?
+    - text: ጄThe north?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Oh, right..."
+    - text: " Oh, right..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "On the other side of Mount Rhoam,\nthere's an odd lad named "
+    - text: "ĀOn the other side of Mount Rhoam,\nthere's an odd lad named "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Konba
+    - text: Konba
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " who\nloves challenging strangers to a race.\nHe must be REALLY bored. It might be\nnice of you to pay him a visit."
+    - text: " who\nloves challenging strangers to a race.\nHe must be REALLY bored. It might be\nnice of you to pay him a visit."
     - utf16_bytes:
         - 0
   talk003:
@@ -389,25 +382,25 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "Welcome to "
+    - text: "Welcome to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Bridge Stable
+    - text: Tabantha Bridge Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nwhere looking at a child's sleeping face\nmakes me happy!"
+    - text: ",\nwhere looking at a child's sleeping face\nmakes me happy!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: About the north...
+    - text: About the north...
     - utf16_bytes:
         - 0
   talk004:
@@ -416,26 +409,25 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Welcome to "
+    - text: "ȀWelcome to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Bridge Stable
+    - text: Tabantha Bridge Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nwhere it's raining nonstop."
+    - text: ",\nwhere it's raining nonstop."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk005:
@@ -445,24 +437,24 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Welcome to "
+    - text: "Welcome to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Bridge Stable
+    - text: Tabantha Bridge Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: About the east.
+    - text: About the east.
     - utf16_bytes:
         - 0

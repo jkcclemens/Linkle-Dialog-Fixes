@@ -6,25 +6,26 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tNo luck! "
+        - 9
+    - text: "No luck! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Nothing's coming up over here!"
+    - text: "Nothing's coming up over here!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk26:
@@ -33,19 +34,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tNo luck over here!"
+        - 9
+    - text: No luck over here!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk10:
@@ -55,31 +57,31 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "Azu!! "
+    - text: "Azu!! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Wanna go see if it's true about the\n"
+    - text: "Wanna go see if it's true about the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: little girl
+    - text: little girl
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Urk!
+    - text: Urk!
     - utf16_bytes:
         - 0
   talk11:
@@ -88,7 +90,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
@@ -99,23 +101,23 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dHmm... "
+    - text: "dHmm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "My ma says I shouldn't get too\nclose"
+    - text: "My ma says I shouldn't get too\nclose"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " to the research lab..."
+    - text: " to the research lab..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   talk12:
@@ -125,17 +127,17 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: Whatcha want?
+    - text: Whatcha want?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Stay outta my way!"
+    - text: " Stay outta my way!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: What?
+    - text: What?
     - utf16_bytes:
         - 0
   talk13:
@@ -145,17 +147,17 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "What?! "
+    - text: "What?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Don't follow me!"
+    - text: "Don't follow me!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Sorry! Sorry!
+    - text: Sorry! Sorry!
     - utf16_bytes:
         - 0
   talk14:
@@ -165,13 +167,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Got more clues today, but they're secret!"
+    - text: "Got more clues today, but they're secret!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nAnd now it's bedtime! I'm going to sleep!"
+    - text: "\nAnd now it's bedtime! I'm going to sleep!"
     - utf16_bytes:
         - 0
   talk15:
@@ -181,7 +183,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Tomorrow it's back to the expedition!"
+    - text: "Tomorrow it's back to the expedition!"
     - utf16_bytes:
         - 0
   talk16:
@@ -190,8 +192,7 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Graaah...
+    - text: ℀Graaah...
     - utf16_bytes:
         - 0
   talk17:
@@ -200,46 +201,45 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "Snnnrrmm... "
+    - text: "℀Snnnrrmm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Zzz... "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "Nnggg... "
+    - text: "Zzz... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nA "
+    - text: "Nnggg... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nA "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: girl from the Sheikah tribe
+    - text: girl from the Sheikah tribe
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk00:
@@ -248,49 +248,48 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I'm talking about a part-time job,\ndon'tcha get it?\n\n"
+    - text: "इI'm talking about a part-time job,\ndon'tcha get it?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: My pop told me
+    - text: My pop told me
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " that the "
+    - text: " that the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: director
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " puts\npeople to work carrying the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: blue flame
+    - text: director
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " puts\npeople to work carrying the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: blue flame
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   talk18:
@@ -300,31 +299,31 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "A "
+    - text: "A "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: girl from the Sheikah tribe
+    - text: girl from the Sheikah tribe
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIs there really one there?"
+    - text: "\nIs there really one there?"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: HYAH!
+    - text: HYAH!
     - utf16_bytes:
         - 0
   talk01:
@@ -333,8 +332,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "If you're holding that now, that means..."
+    - text: "ІIf you're holding that now, that means..."
     - utf16_bytes:
         - 14
         - 1
@@ -342,7 +340,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk19:
     - utf16_bytes:
@@ -351,31 +350,31 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "A "
+    - text: "A "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: girl from the Sheikah tribe
+    - text: girl from the Sheikah tribe
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI don't see any around here..."
+    - text: "\nI don't see any around here..."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Ah!
+    - text: Ah!
     - utf16_bytes:
         - 0
   talk02:
@@ -385,38 +384,38 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "You're doing a part-time job or\nsomething?\n\n"
+    - text: "You're doing a part-time job or\nsomething?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: My pop told me
+    - text: My pop told me
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Granny Purah puts\npeople to work carrying the "
+    - text: " Granny Purah puts\npeople to work carrying the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   near02:
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 0
   talk03:
@@ -426,19 +425,19 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Hey... "
+    - text: "Hey... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "How much do you have on you? "
+    - text: "How much do you have on you? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI wanna work for you!"
+    - text: "\nI wanna work for you!"
     - utf16_bytes:
         - 0
   talk20:
@@ -447,24 +446,24 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: Hey!
+    - text: Hey!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   near03:
-    - ascii: Retreat!
+    - text: Retreat!
     - utf16_bytes:
         - 0
   talk04:
@@ -473,14 +472,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "I wanna work! I wanna work! "
+    - text: "ଇI wanna work! I wanna work! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHow about I work for you?"
+    - text: "\nHow about I work for you?"
     - utf16_bytes:
         - 0
   talk21:
@@ -489,24 +487,24 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: You!
+    - text: You!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   near04:
-    - ascii: Grrr...
+    - text: Grrr...
     - utf16_bytes:
         - 0
   talk22:
@@ -516,13 +514,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "I can't see if you're standing there! "
+    - text: "I can't see if you're standing there! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nMove!"
+    - text: "\nMove!"
     - utf16_bytes:
         - 14
         - 1
@@ -545,7 +543,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Don't try to pull a fast one on me! \nYou have a part-time job, right?"
+    - text: "Don't try to pull a fast one on me! \nYou have a part-time job, right?"
     - utf16_bytes:
         - 0
   talk23:
@@ -555,13 +553,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "I can't see! "
+    - text: "I can't see! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Move!
+    - text: Move!
     - utf16_bytes:
         - 14
         - 1
@@ -583,8 +581,7 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: Hmph!
+    - text: ĈHmph!
     - utf16_bytes:
         - 0
   talk08:
@@ -594,7 +591,7 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "Hey, Azu! How are things over there?!"
+    - text: "Hey, Azu! How are things over there?!"
     - utf16_bytes:
         - 0
   talk25:
@@ -603,46 +600,45 @@ entries:
         - 3
         - 1
         - 2
-        - 2310
-    - ascii: "The "
+    - text: "आThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: girl from the Sheikah tribe
+    - text: girl from the Sheikah tribe
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n\n"
+    - text: "!\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PUm, I mean..."
+    - text: "PUm, I mean..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "If I told you, I wouldn't be much of a spy,\nwould I?"
+    - text: "If I told you, I wouldn't be much of a spy,\nwould I?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Don't make me tell you!"
+    - text: " Don't make me tell you!"
     - utf16_bytes:
         - 0

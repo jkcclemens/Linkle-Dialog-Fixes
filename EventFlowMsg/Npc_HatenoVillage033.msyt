@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh. You're not much for conversation..."
+    - text: "ĀOh. You're not much for conversation..."
     - utf16_bytes:
         - 0
   talk08:
@@ -16,73 +15,68 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᘊHey! This is private property here! Don't\nmake me call..."
+    - text: "ᘊHey! This is private property here! Don't\nmake me call..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: uh...
+    - text: uh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "someone!\n\n"
+    - text: "someone!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "...\n\n\n"
+    - text: "ą...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry. That wasn't very nice of me\nat all..."
+        - 9
+    - text: "I'm sorry. That wasn't very nice of me\nat all..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You're not a weirdo"
-    - utf16_bytes:
-        - 8212
-    - ascii: "I can tell.\nYou're probably a great person to talk to.\n"
+    - text: " You're not a weirdo—I can tell.\nYou're probably a great person to talk to.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "...Oh, no! "
+    - text: "ᐄ...Oh, no! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "There I go again, just talking\nwith no purpose."
+    - text: "There I go again, just talking\nwith no purpose."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I get carried away\nand just don't know when to quit.\nIt really drives my husband crazy when\nI just can't find my point...\n\n"
+    - text: " I get carried away\nand just don't know when to quit.\nIt really drives my husband crazy when\nI just can't find my point...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "I guess... "
+    - text: "ขI guess... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Could you just go somewhere\nelse, please?"
+    - text: "Could you just go somewhere\nelse, please?"
     - utf16_bytes:
         - 0
   talk09:
@@ -92,7 +86,7 @@ entries:
         - 1
         - 2
         - 3584
-    - ascii: "I think I told you to leave, didn't I?"
+    - text: "I think I told you to leave, didn't I?"
     - utf16_bytes:
         - 14
         - 1
@@ -100,7 +94,8 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk30:
     - utf16_bytes:
@@ -108,8 +103,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Please enjoy this apology egg.
+    - text: ĀPlease enjoy this apology egg.
     - utf16_bytes:
         - 0
   talk31:
@@ -119,11 +113,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You seem to really like hanging around\nhere for some reason, huh?"
+    - text: "You seem to really like hanging around\nhere for some reason, huh?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'm helping!"
+    - text: "I'm helping!"
     - utf16_bytes:
         - 0
   talk32:
@@ -132,11 +126,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry for speaking so harshly..."
+        - 9
+    - text: "I'm sorry for speaking so harshly..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   talk20:
@@ -146,11 +141,11 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "But I'm not actually doing any work..."
+    - text: "But I'm not actually doing any work..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "Yeah, I think you did."
+    - text: "Yeah, I think you did."
     - utf16_bytes:
         - 0
   talk21:
@@ -160,11 +155,11 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "I'm going to bed now."
+    - text: "I'm going to bed now."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "I don't think so."
+    - text: "I don't think so."
     - utf16_bytes:
         - 0
   talk22:
@@ -173,18 +168,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "So that means...don't follow me."
+    - text: "ĀSo that means...don't follow me."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nObviously."
+    - text: "\nObviously."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Good work!
+    - text: Good work!
     - utf16_bytes:
         - 0
   talk10:
@@ -193,8 +187,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I thought so. I'm sure I had a good\nreason... Or did I?"
+    - text: "ĀI thought so. I'm sure I had a good\nreason... Or did I?"
     - utf16_bytes:
         - 0
   talk23:
@@ -204,7 +197,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I said \"don't follow me,\" didn't I?"
+    - text: "I said \"don't follow me,\" didn't I?"
     - utf16_bytes:
         - 14
         - 1
@@ -212,7 +205,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk11:
     - utf16_bytes:
@@ -220,14 +214,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Oh, I didn't say that? "
+    - text: "؋Oh, I didn't say that? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Well, I meant to..."
+    - text: "Well, I meant to..."
     - utf16_bytes:
         - 0
   talk24:
@@ -236,14 +229,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "Zzz... "
+    - text: "℀Zzz... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk12:
@@ -253,87 +245,86 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "Wait, did you answer the question,\nor did I?"
+    - text: "Wait, did you answer the question,\nor did I?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
-    - ascii: "\n\n"
+    - text: "촁\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2304
-    - ascii: "Well, you'll be happy with your purchase!\nIt's chock-full of nutrients,"
+    - text: "Well, you'll be happy with your purchase!\nIt's chock-full of nutrients,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so please\nuse it in all sorts of cooking.\n"
+    - text: " so please\nuse it in all sorts of cooking.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1541
-    - ascii: "...Oh, darn it."
+    - text: "...Oh, darn it."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I just gave away that egg"
+    - text: " I just gave away that egg"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI was supposed to sell at the "
+    - text: "\nI was supposed to sell at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "general\nstore"
+    - text: "general\nstore"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "again!\n"
+    - text: "again!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2304
-    - ascii: "I'm such a softy. I can't help it!\n\n\n"
+    - text: "I'm such a softy. I can't help it!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ᘊIt just doesn't seem right to make money\noff of it. "
+    - text: "ᘊIt just doesn't seem right to make money\noff of it. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: But tell that to my husband!
+    - text: But tell that to my husband!
     - utf16_bytes:
         - 0
   talk25:
@@ -342,36 +333,35 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'd love to give you another "
+    - text: "ĀI'd love to give you another "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bird egg
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\nBut then I'd have some explaining to do\nat home.\nWe sell 'em to that shop "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: East Wind
+    - text: bird egg
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nthough. So look for them there."
+    - text: "...\nBut then I'd have some explaining to do\nat home.\nWe sell 'em to that shop "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: East Wind
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nthough. So look for them there."
     - utf16_bytes:
         - 0
   talk00:
@@ -381,35 +371,35 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "That "
+    - text: "That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "... The "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: lab director
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was\ncarrying something like that before..."
+    - text: "... The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: lab director
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " was\ncarrying something like that before..."
     - utf16_bytes:
         - 14
         - 1
@@ -417,7 +407,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk13:
     - utf16_bytes:
@@ -426,27 +417,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Our "
+    - text: "Our "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "bird eggs "
+    - text: "bird eggs "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "are chock-full of\nnutrients, "
+    - text: "are chock-full of\nnutrients, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and you can cook them with all\nsorts of different ingredients!"
+    - text: "and you can cook them with all\nsorts of different ingredients!"
     - utf16_bytes:
         - 0
   talk26:
@@ -455,15 +446,13 @@ entries:
         - 3
         - 1
         - 2
-        - 6656
-    - ascii: "Just more cleaning today...\n\n\n"
+    - text: "ᨀJust more cleaning today...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "...\n\n\n...\n\n\nCan I help you with something?"
+    - text: "ċ...\n\n\n...\n\n\nCan I help you with something?"
     - utf16_bytes:
         - 0
   talk01:
@@ -473,7 +462,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Oh, really? Well look at you! Nice girls\nlike you get a treat!"
+    - text: "Oh, really? Well look at you! Nice girls\nlike you get a treat!"
     - utf16_bytes:
         - 0
   talk14:
@@ -483,7 +472,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, hullo..."
+    - text: "Oh, hullo..."
     - utf16_bytes:
         - 0
   talk27:
@@ -492,14 +481,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Um...I don't really have anything to\ntalk about, so..."
+    - text: "ĀUm...I don't really have anything to\ntalk about, so..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Maybe we're done here?"
+    - text: " Maybe we're done here?"
     - utf16_bytes:
         - 0
   talk02:
@@ -508,8 +496,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "But this isn't ol' Purah's house, I'm\nsorry to say."
+    - text: "ĀBut this isn't ol' Purah's house, I'm\nsorry to say."
     - utf16_bytes:
         - 0
   talk15:
@@ -519,7 +506,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Mornin'."
+    - text: "Mornin'."
     - utf16_bytes:
         - 0
   talk28:
@@ -528,8 +515,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5122
-    - ascii: "Don't you have somewhere better to be?"
+    - text: "ᐂDon't you have somewhere better to be?"
     - utf16_bytes:
         - 0
   talk03:
@@ -538,14 +524,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: But
+    - text: ĀBut
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " this isn't the director's house,\nI'm afraid."
+    - text: " this isn't the director's house,\nI'm afraid."
     - utf16_bytes:
         - 0
   talk16:
@@ -555,13 +540,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Oh...
+    - text: Oh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "yes, hullo."
+    - text: "yes, hullo."
     - utf16_bytes:
         - 0
   talk29:
@@ -570,21 +555,20 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh! Everyone on the farm has gotten\nused to scrambled eggs for breakfast...\nKnow why?\nWell, I married into this poultry farm a\nfew years ago, "
+    - text: "ĀOh! Everyone on the farm has gotten\nused to scrambled eggs for breakfast...\nKnow why?\nWell, I married into this poultry farm a\nfew years ago, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but I still drop eggs like\nthey're dipped in butter.\nSo if you guessed that it's a rare thing\nfor an egg to survive in my hands, you\nguessed right!\n"
+    - text: "but I still drop eggs like\nthey're dipped in butter.\nSo if you guessed that it's a rare thing\nfor an egg to survive in my hands, you\nguessed right!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "Congratulations! For your winning guess,\nyou get this egg I haven't smashed to\npieces yet! Yay!"
+    - text: "Congratulations! For your winning guess,\nyou get this egg I haven't smashed to\npieces yet! Yay!"
     - utf16_bytes:
         - 0
   talk04:
@@ -593,8 +577,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Shouldn't you...hurry?"
+    - text: "ĀShouldn't you...hurry?"
     - utf16_bytes:
         - 0
   talk17:
@@ -604,7 +587,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Evenin'."
+    - text: "Evenin'."
     - utf16_bytes:
         - 0
   talk05:
@@ -613,42 +596,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That "
+    - text: "ЀThat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You should get it to\nthe"
+    - text: " You should get it to\nthe"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " lab"
+    - text: " lab"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " quickly."
+    - text: " quickly."
     - utf16_bytes:
         - 0
   talk06:
@@ -662,21 +644,20 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hateno Ancient Tech Lab "
+    - text: "ĀHateno Ancient Tech Lab "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is
+    - text: is
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " over at the\ntop of the closest hill here."
+    - text: " over at the\ntop of the closest hill here."
     - utf16_bytes:
         - 0
   talk19:
@@ -685,8 +666,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I have to clean the yard today, so I'm\nwaiting for it to clear up a bit."
+    - text: "ĀI have to clean the yard today, so I'm\nwaiting for it to clear up a bit."
     - utf16_bytes:
         - 14
         - 1
@@ -694,5 +674,6 @@ entries:
         - 6
         - 4
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Did you get wet out in the rain?
+    - text: Did you get wet out in the rain?
     - utf16_bytes:
         - 0
   talk11:
@@ -17,7 +17,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Only Stalkoblins have reason to be up\nthis late, traveler."
+    - text: "Only Stalkoblins have reason to be up\nthis late, traveler."
     - utf16_bytes:
         - 0
   talk12:
@@ -27,11 +27,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Thanks for stopping by.
+    - text: Thanks for stopping by.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Until morning.
+    - text: Until morning.
     - utf16_bytes:
         - 0
   talk13:
@@ -40,32 +40,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "This is "
+    - text: "ĀThis is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Swallow's Roost"
+    - text: "Swallow's Roost"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", Rito Village's\npremiere"
-    - utf16_bytes:
-        - 8212
-    - ascii: and only
-    - utf16_bytes:
-        - 8212
-    - ascii: inn.
+    - text: ", Rito Village's\npremiere—and only—inn."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Until noon.
+    - text: Until noon.
     - utf16_bytes:
         - 0
   talk14:
@@ -74,18 +67,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: All right. I will wake you come morning.
+    - text: ĀAll right. I will wake you come morning.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nSweet dreams."
+    - text: "\nSweet dreams."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Until night.
+    - text: Until night.
     - utf16_bytes:
         - 0
   talk15:
@@ -94,18 +86,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: All right. I will wake you up at noon.
+    - text: ĀAll right. I will wake you up at noon.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nPleasant dreams."
+    - text: "\nPleasant dreams."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "Actually, never mind."
+    - text: "Actually, never mind."
     - utf16_bytes:
         - 0
   talk16:
@@ -114,18 +105,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: All right. I will wake you come nighttime.
+    - text: ĀAll right. I will wake you come nighttime.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nRest up until then."
+    - text: "\nRest up until then."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Standard bed.
+    - text: Standard bed.
     - utf16_bytes:
         - 0
   talk17:
@@ -135,17 +125,17 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: Good morning!
+    - text: Good morning!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Did you sleep well on the\nRito-down bed?"
+    - text: " Did you sleep well on the\nRito-down bed?"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Rito-down bed.
+    - text: Rito-down bed.
     - utf16_bytes:
         - 0
   talk00:
@@ -154,47 +144,46 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "A standard bed will run you "
+    - text: "ĀA standard bed will run you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nA Rito-down bed will cost you\n"
+    - text: "\nA Rito-down bed will cost you\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 80 rupees
+    - text: 80 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 6
         - 7
@@ -209,21 +198,21 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: How was the Rito-down bed?
+    - text: How was the Rito-down bed?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nFeeling fully rested?"
+    - text: "\nFeeling fully rested?"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Welcome!
+    - text: Welcome!
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Rito-down bed?
+    - text: Rito-down bed?
     - utf16_bytes:
         - 0
   talk01:
@@ -232,14 +221,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: All right.
+    - text: ĀAll right.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nStop by again whenever you are feeling\ntired."
+    - text: "\nStop by again whenever you are feeling\ntired."
     - utf16_bytes:
         - 0
   talk19:
@@ -249,13 +237,13 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "Night has already fallen,"
+    - text: "Night has already fallen,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " though I do not\nblame you for sleeping in.\nThat Rito-down bed is hard to beat."
+    - text: " though I do not\nblame you for sleeping in.\nThat Rito-down bed is hard to beat."
     - utf16_bytes:
         - 0
   talk02:
@@ -264,21 +252,19 @@ entries:
         - 3
         - 1
         - 2
-        - 2059
-    - ascii: Hmm?
+    - text: ࠋHmm?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Looks like you are short on\nrupees.\n\n"
+    - text: " Looks like you are short on\nrupees.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Come back after you save up.
+    - text: ĀCome back after you save up.
     - utf16_bytes:
         - 0
   talk03:
@@ -287,13 +273,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: How late would you like to sleep?
+    - text: ĀHow late would you like to sleep?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -307,40 +292,37 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The Rito-down bed is made using only\ngenuine Rito feathers.\n\nI will warn you"
-    - utf16_bytes:
-        - 8212
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "sleep a night on this\nbed,"
+    - text: "ЀThe Rito-down bed is made using only\ngenuine Rito feathers.\n\nI will warn you—"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " and you will never want to sleep on\na stable bed ever again!\n"
+    - text: "sleep a night on this\nbed,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " and you will never want to sleep on\na stable bed ever again!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Should you not wake up full of energy in\nthe morning,"
+    - text: "इShould you not wake up full of energy in\nthe morning,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'll eat my own tailfeathers!"
+    - text: " I'll eat my own tailfeathers!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nGUARANTEED!"
+    - text: "\nGUARANTEED!"
     - utf16_bytes:
         - 0
   talk04:
@@ -350,7 +332,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: All right. Take care.
+    - text: All right. Take care.
     - utf16_bytes:
         - 0
   talk05:
@@ -359,14 +341,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Good morning.
+    - text: ĀGood morning.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Hope you slept well."
+    - text: " Hope you slept well."
     - utf16_bytes:
         - 0
   talk06:
@@ -375,14 +356,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Hello.
+    - text: ĀHello.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The sun has been up for quite\nsome time."
+    - text: " The sun has been up for quite\nsome time."
     - utf16_bytes:
         - 0
   talk07:
@@ -391,14 +371,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Did you sleep well?
+    - text: ĀDid you sleep well?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou must have a reason to get up in the\nmiddle of the night like this..."
+    - text: "\nYou must have a reason to get up in the\nmiddle of the night like this..."
     - utf16_bytes:
         - 0
   talk08:
@@ -408,6 +387,6 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It must have been tough braving this\nweather."
+    - text: "It must have been tough braving this\nweather."
     - utf16_bytes:
         - 0

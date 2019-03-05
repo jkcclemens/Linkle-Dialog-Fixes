@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Kakariko Village is a small village you can\nreach by following the road north\nfrom here. I came through there earlier.\nIt's surrounded by tall mountains, and\neveryone there wears the same clothing.\n\nIt's a strange little place, sort of like the\noriginal hidden village..."
+    - text: "ЀKakariko Village is a small village you can\nreach by following the road north\nfrom here. I came through there earlier.\nIt's surrounded by tall mountains, and\neveryone there wears the same clothing.\n\nIt's a strange little place, sort of like the\noriginal hidden village..."
     - utf16_bytes:
         - 0
   ByTheWay00:
@@ -17,14 +16,14 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: "Oh, you're going already?\n\n\n"
+    - text: "Oh, you're going already?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Then I think I'll kill some time admiring\nthis shrine."
+    - text: "Then I think I'll kill some time admiring\nthis shrine."
     - utf16_bytes:
         - 0
   talk10:
@@ -33,12 +32,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The lightnin' in Hyrule tends to strike\nmetal objects...\n\nSo mind the steel, sonny!"
+    - text: "ЀThe lightnin' in Hyrule tends to strike\nmetal objects...\n\nSo mind the steel, sonny!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Elixirs?
+    - text: Elixirs?
     - utf16_bytes:
         - 0
   talk11:
@@ -47,61 +45,59 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Using a "
+    - text: "ĀUsing a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "hasty elixir "
+    - text: "hasty elixir "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "increases your run\nspeed, so I use it to escape from\nenemies or any time I need to hurry.\n"
+    - text: "increases your run\nspeed, so I use it to escape from\nenemies or any time I need to hurry.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "The recipe is just "
+    - text: "इThe recipe is just "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "hightail lizard "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: monster parts
+    - text: "hightail lizard "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", so I usually have a\nstock of ten or so on hand."
+    - text: "and\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: monster parts
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", so I usually have a\nstock of ten or so on hand."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: I know all about them.
+    - text: I know all about them.
     - utf16_bytes:
         - 0
   talk12:
@@ -110,57 +106,55 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nThey're no good for refilling your health,\nbut they can have a lot of unique\neffects...\nSome elixirs can increase the speed you\nmove... Others raise your resistance to\nextreme temperatures.\n"
+    - text: "ЀYou can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nThey're no good for refilling your health,\nbut they can have a lot of unique\neffects...\nSome elixirs can increase the speed you\nmove... Others raise your resistance to\nextreme temperatures.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I use "
+    - text: "इI use "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "hasty Elixirs "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "a lot. They let you\nmove faster.\n\nYou can make them with "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: hightail lizards
+    - text: "hasty Elixirs "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nand "
+    - text: "a lot. They let you\nmove faster.\n\nYou can make them with "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: monster parts
+    - text: hightail lizards
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". I always make sure to\nhave ten or so on hand."
+    - text: "\nand "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: monster parts
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". I always make sure to\nhave ten or so on hand."
     - utf16_bytes:
         - 0
   talk13:
@@ -169,28 +163,26 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nMost of them are no good for refilling\nyour health, but they can have a lot of\nunique effects...\nSome elixirs can increase your speed.\nOthers raise your resistance to extreme\ntemperatures.\n"
+    - text: "ЀYou can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nMost of them are no good for refilling\nyour health, but they can have a lot of\nunique effects...\nSome elixirs can increase your speed.\nOthers raise your resistance to extreme\ntemperatures.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: "I'm actually impressed that you've made\nit this far without any knowledge of\nelixirs.\n"
+    - text: "ᄋI'm actually impressed that you've made\nit this far without any knowledge of\nelixirs.\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "There's no way I could have done that..."
+    - text: "There's no way I could have done that..."
     - utf16_bytes:
         - 14
         - 0
@@ -201,11 +193,11 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Kakariko Village?
+    - text: Kakariko Village?
     - utf16_bytes:
         - 0
   talk14:
@@ -214,25 +206,23 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "..."
+    - text: Ā...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "Just so you know, I'm not giving you\nany more elixirs."
+    - text: "؆Just so you know, I'm not giving you\nany more elixirs."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "Ahh, I see..."
+    - text: "Ahh, I see..."
     - utf16_bytes:
         - 0
   talk15:
@@ -241,21 +231,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "..."
+    - text: Ā...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "Just so you know, I'm not giving you\nany elixirs."
+    - text: "؆Just so you know, I'm not giving you\nany elixirs."
     - utf16_bytes:
         - 0
   talk00:
@@ -265,49 +253,48 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You know, with how peaceful it is around\nhere, it's sometimes easy to forget that\nthe world almost ended years ago.\n"
+    - text: "You know, with how peaceful it is around\nhere, it's sometimes easy to forget that\nthe world almost ended years ago.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: "But there are still monsters wandering\naround, and the area near "
+    - text: "ᄋBut there are still monsters wandering\naround, and the area near "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Castle
+    - text: Hyrule Castle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nis especially dangerous.\n"
+    - text: "\nis especially dangerous.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you're going to be traveling, you\nshould know a thing or two about\n"
+    - text: "If you're going to be traveling, you\nshould know a thing or two about\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: elixirs
+    - text: elixirs
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -315,7 +302,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk01:
     - utf16_bytes:
@@ -323,56 +311,54 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That "
+    - text: "ЀThat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "shrine "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "only recently started\nglowing, but it's been there for\nsomething like 10,000 years.\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 4363
-    - ascii: "It sometimes feels like there's a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: shrine
+    - text: "shrine "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nsleeping behind every hill, there's so\nmany of them.\n"
+    - text: "only recently started\nglowing, but it's been there for\nsomething like 10,000 years.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᄋIt sometimes feels like there's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: shrine
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nsleeping behind every hill, there's so\nmany of them.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Archaeologists get pretty fired up\nhunting down each one of them, but I\nhaven't got time for mysteries...\nStill, looking at that glowing light..."
+    - text: "Archaeologists get pretty fired up\nhunting down each one of them, but I\nhaven't got time for mysteries...\nStill, looking at that glowing light..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nyou do start to see something romantic\nabout the whole endeavor."
+    - text: "\nyou do start to see something romantic\nabout the whole endeavor."
     - utf16_bytes:
         - 14
         - 5
@@ -380,7 +366,7 @@ entries:
         - 0
         - 0
   near00:
-    - ascii: Ahh. This is the life.
+    - text: Ahh. This is the life.
     - utf16_bytes:
         - 0
   talk02:
@@ -389,26 +375,24 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nMost of them are no good for refilling\nyour health, but they can have a lot of\nunique effects...\nSome elixirs can increase your speed.\nOthers raise your resistance to extreme\ntemperatures.\n"
+    - text: "ЀYou can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nMost of them are no good for refilling\nyour health, but they can have a lot of\nunique effects...\nSome elixirs can increase your speed.\nOthers raise your resistance to extreme\ntemperatures.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: "I'm actually impressed that you've made\nit this far without any knowledge of\nelixirs.\n"
+    - text: "ᄋI'm actually impressed that you've made\nit this far without any knowledge of\nelixirs.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I can't have it on my conscience if\nsomething happens to you from here,\nso I'll give you one of mine."
+    - text: "I can't have it on my conscience if\nsomething happens to you from here,\nso I'll give you one of mine."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: "It's so nice here..."
+    - text: "It's so nice here..."
     - utf16_bytes:
         - 0
   talk03:
@@ -417,24 +401,23 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Oh...
+    - text: इOh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Uh..."
+    - text: " Uh..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Have you noticed it's mostly\ntwins here at this stable?\n\nIt's kind of creeping me out."
+    - text: " Have you noticed it's mostly\ntwins here at this stable?\n\nIt's kind of creeping me out."
     - utf16_bytes:
         - 0
   near02:
-    - ascii: "Oh, yeah..."
+    - text: "Oh, yeah..."
     - utf16_bytes:
         - 0
   talk04:
@@ -444,49 +427,48 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This area is nice and quiet...\n\n\n"
+    - text: "This area is nice and quiet...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: "But there are still monsters wandering\naround, and the area near "
+    - text: "ᄋBut there are still monsters wandering\naround, and the area near "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Castle
+    - text: Hyrule Castle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nis especially dangerous.\n"
+    - text: "\nis especially dangerous.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you're going to be traveling, you\nshould know a thing or two about\n"
+    - text: "If you're going to be traveling, you\nshould know a thing or two about\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: elixirs
+    - text: elixirs
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -494,7 +476,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk05:
     - utf16_bytes:
@@ -502,50 +485,48 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That "
+    - text: "ЀThat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "shrine "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "has been there for\nsomething like 10,000 years.\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 4363
-    - ascii: "It sometimes feels like there's a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: shrine
+    - text: "shrine "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nsleeping behind every hill, there's so\nmany of them.\n"
+    - text: "has been there for\nsomething like 10,000 years.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᄋIt sometimes feels like there's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: shrine
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nsleeping behind every hill, there's so\nmany of them.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Archaeologists get pretty fired up\nhunting down each one of them, but I\nhaven't got time for mysteries...\nI'll leave that kind of adventure to\nyounger folks."
+    - text: "Archaeologists get pretty fired up\nhunting down each one of them, but I\nhaven't got time for mysteries...\nI'll leave that kind of adventure to\nyounger folks."
     - utf16_bytes:
         - 0
   Talk100:
@@ -554,22 +535,21 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "I was thinking about taking one of those\n"
+    - text: "ጄI was thinking about taking one of those\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: apples
+    - text: apples
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Apparently anything lying around\nhere is up for grabs."
+    - text: ". Apparently anything lying around\nhere is up for grabs."
     - utf16_bytes:
         - 0
   First_Greeting00:
@@ -578,8 +558,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Hello there. Don't see a whole lot of\ntravelers passing through here. "
+    - text: "ጀHello there. Don't see a whole lot of\ntravelers passing through here. "
     - utf16_bytes:
         - 0
   talk06:
@@ -589,13 +568,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: Ahh... I am powerfully hungry...
+    - text: Ahh... I am powerfully hungry...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " If I don't\neat soon, I may fall down right here."
+    - text: " If I don't\neat soon, I may fall down right here."
     - utf16_bytes:
         - 0
   Talk101:
@@ -604,22 +583,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1280
-    - ascii: "The guy at the stable said we could\ntake those "
+    - text: "ԀThe guy at the stable said we could\ntake those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "apples "
+    - text: "apples "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: if we want them.
+    - text: if we want them.
     - utf16_bytes:
         - 0
   First_Greeting01:
@@ -628,8 +606,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Good evening. Don't see a whole lot of\ntravelers passing through here. "
+    - text: "ጀGood evening. Don't see a whole lot of\ntravelers passing through here. "
     - utf16_bytes:
         - 0
   talk07:
@@ -638,14 +615,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ഉAww, dang, it started raining!\n\n\n"
+    - text: "ഉAww, dang, it started raining!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The lightning in Hyrule tends to strike\nmetal objects...\n\nYou watch yourself if you go wandering\naround with a metal weapon."
+    - text: "The lightning in Hyrule tends to strike\nmetal objects...\n\nYou watch yourself if you go wandering\naround with a metal weapon."
     - utf16_bytes:
         - 0
   Talk102:
@@ -654,22 +631,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1280
-    - ascii: "I ate one of those "
+    - text: "ԀI ate one of those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: apples
+    - text: apples
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". It was nice \nand crisp. Don't you hate it when you\nbite into a soft apple?"
+    - text: ". It was nice \nand crisp. Don't you hate it when you\nbite into a soft apple?"
     - utf16_bytes:
         - 0
   First_Greeting02:
@@ -678,8 +654,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Good morning. Don't see a whole lot of\ntravelers passing through here. "
+    - text: "ጀGood morning. Don't see a whole lot of\ntravelers passing through here. "
     - utf16_bytes:
         - 0
   talk08:
@@ -689,21 +664,20 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "I wish this rain would take a hint and\nlay off for a while...\n\n"
+    - text: "I wish this rain would take a hint and\nlay off for a while...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The folks in Kakariko Village have really\namazing clothes that let them work out in\nthe rain with no problem. Amazing!\n"
+    - text: "The folks in Kakariko Village have really\namazing clothes that let them work out in\nthe rain with no problem. Amazing!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4357
-    - ascii: "But only the Sheikah people can wear\n'em, so they won't sell us any..."
+    - text: "ᄅBut only the Sheikah people can wear\n'em, so they won't sell us any..."
     - utf16_bytes:
         - 14
         - 1
@@ -711,7 +685,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk103:
     - utf16_bytes:
@@ -720,20 +695,20 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "If the "
+    - text: "If the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "apples "
+    - text: "apples "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "run out, the children will go\npick some more. They told me to take as\nmany as I want."
+    - text: "run out, the children will go\npick some more. They told me to take as\nmany as I want."
     - utf16_bytes:
         - 0

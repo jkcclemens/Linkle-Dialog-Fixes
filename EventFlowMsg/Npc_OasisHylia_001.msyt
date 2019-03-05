@@ -1,11 +1,11 @@
 ---
 entries:
   "0001":
-    - ascii: "Don't drink too much."
+    - text: "Don't drink too much."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Where is it?
+    - text: Where is it?
     - utf16_bytes:
         - 0
   Talk_20:
@@ -14,18 +14,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Oh, don't worry!"
+    - text: "ЁOh, don't worry!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThis is just water, actually..."
+    - text: "\nThis is just water, actually..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk_10:
@@ -35,32 +34,32 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Oh, darn... What was it..."
+    - text: "Oh, darn... What was it..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nGood-bye... Good-bye..."
+    - text: "\nGood-bye... Good-bye..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Sav...\n\n"
+    - text: " Sav...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: Oh!
+    - text: Oh!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Sav'orq!"
+    - text: " Sav'orq!"
     - utf16_bytes:
         - 0
   Talk_01:
@@ -69,24 +68,19 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: Good morning!
+    - text: ȇGood morning!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nNo, wait"
-    - utf16_bytes:
-        - 8212
-    - ascii: "I mean...sav'otta!"
+    - text: "\nNo, wait—I mean...sav'otta!"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "\n\nGerudo words... Gotta practice..."
+    - text: "촙\n\nGerudo words... Gotta practice..."
     - utf16_bytes:
         - 0
   Talk_11:
@@ -100,19 +94,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PMushrooms that only beautiful people can see...
+    - text: PMushrooms that only beautiful people can see...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI think...maybe I'm starting to see something?"
+    - text: "\nI think...maybe I'm starting to see something?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_02:
@@ -122,34 +116,34 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Ahhhh!
+    - text: Ahhhh!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This really hits the spot! Nothing\nlike a cool drink to take some of the\nedge off the heat.\n"
+    - text: " This really hits the spot! Nothing\nlike a cool drink to take some of the\nedge off the heat.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "All of the drinks here are made using ice\nfrom the nearby "
+    - text: "All of the drinks here are made using ice\nfrom the nearby "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: icehouse
+    - text: icehouse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nThat's why we're able to have ice-cold\ndrinks, even in the middle of the desert!"
+    - text: ".\n\nThat's why we're able to have ice-cold\ndrinks, even in the middle of the desert!"
     - utf16_bytes:
         - 14
         - 1
@@ -157,7 +151,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_12:
     - utf16_bytes:
@@ -165,8 +160,7 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: "Ah, aren't those the clothes sold at\nFashion Passion? I was thinking about\nbuying some myself...\nHow do they feel? Comfy?\n"
+    - text: "ȇAh, aren't those the clothes sold at\nFashion Passion? I was thinking about\nbuying some myself...\nHow do they feel? Comfy?\n"
     - utf16_bytes:
         - 0
   Talk_03:
@@ -175,26 +169,26 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: The accessories here sure are pretty...
+    - text: The accessories here sure are pretty...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nBut I don't have any of the materials to trade, and\nbuying one outright would be so expensive...\nI guess it's just not time for me to own one..."
+    - text: "\nBut I don't have any of the materials to trade, and\nbuying one outright would be so expensive...\nI guess it's just not time for me to own one..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_13:
@@ -204,10 +198,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "You are! I knew it!\n\n\nIt's really impressive"
-    - utf16_bytes:
-        - 8212
-    - ascii: "you getting in\nhere without anyone else noticing!\n\nDon't need to worry. I won't tell a soul.\nJust a little secret between us Hylian\nvai, right? Hehehe."
+    - text: "You are! I knew it!\n\n\nIt's really impressive—you getting in\nhere without anyone else noticing!\n\nDon't need to worry. I won't tell a soul.\nJust a little secret between us Hylian\nvai, right? Hehehe."
     - utf16_bytes:
         - 0
   Talk_04:
@@ -221,41 +212,41 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Chillshrooms
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " are great, but the nights here are so\ncold... Maybe I should get some "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "sunshrooms "
+    - text: Chillshrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\ninstead..."
+    - text: " are great, but the nights here are so\ncold... Maybe I should get some "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "sunshrooms "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\ninstead..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_14:
@@ -264,8 +255,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Might as well learn as much of the\nGerudo language as I can while I'm here,\nright?"
+    - text: "ЁMight as well learn as much of the\nGerudo language as I can while I'm here,\nright?"
     - utf16_bytes:
         - 0
   Talk_05:
@@ -274,44 +264,43 @@ entries:
         - 3
         - 1
         - 2
-        - 7175
-    - ascii: "Sav'aaq!"
+    - text: "ᰇSav'aaq!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "I hope that was \"hello\"..."
+    - text: "ċI hope that was \"hello\"..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1031
+    - text: Ї
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dOh, I really like those clothes. They\nlook nice and cool in this hot weather.\nMaybe I should buy some, too..."
+    - text: "dOh, I really like those clothes. They\nlook nice and cool in this hot weather.\nMaybe I should buy some, too..."
     - utf16_bytes:
         - 0
   Talk_15:
@@ -320,36 +309,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The name of this drink is "
+    - text: "ЀThe name of this drink is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Noble Pursuit
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nIt's the signature product of this store.\n\nIt really pairs wonderfully with ice from\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: icehouse
+    - text: Noble Pursuit
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ".\nIt's the signature product of this store.\n\nIt really pairs wonderfully with ice from\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: icehouse
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -357,7 +345,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_06:
     - utf16_bytes:
@@ -370,26 +359,25 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "PUm... What was \"good evening\" again?"
+    - text: "PUm... What was \"good evening\" again?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nOh!"
+    - text: "\nOh!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n"
+    - text: "d\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 7431
-    - ascii: "Sav'saaba! Have you been to the\ncanteen yet? Anyone who comes to\nGerudo Town absolutely must go there!"
+    - text: "ᴇSav'saaba! Have you been to the\ncanteen yet? Anyone who comes to\nGerudo Town absolutely must go there!"
     - utf16_bytes:
         - 0
   Talk_16:
@@ -403,13 +391,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "PHehe, I have to say... You really make a convincing\ngirl... I know your secret, and I'm still fooled every\ntime you walk up!"
+    - text: "PHehe, I have to say... You really make a convincing\ngirl... I know your secret, and I'm still fooled every\ntime you walk up!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_17:
@@ -418,38 +406,38 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Huh? "
+    - text: "Huh? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "This is an accessory shop, isn't it?"
+    - text: "This is an accessory shop, isn't it?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI don't see any accessories on display."
+    - text: "\nI don't see any accessories on display."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAre they not open yet?"
+    - text: "\nAre they not open yet?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_07:
@@ -458,43 +446,42 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "The "
+    - text: "ЁThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: icehouse
+    - text: icehouse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is an ice depository that\nwas made by digging a hole in the\nground.\n"
+    - text: " is an ice depository that\nwas made by digging a hole in the\nground.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "It sounds like they cut ice from the\nnearby "
+    - text: "It sounds like they cut ice from the\nnearby "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Highlands
+    - text: Gerudo Highlands
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", take it \nthere, and then store it."
+    - text: ", take it \nthere, and then store it."
     - utf16_bytes:
         - 14
         - 1
@@ -502,7 +489,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_18:
     - utf16_bytes:
@@ -510,7 +498,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI came here to drink the specialty,\nNoble Pursuit, but apparently they can't\nmake it because they're out of ice.\nThey could get ice from the icehouse,\nbut that'd leave the canteen unstaffed..."
+        - 9
+    - text: "I came here to drink the specialty,\nNoble Pursuit, but apparently they can't\nmake it because they're out of ice.\nThey could get ice from the icehouse,\nbut that'd leave the canteen unstaffed..."
     - utf16_bytes:
         - 14
         - 1
@@ -518,7 +507,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_08:
     - utf16_bytes:
@@ -527,7 +517,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh, I'm fine! I'm only gonna have\none more."
+    - text: "Oh, I'm fine! I'm only gonna have\none more."
     - utf16_bytes:
         - 0
   Talk_19:
@@ -536,19 +526,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ဉAhhh
+    - text: ဉAhhh
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "... It'd be nice if someone would\ngo to the icehouse and get some ice."
+    - text: "... It'd be nice if someone would\ngo to the icehouse and get some ice."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI really hope that happens soon..."
+    - text: "\nI really hope that happens soon..."
     - utf16_bytes:
         - 14
         - 1
@@ -556,7 +546,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_09:
     - utf16_bytes:
@@ -564,25 +555,24 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Go out the main gate and head left.\nFirst you'll see some ruins... Just go\npast them and you'll see the "
+    - text: "ЁGo out the main gate and head left.\nFirst you'll see some ruins... Just go\npast them and you'll see the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: icehouse
+    - text: icehouse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Icehouse?
+    - text: Icehouse?
     - utf16_bytes:
         - 0

@@ -7,27 +7,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm headed toward"
+    - text: "I'm headed toward"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " the "
+    - text: " the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Faron Grasslands
+    - text: Faron Grasslands
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Talk15:
@@ -37,13 +37,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: I believe it too.
+    - text: I believe it too.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I have to believe, in my\nheart, that I'll see my friend again."
+    - text: " I have to believe, in my\nheart, that I'll see my friend again."
     - utf16_bytes:
         - 0
   Talk16:
@@ -53,13 +53,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: How could you be so cruel...
+    - text: How could you be so cruel...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I have to\nhold out hope, even if you don't."
+    - text: " I have to\nhold out hope, even if you don't."
     - utf16_bytes:
         - 0
   Talk17:
@@ -68,8 +68,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: I knew it was real! I knew it!
+    - text: इI knew it was real! I knew it!
     - utf16_bytes:
         - 0
   Talk18:
@@ -78,41 +77,39 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "You know, the rumor..."
+    - text: "इYou know, the rumor..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " About the\n"
+    - text: " About the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "fountain with the power to revive lost\nhorses"
+    - text: "fountain with the power to revive lost\nhorses"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I heard it from Perosa over there, but she\nwasn't sure about the exact location."
+    - text: "ĀI heard it from Perosa over there, but she\nwasn't sure about the exact location."
     - utf16_bytes:
         - 0
   Talk19:
@@ -122,13 +119,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I see you've been out on the road too."
+    - text: "I see you've been out on the road too."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhat brings you here?"
+    - text: "\nWhat brings you here?"
     - utf16_bytes:
         - 14
         - 1
@@ -136,7 +133,8 @@ entries:
         - 6
         - 7
         - 8
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk20:
     - utf16_bytes:
@@ -145,34 +143,34 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ah, I see. Well, I love it here. There are\nso many horses around. It's just so\ndelightful.\nYou know, I heard a rumor"
+    - text: "Ah, I see. Well, I love it here. There are\nso many horses around. It's just so\ndelightful.\nYou know, I heard a rumor"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " that there's a\n"
+    - text: " that there's a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "fountain near here where you can revive\nlost horses"
+    - text: "fountain near here where you can revive\nlost horses"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "That's why I traveled all the way here. I...\nI want to be reunited with a dear friend,\na horse I lost a long time ago..."
+    - text: "That's why I traveled all the way here. I...\nI want to be reunited with a dear friend,\na horse I lost a long time ago..."
     - utf16_bytes:
         - 0
   Talk21:
@@ -182,27 +180,27 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: You too?
+    - text: You too?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm so sorry to hear that...\n\n\nI'm here for the same reason. I heard the\nrumor that there's a "
+    - text: " I'm so sorry to hear that...\n\n\nI'm here for the same reason. I heard the\nrumor that there's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "fountain where you\ncan revive lost horses"
+    - text: "fountain where you\ncan revive lost horses"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". I hope I find it..."
+    - text: ". I hope I find it..."
     - utf16_bytes:
         - 0
   Talk22:
@@ -212,21 +210,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That "
+    - text: "That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fountain that revives horses
+    - text: fountain that revives horses
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is\nsupposed to be somewhere near here."
+    - text: " is\nsupposed to be somewhere near here."
     - utf16_bytes:
         - 0
   Talk23:
@@ -236,13 +234,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well,"
+    - text: "Well,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm not going to give up..."
+    - text: " I'm not going to give up..."
     - utf16_bytes:
         - 0
   Talk24:
@@ -252,13 +250,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hmmm...
+    - text: Hmmm...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I wonder..."
+    - text: " I wonder..."
     - utf16_bytes:
         - 0
   Talk25:
@@ -268,7 +266,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I suppose you're right..."
+    - text: "I suppose you're right..."
     - utf16_bytes:
         - 0
   Talk26:
@@ -278,13 +276,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "That's a beautiful horse."
+    - text: "That's a beautiful horse."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhat brings you here?"
+    - text: "\nWhat brings you here?"
     - utf16_bytes:
         - 14
         - 1
@@ -292,7 +290,8 @@ entries:
         - 6
         - 7
         - 11
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk27:
     - utf16_bytes:
@@ -301,13 +300,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I see you're traveling too."
+    - text: "I see you're traveling too."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhat brings you here?"
+    - text: "\nWhat brings you here?"
     - utf16_bytes:
         - 14
         - 1
@@ -315,7 +314,8 @@ entries:
         - 6
         - 7
         - 11
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk00:
     - utf16_bytes:
@@ -324,13 +324,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Oh, what a beautiful horse!"
+    - text: "Oh, what a beautiful horse!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Where are\nyou two headed?"
+    - text: " Where are\nyou two headed?"
     - utf16_bytes:
         - 14
         - 1
@@ -339,10 +339,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: To the south.
+    - text: To the south.
     - utf16_bytes:
         - 0
   Talk01:
@@ -352,13 +353,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "This might sound strange, but"
+    - text: "This might sound strange, but"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " do you\nbelieve it's possible to bring a dead\nhorse back to life?"
+    - text: " do you\nbelieve it's possible to bring a dead\nhorse back to life?"
     - utf16_bytes:
         - 14
         - 1
@@ -366,10 +367,11 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: To the east.
+    - text: To the east.
     - utf16_bytes:
         - 0
   Talk02:
@@ -379,13 +381,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "That's a beautiful horse."
+    - text: "That's a beautiful horse."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What brings\nyou here?"
+    - text: " What brings\nyou here?"
     - utf16_bytes:
         - 14
         - 1
@@ -393,10 +395,11 @@ entries:
         - 6
         - 7
         - 8
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I'm not sure..."
+    - text: "I'm not sure..."
     - utf16_bytes:
         - 0
   Talk03:
@@ -406,13 +409,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, so we meet again."
+    - text: "Oh, so we meet again."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can't remember,\ndid I already tell you about..."
+    - text: " I can't remember,\ndid I already tell you about..."
     - utf16_bytes:
         - 14
         - 1
@@ -420,10 +423,11 @@ entries:
         - 6
         - 5
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: "I'm a believer."
+    - text: "I'm a believer."
     - utf16_bytes:
         - 0
   Talk04:
@@ -432,46 +436,45 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "It won't be easy to find..."
+    - text: "စIt won't be easy to find..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nMaybe it's just a tall tale. I mean,\n\""
+    - text: "\n\n\nMaybe it's just a tall tale. I mean,\n\""
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "fountain nearby where you can revive\nlost horses"
+    - text: "fountain nearby where you can revive\nlost horses"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\"? It sounds so ridiculous...\nOh, excuse me..."
+    - text: "\"? It sounds so ridiculous...\nOh, excuse me..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Were you\neavesdropping on me?"
+    - text: " Were you\neavesdropping on me?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 4
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: That is ridiculous.
+    - text: That is ridiculous.
     - utf16_bytes:
         - 0
   Talk05:
@@ -480,39 +483,38 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "It won't be easy to find..."
+    - text: "စIt won't be easy to find..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nMaybe it's just a tall tale. I mean,\n\""
+    - text: "\n\n\nMaybe it's just a tall tale. I mean,\n\""
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "fountain nearby where you can revive\nlost horses"
+    - text: "fountain nearby where you can revive\nlost horses"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\"? It sounds so ridiculous..."
+    - text: "\"? It sounds so ridiculous..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t\n"
+        - 9
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   "0005":
-    - ascii: You did.
+    - text: You did.
     - utf16_bytes:
         - 0
   Talk06:
@@ -522,23 +524,23 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "So the horse fountain is real... "
+    - text: "So the horse fountain is real... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "That's\nwonderful news!"
+    - text: "That's\nwonderful news!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm going to go and\ncheck it out right away!"
+    - text: " I'm going to go and\ncheck it out right away!"
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: About what?
+    - text: About what?
     - utf16_bytes:
         - 0
   Talk07:
@@ -548,43 +550,43 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Really?
+    - text: Really?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You have to tell me more!\nWhere is it? What happened?\n\nAh, it's at "
+    - text: " You have to tell me more!\nWhere is it? What happened?\n\nAh, it's at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Malanya Spring
+    - text: Malanya Spring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " And you met\na...god of horses?\n\nThat's wonderful news!"
+    - text: " And you met\na...god of horses?\n\nThat's wonderful news!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm going to\ngo check it out right away!"
+    - text: " I'm going to\ngo check it out right away!"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Just passing through.
+    - text: Just passing through.
     - utf16_bytes:
         - 0
   Talk08:
@@ -594,13 +596,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's unusual to see someone out here\ntraveling alone."
+    - text: "It's unusual to see someone out here\ntraveling alone."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Where are you headed?"
+    - text: " Where are you headed?"
     - utf16_bytes:
         - 14
         - 1
@@ -609,10 +611,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0008":
-    - ascii: Reviving my horse...
+    - text: Reviving my horse...
     - utf16_bytes:
         - 0
   Talk09:
@@ -621,32 +624,31 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Oh, that's the same as me!"
+    - text: "āOh, that's the same as me!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " So you're\ngoing to the "
+    - text: " So you're\ngoing to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Faron Grasslands
+    - text: Faron Grasslands
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", huh?"
+    - text: ", huh?"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: I found it.
+    - text: I found it.
     - utf16_bytes:
         - 0
   Talk10:
@@ -655,50 +657,49 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Headed east, huh?"
+    - text: "ĀHeaded east, huh?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Going to "
+    - text: " Going to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Floria Falls
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nby any chance?\n\nI've heard some strange stories about\nthat place... Stories about "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "a creature\nthat looks like a huge snake"
+    - text: Floria Falls
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "\nby any chance?\n\nI've heard some strange stories about\nthat place... Stories about "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "a creature\nthat looks like a huge snake"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "*snore*"
+    - text: "*snore*"
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: You might be right.
+    - text: You might be right.
     - utf16_bytes:
         - 0
   Talk11:
@@ -707,16 +708,15 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Wow. You, uh... You really say what's\non your mind, don't you?"
+    - text: "āWow. You, uh... You really say what's\non your mind, don't you?"
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: "Oh, I hate this."
+    - text: "Oh, I hate this."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Came to catch a horse.
+    - text: Came to catch a horse.
     - utf16_bytes:
         - 0
   Talk12:
@@ -726,65 +726,65 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: You want to hear my story?
+    - text: You want to hear my story?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Sure, I'll\ntell you.\n\nIt was a while back..."
+    - text: " Sure, I'll\ntell you.\n\nIt was a while back..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'd lost my\nbest friend, a horse I'd been traveling\nwith for years and years, and then...\nI heard this tale of a"
+    - text: " I'd lost my\nbest friend, a horse I'd been traveling\nwith for years and years, and then...\nI heard this tale of a"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " fountain"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " in the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Faron Grasslands
+    - text: " fountain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... A magical fountain\nthat can"
+    - text: " in the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: " revive lost horses"
+        - 2
+    - text: Faron Grasslands
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "... A magical fountain\nthat can"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: " revive lost horses"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Gotta go to bed...
+    - text: Gotta go to bed...
     - utf16_bytes:
         - 0
   Talk13:
@@ -794,6 +794,6 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You take care of that horse, now."
+    - text: "You take care of that horse, now."
     - utf16_bytes:
         - 0

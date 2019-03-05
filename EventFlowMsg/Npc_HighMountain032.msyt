@@ -7,18 +7,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Got to get home quick or the bird\nmonster might eat me!"
+    - text: "Got to get home quick or the bird\nmonster might eat me!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n♪La dee DAAAAAH!♪"
     - utf16_bytes:
-        - 9834
-    - ascii: La dee DAAAAAH!
-    - utf16_bytes:
-        - 9834
         - 0
   Talk_102:
     - utf16_bytes:
@@ -26,13 +22,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ଊWow! "
+    - text: "ଊWow! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "When I grow up, I'm going to go\nin there and pig out!"
+    - text: "When I grow up, I'm going to go\nin there and pig out!"
     - utf16_bytes:
         - 0
   Talk_103:
@@ -41,7 +37,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThat's too bad. Maybe all the fish got\nbored of waiting in there and left."
+        - 9
+    - text: "That's too bad. Maybe all the fish got\nbored of waiting in there and left."
     - utf16_bytes:
         - 0
   Talk_220:
@@ -50,7 +47,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMaybe I'll have time to catch some fish\ntomorrow."
+        - 9
+    - text: "Maybe I'll have time to catch some fish\ntomorrow."
     - utf16_bytes:
         - 0
   Talk_104:
@@ -59,7 +57,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat, you haven't gone yet?\n\n\nWell what are you waiting for? Go and\nbring me back some ancient fish!"
+    - text: "\nWhat, you haven't gone yet?\n\n\nWell what are you waiting for? Go and\nbring me back some ancient fish!"
     - utf16_bytes:
         - 0
   Talk_010:
@@ -69,7 +67,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I'm gonna go visit the elder. Want to\ncome along?"
+    - text: "I'm gonna go visit the elder. Want to\ncome along?"
     - utf16_bytes:
         - 0
   Talk_105:
@@ -79,10 +77,8 @@ entries:
         - 1
         - 2
         - 7
-        - 9834
-    - ascii: Loo la la! Fishy fish fish!
+    - text: ♪Loo la la! Fishy fish fish!♪
     - utf16_bytes:
-        - 9834
         - 0
   Talk_210:
     - utf16_bytes:
@@ -91,7 +87,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I want to go catch some fish, but Kheel\nwill get mad at me if I don't practice my\nsinging."
+    - text: "I want to go catch some fish, but Kheel\nwill get mad at me if I don't practice my\nsinging."
     - utf16_bytes:
         - 0
   Talk_000:
@@ -101,35 +97,35 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I...I'm scared of the "
+    - text: "I...I'm scared of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bird monster
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nI hope it doesn't eat me...\n\nDid the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: village elder
+    - text: bird monster
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " tell you about it?\nAre you scared of it too?"
+    - text: ".\nI hope it doesn't eat me...\n\nDid the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: village elder
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " tell you about it?\nAre you scared of it too?"
     - utf16_bytes:
         - 14
         - 1
@@ -138,7 +134,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_001:
     - utf16_bytes:
@@ -146,21 +143,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ଊWhoa! Really? Are you a "
+    - text: "ଊWhoa! Really? Are you a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
+    - text: Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " or\nsomething?"
+    - text: " or\nsomething?"
     - utf16_bytes:
         - 0
   Talk_200:
@@ -169,24 +166,23 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: Dad taught me how to catch fish.
+    - text: ȇDad taught me how to catch fish.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou just dive-bomb them while they're\nswimming!\nBut the hard part is getting back out of\nthe water."
+    - text: "\nYou just dive-bomb them while they're\nswimming!\nBut the hard part is getting back out of\nthe water."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I don't know how to swim..."
+    - text: " I don't know how to swim..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Not scared at all.
+    - text: Not scared at all.
     - utf16_bytes:
         - 0
   Talk_002:
@@ -195,38 +191,38 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tBut you're much bigger than me!\nIf you're scared, I'm doomed!\nWhat should I do?\n"
+        - 9
+    - text: "But you're much bigger than me!\nIf you're scared, I'm doomed!\nWhat should I do?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "OH! I've got it! "
+    - text: "ćOH! I've got it! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'll feed it lots of fish until\nit's too stuffed to eat me!\n\n"
+    - text: "I'll feed it lots of fish until\nit's too stuffed to eat me!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ᘊAHHH!
+    - text: ᘊAHHH!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " But what if when I try to give it\nthe fish, it eats me instead! "
+    - text: " But what if when I try to give it\nthe fish, it eats me instead! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "*gulp*"
+    - text: "*gulp*"
     - utf16_bytes:
         - 0
   Talk_201:
@@ -236,11 +232,11 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "When you spot a fish, swim right up to it\nand nab it!"
+    - text: "When you spot a fish, swim right up to it\nand nab it!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'm a little scared."
+    - text: "I'm a little scared."
     - utf16_bytes:
         - 0
   Talk_003:
@@ -250,7 +246,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "You haven't heard? Then you should go\ntalk to the elder.\n\nYou can always ask me to hold your hand\nif the story gets too scary."
+    - text: "You haven't heard? Then you should go\ntalk to the elder.\n\nYou can always ask me to hold your hand\nif the story gets too scary."
     - utf16_bytes:
         - 0
   Talk_120:
@@ -259,7 +255,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMaybe I'll have time to catch some fish\ntomorrow..."
+        - 9
+    - text: "Maybe I'll have time to catch some fish\ntomorrow..."
     - utf16_bytes:
         - 0
   Talk_004:
@@ -269,21 +266,21 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Aren't you scared of the "
+    - text: "Aren't you scared of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bird monster
+    - text: bird monster
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nYou don't look very scared."
+    - text: "?\nYou don't look very scared."
     - utf16_bytes:
         - 14
         - 1
@@ -292,18 +289,19 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: Bird monster?
+    - text: Bird monster?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "Yeah, tons."
+    - text: "Yeah, tons."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Fishless.
+    - text: Fishless.
     - utf16_bytes:
         - 0
   Talk_110:
@@ -313,11 +311,11 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I want to go catch some fish, but Kheel \nwill get mad at me if I don't practice my\nsinging."
+    - text: "I want to go catch some fish, but Kheel \nwill get mad at me if I don't practice my\nsinging."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "Haven't gone in yet."
+    - text: "Haven't gone in yet."
     - utf16_bytes:
         - 0
   Talk_030:
@@ -326,8 +324,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52511
-    - ascii: Hrmm...
+    - text: 촟Hrmm...
     - utf16_bytes:
         - 0
   Talk_100:
@@ -336,19 +333,14 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-        - 9834
-    - ascii: Fishy fish fish!
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n\n\n"
+    - text: "ȇ♪Fishy fish fish!♪\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "So how was the inside of that shrine?\nWere there lots of fish there?"
+    - text: "So how was the inside of that shrine?\nWere there lots of fish there?"
     - utf16_bytes:
         - 14
         - 1
@@ -357,5 +349,6 @@ entries:
         - 3
         - 4
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0

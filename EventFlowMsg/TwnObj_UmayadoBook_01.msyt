@@ -1,11 +1,11 @@
 ---
 entries:
   "0000":
-    - ascii: Read.
+    - text: Read.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0
   Book00:
@@ -14,28 +14,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Greetings from Traysi
-    - utf16_bytes:
-        - 8212
-    - ascii: "your source for\nthe best gossip and news!\n\nHave you been hearing any good stories\non your travels? I've got a great one for\nyou today!\n"
+    - text: "Greetings from Traysi—your source for\nthe best gossip and news!\n\nHave you been hearing any good stories\non your travels? I've got a great one for\nyou today!\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}The Sword that Seals the\nDarkness"
+    - text: "}The Sword that Seals the\nDarkness"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\nThe only one who can wield this sword\ncarries the blood of the heroine in their\nveins.\nThat's what they say about this special\nblade! Rumor has it the blade has been\nhidden away in a forest somewhere...\nI have to admit that this rumor really has\nme interested, but sometimes you have\nto face reality.\nMy reality is... There isn't any hero in my\nbloodline, so this sword would just be a\nbig paperweight to me...\nTraysi's Recommendation: "
+    - text: "d\n\nThe only one who can wield this sword\ncarries the blood of the heroine in their\nveins.\nThat's what they say about this special\nblade! Rumor has it the blade has been\nhidden away in a forest somewhere...\nI have to admit that this rumor really has\nme interested, but sometimes you have\nto face reality.\nMy reality is... There isn't any hero in my\nbloodline, so this sword would just be a\nbig paperweight to me...\nTraysi's Recommendation: ★☆☆☆☆"
     - utf16_bytes:
-        - 9733
-        - 9734
-        - 9734
-        - 9734
-        - 9734
         - 0
   BookFirst:
     - utf16_bytes:
@@ -43,7 +35,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rumor Mill: Volume 2"
+    - text: "Rumor Mill: Volume 2"
     - utf16_bytes:
         - 14
         - 1
@@ -51,5 +43,6 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

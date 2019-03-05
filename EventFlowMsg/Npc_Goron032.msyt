@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hmph. "
+    - text: "Hmph. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "A Hylian tourist, eh?"
+    - text: "A Hylian tourist, eh?"
     - utf16_bytes:
         - 14
         - 1
@@ -21,7 +21,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk10:
     - utf16_bytes:
@@ -30,13 +31,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Lukewarm.\n\n\nI'd like to find some reeeally hot water to\nrelax in..."
+    - text: "Lukewarm.\n\n\nI'd like to find some reeeally hot water to\nrelax in..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but those fallin' rocks make it\nway too dangerous."
+    - text: "but those fallin' rocks make it\nway too dangerous."
     - utf16_bytes:
         - 0
   talk05:
@@ -46,7 +47,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hmph.
+    - text: Hmph.
     - utf16_bytes:
         - 0
   talk11:
@@ -56,38 +57,38 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's rare to see a tourist like you"
+    - text: "It's rare to see a tourist like you"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nequipped to stand up to this heat.\n\nBy the way, "
+    - text: "\nequipped to stand up to this heat.\n\nBy the way, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Rudania "
+    - text: "Rudania "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has settled down,"
+    - text: "has settled down,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nso feel free to take your time soakin'\nin the hot springs."
+    - text: "\nso feel free to take your time soakin'\nin the hot springs."
     - utf16_bytes:
         - 0
   near00:
+    - text: ♪
     - utf16_bytes:
-        - 9834
         - 0
   talk06:
     - utf16_bytes:
@@ -96,7 +97,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Bah. Lukewarm.\n\n\nI'd like to relax in some reeeeally hot \nwater. A LOT hotter than this nonsense."
+    - text: "Bah. Lukewarm.\n\n\nI'd like to relax in some reeeeally hot \nwater. A LOT hotter than this nonsense."
     - utf16_bytes:
         - 0
   talk12:
@@ -105,70 +106,69 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "In any case, gettin' across the\n"
+    - text: "ЀIn any case, gettin' across the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Bridge of Eldin
+    - text: Bridge of Eldin
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is impossible\nright now.\nThe "
+    - text: "is impossible\nright now.\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boss
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " probably raised "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: the bridge
+    - text: Boss
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to\nkeep"
+    - text: " probably raised "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: " Rudania"
+        - 0
+    - text: the bridge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " from comin' over here."
+    - text: " to\nkeep"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: " Rudania"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " from comin' over here."
     - utf16_bytes:
         - 0
   talk07:
@@ -178,33 +178,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: But a Hylian like you
+    - text: But a Hylian like you
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " should stay away\nfrom any place hotter than here.\n\nThat goes double for the area past the\n"
+    - text: " should stay away\nfrom any place hotter than here.\n\nThat goes double for the area past the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Bridge of Eldin
+    - text: Bridge of Eldin
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's scorching there!"
+    - text: " It's scorching there!"
     - utf16_bytes:
         - 0
   talk13:
@@ -213,28 +213,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Even still, don't you go near "
+    - text: "ЀEven still, don't you go near "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Rudania
+    - text: Rudania
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIf ya do, no matter how well prepared\nya are..."
+    - text: ".\nIf ya do, no matter how well prepared\nya are..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "you'll be burned to ashes!"
+    - text: "you'll be burned to ashes!"
     - utf16_bytes:
         - 0
   talk08:
@@ -244,13 +243,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "By the way, I don't see many tourists like\nyou equipped to stand up to this heat."
+    - text: "By the way, I don't see many tourists like\nyou equipped to stand up to this heat."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm impressed!"
+    - text: "\nI'm impressed!"
     - utf16_bytes:
         - 0
   talk14:
@@ -259,28 +258,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Never go near "
+    - text: "ЀNever go near "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Rudania
+    - text: Rudania
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: ". "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Get too close\nand you'll be a pile of ashes before\nya know what hit ya!"
+    - text: "Get too close\nand you'll be a pile of ashes before\nya know what hit ya!"
     - utf16_bytes:
         - 0
   talk09:
@@ -289,8 +287,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "...What is it?"
+    - text: Ȁ...What is it?
     - utf16_bytes:
         - 14
         - 1
@@ -298,7 +295,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk00:
     - utf16_bytes:
@@ -307,17 +305,17 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Who's there?! "
+    - text: "Who's there?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Who's disturbing my\nmornin' bath?"
+    - text: "Who's disturbing my\nmornin' bath?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "How's the water?"
+    - text: "How's the water?"
     - utf16_bytes:
         - 0
   talk01:
@@ -327,11 +325,11 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Who's there?!"
+    - text: "Who's there?!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Um...sorry.
+    - text: Um...sorry.
     - utf16_bytes:
         - 0
   talk02:
@@ -341,13 +339,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Who's there?!"
+    - text: "Who's there?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Who's disturbing\nmy bath?"
+    - text: " Who's disturbing\nmy bath?"
     - utf16_bytes:
         - 0
   talk03:
@@ -357,12 +355,12 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Who's there?!"
+    - text: "Who's there?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You're ruinin'\nmy evening bath..."
+    - text: " You're ruinin'\nmy evening bath..."
     - utf16_bytes:
         - 0

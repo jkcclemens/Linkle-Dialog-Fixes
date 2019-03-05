@@ -1,19 +1,19 @@
 ---
 entries:
   "0001":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: What do you need?
+    - text: What do you need?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: You...what?
+    - text: You...what?
     - utf16_bytes:
         - 0
   Talk00:
@@ -22,8 +22,7 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: "*sniffle*"
+    - text: ⨃*sniffle*
     - utf16_bytes:
         - 14
         - 1
@@ -31,10 +30,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Talk01:
@@ -43,14 +43,13 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: "*sniffle*"
+    - text: ⨃*sniffle*
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I want... I need..."
+    - text: " I want... I need..."
     - utf16_bytes:
         - 14
         - 1
@@ -58,7 +57,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk02:
     - utf16_bytes:
@@ -66,20 +66,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: I need...
+    - text: ĀI need...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: grilled
+    - text: grilled
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " salmon."
+    - text: " salmon."
     - utf16_bytes:
         - 14
         - 1
@@ -87,7 +86,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk03:
     - utf16_bytes:
@@ -95,8 +95,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: And also...
+    - text: ĀAnd also...
     - utf16_bytes:
         - 0
   Talk04:
@@ -105,14 +104,13 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: "*sniffle*"
+    - text: ⨃*sniffle*
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " What I really want...\nWhat I really need is..."
+    - text: " What I really want...\nWhat I really need is..."
     - utf16_bytes:
         - 0
   Henshin00:
@@ -121,31 +119,32 @@ entries:
         - 3
         - 1
         - 2
-        - 8968
+    - text: ⌈
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}the hero's life!"
+    - text: "}the hero's life!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -155,14 +154,13 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: "*sniffle* "
+    - text: "⨃*sniffle* "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'll never see him again..."
+    - text: "I'll never see him again..."
     - utf16_bytes:
         - 0
   Henshin01:
@@ -171,31 +169,32 @@ entries:
         - 3
         - 1
         - 2
-        - 8968
+    - text: ⌈
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Begone, enemy of my master!"
+    - text: "}Begone, enemy of my master!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -205,10 +204,10 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촨*sniffle*
+    - text: 촨*sniffle*
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "What's wrong?"
+    - text: "What's wrong?"
     - utf16_bytes:
         - 0

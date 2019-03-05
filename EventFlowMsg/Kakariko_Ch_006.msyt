@@ -1,7 +1,7 @@
 ---
 entries:
   "0001":
-    - ascii: "Um... No, thanks."
+    - text: "Um... No, thanks."
     - utf16_bytes:
         - 0
   Talk09:
@@ -11,19 +11,19 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "Where can I find the perfect woman to show\nme a feat of skill..."
+    - text: "Where can I find the perfect woman to show\nme a feat of skill..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Goddess Statue?
+    - text: Goddess Statue?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "I don't want to..."
+    - text: "I don't want to..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "I'll take that quest!"
+    - text: "I'll take that quest!"
     - utf16_bytes:
         - 0
   Talk00:
@@ -33,14 +33,14 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "That's right, my good lady! I knew it the\nmoment I saw ya...\n\n"
+    - text: "That's right, my good lady! I knew it the\nmoment I saw ya...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "I had you figured for one heck of an\narcher. And I'm head over heels for a\nfine slice of woman that can use a bow!\nSo how about it? Why not take out that\nbow and show me something special?"
+    - text: "I had you figured for one heck of an\narcher. And I'm head over heels for a\nfine slice of woman that can use a bow!\nSo how about it? Why not take out that\nbow and show me something special?"
     - utf16_bytes:
         - 14
         - 1
@@ -48,10 +48,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: Buy from me!
+    - text: Buy from me!
     - utf16_bytes:
         - 0
   Talk10:
@@ -61,7 +62,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Do you need something else?
+    - text: Do you need something else?
     - utf16_bytes:
         - 14
         - 1
@@ -70,10 +71,11 @@ entries:
         - 4
         - 5
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   Talk11:
@@ -83,7 +85,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: So...are you gonna do it or not?
+    - text: So...are you gonna do it or not?
     - utf16_bytes:
         - 14
         - 1
@@ -92,7 +94,8 @@ entries:
         - 0
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk04:
     - utf16_bytes:
@@ -101,35 +104,35 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I like your attitude! All you gotta do is\n"
+    - text: "I like your attitude! All you gotta do is\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: light
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: torches by the Goddess Statue
+    - text: light
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nThink you're up for the challenge?"
+    - text: " the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: torches by the Goddess Statue
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nThink you're up for the challenge?"
     - utf16_bytes:
         - 14
         - 1
@@ -138,7 +141,8 @@ entries:
         - 0
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk05:
     - utf16_bytes:
@@ -147,39 +151,39 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "You really don't know about the\n"
+    - text: "You really don't know about the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Goddess Statue
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "?\n\nIt's by the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: spring
+    - text: Goddess Statue
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in front of Lady Impa's\nhome. I don't know who put it there,\nbut it's been there forever."
+    - text: "?\n\nIt's by the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: spring
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in front of Lady Impa's\nhome. I don't know who put it there,\nbut it's been there forever."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: This is gonna be great!
+    - text: This is gonna be great!
     - utf16_bytes:
         - 0
   Talk06:
@@ -188,11 +192,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh. That's a shame.\n\n\nIf you had entertained me, I was going to\nreward you with something more than\nworth your time."
+        - 9
+    - text: "Oh. That's a shame.\n\n\nIf you had entertained me, I was going to\nreward you with something more than\nworth your time."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Done already?
+    - text: Done already?
     - utf16_bytes:
         - 0
   Talk07:
@@ -201,16 +206,15 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "The thought of a young hottie drawing a\nbow just makes my day!"
+    - text: "ଇThe thought of a young hottie drawing a\nbow just makes my day!"
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Welcome!
+    - text: Welcome!
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: You got it!
+    - text: You got it!
     - utf16_bytes:
         - 0
   Talk08:
@@ -220,29 +224,26 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Mmm...
+    - text: Mmm...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " An archeress with a strong build..."
+    - text: " An archeress with a strong build..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI could look at you all day!\n\n"
+    - text: "\nI could look at you all day!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "...Oh! Sorry"
-    - utf16_bytes:
-        - 8212
-    - ascii: "my imagination ran away\nwith me. Did you need something?"
+    - text: "...Oh! Sorry—my imagination ran away\nwith me. Did you need something?"
     - utf16_bytes:
         - 14
         - 1
@@ -251,5 +252,6 @@ entries:
         - 4
         - 5
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0

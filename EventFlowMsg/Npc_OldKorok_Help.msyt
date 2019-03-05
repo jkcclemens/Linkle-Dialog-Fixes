@@ -1,7 +1,7 @@
 ---
 entries:
   "0003":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk04:
@@ -11,13 +11,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Thanks for bringing my maracas back!\n\n\nOnce I see you off,"
+    - text: "Thanks for bringing my maracas back!\n\n\nOnce I see you off,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm going back home\nto Korok Forest!"
+    - text: " I'm going back home\nto Korok Forest!"
     - utf16_bytes:
         - 0
   talk05:
@@ -27,57 +27,57 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Korok Forest...
+    - text: Korok Forest...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt should be somewhere north of here.\n\n"
+    - text: "\nIt should be somewhere north of here.\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Grandpa
+    - text: Grandpa
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " told me,"
+    - text: " told me,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " \"If you get lost, follow\nthe "
+    - text: " \"If you get lost, follow\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylia River
+    - text: Hylia River
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and continue north.\"\n\nThat's what he said, "
+    - text: " and continue north.\"\n\nThat's what he said, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and Grandpa is no\nliar."
+    - text: "and Grandpa is no\nliar."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Shalaka...
+    - text: Shalaka...
     - utf16_bytes:
         - 0
   talk06:
@@ -87,32 +87,28 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "My name "
+    - text: "My name "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "is "
+    - text: "is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hestu
+    - text: Hestu
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n\n"
+    - text: "!\n\n\n♪The most celebrated musician of\nKorok Forest!♪"
     - utf16_bytes:
-        - 9834
-    - ascii: "The most celebrated musician of\nKorok Forest!"
-    - utf16_bytes:
-        - 9834
         - 0
   talk07:
     - utf16_bytes:
@@ -120,14 +116,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: Huh?
+    - text: ጀHuh?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I suppose I should tell you a little\nsomething about myself!"
+    - text: " I suppose I should tell you a little\nsomething about myself!"
     - utf16_bytes:
         - 0
   talk08:
@@ -136,11 +131,8 @@ entries:
         - 3
         - 1
         - 2
-        - 6663
-        - 9834
-    - ascii: Shalaka lala!
+    - text: ᨇ♪Shalaka lala!♪
     - utf16_bytes:
-        - 9834
         - 0
   talk09:
     - utf16_bytes:
@@ -154,53 +146,52 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Korok seeds
+    - text: Korok seeds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "come from the Korok\nchildren..."
+    - text: "come from the Korok\nchildren..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and they're a..."
+    - text: "and they're a..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "little bit...\n\n...\n\n\n"
+    - text: "little bit...\n\n...\n\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 30
-    - ascii: CustomSurpriseS
+    - text: CustomSurpriseS
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Sorry...
+    - text: ĀSorry...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I blew out my voice singing..."
+    - text: " I blew out my voice singing..."
     - utf16_bytes:
         - 0
   talk00:
@@ -209,8 +200,7 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Or did you wanna talk a little more?
+    - text: ĆOr did you wanna talk a little more?
     - utf16_bytes:
         - 14
         - 1
@@ -227,7 +217,7 @@ entries:
         - 768
         - 0
   "0000":
-    - ascii: Korok Forest?
+    - text: Korok Forest?
     - utf16_bytes:
         - 0
   talk01:
@@ -237,7 +227,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Do you wanna talk some more?
+    - text: Do you wanna talk some more?
     - utf16_bytes:
         - 14
         - 1
@@ -254,7 +244,7 @@ entries:
         - 768
         - 0
   "0001":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   talk02:
@@ -268,20 +258,21 @@ entries:
         - 3
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "Gather some more "
+    - text: "Gather some more "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Korok seeds
+    - text: Korok seeds
     - utf16_bytes:
         - 14
         - 0
@@ -292,11 +283,11 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: ", and visit\nme in Korok Forest!"
+    - text: ", and visit\nme in Korok Forest!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Korok seeds?
+    - text: Korok seeds?
     - utf16_bytes:
         - 0
   talk03:
@@ -306,8 +297,6 @@ entries:
         - 1
         - 2
         - 0
-        - 9834
-    - ascii: Buh-byyyyyyyyye!
+    - text: ♪Buh-byyyyyyyyye!♪
     - utf16_bytes:
-        - 9834
         - 0

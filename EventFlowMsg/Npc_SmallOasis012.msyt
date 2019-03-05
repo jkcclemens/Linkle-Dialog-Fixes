@@ -1,7 +1,7 @@
 ---
 entries:
   "0001":
-    - ascii: Gerudo Town?
+    - text: Gerudo Town?
     - utf16_bytes:
         - 0
   Talk_000:
@@ -11,41 +11,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That "
+    - text: "That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... It feels like it gets a\nlittle bit closer every day.\n\n"
+    - text: "... It feels like it gets a\nlittle bit closer every day.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ఉI wonder how long it will be before I can\nget back to "
+    - text: "ఉI wonder how long it will be before I can\nget back to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -54,10 +54,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk_010:
@@ -66,8 +67,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Sav'saaba..."
+    - text: "촂Sav'saaba..."
     - utf16_bytes:
         - 0
   Talk_001:
@@ -76,35 +76,36 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tIf only that "
+        - 9
+    - text: "If only that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " wasn't around.\nI would already be back at \n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " wasn't around.\nI would already be back at \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -113,7 +114,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_101:
     - utf16_bytes:
@@ -121,42 +123,42 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "When I say "
+    - text: "ЀWhen I say "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I'm talking\nabout that giant thing roaming around\nthe desert...\nIt's been kicking up bad sandstorms, and\napparently it'll blast you with lightning if\nyou get too close!\n"
+    - text: ", I'm talking\nabout that giant thing roaming around\nthe desert...\nIt's been kicking up bad sandstorms, and\napparently it'll blast you with lightning if\nyou get too close!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tThe thought of getting zapped is\nterrifying. I can't risk traveling to\n"
+        - 9
+    - text: "The thought of getting zapped is\nterrifying. I can't risk traveling to\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -164,7 +166,8 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_011:
     - utf16_bytes:
@@ -172,8 +175,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta."
+    - text: "촙Sav'otta."
     - utf16_bytes:
         - 0
   Talk_102:
@@ -182,8 +184,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "There's a town to the southwest, made\nup almost entirely of Gerudo.\n\nIt's the largest settlement in these parts.\nIt's got a lively market, and a canteen...\nThe town's active from morning to night!\n"
+    - text: "ЀThere's a town to the southwest, made\nup almost entirely of Gerudo.\n\nIt's the largest settlement in these parts.\nIt's got a lively market, and a canteen...\nThe town's active from morning to night!\n"
     - utf16_bytes:
         - 0
   Talk_012:
@@ -192,8 +193,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq."
+    - text: "촚Sav'aaq."
     - utf16_bytes:
         - 0
   Talk_103:
@@ -203,35 +203,35 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Didn't you buy that outfit at \n"
+    - text: "Didn't you buy that outfit at \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "?\n\nIt's the largest settlement in these parts.\nIt's got a lively market and a canteen...\nThe town's active at all hours!\nBut the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has been stomping\naround and is generally being dangerous,\nso I can't go back right now..."
+    - text: "?\n\nIt's the largest settlement in these parts.\nIt's got a lively market and a canteen...\nThe town's active at all hours!\nBut the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " has been stomping\naround and is generally being dangerous,\nso I can't go back right now..."
     - utf16_bytes:
         - 0
   Talk_013:
@@ -240,8 +240,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba."
+    - text: "촛Sav'saaba."
     - utf16_bytes:
         - 0
   Talk_105:
@@ -250,21 +249,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI don't want to be stuck here, but I don't\nwant to be zapped by an angry\ncreature's lightning, either...\nIf only someone, perhaps a heroine just\npassing through town, could take care of\nthe "
+        - 9
+    - text: "I don't want to be stuck here, but I don't\nwant to be zapped by an angry\ncreature's lightning, either...\nIf only someone, perhaps a heroine just\npassing through town, could take care of\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Talk_106:
@@ -274,35 +274,35 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Didn't you buy that outfit at \n"
+    - text: "Didn't you buy that outfit at \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "?\n\nIt's the largest settlement in these parts.\nIt's got a lively market and a canteen.\nThe town's active from morning to night!\nBut the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has been stomping\naround and is generally being dangerous,\nso I can't go back right now..."
+    - text: "?\n\nIt's the largest settlement in these parts.\nIt's got a lively market and a canteen.\nThe town's active from morning to night!\nBut the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " has been stomping\naround and is generally being dangerous,\nso I can't go back right now..."
     - utf16_bytes:
         - 14
         - 1
@@ -310,7 +310,8 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_006:
     - utf16_bytes:
@@ -318,22 +319,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Thanks to that "
+    - text: "ЀThanks to that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I'd been\nunable to get home for so long that\nI'd forgotten my actual address!"
+    - text: ", I'd been\nunable to get home for so long that\nI'd forgotten my actual address!"
     - utf16_bytes:
         - 0
   Talk_107:
@@ -342,8 +342,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "There's a town to the southwest, made\nup almost entirely of Gerudo.\n\nIt's the largest settlement in these parts.\nIt's got a lively market and a canteen...\nThe town's active from morning to night!\n"
+    - text: "ЀThere's a town to the southwest, made\nup almost entirely of Gerudo.\n\nIt's the largest settlement in these parts.\nIt's got a lively market and a canteen...\nThe town's active from morning to night!\n"
     - utf16_bytes:
         - 0
   Talk_007:
@@ -352,8 +351,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4872
-    - ascii: "Hey! This isn't a joke!"
+    - text: "ገHey! This isn't a joke!"
     - utf16_bytes:
         - 0
   Talk_108:
@@ -362,42 +360,42 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "When I say "
+    - text: "ЀWhen I say "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I'm talking\nabout that giant thing roaming around\nthe desert...\nIt's been kicking up bad sandstorms, and\napparently it'll blast you with lightning if\nyou get too close!\n"
+    - text: ", I'm talking\nabout that giant thing roaming around\nthe desert...\nIt's been kicking up bad sandstorms, and\napparently it'll blast you with lightning if\nyou get too close!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tThe thought of getting zapped is\nterrifying. I can't risk traveling to\n"
+        - 9
+    - text: "The thought of getting zapped is\nterrifying. I can't risk traveling to\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Talk_008:
@@ -406,8 +404,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Sav'otta..."
+    - text: "촂Sav'otta..."
     - utf16_bytes:
         - 0
   Talk_009:
@@ -416,11 +413,10 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Sav'aaq..."
+    - text: "촂Sav'aaq..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Divine Beast?
+    - text: Divine Beast?
     - utf16_bytes:
         - 0

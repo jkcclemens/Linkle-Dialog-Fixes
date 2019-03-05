@@ -6,35 +6,33 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Linkle! The rain has stopped...\n\n\n"
+    - text: "ĀLinkle! The rain has stopped...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Does this mean...
+    - text: ကDoes this mean...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "that "
+    - text: "that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has stopped\nas well?"
+    - text: " has stopped\nas well?"
     - utf16_bytes:
         - 0
   talk10:
@@ -43,12 +41,11 @@ entries:
         - 3
         - 1
         - 2
-        - 518
-    - ascii: Hello...
+    - text: ȆHello...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "What's this statue?"
+    - text: "What's this statue?"
     - utf16_bytes:
         - 0
   talk11:
@@ -57,12 +54,11 @@ entries:
         - 3
         - 1
         - 2
-        - 518
-    - ascii: Good evening...
+    - text: ȆGood evening...
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: See ya.
+    - text: See ya.
     - utf16_bytes:
         - 0
   talk12:
@@ -71,12 +67,11 @@ entries:
         - 3
         - 1
         - 2
-        - 518
-    - ascii: Yes?
+    - text: ȆYes?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   talk13:
@@ -85,12 +80,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: An obvious lie...
+    - text: ကAn obvious lie...
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk14:
@@ -99,24 +93,23 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh, where are my manners? "
+    - text: "ЀOh, where are my manners? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: I am Laflat.
+    - text: I am Laflat.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI am the chief secretary for the\nroyal family.\n..."
+    - text: "\nI am the chief secretary for the\nroyal family.\n..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "Yes, I'm curious."
+    - text: "Yes, I'm curious."
     - utf16_bytes:
         - 0
   talk15:
@@ -125,8 +118,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Are you curious about this statue of\nLady Mipha?"
+    - text: "؋Are you curious about this statue of\nLady Mipha?"
     - utf16_bytes:
         - 14
         - 1
@@ -134,7 +126,8 @@ entries:
         - 6
         - 4
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk16:
     - utf16_bytes:
@@ -142,8 +135,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: Well then...
+    - text: ሀWell then...
     - utf16_bytes:
         - 0
   talk17:
@@ -153,7 +145,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Is something amiss?
+    - text: Is something amiss?
     - utf16_bytes:
         - 14
         - 1
@@ -161,7 +153,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk00:
     - utf16_bytes:
@@ -170,13 +163,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Are you...
+    - text: Are you...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: a Hylian?
+    - text: a Hylian?
     - utf16_bytes:
         - 14
         - 1
@@ -184,7 +177,8 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk18:
     - utf16_bytes:
@@ -192,31 +186,30 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: If you do not mind...
+    - text: ЀIf you do not mind...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "please allow me\nto explain.\n\nThis is a statue of the former\nZora Champion. "
+    - text: "please allow me\nto explain.\n\nThis is a statue of the former\nZora Champion. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Her name was\nLady Mipha.\n"
+    - text: "Her name was\nLady Mipha.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2816
-    - ascii: "She was as kind as she was beautiful...\n\n\nThey say her ability to heal wounded\nsoldiers was beyond compare."
+    - text: "She was as kind as she was beautiful...\n\n\nThey say her ability to heal wounded\nsoldiers was beyond compare."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Now then...
+    - text: Now then...
     - utf16_bytes:
         - 0
   talk01:
@@ -225,34 +218,33 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Ah! Then allow me to illuminate you...
+    - text: ЀAh! Then allow me to illuminate you...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\non the fearsome beast called "
+    - text: "\non the fearsome beast called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lynel
+    - text: Lynel
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nIt would be nice if seeing it discouraged\nreckless young Zora from venturing near."
+    - text: ".\n\nIt would be nice if seeing it discouraged\nreckless young Zora from venturing near."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBut I suppose that's wishful thinking..."
+    - text: "\nBut I suppose that's wishful thinking..."
     - utf16_bytes:
         - 0
   talk19:
@@ -261,18 +253,17 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Those soldiers she healed...
+    - text: ကThose soldiers she healed...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "they are old\nand decrepit now. But they remember.\n\nFor this reason, the elders of the domain\nall love Lady Mipha dearly.\n\nIf you would like to know more, I suggest\nyou try talking to one of them."
+    - text: "they are old\nand decrepit now. But they remember.\n\nFor this reason, the elders of the domain\nall love Lady Mipha dearly.\n\nIf you would like to know more, I suggest\nyou try talking to one of them."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: "What's next..."
+    - text: "What's next..."
     - utf16_bytes:
         - 0
   talk02:
@@ -282,47 +273,47 @@ entries:
         - 1
         - 2
         - 2816
-    - ascii: Linkle!
+    - text: Linkle!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I hear you appeased "
+    - text: " I hear you appeased "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\n"
+    - text: "?\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is saved!"
+    - text: " is saved!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Now Lady Mipha\ncan rest in peace."
+    - text: " Now Lady Mipha\ncan rest in peace."
     - utf16_bytes:
         - 0
   LookPicture:
@@ -331,95 +322,93 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᘊ
+    - text: ᘊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}WAAAH?!"
+    - text: "}WAAAH?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "*ahem* "
+    - text: "က*ahem* "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "My apologies... "
+    - text: "My apologies... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "That sound was\nnot very dignified, was it?\n\nP-pardon me... "
+    - text: "That sound was\nnot very dignified, was it?\n\nP-pardon me... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm all better now."
+    - text: "I'm all better now."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThat "
+    - text: "\nThat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lynel
+    - text: Lynel
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "How terrifying!\n\n"
+    - text: "How terrifying!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "One look at this, and I doubt anyone\nwould get any reckless ideas about\nvisiting "
+    - text: "ЀOne look at this, and I doubt anyone\nwould get any reckless ideas about\nvisiting "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ploymus Mountain
+    - text: Ploymus Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   near02:
-    - ascii: The damage is minimal...
+    - text: The damage is minimal...
     - utf16_bytes:
         - 0
   talk03:
@@ -428,8 +417,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "All of us, as well as Lady Mipha..."
+    - text: "ĀAll of us, as well as Lady Mipha..."
     - utf16_bytes:
         - 0
   talk04:
@@ -439,7 +427,7 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "We're all so grateful to you, Linkle."
+    - text: "We're all so grateful to you, Linkle."
     - utf16_bytes:
         - 0
   talk05:
@@ -449,14 +437,14 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Are you the "
+    - text: "Are you the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian
+    - text: Hylian
     - utf16_bytes:
         - 14
         - 0
@@ -467,21 +455,21 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " that "
+    - text: " that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Prince Sidon
+    - text: Prince Sidon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nbrought here?"
+    - text: "\nbrought here?"
     - utf16_bytes:
         - 14
         - 1
@@ -489,7 +477,8 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk06:
     - utf16_bytes:
@@ -497,8 +486,7 @@ entries:
         - 3
         - 1
         - 2
-        - 518
-    - ascii: Good morning...
+    - text: ȆGood morning...
     - utf16_bytes:
         - 0
   talk23:
@@ -507,45 +495,44 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: Sorry...
+    - text: ဋSorry...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm in the middle of thinking\nabout something.\n\n"
+    - text: " I'm in the middle of thinking\nabout something.\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PIt's on "
+    - text: "PIt's on "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ploymus Mountain
+    - text: Ploymus Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " *mumble mumble*"
+    - text: " *mumble mumble*"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0

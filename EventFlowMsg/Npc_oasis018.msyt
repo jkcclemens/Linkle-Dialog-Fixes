@@ -6,14 +6,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: The nighttime is really nice.
+    - text: ሀThe nighttime is really nice.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI can't believe how much people move\naround in the heat of the afternoon.\nI guess I could get a drink to wake\nmyself up..."
+    - text: "\nI can't believe how much people move\naround in the heat of the afternoon.\nI guess I could get a drink to wake\nmyself up..."
     - utf16_bytes:
         - 0
   Talk_02:
@@ -23,13 +22,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Phew!
+    - text: Phew!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This is really the only thing\nthat can wake me up."
+    - text: " This is really the only thing\nthat can wake me up."
     - utf16_bytes:
         - 0
   Talk_04:
@@ -38,8 +37,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "My vaba often said to never eat a\nhearty durian while drinking...\n\nI don't really know why, but since she\nsaid it so much, there must be a\ngood reason."
+    - text: "ᤀMy vaba often said to never eat a\nhearty durian while drinking...\n\nI don't really know why, but since she\nsaid it so much, there must be a\ngood reason."
     - utf16_bytes:
         - 0
   Talk_10:
@@ -48,24 +46,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nOh, wow, really?\n\n\n"
+    - text: "\nOh, wow, really?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "And I just thought it was all some kind\nof joke that Ardin came up with to trick\nher customers when she's all out...\n"
+    - text: "And I just thought it was all some kind\nof joke that Ardin came up with to trick\nher customers when she's all out...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Well, I don't care if I can see them or\nnot. I could have seen them when I was\nyounger"
-    - utf16_bytes:
-        - 8212
-    - ascii: that much I know.
+    - text: "Well, I don't care if I can see them or\nnot. I could have seen them when I was\nyounger—that much I know."
     - utf16_bytes:
         - 0
   Talk_05:
@@ -74,8 +69,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "I think I'll look for something to\ndrink and maybe some snacks..."
+    - text: "ᤀI think I'll look for something to\ndrink and maybe some snacks..."
     - utf16_bytes:
         - 0
   Talk_11:
@@ -84,8 +78,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh, well, if someone as pretty as you\ncan't see them, that means...\n\nThen Ardin must have made up another\nsilly lie. She tells really weird ones\nsometimes."
+    - text: "ЀOh, well, if someone as pretty as you\ncan't see them, that means...\n\nThen Ardin must have made up another\nsilly lie. She tells really weird ones\nsometimes."
     - utf16_bytes:
         - 0
   Talk_12:
@@ -94,7 +87,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tSold out? Ugh, that's the worst..."
+        - 9
+    - text: "Sold out? Ugh, that's the worst..."
     - utf16_bytes:
         - 0
   Talk_06:
@@ -103,57 +97,55 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "My mom often said that dishes with\nmushrooms were good for nursing\nserious headaches.\nSo..."
+    - text: "ᤀMy mom often said that dishes with\nmushrooms were good for nursing\nserious headaches.\nSo..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "when I'm feeling tired, I always make\n"
+    - text: "when I'm feeling tired, I always make\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fragrant mushroom saut
-    - utf16_bytes:
-        - 233
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nI love that curry flavor!\nIt's a simple dish that you can make if\nyou have some "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Goron spice
+    - text: fragrant mushroom sauté
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and\n"
+    - text: ".\nI love that curry flavor!\nIt's a simple dish that you can make if\nyou have some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: mushrooms
+    - text: Goron spice
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " and\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: mushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   Talk_13:
@@ -162,14 +154,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "A Hylian vai, huh..."
+    - text: "ȀA Hylian vai, huh..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSav'otta..."
+    - text: "\nSav'otta..."
     - utf16_bytes:
         - 0
   Talk_07:
@@ -178,8 +169,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "It's gonna get hot soon, so I think I'm\ngoing to head to bed."
+    - text: "ሀIt's gonna get hot soon, so I think I'm\ngoing to head to bed."
     - utf16_bytes:
         - 0
   Talk_14:
@@ -188,14 +178,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "A Hylian vai, huh..."
+    - text: "ȀA Hylian vai, huh..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSav'aaq..."
+    - text: "\nSav'aaq..."
     - utf16_bytes:
         - 0
   Talk_08:
@@ -204,8 +193,7 @@ entries:
         - 3
         - 1
         - 2
-        - 8704
-    - ascii: "Ugh, what is it? I prefer to rest\nand relax until night..."
+    - text: "∀Ugh, what is it? I prefer to rest\nand relax until night..."
     - utf16_bytes:
         - 0
   Talk_15:
@@ -214,14 +202,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "A Hylian vai, huh..."
+    - text: "ȀA Hylian vai, huh..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSav'saaba..."
+    - text: "\nSav'saaba..."
     - utf16_bytes:
         - 0
   Talk_09:
@@ -230,8 +217,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "Mushrooms that only beautiful people\ncan see? Not like I'll fall for that.\n\nWait, you're not seriously saying you can\nsee them, are you?"
+    - text: "ᤀMushrooms that only beautiful people\ncan see? Not like I'll fall for that.\n\nWait, you're not seriously saying you can\nsee them, are you?"
     - utf16_bytes:
         - 14
         - 1
@@ -239,13 +225,14 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Yup, I can see them."
+    - text: "Yup, I can see them."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I can't see them."
+    - text: "I can't see them."
     - utf16_bytes:
         - 0

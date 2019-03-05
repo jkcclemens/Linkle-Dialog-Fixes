@@ -7,21 +7,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "OK, let's try a different "
+    - text: "OK, let's try a different "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: saddle
+    - text: saddle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Talk23:
@@ -30,29 +30,28 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Hello there! That's a mighty fine horse\nyou have.\n\nIf you like, I can change out her "
+    - text: "ȁHello there! That's a mighty fine horse\nyou have.\n\nIf you like, I can change out her "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: gear
+    - text: gear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nor maybe..."
+    - text: "\nor maybe..."
     - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
-        - 52429
-        - 15948
+    - text: 쳍㹌
+    - utf16_bytes:
         - 14
         - 1
         - 0
@@ -64,28 +63,28 @@ entries:
         - 1
         - 4
         - 0
-        - 16256
-    - ascii: "\n\n"
+    - text: "㾀\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Oh? Actually, this horse is different\nfrom any I've ever seen before.\nMy, she's so lovely and graceful...\n"
+    - text: "Oh? Actually, this horse is different\nfrom any I've ever seen before.\nMy, she's so lovely and graceful...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry, but I'm pretty sure this little\nlady would absolutely hate it if you\nchanged her mane or gear.\n"
+        - 9
+    - text: "I'm sorry, but I'm pretty sure this little\nlady would absolutely hate it if you\nchanged her mane or gear.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm so sorry about that."
+    - text: "I'm so sorry about that."
     - utf16_bytes:
         - 0
   Talk10:
@@ -95,12 +94,12 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: What would you like to change?
+    - text: What would you like to change?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -115,21 +114,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It looks like you don't have any other\n"
+    - text: "It looks like you don't have any other\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bridles
+    - text: bridles
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " yet, but I can help you put it on if\nyou get one."
+    - text: " yet, but I can help you put it on if\nyou get one."
     - utf16_bytes:
         - 0
   Talk12:
@@ -139,21 +138,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It looks like you don't have any other\n"
+    - text: "It looks like you don't have any other\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: saddles
+    - text: saddles
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " yet, but I can help you put it on\nif you get one."
+    - text: " yet, but I can help you put it on\nif you get one."
     - utf16_bytes:
         - 0
   Talk00:
@@ -162,57 +161,55 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Hello there, traveler. Welcome to\nour "
+    - text: "ȁHello there, traveler. Welcome to\nour "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: stable
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ". You will stay awhile,\nwon't you?\nIf you have a horse, we can help you\nchange its "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: gear
+    - text: stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " or "
+    - text: ". You will stay awhile,\nwon't you?\nIf you have a horse, we can help you\nchange its "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: mane
+    - text: gear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " style.\n\n"
+    - text: " or "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: mane
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " style.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "We're always happy to meet new horses,\nso stop on by!"
+    - text: "इWe're always happy to meet new horses,\nso stop on by!"
     - utf16_bytes:
         - 0
   Talk01_1:
@@ -221,15 +218,14 @@ entries:
         - 3
         - 1
         - 2
-        - 3083
-    - ascii: "Oh? Your horse doesn't seem to\nbe tamed. At all.\n\n"
+    - text: "ఋOh? Your horse doesn't seem to\nbe tamed. At all.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Did you just catch it, by any chance?\nPlease spend some time showing this\nsweetie you care, and then come back."
+    - text: "Did you just catch it, by any chance?\nPlease spend some time showing this\nsweetie you care, and then come back."
     - utf16_bytes:
         - 0
   Talk13:
@@ -239,21 +235,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Which "
+    - text: "Which "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: mane
+    - text: mane
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " would you like?"
+    - text: " would you like?"
     - utf16_bytes:
         - 0
   Talk26:
@@ -263,7 +259,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Isn't "
+    - text: "Isn't "
     - utf16_bytes:
         - 14
         - 0
@@ -273,31 +269,31 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: mane
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nyour horse companion already has?"
+    - text: "the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: mane
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nyour horse companion already has?"
     - utf16_bytes:
         - 0
   Talk01:
@@ -306,29 +302,27 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Hello there, traveler. Welcome to\nour "
+    - text: "ȁHello there, traveler. Welcome to\nour "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: stable
+    - text: stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". You will stay awhile,\nwon't you?\n"
+    - text: ". You will stay awhile,\nwon't you?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Oh?
+    - text: ĀOh?
     - utf16_bytes:
         - 0
   Talk01_2:
@@ -338,14 +332,14 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "Hm? This little one doesn't seem to trust\nyou just yet...\n\n"
+    - text: "Hm? This little one doesn't seem to trust\nyou just yet...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Spend some time showing this little love\nhow much you care, and you'll tame it in\nno time."
+    - text: "Spend some time showing this little love\nhow much you care, and you'll tame it in\nno time."
     - utf16_bytes:
         - 0
   Talk14:
@@ -355,7 +349,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Change to "
+    - text: "Change to "
     - utf16_bytes:
         - 14
         - 0
@@ -365,7 +359,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -373,7 +367,7 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -381,7 +375,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk02:
     - utf16_bytes:
@@ -389,8 +384,7 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "Oh, but you should know I'm only\ninterested in horses that are raised\nwith lots of love!\nHow's your horse faring on that front?"
+    - text: "ċOh, but you should know I'm only\ninterested in horses that are raised\nwith lots of love!\nHow's your horse faring on that front?"
     - utf16_bytes:
         - 0
   Talk01_3:
@@ -399,22 +393,21 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Nice! This little one has calm eyes,\nbut it doesn't fully trust you yet.\n\nYou need to show it some more love!\nDo that and I'll be happy to help you\nout with some "
+    - text: "इNice! This little one has calm eyes,\nbut it doesn't fully trust you yet.\n\nYou need to show it some more love!\nDo that and I'll be happy to help you\nout with some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: gear
+    - text: gear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Talk15:
@@ -424,21 +417,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Which "
+    - text: "Which "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bridle
+    - text: bridle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " would you like?"
+    - text: " would you like?"
     - utf16_bytes:
         - 0
   Talk28:
@@ -456,31 +449,31 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "seems to be \nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "bridle "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "your horse companion\nalready has."
+    - text: "seems to be \nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "bridle "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "your horse companion\nalready has."
     - utf16_bytes:
         - 0
   Talk01_4:
@@ -489,22 +482,21 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "Wow! This one's eyes are positively\nsparkling with affection!\n\nI can tell this little one is just head over\nheels for you. That settles it! I'll gladly\nhelp you out with some "
+    - text: "ଇWow! This one's eyes are positively\nsparkling with affection!\n\nI can tell this little one is just head over\nheels for you. That settles it! I'll gladly\nhelp you out with some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: gear
+    - text: gear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Talk16:
@@ -514,21 +506,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Which "
+    - text: "Which "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "saddle "
+    - text: "saddle "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: would you like?
+    - text: would you like?
     - utf16_bytes:
         - 0
   Talk29:
@@ -546,7 +538,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -554,25 +546,25 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: " seems to be\nthe "
+    - text: " seems to be\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "saddle "
+    - text: "saddle "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "your horse companion \nalready has."
+    - text: "your horse companion \nalready has."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Yes, please!"
+    - text: "Yes, please!"
     - utf16_bytes:
         - 0
   Talk04:
@@ -582,21 +574,21 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "Aw, that's too bad... Please come back\nagain when you're ready to change your\nhorse's "
+    - text: "Aw, that's too bad... Please come back\nagain when you're ready to change your\nhorse's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: gear
+    - text: gear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Talk17:
@@ -605,13 +597,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Is there anything else you'd like\nto change?"
+    - text: "ĀIs there anything else you'd like\nto change?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -620,7 +611,7 @@ entries:
         - 768
         - 0
   "0001":
-    - ascii: "No, thanks."
+    - text: "No, thanks."
     - utf16_bytes:
         - 0
   Talk18:
@@ -630,7 +621,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: That looks great!
+    - text: That looks great!
     - utf16_bytes:
         - 14
         - 1
@@ -638,21 +629,21 @@ entries:
         - 4
         - 30
         - 0
-    - ascii: " Please come back\nanytime you feel like changing your\nhorse's "
+    - text: " Please come back\nanytime you feel like changing your\nhorse's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: gear
+    - text: gear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Talk01_00:
@@ -662,11 +653,11 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "Oooh... That's a mighty fine horse\nyou have there."
+    - text: "Oooh... That's a mighty fine horse\nyou have there."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Change the mane.
+    - text: Change the mane.
     - utf16_bytes:
         - 0
   Talk19:
@@ -676,21 +667,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So you want a different "
+    - text: "So you want a different "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: mane
+    - text: mane
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? Got it!"
+    - text: "? Got it!"
     - utf16_bytes:
         - 0
   Talk01_01:
@@ -699,36 +690,35 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you're interested, may I help you\nchange your horse's "
+    - text: "ĀIf you're interested, may I help you\nchange your horse's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: gear
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " or "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: mane
+    - text: gear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: " or "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: mane
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -736,7 +726,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk07:
     - utf16_bytes:
@@ -744,29 +735,28 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Hello there! That's a mighty fine horse\nyou have.\n\nIf you like, I can change out its "
+    - text: "ȁHello there! That's a mighty fine horse\nyou have.\n\nIf you like, I can change out its "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: gear
+    - text: gear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nor maybe..."
+    - text: "\nor maybe..."
     - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
-        - 52429
-        - 15948
+    - text: 쳍㹌
+    - utf16_bytes:
         - 14
         - 1
         - 0
@@ -778,59 +768,59 @@ entries:
         - 1
         - 4
         - 0
-        - 16256
-    - ascii: "\n\n"
+    - text: "㾀\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nOh? My goodness, that's no pony, is it?\nIt's so big!\n\n"
+    - text: "\nOh? My goodness, that's no pony, is it?\nIt's so big!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry, but I don't think I have any\n"
+        - 9
+    - text: "I'm sorry, but I don't think I have any\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "gear "
+    - text: "gear "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "that'd fit such a large horse, and I\nbet it wouldn't like its "
+    - text: "that'd fit such a large horse, and I\nbet it wouldn't like its "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: mane
+    - text: mane
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " handled...\n"
+    - text: " handled...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm so sorry about that."
+    - text: "I'm so sorry about that."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Change the bridle.
+    - text: Change the bridle.
     - utf16_bytes:
         - 0
   Talk01_02:
@@ -840,35 +830,35 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "So you'd like me to change the "
+    - text: "So you'd like me to change the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "gear "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "or\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "mane "
+    - text: "gear "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "on this little one again, correct?"
+    - text: "or\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "mane "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "on this little one again, correct?"
     - utf16_bytes:
         - 14
         - 1
@@ -876,10 +866,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: Change the saddle.
+    - text: Change the saddle.
     - utf16_bytes:
         - 0
   Talk08:
@@ -889,7 +880,7 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: So what do you think?
+    - text: So what do you think?
     - utf16_bytes:
         - 0
   Talk09:
@@ -899,22 +890,22 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: (
+    - text: (
     - utf16_bytes:
         - 0
         - 0
   "0005":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   Talk00_01:
@@ -924,21 +915,21 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Ahhh...
+    - text: Ahhh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Just being around horses\nmakes you forget all about the\npassing of time, doesn't it?"
+    - text: " Just being around horses\nmakes you forget all about the\npassing of time, doesn't it?"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: "I'm done."
+    - text: "I'm done."
     - utf16_bytes:
         - 0
   Talk20:
@@ -948,20 +939,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So you want a different "
+    - text: "So you want a different "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bridle
+    - text: bridle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", eh?"
+    - text: ", eh?"
     - utf16_bytes:
         - 0

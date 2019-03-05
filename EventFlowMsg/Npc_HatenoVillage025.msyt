@@ -1,7 +1,7 @@
 ---
 entries:
   near02:
-    - ascii: Rrrgh...
+    - text: Rrrgh...
     - utf16_bytes:
         - 0
   talk07:
@@ -11,11 +11,11 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: What do YOU want?
+    - text: What do YOU want?
     - utf16_bytes:
         - 0
   near03:
-    - ascii: "Let me at 'em..."
+    - text: "Let me at 'em..."
     - utf16_bytes:
         - 0
   talk08:
@@ -25,7 +25,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Cut it out, creep!"
+    - text: "Cut it out, creep!"
     - utf16_bytes:
         - 0
   talk09:
@@ -35,7 +35,7 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "Oh, don't act so clueless."
+    - text: "Oh, don't act so clueless."
     - utf16_bytes:
         - 14
         - 5
@@ -45,13 +45,13 @@ entries:
         - 0
         - 4
         - 0
-    - ascii: "Although... "
+    - text: "Although... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Fine.
+    - text: Fine.
     - utf16_bytes:
         - 14
         - 0
@@ -61,48 +61,48 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: You seem harmless enough.
+    - text: ĀYou seem harmless enough.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Forgive me,\nI've just been on edge with all these\nmonsters running around.\n"
+    - text: " Forgive me,\nI've just been on edge with all these\nmonsters running around.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tThey come up from "
+        - 9
+    - text: "They come up from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hateno Beach "
+    - text: "Hateno Beach "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to\nsteal my sheep. "
+    - text: "to\nsteal my sheep. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "If someone doesn't do\nsomething soon, I won't have any left!"
+    - text: "If someone doesn't do\nsomething soon, I won't have any left!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Yes?
+    - text: Yes?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk20:
@@ -111,35 +111,34 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "I wanted to give you some "
+    - text: "ကI wanted to give you some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fresh milk
+    - text: fresh milk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nbut you don't have room for any."
+    - text: ",\nbut you don't have room for any."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Go drink some "
+    - text: "Go drink some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fresh milk
+    - text: fresh milk
     - utf16_bytes:
         - 14
         - 0
@@ -150,19 +149,15 @@ entries:
         - 5
         - 0
         - 0
-        - 8212
-    - ascii: "or sell it,\nthat works too"
-    - utf16_bytes:
-        - 8212
-    - ascii: and come back.
+    - text: "—or sell it,\nthat works too—and come back."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Which monsters?
+    - text: Which monsters?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Hateno Beach?
+    - text: Hateno Beach?
     - utf16_bytes:
         - 0
   talk22:
@@ -171,12 +166,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Though, it could certainly be worse..."
+    - text: "ĀThough, it could certainly be worse..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   talk10:
@@ -190,27 +184,28 @@ entries:
         - 3
         - 1
         - 2
-        - 3589
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "I hate that gang of monsters on \n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hateno Beach
+    - text: ฅ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "I hate that gang of monsters on \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hateno Beach
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -232,14 +227,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The scent of the soil is the smell of life\nitself. "
+    - text: "ĀThe scent of the soil is the smell of life\nitself. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "If you ask me, anyway."
+    - text: "If you ask me, anyway."
     - utf16_bytes:
         - 0
   talk11:
@@ -248,54 +242,54 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "The stupid ones who attack anything\nthat moves."
+    - text: "ขThe stupid ones who attack anything\nthat moves."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Last time they showed up,\nI gave them a taste of my pitchfork.\n"
+    - text: " Last time they showed up,\nI gave them a taste of my pitchfork.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut I had second thoughts about\nfollowing them back to their camp\non "
+        - 9
+    - text: "But I had second thoughts about\nfollowing them back to their camp\non "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hateno Beach
+    - text: Hateno Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI was mad enough to spit but maybe\nnot mad enough to take on "
+    - text: "\nI was mad enough to spit but maybe\nnot mad enough to take on "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "seven\nmonsters "
+    - text: "seven\nmonsters "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: at once.
+    - text: at once.
     - utf16_bytes:
         - 0
   talk12:
@@ -304,34 +298,33 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It's southeast of the village."
+    - text: "ЀIt's southeast of the village."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Follow the\nwinding road, and you'll be there before\nyou know it."
+    - text: " Follow the\nwinding road, and you'll be there before\nyou know it."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt's well-known enough that you can\nprobably find it on a "
+    - text: "\nIt's well-known enough that you can\nprobably find it on a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: map
+    - text: map
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", come to that."
+    - text: ", come to that."
     - utf16_bytes:
         - 0
   talk25:
@@ -340,20 +333,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The sheep have been eating and sleeping\nbetter."
+    - text: "ĀThe sheep have been eating and sleeping\nbetter."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " They're yielding more milk too."
+    - text: " They're yielding more milk too."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou've single-handedly saved my flock!"
+    - text: "\nYou've single-handedly saved my flock!"
     - utf16_bytes:
         - 0
   talk00:
@@ -363,13 +355,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hmph. \"Good\" morning. "
+    - text: "Hmph. \"Good\" morning. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "What's so good\nabout it, I ask?"
+    - text: "What's so good\nabout it, I ask?"
     - utf16_bytes:
         - 0
   talk13:
@@ -378,14 +370,13 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Good... *sigh* "
+    - text: "ĆGood... *sigh* "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 14
         - 5
@@ -395,19 +386,19 @@ entries:
         - 0
         - 4
         - 0
-    - ascii: "I'm sorry if we got off on the wrong foot."
+    - text: "I'm sorry if we got off on the wrong foot."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nUh..."
+    - text: "\nUh..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "that's all..."
+    - text: "that's all..."
     - utf16_bytes:
         - 0
   talk26:
@@ -416,54 +407,53 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Say...
+    - text: ကSay...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "is that the "
+    - text: "is that the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " from the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hateno Ancient Tech Lab
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: " from the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hateno Ancient Tech Lab
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "What are you doing with it? "
+    - text: "What are you doing with it? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Some kind\nof scientific ritual?"
+    - text: "Some kind\nof scientific ritual?"
     - utf16_bytes:
         - 0
   talk01:
@@ -473,13 +463,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hmph. \"Good\" day. "
+    - text: "Hmph. \"Good\" day. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "What's so good\nabout it, I ask?"
+    - text: "What's so good\nabout it, I ask?"
     - utf16_bytes:
         - 0
   talk14:
@@ -488,34 +478,31 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "The sheep have calmed down. "
+    - text: "ሀThe sheep have calmed down. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I think\nthey get that they're not about to be\nsnatched at any moment.\n"
+    - text: "I think\nthey get that they're not about to be\nsnatched at any moment.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hey... "
+    - text: "ĀHey... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Sorry if I'm off the mark in asking\nthis, "
+    - text: "Sorry if I'm off the mark in asking\nthis, "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "but are you the one who took care\nof those monsters?"
+    - text: "؋but are you the one who took care\nof those monsters?"
     - utf16_bytes:
         - 14
         - 1
@@ -523,7 +510,8 @@ entries:
         - 6
         - 4
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk27:
     - utf16_bytes:
@@ -536,47 +524,48 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "That's the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "flame "
+    - text: က
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "they use up at the\n"
+    - text: "That's the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hateno Ancient Tech Lab
+    - text: "flame "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "they use up at the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hateno Ancient Tech Lab
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Where are\nyou taking it?"
+    - text: " Where are\nyou taking it?"
     - utf16_bytes:
         - 0
   talk02:
@@ -586,13 +575,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hmph. \"Good\" evening. "
+    - text: "Hmph. \"Good\" evening. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "What's so good\nabout it, I ask?"
+    - text: "What's so good\nabout it, I ask?"
     - utf16_bytes:
         - 0
   talk15:
@@ -602,7 +591,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: I had a feeling.
+    - text: I had a feeling.
     - utf16_bytes:
         - 14
         - 0
@@ -612,14 +601,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "When the sheep all calmed down,\nI thought, \"Maybe he did it...\""
+    - text: "ĀWhen the sheep all calmed down,\nI thought, \"Maybe he did it...\""
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: So it seems I owe you some thanks.
+    - text: So it seems I owe you some thanks.
     - utf16_bytes:
         - 0
   talk28:
@@ -629,7 +617,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Anything else you wanna know?
+    - text: Anything else you wanna know?
     - utf16_bytes:
         - 14
         - 1
@@ -651,8 +639,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: "Oh, no you don't!"
+    - text: "จOh, no you don't!"
     - utf16_bytes:
         - 0
   talk04:
@@ -661,28 +648,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Isn't that old Purah's "
+    - text: "ကIsn't that old Purah's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhat are you up to with it?"
+    - text: "\nWhat are you up to with it?"
     - utf16_bytes:
         - 0
   talk17:
@@ -691,14 +677,13 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "You can't hide the truth from me."
+    - text: "ĆYou can't hide the truth from me."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI might not feel it in my bones like the\nsheep do, but I'm no fool, either.\nWhich is to say..."
+    - text: "\nI might not feel it in my bones like the\nsheep do, but I'm no fool, either.\nWhich is to say..."
     - utf16_bytes:
         - 14
         - 5
@@ -708,13 +693,13 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: um...
+    - text: um...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Thanks."
+    - text: " Thanks."
     - utf16_bytes:
         - 0
   talk05:
@@ -728,33 +713,34 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "Hey! That's Purah's "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: flame
+    - text: က
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! "
+    - text: "Hey! That's Purah's "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flame
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "How come\nyou're messing with it?"
+    - text: "How come\nyou're messing with it?"
     - utf16_bytes:
         - 0
   talk18:
@@ -764,36 +750,35 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "It'll be nice to have a night's sleep\nwithout worrying about my flock.\n\n"
+    - text: "It'll be nice to have a night's sleep\nwithout worrying about my flock.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "And, er..."
+    - text: "ĀAnd, er..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If you want..."
+    - text: " If you want..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "you can talk\nto me anytime. "
+    - text: "you can talk\nto me anytime. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: O-or not!
+    - text: O-or not!
     - utf16_bytes:
         - 0
   near01:
-    - ascii: "They'll pay! They'll all pay!"
+    - text: "They'll pay! They'll all pay!"
     - utf16_bytes:
         - 0
   talk06:
@@ -803,7 +788,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey, you."
+    - text: "Hey, you."
     - utf16_bytes:
         - 14
         - 1
@@ -811,7 +796,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk19:
     - utf16_bytes:
@@ -819,13 +805,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "This isn't much of a reward, but hey,\nit's light."
+    - text: "ĀThis isn't much of a reward, but hey,\nit's light."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That counts for something."
+    - text: " That counts for something."
     - utf16_bytes:
         - 0

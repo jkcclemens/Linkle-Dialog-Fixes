@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: I see. Nice to meet a fellow admirer.
+    - text: I see. Nice to meet a fellow admirer.
     - utf16_bytes:
         - 0
   talk08:
@@ -16,20 +16,19 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: Oh...
+    - text: ᐄOh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You're not?"
+    - text: " You're not?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWell, never mind."
+    - text: "\nWell, never mind."
     - utf16_bytes:
         - 0
   talk09:
@@ -38,36 +37,33 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I always liked the simple nature of this\nvillage.\n\n"
+    - text: "ĀI always liked the simple nature of this\nvillage.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: "Although, I'm starting to regret choosing\nit as my honeymoon destination...\n\n"
+    - text: "ဃAlthough, I'm starting to regret choosing\nit as my honeymoon destination...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "It's really cold here and there's not much\nto do, so my "
+    - text: "ĆIt's really cold here and there's not much\nto do, so my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "wife "
+    - text: "wife "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is complaining nonstop.\nShe won't even talk to me right now."
+    - text: "is complaining nonstop.\nShe won't even talk to me right now."
     - utf16_bytes:
         - 0
   talk30:
@@ -76,22 +72,21 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촊
+    - text: 촊
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: U-urgh...
+    - text: ĀU-urgh...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk20:
@@ -100,22 +95,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Can you sell me "
+    - text: "ĀCan you sell me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: a piece
+    - text: a piece
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -123,7 +117,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk21:
     - utf16_bytes:
@@ -131,22 +126,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Can you sell me "
+    - text: "ĀCan you sell me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "five "
+    - text: "five "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of those?
+    - text: of those?
     - utf16_bytes:
         - 14
         - 1
@@ -154,10 +148,11 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: "OK, sure."
+    - text: "OK, sure."
     - utf16_bytes:
         - 0
   talk22:
@@ -166,22 +161,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Can you sell me "
+    - text: "ĀCan you sell me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of those?
+    - text: of those?
     - utf16_bytes:
         - 14
         - 1
@@ -189,10 +183,11 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: No way.
+    - text: No way.
     - utf16_bytes:
         - 0
   talk10:
@@ -202,7 +197,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Sure, see you around."
+    - text: "Sure, see you around."
     - utf16_bytes:
         - 0
   talk23:
@@ -211,22 +206,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Can you sell me "
+    - text: "ĀCan you sell me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "30 "
+    - text: "30 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of those?
+    - text: of those?
     - utf16_bytes:
         - 14
         - 1
@@ -234,7 +228,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk11:
     - utf16_bytes:
@@ -243,13 +238,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Hey.
+    - text: Hey.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You sure look energetic.\nAren't you cold?"
+    - text: " You sure look energetic.\nAren't you cold?"
     - utf16_bytes:
         - 0
   talk24:
@@ -258,22 +253,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Can you sell me "
+    - text: "ĀCan you sell me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "50 "
+    - text: "50 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of those?
+    - text: of those?
     - utf16_bytes:
         - 14
         - 1
@@ -281,7 +275,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk25:
     - utf16_bytes:
@@ -289,22 +284,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Can you sell me "
+    - text: "ĀCan you sell me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "100 "
+    - text: "100 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of those?
+    - text: of those?
     - utf16_bytes:
         - 14
         - 1
@@ -312,7 +306,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk00:
     - utf16_bytes:
@@ -321,13 +316,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hey there.
+    - text: Hey there.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Mornin'..."
+    - text: " Mornin'..."
     - utf16_bytes:
         - 0
   talk13:
@@ -336,14 +331,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8707
-    - ascii: "*yawn*"
+    - text: ∃*yawn*
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHowdy."
+    - text: "\nHowdy."
     - utf16_bytes:
         - 0
   talk26:
@@ -352,36 +346,35 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I still need to make more "
+    - text: "ĀI still need to make more "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: baked apples
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " to\nkeep my wife happy, so please bring me\nmore "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: flint
+    - text: baked apples
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " to\nkeep my wife happy, so please bring me\nmore "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   talk01:
@@ -391,13 +384,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hey there.
+    - text: Hey there.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Good day..."
+    - text: " Good day..."
     - utf16_bytes:
         - 0
   talk27:
@@ -406,43 +399,42 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "I need to make some "
+    - text: "ĆI need to make some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "baked apples "
+    - text: "baked apples "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to\nkeep my wife happy...\n\n"
+    - text: "to\nkeep my wife happy...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3
-    - ascii: "But I don't have any "
+    - text: "But I don't have any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "flint "
+    - text: "flint "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: to start a fire...
+    - text: to start a fire...
     - utf16_bytes:
         - 0
   talk02:
@@ -452,13 +444,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hey there.
+    - text: Hey there.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Good evenin'..."
+    - text: " Good evenin'..."
     - utf16_bytes:
         - 0
   talk15:
@@ -467,22 +459,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm here on my honeymoon. My "
+    - text: "ĀI'm here on my honeymoon. My "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "wife "
+    - text: "wife "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is\ngiving me the silent treatment. She hates\nit here."
+    - text: "is\ngiving me the silent treatment. She hates\nit here."
     - utf16_bytes:
         - 0
   talk28:
@@ -491,34 +482,33 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: A-
+    - text: ćA-
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: all right!
+    - text: all right!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Now I can make some\n"
+    - text: " Now I can make some\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: baked apples
+    - text: baked apples
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk03:
@@ -528,13 +518,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Great...
+    - text: Great...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " And now it's raining..."
+    - text: " And now it's raining..."
     - utf16_bytes:
         - 0
   talk16:
@@ -543,13 +533,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh, man."
+        - 9
+    - text: "Oh, man."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " If this doesn't work, she's\ngoing to divorce me for sure!"
+    - text: " If this doesn't work, she's\ngoing to divorce me for sure!"
     - utf16_bytes:
         - 0
   talk29:
@@ -558,14 +549,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Bring me a few, and I'll reimburse you."
+    - text: "ĀBring me a few, and I'll reimburse you."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThanks, friend."
+    - text: "\nThanks, friend."
     - utf16_bytes:
         - 0
   talk17:
@@ -574,14 +564,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "That unmistakable, slightly acrid scent..."
+    - text: "ጄThat unmistakable, slightly acrid scent..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou have some"
+    - text: "\nYou have some"
     - utf16_bytes:
         - 14
         - 0
@@ -597,25 +586,25 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "flint "
+    - text: "flint "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "on you, don't you?"
+    - text: "on you, don't you?"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Urgh...
+    - text: Urgh...
     - utf16_bytes:
         - 0
   talk18:
@@ -625,23 +614,23 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Th-
+    - text: Th-
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: thanks!
+    - text: thanks!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " As promised, here's your\npayment."
+    - text: " As promised, here's your\npayment."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: "*sigh*"
+    - text: "*sigh*"
     - utf16_bytes:
         - 0
   talk06:
@@ -650,8 +639,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: So are you staying in Rito Village too?
+    - text: ĀSo are you staying in Rito Village too?
     - utf16_bytes:
         - 14
         - 1
@@ -659,7 +647,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk19:
     - utf16_bytes:
@@ -667,83 +656,81 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Thanks for selling me some "
+    - text: "ĀThanks for selling me some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\n\nI'll bake some more apples,"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: " "
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "so keep\nbringing me "
+    - text: ".\n\n\nI'll bake some more apples,"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: "so keep\nbringing me "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: She...
+    - text: She...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "has a weird obsession with\n"
+    - text: "has a weird obsession with\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: baked apples
+    - text: baked apples
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I fear that's the only thing keeping her\nfrom filing for divorce."
+    - text: "ĀI fear that's the only thing keeping her\nfrom filing for divorce."
     - utf16_bytes:
         - 0

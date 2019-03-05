@@ -7,19 +7,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: What a weirdo.
+    - text: What a weirdo.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Desert?
+    - text: Desert?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: I like rain!
+    - text: I like rain!
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "Where's home?"
+    - text: "Where's home?"
     - utf16_bytes:
         - 0
   talk_00:
@@ -29,7 +29,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Mmm, the weather here is nice and\nwarm. It's not at all like that blazing\nheat in the desert!\nAre you here on vacation?"
+    - text: "Mmm, the weather here is nice and\nwarm. It's not at all like that blazing\nheat in the desert!\nAre you here on vacation?"
     - utf16_bytes:
         - 14
         - 1
@@ -37,7 +37,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk_10:
     - utf16_bytes:
@@ -45,13 +46,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta."
+    - text: "촙Sav'otta."
     - utf16_bytes:
         - 0
   talk_11:
@@ -60,17 +61,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq."
+    - text: "촚Sav'aaq."
     - utf16_bytes:
         - 0
   talk_01:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk_12:
@@ -79,13 +80,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba."
+    - text: "촛Sav'saaba."
     - utf16_bytes:
         - 0
   talk_02:
@@ -95,27 +96,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You see that island over there? That's\n"
+    - text: "You see that island over there? That's\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Eventide Island
+    - text: Eventide Island
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I came all the way here\nso that I could go there."
+    - text: " I came all the way here\nso that I could go there."
     - utf16_bytes:
         - 0
   talk_13:
@@ -125,21 +126,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The isle far off the shore to the east is\ncalled "
+    - text: "The isle far off the shore to the east is\ncalled "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Eventide Island
+    - text: Eventide Island
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nIt was tales of that island that brought\nme all the way out here."
+    - text: ".\n\nIt was tales of that island that brought\nme all the way out here."
     - utf16_bytes:
         - 0
   talk_03:
@@ -149,21 +150,21 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "If only I had some "
+    - text: "If only I had some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: wings
+    - text: wings
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
@@ -177,27 +178,27 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "However, it's actually hard to get there\nby sea."
+    - text: "However, it's actually hard to get there\nby sea."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It feels like you'd need to grow\n"
+    - text: " It feels like you'd need to grow\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: wings
+    - text: wings
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to go there..."
+    - text: " to go there..."
     - utf16_bytes:
         - 0
   talk_05:
@@ -206,7 +207,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOof... Rain is the worst.\nIt really makes me miss home."
+        - 9
+    - text: "Oof... Rain is the worst.\nIt really makes me miss home."
     - utf16_bytes:
         - 14
         - 1
@@ -214,10 +216,11 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Near00:
-    - ascii: So far...
+    - text: So far...
     - utf16_bytes:
         - 0
   talk_06:
@@ -226,8 +229,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: I see. As for me...
+    - text: ІI see. As for me...
     - utf16_bytes:
         - 14
         - 5
@@ -235,7 +237,7 @@ entries:
         - 0
         - 0
   Near01:
-    - ascii: "It's starting to rain..."
+    - text: "It's starting to rain..."
     - utf16_bytes:
         - 0
   talk_07:
@@ -244,12 +246,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "I came here from Gerudo Town.\nIt's a place surrounded by an expansive\ndesert."
+    - text: "ІI came here from Gerudo Town.\nIt's a place surrounded by an expansive\ndesert."
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Urmm...
+    - text: Urmm...
     - utf16_bytes:
         - 0
   talk_08:
@@ -259,16 +260,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I grew up in Gerudo Town.\nIt's completely surrounded by a desert."
+    - text: "I grew up in Gerudo Town.\nIt's completely surrounded by a desert."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt never rains in the desert.\nI thought it was neat at first, but now I'm\npretty sick of the frequent rain."
+    - text: "\nIt never rains in the desert.\nI thought it was neat at first, but now I'm\npretty sick of the frequent rain."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I am.
+    - text: I am.
     - utf16_bytes:
         - 0

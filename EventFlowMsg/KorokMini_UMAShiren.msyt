@@ -7,54 +7,53 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hey, Ms. Heroine!"
+    - text: "Hey, Ms. Heroine!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI wanna see a "
+    - text: "\nI wanna see a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Blupee
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "!\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-    - ascii: "ĉIt's that blue hoppy thing that glows\nin the dark! Just about Peeks's size!\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 267
-    - ascii: "I just really want to see a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Blupee
+    - text: Blupee
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nEven if it's just a picture or whatever."
+    - text: "!\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĉIt's that blue hoppy thing that glows\nin the dark! Just about Peeks's size!\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ċI just really want to see a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Blupee
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nEven if it's just a picture or whatever."
     - utf16_bytes:
         - 14
         - 1
@@ -62,7 +61,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri007_R_Talk040:
     - utf16_bytes:
@@ -70,13 +70,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}HUH?!"
+    - text: "}HUH?!"
     - utf16_bytes:
         - 14
         - 0
@@ -86,13 +86,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dWait, wait!"
+    - text: "dWait, wait!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou have it already?!"
+    - text: "\nYou have it already?!"
     - utf16_bytes:
         - 0
   Npc_Kokiri007_F_Talk000:
@@ -102,46 +102,45 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I don't know where they live,"
+    - text: "I don't know where they live,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " but there\nare little blue glowing critters around\nHyrule that are quick and hoppy...\n"
+    - text: " but there\nare little blue glowing critters around\nHyrule that are quick and hoppy...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "Apparently they're called "
+    - text: "ćApparently they're called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Blupees
+    - text: Blupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI wonder how glowy they are!"
+    - text: "\nI wonder how glowy they are!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAren't you curious?\nI REALLY want to see one.\nEven a picture is enough.\nThank you!"
+    - text: "\nAren't you curious?\nI REALLY want to see one.\nEven a picture is enough.\nThank you!"
     - utf16_bytes:
         - 0
   Npc_Kokiri007_F_Talk030:
@@ -151,50 +150,50 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Wow! It's even more beautiful than "
+    - text: "Wow! It's even more beautiful than "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Peeks
+    - text: Peeks
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nimagined!\n\n"
+    - text: "\nimagined!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Thanks so much, Ms. Heroine!"
+    - text: "Thanks so much, Ms. Heroine!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nNow I'm content!\n\n..."
+    - text: "\nNow I'm content!\n\n..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Oh! "
+    - text: "Oh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "And here's a little thank-you gift!\nPeeks didn't forget!"
+    - text: "And here's a little thank-you gift!\nPeeks didn't forget!"
     - utf16_bytes:
         - 0
   Npc_Kokiri007_R_Near000:
-    - ascii: Glowy hoppy!
+    - text: Glowy hoppy!
     - utf16_bytes:
         - 0
   Npc_Kokiri007_R_Talk020:
@@ -203,74 +202,72 @@ entries:
         - 3
         - 1
         - 2
-        - 2310
-    - ascii: "I knew you were a nice guy, Ms. Heroine!"
+    - text: "आI knew you were a nice guy, Ms. Heroine!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThanks for listening to Peeks's request!\n\n"
+    - text: "\nThanks for listening to Peeks's request!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "So...I don't know where they live, but \nI heard there are little blue glowing\ncritters hopping around Hyrule.\n"
+    - text: "ċSo...I don't know where they live, but \nI heard there are little blue glowing\ncritters hopping around Hyrule.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Apparently they're called "
+    - text: "Apparently they're called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Blupees
+    - text: Blupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI wonder how glowy they are!"
+    - text: "\nI wonder how glowy they are!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAren't you curious?\nIf you show me a "
+    - text: "\nAren't you curious?\nIf you show me a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Blupee
+    - text: Blupee
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I'll be sure to\nthank you with a gift! "
+    - text: ", I'll be sure to\nthank you with a gift! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Good luck!
+    - text: Good luck!
     - utf16_bytes:
         - 0
   Npc_Kokiri007_F_Talk010:
@@ -279,7 +276,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nOh! Ms. Heroine! Did you bring it for me?"
+    - text: "\nOh! Ms. Heroine! Did you bring it for me?"
     - utf16_bytes:
         - 0
   Npc_Kokiri007_F_Talk040:
@@ -289,46 +286,46 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, yeah! "
+    - text: "Oh, yeah! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Ms. Heroine, needs rupees \nsometimes, right?\n\nIf you desperately need rupees..."
+    - text: "Ms. Heroine, needs rupees \nsometimes, right?\n\nIf you desperately need rupees..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "you\nshould shoot an arrow at a "
+    - text: "you\nshould shoot an arrow at a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blupee
+    - text: blupee
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nI hear they drop lots of rupees if you hit\nthem.\n\n"
+    - text: "!\n\nI hear they drop lots of rupees if you hit\nthem.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Oh, man! "
+    - text: "Oh, man! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm so glad I got to see\nsomething so cool! Peeks is so happy\nright now!"
+    - text: "I'm so glad I got to see\nsomething so cool! Peeks is so happy\nright now!"
     - utf16_bytes:
         - 0
   Npc_Kokiri007_R_Talk000:
@@ -338,67 +335,65 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Peeks thought of a trial that will \nmake Ms. Heroine stronger! You won't have\nto fight,"
+    - text: "Peeks thought of a trial that will \nmake Ms. Heroine stronger! You won't have\nto fight,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and it's not scary!\nBUT you'll need to be extra careful!\n"
+    - text: " and it's not scary!\nBUT you'll need to be extra careful!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: So...
+    - text: ĀSo...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI wanna see a "
+    - text: "\nI wanna see a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Blupee
+    - text: Blupee
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n"
+    - text: "!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ĉIt's a blue, glowy, hoppy thing that\nglows in the dark! Just about Peeks's\nsize!\n"
+    - text: "ĉIt's a blue, glowy, hoppy thing that\nglows in the dark! Just about Peeks's\nsize!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "I just really want to see a "
+    - text: "ċI just really want to see a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Blupee
+    - text: Blupee
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nEven if it's just a picture of one."
+    - text: "!\nEven if it's just a picture of one."
     - utf16_bytes:
         - 14
         - 1
@@ -406,10 +401,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'll help you out."
+    - text: "I'll help you out."
     - utf16_bytes:
         - 0
   Npc_Kokiri007_R_Talk030:
@@ -418,16 +414,17 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMs. Heroine doesn't care about Peeks?"
+        - 9
+    - text: "Ms. Heroine doesn't care about Peeks?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nOh... OK."
+    - text: "\nOh... OK."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I can't right now..."
+    - text: "I can't right now..."
     - utf16_bytes:
         - 0

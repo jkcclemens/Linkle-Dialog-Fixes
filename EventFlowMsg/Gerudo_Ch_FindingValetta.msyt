@@ -6,32 +6,31 @@ entries:
         - 3
         - 1
         - 2
-        - 5120
-    - ascii: Whuh...
+    - text: ᐀Whuh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Whah..."
+    - text: " Whah..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ᐊ
+    - text: ᐊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}WHAAAAT?!"
+    - text: "}WHAAAAT?!"
     - utf16_bytes:
         - 14
         - 5
@@ -41,7 +40,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\nBarta didn't come back AGAIN?"
+    - text: "d\nBarta didn't come back AGAIN?"
     - utf16_bytes:
         - 0
   talk00:
@@ -50,41 +49,42 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI guess I can't sit on this any longer... \n\n\nThere's a rumor that a fairy lives in the\n"
+        - 9
+    - text: "I guess I can't sit on this any longer... \n\n\nThere's a rumor that a fairy lives in the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "leviathan bones "
+    - text: "leviathan bones "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "southwest of town...\n\nI thought it was something that Barta\nmight be interested in..."
+    - text: "southwest of town...\n\nI thought it was something that Barta\nmight be interested in..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nBut that area is also known as the home\nof the "
+    - text: "\n\nBut that area is also known as the home\nof the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Molduga
+    - text: Molduga
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... \n\nGoing there alone would be \nunthinkable..."
+    - text: "... \n\nGoing there alone would be \nunthinkable..."
     - utf16_bytes:
         - 0
   Oasis042_talk01:
@@ -93,22 +93,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm afraid this time she went to \ninvestigate the "
+    - text: "ЀI'm afraid this time she went to \ninvestigate the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "leviathan bones "
+    - text: "leviathan bones "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in the\nsouthwest..."
+    - text: "in the\nsouthwest..."
     - utf16_bytes:
         - 0
   talk01:
@@ -117,67 +116,69 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tGreat, now my senior officer Liana is\nsteamed at me... Well, as she should be,\nI guess...\nI got in trouble over something related to\nBarta with our "
+        - 9
+    - text: "Great, now my senior officer Liana is\nsteamed at me... Well, as she should be,\nI guess...\nI got in trouble over something related to\nBarta with our "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "squad leader,"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Teake
+    - text: "squad leader,"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nbefore as well, and she was really mad...\n"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Teake
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nbefore as well, and she was really mad...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But I did kind of try to sort of stop her, \nyou know!\n\nI told her it was a "
+    - text: "But I did kind of try to sort of stop her, \nyou know!\n\nI told her it was a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: region of extreme heat
+    - text: region of extreme heat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nand that she should equip herself\nappropriately if she was going there..."
+    - text: "\nand that she should equip herself\nappropriately if she was going there..."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 4
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Take this!
+    - text: Take this!
     - utf16_bytes:
         - 0
   talk02:
@@ -187,21 +188,21 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh! What a courageous vai! I heard\nfrom Barta! She said you found her!\n\nI told her you were as dependable as a\nChampion!"
+    - text: "Oh! What a courageous vai! I heard\nfrom Barta! She said you found her!\n\nI told her you were as dependable as a\nChampion!"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2304
-    - ascii: " If you were a Gerudo vai,\nI'd want you in my troop!\nAnyway, close one, huh? Looks like I got\nout of this without getting chewed out by\nour troop leader!\n"
+    - text: " If you were a Gerudo vai,\nI'd want you in my troop!\nAnyway, close one, huh? Looks like I got\nout of this without getting chewed out by\nour troop leader!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "You must be worn out, right? Here, take\nthis as thanks! Buy yourself something\nnice in the market!"
+    - text: "You must be worn out, right? Here, take\nthis as thanks! Buy yourself something\nnice in the market!"
     - utf16_bytes:
         - 0
   Valetta_talk00:
@@ -210,24 +211,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ȉAre you...a fairy? An angel?\nAre you here to guide my passage?\n\n"
+    - text: "ȉAre you...a fairy? An angel?\nAre you here to guide my passage?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ȉ...Everything's going hazy...\nThis might be the end..."
+    - text: "ȉ...Everything's going hazy...\nThis might be the end..."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk03:
@@ -237,24 +239,24 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, it looks like Barta at least feels\nbad about what happened this time...\nWhat a mess, though."
+    - text: "Well, it looks like Barta at least feels\nbad about what happened this time...\nWhat a mess, though."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAnd you know the worst part? Even a vai\nlike Barta, who's all over the place, is\npopular with the voe. \n"
+    - text: "\nAnd you know the worst part? Even a vai\nlike Barta, who's all over the place, is\npopular with the voe. \n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I don't get it."
+    - text: "I don't get it."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Snap out of it!
+    - text: Snap out of it!
     - utf16_bytes:
         - 0
   Valetta_talk01:
@@ -263,39 +265,39 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ȉAhh... If only I could've eaten a\n"
+    - text: "ȉAhh... If only I could've eaten a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "hearty durian "
+    - text: "hearty durian "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: one last time...
+    - text: one last time...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PA hearty durian...\nA hearty durian..."
+    - text: "PA hearty durian...\nA hearty durian..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Oasis042_talk04:
@@ -304,8 +306,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: I... I tried to stop her...
+    - text: ЀI... I tried to stop her...
     - utf16_bytes:
         - 0
   talk04:
@@ -315,14 +316,14 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "...If you think about it, making your way\nacross the desert like that is really\npretty impressive.\n"
+    - text: "...If you think about it, making your way\nacross the desert like that is really\npretty impressive.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I wonder if that means Barta is actually\nreally strong..."
+    - text: "I wonder if that means Barta is actually\nreally strong..."
     - utf16_bytes:
         - 0
   Valetta_talk02:
@@ -331,25 +332,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ȉAhh, spirits of the Goddess... Before you\nbear me away, could I just have a bite of\ndelicious durian...\nJust one taste of a "
+    - text: "ȉAhh, spirits of the Goddess... Before you\nbear me away, could I just have a bite of\ndelicious durian...\nJust one taste of a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: hearty durian
+    - text: hearty durian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Your boss was MAD.
+    - text: Your boss was MAD.
     - utf16_bytes:
         - 0
   Oasis042_talk05:
@@ -359,11 +360,11 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "But obviously it didn't work because\nshe's not here!"
+    - text: "But obviously it didn't work because\nshe's not here!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Try harder next time...
+    - text: Try harder next time...
     - utf16_bytes:
         - 0
   talk05:
@@ -372,15 +373,14 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "When you showed up, I thought for a\nsecond that maybe the vai of my dreams\nhad come along.\n"
+    - text: "इWhen you showed up, I thought for a\nsecond that maybe the vai of my dreams\nhad come along.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Speaking of which, I wonder how things\nare going for that voe-crazy Perda...\nI wonder if she's met the one yet...\nMaybe once everyone forgets how in\ntrouble I am, I should head out and look\nfor my special someone..."
+    - text: "Speaking of which, I wonder how things\nare going for that voe-crazy Perda...\nI wonder if she's met the one yet...\nMaybe once everyone forgets how in\ntrouble I am, I should head out and look\nfor my special someone..."
     - utf16_bytes:
         - 0
   Valetta_talk03:
@@ -389,21 +389,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ȉAhh, spirits of the Goddess... Before you\ntake me from this world, if I could just\ntaste fruit...\nJust one last bite of a "
+    - text: "ȉAhh, spirits of the Goddess... Before you\ntake me from this world, if I could just\ntaste fruit...\nJust one last bite of a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: hearty durian
+    - text: hearty durian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -411,7 +411,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Oasis042_talk06:
     - utf16_bytes:
@@ -419,22 +420,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Yes, nobody would dare! And not only\nthat, but it's an "
+    - text: "ЀYes, nobody would dare! And not only\nthat, but it's an "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: extremely hot zone
+    - text: extremely hot zone
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", so\nwe wouldn't last long there in our gear..."
+    - text: ", so\nwe wouldn't last long there in our gear..."
     - utf16_bytes:
         - 0
   talk06:
@@ -443,21 +443,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tIf you hadn't come along when you did...\n\n\nI would have had to say my eternal\nsav'orq before I'd even met the voe of\nmy dreams...\n"
+        - 9
+    - text: "If you hadn't come along when you did...\n\n\nI would have had to say my eternal\nsav'orq before I'd even met the voe of\nmy dreams...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "From the bottom of my heart, sarqso.\n\n\n"
+    - text: "इFrom the bottom of my heart, sarqso.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Speaking of which, I wonder how things\nare going for that voe-crazy Perda...\nI wonder if she's met the one yet...\nMaybe once everyone forgets how in\ntrouble I am, I should head out and look\nfor my special someone..."
+    - text: "Speaking of which, I wonder how things\nare going for that voe-crazy Perda...\nI wonder if she's met the one yet...\nMaybe once everyone forgets how in\ntrouble I am, I should head out and look\nfor my special someone..."
     - utf16_bytes:
         - 0
   Valetta_talk04:
@@ -466,21 +466,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ȉS-spirit... Just one bite would do...\n\n\nA little "
+    - text: "ȉS-spirit... Just one bite would do...\n\n\nA little "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "hearty durian "
+    - text: "hearty durian "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "for me...\n\n\nBefore my last sav'orq..."
+    - text: "for me...\n\n\nBefore my last sav'orq..."
     - utf16_bytes:
         - 0
   Oasis042_talk07:
@@ -489,53 +489,51 @@ entries:
         - 3
         - 1
         - 2
-        - 5122
-    - ascii: "You... "
+    - text: "ᐂYou... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 7944
-    - ascii: "You "
+    - text: "ἈYou "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}IDIOTS!"
+    - text: "}IDIOTS!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " \n\n\n"
+    - text: " \n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "That scatterbrain wouldn't even realize\nshe was walking into danger! I mean,\nyou know that, right?!\n"
+    - text: "That scatterbrain wouldn't even realize\nshe was walking into danger! I mean,\nyou know that, right?!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "Why, it was just the other day she ran\noff and got captured by the Yiga!"
+    - text: "Why, it was just the other day she ran\noff and got captured by the Yiga!"
     - utf16_bytes:
         - 0
   Valetta_talk05:
@@ -544,47 +542,46 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ሉHah...
+    - text: ሉHah...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I've returned from the brink of\ndeath thanks to you..."
+    - text: " I've returned from the brink of\ndeath thanks to you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nSarqso!\n\n\n"
+    - text: "\n\nSarqso!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Huh? Is that you I spoke to before?\n"
+    - text: "ጄHuh? Is that you I spoke to before?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "So you are actually a vai...\n\nThanks! I owe you my life!\n\n"
+    - text: "इSo you are actually a vai...\n\nThanks! I owe you my life!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ሉHah... Anyway, I'm totally exhausted.\nMaybe I'll rest just a little longer then\nhead home."
+    - text: "ሉHah... Anyway, I'm totally exhausted.\nMaybe I'll rest just a little longer then\nhead home."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Oasis042_talk08:
     - utf16_bytes:
@@ -592,13 +589,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI've had it up to here with you lot!\nYou're walking embarrassments!\nAnd now Barta has gone missing..."
+        - 9
+    - text: "I've had it up to here with you lot!\nYou're walking embarrassments!\nAnd now Barta has gone missing..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nIf the chief finds out, what do you think\nshe's going to say? \n\n"
+    - text: "\nIf the chief finds out, what do you think\nshe's going to say? \n\n"
     - utf16_bytes:
         - 14
         - 0
@@ -609,13 +607,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PMust do something before we get found out...
+    - text: PMust do something before we get found out...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -629,7 +627,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ĊARGH!
+    - text: ĊARGH!
     - utf16_bytes:
         - 0
   Valetta_talk06:
@@ -638,13 +636,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᔊHuh? So...they knew "
+    - text: "ᔊHuh? So...they knew "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: I snuck off...
+    - text: I snuck off...
     - utf16_bytes:
         - 0
   Oasis042_talk09:
@@ -653,13 +651,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tUgh... I guess Barta will be Barta, and\nyou all aren't going to change..."
+        - 9
+    - text: "Ugh... I guess Barta will be Barta, and\nyou all aren't going to change..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nBut still, why does she have to go and\nget in trouble like this all the time..."
+    - text: "\n\nBut still, why does she have to go and\nget in trouble like this all the time..."
     - utf16_bytes:
         - 0
   Valetta_talk07:
@@ -668,21 +667,21 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "...Oh, I am in such trouble..."
+    - text: "...Oh, I am in such trouble..."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -693,7 +692,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dYep, looks like I'd better go on ahead.\nSee you later and sav'orq!"
+    - text: "dYep, looks like I'd better go on ahead.\nSee you later and sav'orq!"
     - utf16_bytes:
         - 0
   Oasis042_talk10:
@@ -702,7 +701,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAhhh... What do I do... Poor Barta is\nin trouble again..."
+        - 9
+    - text: "Ahhh... What do I do... Poor Barta is\nin trouble again..."
     - utf16_bytes:
         - 0
   Valetta_talk08:
@@ -711,43 +711,43 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ሉHah...
+    - text: ሉHah...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I've returned from death's door\nthanks to you..."
+    - text: " I've returned from death's door\nthanks to you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nI guess it really was reckless of me to\ncome here without the proper gear...\n\nSarqso!\n\n\n"
+    - text: "\n\nI guess it really was reckless of me to\ncome here without the proper gear...\n\nSarqso!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Looks like you just keep saving me, huh?\n\n\n"
+    - text: "इLooks like you just keep saving me, huh?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ሉHah... Anyway, I'm completely spent.\nMaybe I'll rest just a little longer and\nthen head home."
+    - text: "ሉHah... Anyway, I'm completely spent.\nMaybe I'll rest just a little longer and\nthen head home."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Oasis042_near00:
-    - ascii: What happened to Barta?
+    - text: What happened to Barta?
     - utf16_bytes:
         - 0
   Oasis042_talk11:
@@ -757,7 +757,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "What do I do about Barta?\nDo I say something? Or nothing..."
+    - text: "What do I do about Barta?\nDo I say something? Or nothing..."
     - utf16_bytes:
         - 0
   Valetta_talk09:
@@ -766,43 +766,43 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ሉHahh...
+    - text: ሉHahh...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I've come back from the brink\nthanks to you..."
+    - text: " I've come back from the brink\nthanks to you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nI guess it really was reckless of me to\ncome here without the proper gear...\n\n"
+    - text: "\n\nI guess it really was reckless of me to\ncome here without the proper gear...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "...But you don't seem to have the proper\ngear, either. It's kind of amazing that you\neven made it here to be honest.\n"
+    - text: "ጄ...But you don't seem to have the proper\ngear, either. It's kind of amazing that you\neven made it here to be honest.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ሉHahh... Anyway, I'm absolutely beat.\nMaybe I'll rest just a little longer and\nthen head home."
+    - text: "ሉHahh... Anyway, I'm absolutely beat.\nMaybe I'll rest just a little longer and\nthen head home."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Oasis042_near01:
-    - ascii: You lousy lot...
+    - text: You lousy lot...
     - utf16_bytes:
         - 0
   Oasis042_talk12:
@@ -812,37 +812,37 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Well, yeah..."
+    - text: "Well, yeah..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But... Everyone knows that area is the\ndomain of the "
+    - text: "But... Everyone knows that area is the\ndomain of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Molduga
+    - text: Molduga
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", so who would\nfigure she'd even go close to there?"
+    - text: ", so who would\nfigure she'd even go close to there?"
     - utf16_bytes:
         - 0
   Valetta_near00:
-    - ascii: Ugh...
+    - text: Ugh...
     - utf16_bytes:
         - 0

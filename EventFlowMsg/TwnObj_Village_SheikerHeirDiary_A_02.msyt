@@ -1,11 +1,11 @@
 ---
 entries:
   "0002":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Next page.
+    - text: Next page.
     - utf16_bytes:
         - 0
   Diary_00:
@@ -14,7 +14,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Journal of Various Worries
+    - text: Journal of Various Worries
     - utf16_bytes:
         - 14
         - 1
@@ -23,10 +23,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: Previous page.
+    - text: Previous page.
     - utf16_bytes:
         - 0
   Diary_01:
@@ -35,7 +36,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, my wife left me today. The last\nthing she said to me was: \"What's more\nimportant, the Cuccos or me?!\"\nI chose the Cuccos.\n\t\t\t- The Bow Master"
+    - text: "Well, my wife left me today. The last\nthing she said to me was: \"What's more\nimportant, the Cuccos or me?!\"\nI chose the Cuccos.\n"
+    - utf16_bytes:
+        - 9
+        - 9
+        - 9
+    - text: "- The Bow Master"
     - utf16_bytes:
         - 14
         - 1
@@ -43,10 +49,11 @@ entries:
         - 6
         - 3
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: Stop reading.
+    - text: Stop reading.
     - utf16_bytes:
         - 0
   Diary_02:
@@ -55,7 +62,10 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A painter unfamiliar to any of us has\narrived in the village.\n\nHe claims he is searching for the Great\nFairy's Fountain, but that's near where\nthe village's spirit protector resides.\nWe must make sure the outsider doesn't\nlearn of the location of the fountain...or\nthe two shrines near it.\n      \t         -Anonymous Father of Two"
+    - text: "A painter unfamiliar to any of us has\narrived in the village.\n\nHe claims he is searching for the Great\nFairy's Fountain, but that's near where\nthe village's spirit protector resides.\nWe must make sure the outsider doesn't\nlearn of the location of the fountain...or\nthe two shrines near it.\n      "
+    - utf16_bytes:
+        - 9
+    - text: "         -Anonymous Father of Two"
     - utf16_bytes:
         - 14
         - 1
@@ -64,7 +74,8 @@ entries:
         - 3
         - 4
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Diary_03:
     - utf16_bytes:
@@ -72,7 +83,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That new girl in town looks like she\nreally knows how to tune a bow.\n\nI hope she comes by and nocks an arrow\nfor me. It's been WAAAY too long.\n\t\t         -Lonely Arrow Girl"
+    - text: "That new girl in town looks like she\nreally knows how to tune a bow.\n\nI hope she comes by and nocks an arrow\nfor me. It's been WAAAY too long.\n"
+    - utf16_bytes:
+        - 9
+        - 9
+    - text: "         -Lonely Arrow Girl"
     - utf16_bytes:
         - 14
         - 1
@@ -81,10 +96,11 @@ entries:
         - 3
         - 4
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: First page.
+    - text: First page.
     - utf16_bytes:
         - 0
   Diary_04:
@@ -93,7 +109,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Day in, day out, I'm outside barking\npeople into the shop.\n\nI don't mind, really. It's good money, and\nbusying myself helps to numb the pain.\n\nBut the only thing that really helps me\nfeel better is walking among the fireflies.\n\nUnfortunately, we've now been asked to\nnot walk around at night because it's\ndangerous.\nI don't know how I can cope without the\nfireflies...\n\t\t-Struggling Shop Girl"
+    - text: "Day in, day out, I'm outside barking\npeople into the shop.\n\nI don't mind, really. It's good money, and\nbusying myself helps to numb the pain.\n\nBut the only thing that really helps me\nfeel better is walking among the fireflies.\n\nUnfortunately, we've now been asked to\nnot walk around at night because it's\ndangerous.\nI don't know how I can cope without the\nfireflies...\n"
+    - utf16_bytes:
+        - 9
+        - 9
+    - text: "-Struggling Shop Girl"
     - utf16_bytes:
         - 14
         - 1
@@ -102,10 +122,11 @@ entries:
         - 3
         - 4
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: Last page.
+    - text: Last page.
     - utf16_bytes:
         - 0
   Diary_05:
@@ -114,7 +135,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There is a precious heirloom that has\nbeen passed down through my family for\ngenerations. \nRecently, I've begun to hear voices\ntelling me that the heirloom has an\nimportant destiny.\nIt's going to happen soon. It makes me\nnervous, but I can feel it in my bones.\n\t\t\t\t-Papaya"
+    - text: "There is a precious heirloom that has\nbeen passed down through my family for\ngenerations. \nRecently, I've begun to hear voices\ntelling me that the heirloom has an\nimportant destiny.\nIt's going to happen soon. It makes me\nnervous, but I can feel it in my bones.\n"
+    - utf16_bytes:
+        - 9
+        - 9
+        - 9
+        - 9
+    - text: "-Papaya"
     - utf16_bytes:
         - 14
         - 1
@@ -122,5 +149,6 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

@@ -1,11 +1,11 @@
 ---
 entries:
   "0000":
-    - ascii: Read.
+    - text: Read.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0
   Book00:
@@ -14,39 +14,34 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Traysi here! No matter where I go,\nmy love for rumors inevitably follows...\n\nDon't you make it a point to dig up\nrumors while traveling? In any case,\ntoday's topic of discussion is...\n"
+    - text: "Traysi here! No matter where I go,\nmy love for rumors inevitably follows...\n\nDon't you make it a point to dig up\nrumors while traveling? In any case,\ntoday's topic of discussion is...\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}The Dream of Teleportation!"
+    - text: "}The Dream of Teleportation!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nApparently, there was once an ancient\nmedallion that could instantly teleport\nyou to wherever you placed it...\nWhat's more, this wondrous item\nmay still be somewhere out there,\njust waiting to be scooped up!\nI must say, it sounds like the perfect\nitem for travelers, adventurers,\nand rumor-lovers alike!\nI hear the treasure chest containing\nthis tool is located "
+    - text: "d\n\n\nApparently, there was once an ancient\nmedallion that could instantly teleport\nyou to wherever you placed it...\nWhat's more, this wondrous item\nmay still be somewhere out there,\njust waiting to be scooped up!\nI must say, it sounds like the perfect\nitem for travelers, adventurers,\nand rumor-lovers alike!\nI hear the treasure chest containing\nthis tool is located "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "beneath a labyrinth\nin northeast Akkala"
+    - text: "beneath a labyrinth\nin northeast Akkala"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIs it true, or just a beautiful dream?\nI'll let you decide that for yourself,\ndear reader.\nTraysi's Recommendation: "
+    - text: ".\nIs it true, or just a beautiful dream?\nI'll let you decide that for yourself,\ndear reader.\nTraysi's Recommendation: ★★★★★"
     - utf16_bytes:
-        - 9733
-        - 9733
-        - 9733
-        - 9733
-        - 9733
         - 0
   BookFirst:
     - utf16_bytes:
@@ -54,7 +49,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Super Rumor Mill EX: Volume 2"
+    - text: "Super Rumor Mill EX: Volume 2"
     - utf16_bytes:
         - 14
         - 1
@@ -62,5 +57,6 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

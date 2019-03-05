@@ -6,28 +6,27 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "As long as you contribute a donation, "
+    - text: "ĆAs long as you contribute a donation, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'll add a "
+    - text: "\nI'll add a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "picture "
+    - text: "picture "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: whenever you like.
+    - text: whenever you like.
     - utf16_bytes:
         - 0
   talk67:
@@ -36,26 +35,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nHuh?"
+    - text: "\nHuh?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Me?\n\n\n"
+    - text: " Me?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Sorry,"
+    - text: "ĆSorry,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I've never been very good at\nintroductions..."
+    - text: " I've never been very good at\nintroductions..."
     - utf16_bytes:
         - 0
   talk68:
@@ -65,20 +63,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "My name is Symin.\n\n\nI was lucky enough to land a position in\nthis lab as the director's assistant.\nIt's been a dream come true! "
+    - text: "My name is Symin.\n\n\nI was lucky enough to land a position in\nthis lab as the director's assistant.\nIt's been a dream come true! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "But...\n"
+    - text: "But...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I've been so engrossed in my research\nthat I haven't had time to find a\ngirlfriend..."
+    - text: "I've been so engrossed in my research\nthat I haven't had time to find a\ngirlfriend..."
     - utf16_bytes:
         - 0
   talk70:
@@ -87,13 +85,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI guess I'm just not trying hard enough..."
+        - 9
+    - text: "I guess I'm just not trying hard enough..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHeh..."
+    - text: "\nHeh..."
     - utf16_bytes:
         - 0
   talk69:
@@ -103,7 +102,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Hmph... Sounds like an excuse to me.
+    - text: Hmph... Sounds like an excuse to me.
     - utf16_bytes:
         - 0
   talk71:
@@ -113,7 +112,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "That's an understatement..."
+    - text: "That's an understatement..."
     - utf16_bytes:
         - 0
   talk72:
@@ -123,100 +122,100 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "After that, simply open your\n"
+    - text: "After that, simply open your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hyrule Compendium "
+    - text: "Hyrule Compendium "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: and
+    - text: and
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " register your\n"
+    - text: " register your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: picture
+    - text: sunshroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " with the sensor.\n"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: picture
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " with the sensor.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Once you do that, the "
+    - text: "Once you do that, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Sensor +
+    - text: Sheikah Sensor +
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwill"
+    - text: "\nwill"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " detect "
+    - text: " detect "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sunshrooms "
+    - text: "sunshrooms "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: nearby!
+    - text: nearby!
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   talk73:
@@ -226,14 +225,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you accidentally picked the "
+    - text: "If you accidentally picked the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
+    - text: sunshroom
     - utf16_bytes:
         - 14
         - 0
@@ -244,7 +243,7 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "\nbefore taking a picture of it, just drop it\nsomewhere and snap away."
+    - text: "\nbefore taking a picture of it, just drop it\nsomewhere and snap away."
     - utf16_bytes:
         - 0
   talk74:
@@ -253,22 +252,21 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Were you able to take a "
+    - text: "ĆWere you able to take a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "picture "
+    - text: "picture "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of a
+    - text: of a
     - utf16_bytes:
         - 14
         - 0
@@ -284,21 +282,21 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
+    - text: sunshroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -306,7 +304,8 @@ entries:
         - 6
         - 16
         - 15
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk75:
     - utf16_bytes:
@@ -315,7 +314,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Let me confirm...
+    - text: Let me confirm...
     - utf16_bytes:
         - 0
   talk76:
@@ -324,91 +323,90 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Next,"
+    - text: "ĀNext,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " open your "
+    - text: " open your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hyrule Compendium "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and\ntune the sensor to your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: picture
+    - text: "Hyrule Compendium "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of the\n"
+    - text: "and\ntune the sensor to your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
+    - text: picture
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: " of the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sunshroom
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah Sensor + "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "will then be able\nto sense "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sunshrooms
+    - text: "Sheikah Sensor + "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "will then be able\nto sense "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sunshrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   talk77:
@@ -418,49 +416,49 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "First, go take a picture of a "
+    - text: "First, go take a picture of a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nwith the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Camera
+    - text: sunshroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". There is one "
+    - text: "\nwith the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: behind
+        - 2
+    - text: Camera
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " the\nlab."
+    - text: ". There is one "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: behind
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " the\nlab."
     - utf16_bytes:
         - 0
   talk78:
@@ -470,13 +468,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I don't see a picture of a\nsunshroom in your album."
+    - text: " I don't see a picture of a\nsunshroom in your album."
     - utf16_bytes:
         - 0
   talk80:
@@ -485,54 +483,54 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
+    - text: ጆ
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 26
         - 24
-    - ascii: "SurpriseS_01There's no mistaking it. "
+    - text: "SurpriseS_01There's no mistaking it. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That's a real\n"
+    - text: "That's a real\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", isn't it?!\n\n"
+    - text: ", isn't it?!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "I've never actually seen one in person!\n\n\nIf you could just show me the "
+    - text: "ĆI've never actually seen one in person!\n\n\nIf you could just show me the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: runes
+    - text: runes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\non it, I'd be most appreciative."
+    - text: "\non it, I'd be most appreciative."
     - utf16_bytes:
         - 0
   talk79:
@@ -542,19 +540,19 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "...Hmm?\n\n\nIs that... "
+    - text: "...Hmm?\n\n\nIs that... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: That thing on your waist?
+    - text: That thing on your waist?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nIs that a Sheikah..."
+    - text: "\nIs that a Sheikah..."
     - utf16_bytes:
         - 0
   talk81:
@@ -563,20 +561,21 @@ entries:
         - 3
         - 1
         - 2
-        - 262
+    - text: Ć
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Stasis
+    - text: Stasis
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
@@ -586,33 +585,33 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PAh.
+    - text: PAh.
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Magnesis
+    - text: Magnesis
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
@@ -622,59 +621,59 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "PYes, yes."
+    - text: "PYes, yes."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\nThe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Remote Bomb "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and "
+    - text: "d\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Cryonis
+    - text: "Remote Bomb "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Cryonis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PAnd what else? Let's see..."
+    - text: "PAnd what else? Let's see..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk82:
@@ -684,28 +683,28 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Let's see how many "
+    - text: "Let's see how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: pictures
+    - text: pictures
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " we can add\nto your "
+    - text: " we can add\nto your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
+    - text: Hyrule Compendium
     - utf16_bytes:
         - 14
         - 0
@@ -716,15 +715,15 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: ". Ah, it looks\nlike you have space for "
+    - text: ". Ah, it looks\nlike you have space for "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: ">:Shop_SelectPictureBookVacancy"
+    - text: ">:Shop_SelectPictureBookVacancy"
     - utf16_bytes:
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk83:
@@ -734,7 +733,7 @@ entries:
         - 2
         - 18
         - 16
-    - ascii: ActivateHyrule Compendium updated.
+    - text: ActivateHyrule Compendium updated.
     - utf16_bytes:
         - 0
   talk84:
@@ -744,43 +743,43 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Linkle, I am incredibly impressed you have\nmanaged to collect all the "
+    - text: "Linkle, I am incredibly impressed you have\nmanaged to collect all the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: pictures
+    - text: pictures
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nThere is nothing more I can offer you,\nbut I wouldn't mind your company\nevery now and then."
+    - text: "!\n\nThere is nothing more I can offer you,\nbut I wouldn't mind your company\nevery now and then."
     - utf16_bytes:
         - 0
   talk100:
-    - ascii: "I am dreadfully sorry,"
+    - text: "I am dreadfully sorry,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but you appear to\nbe light on rupees..."
+    - text: " but you appear to\nbe light on rupees..."
     - utf16_bytes:
         - 0
   Com_Talk_30:
-    - ascii: "You want "
+    - text: "You want "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of the\n"
+    - text: " of the\n"
     - utf16_bytes:
         - 14
         - 0
@@ -788,23 +787,24 @@ entries:
         - 2
         - 2
         - 14
-        - 201
+    - text: É
+    - utf16_bytes:
         - 4
         - 0
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
-    - ascii: s
+    - text: s
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nThat will be "
+    - text: "?\nThat will be "
     - utf16_bytes:
         - 14
         - 0
@@ -814,10 +814,10 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
         - 14
@@ -825,30 +825,28 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: rupees
+    - text: rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   talk85:
     - utf16_bytes:
@@ -857,27 +855,27 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "...Huh?\n\n\nI thought I could still add a picture, "
+    - text: "...Huh?\n\n\nI thought I could still add a picture, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nbut it looks like I can't right now."
+    - text: "\nbut it looks like I can't right now."
     - utf16_bytes:
         - 0
   talk101:
-    - ascii: "I am sorry to have to tell you this,"
+    - text: "I am sorry to have to tell you this,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but it\nappears you do not have sufficient funds\non hand..."
+    - text: " but it\nappears you do not have sufficient funds\non hand..."
     - utf16_bytes:
         - 0
   Com_Talk_31:
-    - ascii: "Sure, I can sell you some\n"
+    - text: "Sure, I can sell you some\n"
     - utf16_bytes:
         - 14
         - 0
@@ -885,42 +883,40 @@ entries:
         - 2
         - 2
         - 14
-        - 201
+    - text: É
+    - utf16_bytes:
         - 4
         - 0
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
-    - ascii: s
+    - text: s
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nHow many would you like?"
+    - text: "\nHow many would you like?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   TerrorArrow:
-    - ascii: Arrrgh!
+    - text: Arrrgh!
     - utf16_bytes:
         - 0
   talk86:
@@ -930,17 +926,17 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I have a feeling some options are still\nhidden. But I'm not sure what can be \ndone to make them appear."
+    - text: "I have a feeling some options are still\nhidden. But I'm not sure what can be \ndone to make them appear."
     - utf16_bytes:
         - 0
   talk102:
-    - ascii: "Sorry, but we need more rupees than\nyou currently possess."
+    - text: "Sorry, but we need more rupees than\nyou currently possess."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Only the first time\nwas free..."
+    - text: " Only the first time\nwas free..."
     - utf16_bytes:
         - 0
   talk87:
@@ -950,29 +946,29 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " According to my research,"
+    - text: " According to my research,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nyou should still be able to add\nmore pictures..."
+    - text: "\nyou should still be able to add\nmore pictures..."
     - utf16_bytes:
         - 0
   talk103:
-    - ascii: "Unfortunately, you don't seem to have\nenough rupees."
+    - text: "Unfortunately, you don't seem to have\nenough rupees."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " We operate on a tight \nbudget here. You understand, I'm sure."
+    - text: " We operate on a tight \nbudget here. You understand, I'm sure."
     - utf16_bytes:
         - 0
   talk88:
@@ -981,8 +977,7 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: What do you need?
+    - text: ĆWhat do you need?
     - utf16_bytes:
         - 14
         - 1
@@ -1004,152 +999,150 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "The "
+    - text: "ĆThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Sensor
+    - text: Sheikah Sensor
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has been powered\nup "
+    - text: " has been powered\nup "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "to the "
+    - text: "to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Sensor +
+    - text: Sheikah Sensor +
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1541
-    - ascii: "It can now "
+    - text: "It can now "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: access
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "picture "
+    - text: access
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "registered in\nyour "
+    - text: " a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
+    - text: "picture "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: "registered in\nyour "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hyrule Compendium
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " allowing you\nto search for the subject of the "
+    - text: " allowing you\nto search for the subject of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: picture
+    - text: picture
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "I trust you now see the benefit of adding\n"
+    - text: "ĆI trust you now see the benefit of adding\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: pictures
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " to your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hyrule Compendium
+    - text: pictures
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nIt makes it much easier to search for\nitems you need,"
+    - text: " to your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hyrule Compendium
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nIt makes it much easier to search for\nitems you need,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " reducing one more\nburden you face in your travels."
+    - text: " reducing one more\nburden you face in your travels."
     - utf16_bytes:
         - 0
   talk104:
@@ -1159,17 +1152,17 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: The woman in that picture...
+    - text: The woman in that picture...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou don't suppose it's..."
+    - text: "\nYou don't suppose it's..."
     - utf16_bytes:
         - 0
   Com_Talk_34:
-    - ascii: "You want to buy all of the \n"
+    - text: "You want to buy all of the \n"
     - utf16_bytes:
         - 14
         - 0
@@ -1177,16 +1170,17 @@ entries:
         - 2
         - 2
         - 14
-        - 201
+    - text: É
+    - utf16_bytes:
         - 4
         - 0
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
-    - ascii: s
+    - text: s
     - utf16_bytes:
         - 14
         - 0
@@ -1197,7 +1191,7 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "?\nIt'll be "
+    - text: "?\nIt'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -1207,37 +1201,35 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for all "
+    - text: " for all "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them."
+    - text: " of them."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼ
+    - text: ᕼᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   talk89:
     - utf16_bytes:
@@ -1246,13 +1238,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Hard? "
+    - text: "Hard? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "No, no, not at all..."
+    - text: "No, no, not at all..."
     - utf16_bytes:
         - 0
   talk91:
@@ -1261,8 +1253,7 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Shall I explain it all once more?
+    - text: ĆShall I explain it all once more?
     - utf16_bytes:
         - 14
         - 1
@@ -1270,7 +1261,8 @@ entries:
         - 6
         - 17
         - 20
-        - 513
+    - text: ȁ
+    - utf16_bytes:
         - 0
   talk92:
     - utf16_bytes:
@@ -1279,41 +1271,41 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Now then,"
+    - text: "Now then,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " go ahead and place your\n"
+    - text: " go ahead and place your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " on the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Guidance Stone
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " on the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Guidance Stone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk93:
@@ -1323,7 +1315,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Do you need anything else?
+    - text: Do you need anything else?
     - utf16_bytes:
         - 14
         - 1
@@ -1351,69 +1343,69 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Pictures
+    - text: Pictures
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " you take with the "
+    - text: " you take with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Camera
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nare stored in the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: album
+    - text: Camera
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nPictures of living things, monsters,\nmaterials, weapons, treasure, etc. "
+    - text: "\nare stored in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: album
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nPictures of living things, monsters,\nmaterials, weapons, treasure, etc. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "are\nalso added to the "
+    - text: "are\nalso added to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
+    - text: Hyrule Compendium
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nYou can track anything that has been\nadded to the "
+    - text: ".\nYou can track anything that has been\nadded to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
+    - text: Hyrule Compendium
     - utf16_bytes:
         - 14
         - 0
@@ -1424,27 +1416,27 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " with\nyour "
+    - text: " with\nyour "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Sensor +
+    - text: Sheikah Sensor +
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nSo take pictures of everything you can,"
+    - text: ".\nSo take pictures of everything you can,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nas doing so will help you tremendously!"
+    - text: "\nas doing so will help you tremendously!"
     - utf16_bytes:
         - 0
   talk95:
@@ -1453,64 +1445,63 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "You can't add any more "
+    - text: "ĀYou can't add any more "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: pictures
+    - text: pictures
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nBut you can look at them if you'd like\nto do that. How's that sound?"
+    - text: ".\nBut you can look at them if you'd like\nto do that. How's that sound?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 21
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk96:
-    - ascii: "Sorry, but I can't sell you any more\nof those pictures"
+    - text: "Sorry, but I can't sell you any more\nof those pictures"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk97:
-    - ascii: "You already have all of that type\nof picture"
+    - text: "You already have all of that type\nof picture"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk98:
-    - ascii: "Linkle, you already have every such\npicture we sell."
+    - text: "Linkle, you already have every such\npicture we sell."
     - utf16_bytes:
         - 0
   talk99:
-    - ascii: "Unfortunately, there are no more\npictures"
+    - text: "Unfortunately, there are no more\npictures"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " of that sort left in the \nGuidance Stone..."
+    - text: " of that sort left in the \nGuidance Stone..."
     - utf16_bytes:
         - 0
   talk00:
@@ -1520,13 +1511,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I imagine you've never seen so many\nbooks in one place. Pretty incredible,\nisn't it?\nWe've gathered all of Hyrule's known\nliterature on ancient civilizations here.\n\nAs for the actual number of books, "
+    - text: "I imagine you've never seen so many\nbooks in one place. Pretty incredible,\nisn't it?\nWe've gathered all of Hyrule's known\nliterature on ancient civilizations here.\n\nAs for the actual number of books, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: well...
+    - text: well...
     - utf16_bytes:
         - 0
   talk01:
@@ -1535,13 +1526,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nAh! Where are my manners?"
+    - text: "\nAh! Where are my manners?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I nearly\nforgot to introduce myself!"
+    - text: " I nearly\nforgot to introduce myself!"
     - utf16_bytes:
         - 0
   talk02:
@@ -1551,39 +1542,39 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "So you've met with Lady Impa.\n\n\nWell then, let's take a look at that\n"
+    - text: "So you've met with Lady Impa.\n\n\nWell then, let's take a look at that\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll try to restore some of\nits basic functionality.\nBut I need to tell you something first."
+    - text: " I'll try to restore some of\nits basic functionality.\nBut I need to tell you something first."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nA lot of somethings, actually...\n\nI'll start with the history of the research\nwe're doing here,"
+    - text: "\nA lot of somethings, actually...\n\nI'll start with the history of the research\nwe're doing here,"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " as well as our findings.\n\nAfter that, I'll give you a tour of the\nHateno Ancient Tech Lab."
+    - text: " as well as our findings.\n\nAfter that, I'll give you a tour of the\nHateno Ancient Tech Lab."
     - utf16_bytes:
         - 0
   talk03:
@@ -1592,25 +1583,25 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "My name is Symin.\n\n\nYou are..."
+    - text: "ĆMy name is Symin.\n\n\nYou are..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\nLinkle, right? "
+    - text: "\n\n\nLinkle, right? "
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 7
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "5500":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk04:
@@ -1620,11 +1611,11 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Lady Impa caught me up to speed.
+    - text: Lady Impa caught me up to speed.
     - utf16_bytes:
         - 0
   "5501":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk05:
@@ -1633,43 +1624,42 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "I see. I must apologize for being so\nforward, but could you please open your\n"
+    - text: "ĆI see. I must apologize for being so\nforward, but could you please open your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "?\nI need you to select the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: picture
+    - text: Hyrule Compendium
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of the\n"
+    - text: "?\nI need you to select the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
+    - text: picture
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " of the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sunshroom
     - utf16_bytes:
         - 14
         - 0
@@ -1680,39 +1670,39 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " and tune the sensor to it.\n\nAnd with that, the "
+    - text: " and tune the sensor to it.\n\nAnd with that, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Sensor +
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is\nset to find "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sunshrooms
+    - text: Sheikah Sensor +
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " is\nset to find "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sunshrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   "5502":
-    - ascii: "I'll take it."
+    - text: "I'll take it."
     - utf16_bytes:
         - 0
   talk06:
@@ -1721,26 +1711,25 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "It seems the "
+    - text: "āIt seems the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
+    - text: Hyrule Compendium
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nrecovered a picture from the past!"
+    - text: "\nrecovered a picture from the past!"
     - utf16_bytes:
         - 0
   "5503":
-    - ascii: "I've changed my mind."
+    - text: "I've changed my mind."
     - utf16_bytes:
         - 0
   talk07:
@@ -1755,65 +1744,66 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: Director
+    - text: Director
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Listen, "
+    - text: " Listen, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Ms. Director
+    - text: Ms. Director
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThis is a REAL "
+    - text: "\nThis is a REAL "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "5504":
-    - ascii: "I'm here to shop."
+    - text: "I'm here to shop."
     - utf16_bytes:
         - 0
   talk08:
@@ -1822,28 +1812,27 @@ entries:
         - 3
         - 1
         - 2
-        - 3078
-    - ascii: "Oh, that's right..."
+    - text: "ఆOh, that's right..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI haven't introduced our "
+    - text: "\nI haven't introduced our "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: director
+    - text: director
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk10:
@@ -1853,51 +1842,51 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Ms. Purah
+    - text: Ms. Purah
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "happens to be right over\nthere...\n\nAs the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Hateno Ancient Tech Lab "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
+    - text: "happens to be right over\nthere...\n\nAs the "
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: director
+        - 2
+    - text: "Hateno Ancient Tech Lab "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nMs. Purah is the world's foremost\nauthority on ancient Hyrule culture."
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: director
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nMs. Purah is the world's foremost\nauthority on ancient Hyrule culture."
     - utf16_bytes:
         - 0
   "5505":
-    - ascii: "I'm here to sell."
+    - text: "I'm here to sell."
     - utf16_bytes:
         - 0
   talk09:
@@ -1906,14 +1895,13 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Understood.
+    - text: ĆUnderstood.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Well, I'll prepare these a bit\nlater. I'm trying out a new recipe for\ntonight's dinner."
+    - text: " Well, I'll prepare these a bit\nlater. I'm trying out a new recipe for\ntonight's dinner."
     - utf16_bytes:
         - 0
   talk11:
@@ -1922,15 +1910,14 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "I have the utmost respect for Ms. Purah \nand all she's accomplished. I'm honored\nto be her assistant.\nOn that note, Linkle...\n\n\nYou see, the "
+    - text: "ĆI have the utmost respect for Ms. Purah \nand all she's accomplished. I'm honored\nto be her assistant.\nOn that note, Linkle...\n\n\nYou see, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "director "
+    - text: "director "
     - utf16_bytes:
         - 14
         - 0
@@ -1941,31 +1928,30 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "may look like a\nyoung girl, but...\n\n"
+    - text: "may look like a\nyoung girl, but...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: Well...
+    - text: Well...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "maybe it's not my place to be\ntelling you these things.\n\n"
+    - text: "maybe it's not my place to be\ntelling you these things.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: You should talk to Ms. Purah herself.
+    - text: ĀYou should talk to Ms. Purah herself.
     - utf16_bytes:
         - 0
   "5506":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk12:
@@ -1975,11 +1961,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good morning.
+    - text: Good morning.
     - utf16_bytes:
         - 0
   "5507":
-    - ascii: "I'd like all of them."
+    - text: "I'd like all of them."
     - utf16_bytes:
         - 0
   talk13:
@@ -1989,7 +1975,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hello.
+    - text: Hello.
     - utf16_bytes:
         - 0
   talk14:
@@ -1999,7 +1985,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good evening.
+    - text: Good evening.
     - utf16_bytes:
         - 0
   talk15:
@@ -2009,7 +1995,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Ah...
+    - text: Ah...
     - utf16_bytes:
         - 0
   talk16:
@@ -2018,8 +2004,7 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: OK then...
+    - text: ĆOK then...
     - utf16_bytes:
         - 0
   talk17:
@@ -2029,96 +2014,96 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is a device that our\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Sheikah "
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "ancestors "
+    - text: " is a device that our\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Sheikah "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "ancestors "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "developed to bring\npeace and order to Hyrule.\nThe "
+    - text: "developed to bring\npeace and order to Hyrule.\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: runes
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " contained in your\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Sheikah Slate "
+    - text: runes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "are also "
+    - text: " contained in your\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Sheikah Slate "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "are also "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "something we\n"
+    - text: "something we\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah "
+    - text: "Sheikah "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "developed.\n"
+    - text: "developed.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "I'm so relieved to know that you'll be\nusing this device for the betterment of\nHyrule, Linkle.\nIf such a device fell into the hands of\nevil... I shudder to think what might\nhappen."
+    - text: "I'm so relieved to know that you'll be\nusing this device for the betterment of\nHyrule, Linkle.\nIf such a device fell into the hands of\nevil... I shudder to think what might\nhappen."
     - utf16_bytes:
         - 0
   talk18:
@@ -2127,16 +2112,15 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: What do you need?
+    - text: ċWhat do you need?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: D
+    - text: D
     - utf16_bytes:
         - 5
-    - ascii: "2HatenoMini_CameraBoy_Chat\n"
+    - text: "2HatenoMini_CameraBoy_Chat\n"
     - utf16_bytes:
         - 0
         - 11
@@ -2152,50 +2136,50 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So that's it for runes... "
+    - text: "So that's it for runes... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: But...
+    - text: But...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Hmm...\n\n\n"
+    - text: " Hmm...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: Strange...
+    - text: Strange...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It doesn't seem like you\nhave the "
+    - text: " It doesn't seem like you\nhave the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: basic runes
+    - text: basic runes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n\nI don't understand why they're missing.\nThere must be some reason..."
+    - text: "...\n\nI don't understand why they're missing.\nThere must be some reason..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: I need a picture.
+    - text: I need a picture.
     - utf16_bytes:
         - 0
   talk19:
@@ -2204,16 +2188,15 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: Is there anything else you need?
+    - text: ċIs there anything else you need?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: D
+    - text: D
     - utf16_bytes:
         - 5
-    - ascii: "2HatenoMini_CameraBoy_Chat\n"
+    - text: "2HatenoMini_CameraBoy_Chat\n"
     - utf16_bytes:
         - 0
         - 11
@@ -2229,48 +2212,47 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "The Hateno Ancient Tech Lab is where\nwe Sheikah researchers study the\nscientific contributions of our ancestors.\nWe aim to apply our findings to the\nworld of today and to unravel the\nmystery of the shrines and Divine Beasts."
+    - text: "The Hateno Ancient Tech Lab is where\nwe Sheikah researchers study the\nscientific contributions of our ancestors.\nWe aim to apply our findings to the\nworld of today and to unravel the\nmystery of the shrines and Divine Beasts."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm personally interested in exploring\nthese entities from a geopolitical"
+    - text: "\nI'm personally interested in exploring\nthese entities from a geopolitical"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and\nstructural-engineering point of view.\nThe potential of using modern methods\nto reconstruct"
+    - text: " and\nstructural-engineering point of view.\nThe potential of using modern methods\nto reconstruct"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and iterate upon the past\nis simply too...\n"
+    - text: " and iterate upon the past\nis simply too...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nOh!"
+    - text: "\nOh!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Putting you to sleep, am I?\n\n\n"
+    - text: " Putting you to sleep, am I?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Well, speaking in terms that may be of\ninterest to you..."
+    - text: "ĆWell, speaking in terms that may be of\ninterest to you..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Sensor targeting?
+    - text: Sensor targeting?
     - utf16_bytes:
         - 0
   talk22:
@@ -2280,11 +2262,11 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "The Hateno Ancient Tech Lab has one\nunshakable objective:"
+    - text: "The Hateno Ancient Tech Lab has one\nunshakable objective:"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Director?
+    - text: Director?
     - utf16_bytes:
         - 0
   talk23:
@@ -2293,32 +2275,31 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "To develop technology to effectively\nseal "
+    - text: "ĆTo develop technology to effectively\nseal "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ganon
+    - text: Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", the infinite evil that has\nplagued Hyrule throughout time."
+    - text: ", the infinite evil that has\nplagued Hyrule throughout time."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWe believe this can be achieved by\nstudying and improving upon the\ncreations of those who came before us."
+    - text: "\nWe believe this can be achieved by\nstudying and improving upon the\ncreations of those who came before us."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Thank you.
+    - text: Thank you.
     - utf16_bytes:
         - 0
   talk24:
@@ -2327,64 +2308,63 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "You see...we were told, \"A young lady\nholding a "
+    - text: "ĆYou see...we were told, \"A young lady\nholding a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " will appear."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " And\nyou must do all you can to help him.\nShe will be the hope that awakens from\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Slumber of Restoration
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " will appear."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Her name will\nbe Linkle.\"\n"
+    - text: " And\nyou must do all you can to help him.\nShe will be the hope that awakens from\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Slumber of Restoration
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Her name will\nbe Linkle.\"\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nOh, dear!"
+    - text: "\nOh, dear!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I forgot to tell you something\nvery important."
+    - text: " I forgot to tell you something\nvery important."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   talk25:
@@ -2393,60 +2373,59 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "You can use the "
+    - text: "ĆYou can use the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Guidance Stone "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "here to\nreboot those "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: runes
+    - text: "Guidance Stone "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "here to\nreboot those "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: runes
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nBut before you can do that, you'll need\napproval from "
+    - text: "\n\nBut before you can do that, you'll need\napproval from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Lady Impa "
+    - text: "Lady Impa "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in\nKakariko Village."
+    - text: "in\nKakariko Village."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   talk26:
@@ -2456,65 +2435,65 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I certainly share your desire to restore\nthe "
+    - text: "I certainly share your desire to restore\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "basic runes "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "in your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Sheikah Slate
+    - text: "basic runes "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "in your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Sheikah Slate
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nBut before you can do that,"
+    - text: "\n\nBut before you can do that,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " you'll need\napproval from "
+    - text: " you'll need\napproval from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lady Impa
+    - text: Lady Impa
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", the highest\nauthority in our tribe.\nShe resides west of here in\nKakariko Village. You should\ngo see her to get approval."
+    - text: ", the highest\nauthority in our tribe.\nShe resides west of here in\nKakariko Village. You should\ngo see her to get approval."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: You know my name?
+    - text: You know my name?
     - utf16_bytes:
         - 0
   talk27:
@@ -2523,36 +2502,35 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "The detailed instructions are written\ndown in the "
+    - text: "ĆThe detailed instructions are written\ndown in the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "book "
+    - text: "book "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: on the desk there.
+    - text: on the desk there.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou should read them."
+    - text: "\nYou should read them."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Pictures?
+    - text: Pictures?
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Sheikah Slate?
+    - text: Sheikah Slate?
     - utf16_bytes:
         - 0
   talk28:
@@ -2562,27 +2540,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The detailed instructions for the\nSheikah Sensor + are written down in the\n"
+    - text: "The detailed instructions for the\nSheikah Sensor + are written down in the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "book "
+    - text: "book "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: on the desk there.
+    - text: on the desk there.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou should read them when you get a\nchance."
+    - text: "\nYou should read them when you get a\nchance."
     - utf16_bytes:
         - 0
   talk30:
@@ -2592,63 +2570,61 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "You've acquired the "
+    - text: "You've acquired the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Sensor +
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "!\nThat should really come in handy.\n\nWith that, you can sense things that\nyou've captured with your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Camera
+    - text: Sheikah Sensor +
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: "!\nThat should really come in handy.\n\nWith that, you can sense things that\nyou've captured with your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Camera
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Explaining won't do it justice"
+    - text: "ĀExplaining won't do it justice—"
     - utf16_bytes:
-        - 8212
         - 14
         - 5
         - 0
         - 0
-    - ascii: "why not\nlearn by trying?"
+    - text: "why not\nlearn by trying?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Let's give it a shot,\nso to speak."
+    - text: " Let's give it a shot,\nso to speak."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "No, I'm not."
+    - text: "No, I'm not."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Ancient Tech Lab?
+    - text: Ancient Tech Lab?
     - utf16_bytes:
         - 0
   talk29:
@@ -2657,8 +2633,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2822
-    - ascii: Thank you.
+    - text: ଆThank you.
     - utf16_bytes:
         - 0
   talk31:
@@ -2678,101 +2653,101 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "If you want to find a "
+    - text: "If you want to find a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " with\nyour sensor, you'll first need to capture\na "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "sunshroom "
+    - text: sunshroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "with your "
+    - text: " with\nyour sensor, you'll first need to capture\na "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Camera
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nThen in the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hyrule Compendium
+    - text: "sunshroom "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you can\nset your"
+    - text: "with your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Camera
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nThen in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hyrule Compendium
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you can\nset your"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah Sensor + "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to alert you\nanytime you're near a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sunshroom
+    - text: "Sheikah Sensor + "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "to alert you\nanytime you're near a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sunshroom
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: Is it hard?
+    - text: Is it hard?
     - utf16_bytes:
         - 0
   talk32:
@@ -2782,25 +2757,25 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "I see you've brought the "
+    - text: "I see you've brought the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshrooms
+    - text: sunshrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: Sure.
+    - text: Sure.
     - utf16_bytes:
         - 0
   talk33:
@@ -2810,51 +2785,51 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: So?
+    - text: So?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Was the "
+    - text: " Was the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah Sensor + "
+    - text: "Sheikah Sensor + "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to your\nliking?\n\n"
+    - text: "to your\nliking?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Oh, yes... "
+    - text: "Oh, yes... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I just remembered there was\nsomething else I wanted to talk to you\nabout.\n"
+    - text: "I just remembered there was\nsomething else I wanted to talk to you\nabout.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Stop by when you have time to talk.
+    - text: Stop by when you have time to talk.
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk34:
@@ -2864,11 +2839,11 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Let's see here."
+    - text: "Let's see here."
     - utf16_bytes:
         - 0
   "0015":
-    - ascii: Not yet.
+    - text: Not yet.
     - utf16_bytes:
         - 0
   talk35:
@@ -2878,41 +2853,41 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Huh?
+    - text: Huh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You don't seem to have the "
+    - text: " You don't seem to have the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: three
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "sunshrooms "
+    - text: three
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "I requested...\n\nDo you want me to explain the sensor\nfunction to you again?"
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "sunshrooms "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "I requested...\n\nDo you want me to explain the sensor\nfunction to you again?"
     - utf16_bytes:
         - 14
         - 1
@@ -2920,10 +2895,11 @@ entries:
         - 6
         - 16
         - 17
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0016":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk36:
@@ -2933,31 +2909,31 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "It seems like you got a picture of a\n"
+    - text: "It seems like you got a picture of a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
+    - text: sunshroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Excellent."
+    - text: " Excellent."
     - utf16_bytes:
         - 0
   "0017":
-    - ascii: "I'm good."
+    - text: "I'm good."
     - utf16_bytes:
         - 0
   talk37:
@@ -2966,52 +2942,51 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "OK, now please hand over those "
+    - text: "ĆOK, now please hand over those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: three
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " \n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sunshrooms
+    - text: three
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sunshrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 14
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0018":
-    - ascii: I want them.
+    - text: I want them.
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: Please...
+    - text: Please...
     - utf16_bytes:
         - 0
   talk38:
@@ -3021,7 +2996,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Here you go.
+    - text: Here you go.
     - utf16_bytes:
         - 0
   talk40:
@@ -3030,16 +3005,15 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Very well.
+    - text: ĆVery well.
     - utf16_bytes:
         - 0
   "0019":
-    - ascii: You can keep them.
+    - text: You can keep them.
     - utf16_bytes:
         - 0
   "0021":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   talk39:
@@ -3048,14 +3022,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh, that's too bad...\n\n\n"
+        - 9
+    - text: "Oh, that's too bad...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Let's hope you change your mind."
+    - text: "ĆLet's hope you change your mind."
     - utf16_bytes:
         - 0
   talk41:
@@ -3064,19 +3038,20 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: "Greeting_00And it won't be free from now on, either!"
+    - text: "Greeting_00And it won't be free from now on, either!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nKeeping a lab like this running has\nexpenses, you know!"
+    - text: "\nKeeping a lab like this running has\nexpenses, you know!"
     - utf16_bytes:
         - 0
   talk42:
@@ -3086,36 +3061,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm sorry to keep you waiting, Linkle."
+    - text: "I'm sorry to keep you waiting, Linkle."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou came to get your "
+    - text: "\nYou came to get your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah Slate "
+    - text: "Sheikah Slate "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "fixed,\ncorrect? "
+    - text: "fixed,\ncorrect? "
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
-        - 52481
-    - ascii: "\nMy name is Symin. I work here at the\nHateno Ancient Tech Lab as Lady\nPurah's research assistant.\nIf you have a question, please don't\nhesitate to ask it."
+    - text: "촁\nMy name is Symin. I work here at the\nHateno Ancient Tech Lab as Lady\nPurah's research assistant.\nIf you have a question, please don't\nhesitate to ask it."
     - utf16_bytes:
         - 0
   talk43:
@@ -3130,48 +3104,48 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Linkle
+    - text: Linkle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I've got some news that should\nbe "
+    - text: " I've got some news that should\nbe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: music to your ears
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "!\n\nI've found a way to help you search for\nnew objects using the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Sheikah Sensor +
+    - text: music to your ears
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!\n\nI've found a way to help you search for\nnew objects using the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Sheikah Sensor +
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   talk44:
@@ -3181,40 +3155,40 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I don't normally like to let people use my\nlittle "
+    - text: "I don't normally like to let people use my\nlittle "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Guidance Stone "
+    - text: "Guidance Stone "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "for free,"
+    - text: "for free,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but...\n\n"
+    - text: " but...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I kind of want to see what'll happen,"
+    - text: "I kind of want to see what'll happen,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so\njust this once I'll let it pass."
+    - text: " so\njust this once I'll let it pass."
     - utf16_bytes:
         - 0
   talk45:
@@ -3224,30 +3198,30 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Well... You heard her. Could you go and\nuse the "
+    - text: "Well... You heard her. Could you go and\nuse the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah Slate "
+    - text: "Sheikah Slate "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: over there?
+    - text: over there?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk46:
     - utf16_bytes:
@@ -3256,7 +3230,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Very well, then..."
+    - text: "Very well, then..."
     - utf16_bytes:
         - 0
   talk47:
@@ -3265,21 +3239,20 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "Linkle, "
+    - text: "ċLinkle, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "as a test, could you try\ntouching the "
+    - text: "as a test, could you try\ntouching the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
@@ -3290,30 +3263,30 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " to\nthe "
+    - text: " to\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guidance Stone
+    - text: Guidance Stone
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk48:
     - utf16_bytes:
@@ -3321,14 +3294,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: "Hmm... "
+    - text: "ጆHmm... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I was going to give you three \nhearty truffles in return, but it looks\nlike you can't hold any more.\nDo you want them?"
+    - text: "I was going to give you three \nhearty truffles in return, but it looks\nlike you can't hold any more.\nDo you want them?"
     - utf16_bytes:
         - 14
         - 1
@@ -3336,7 +3308,8 @@ entries:
         - 6
         - 18
         - 19
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk50:
     - utf16_bytes:
@@ -3345,7 +3318,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Very well. Let's get started."
+    - text: "Very well. Let's get started."
     - utf16_bytes:
         - 0
   talk49:
@@ -3355,7 +3328,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Thanks for the moola!
+    - text: Thanks for the moola!
     - utf16_bytes:
         - 0
   talk51:
@@ -3365,14 +3338,13 @@ entries:
         - 2
         - 30
         - 28
-    - ascii: CustomGreeting
+    - text: CustomGreeting
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: Check it!
+    - text: ćCheck it!
     - utf16_bytes:
         - 0
   talk52:
@@ -3381,19 +3353,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nOh!"
+    - text: "\nOh!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Wow. "
+    - text: " Wow. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: This is...
+    - text: This is...
     - utf16_bytes:
         - 0
   talk53:
@@ -3402,8 +3374,7 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Then get rid of some of the\nhearty truffles you have,\nand come back."
+    - text: "ĆThen get rid of some of the\nhearty truffles you have,\nand come back."
     - utf16_bytes:
         - 0
   talk54:
@@ -3413,61 +3384,61 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "...\n\n\nPlease feel free to show your excitement."
+    - text: "...\n\n\nPlease feel free to show your excitement."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAnyway...\n\n"
+    - text: "\nAnyway...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "As I was conducting my research,"
+    - text: "As I was conducting my research,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I found\nthat there were still some "
+    - text: " I found\nthat there were still some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "pictures "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "of\nthe past left on the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Guidance Stone
+    - text: "pictures "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nIf you add those "
+    - text: "of\nthe past left on the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Guidance Stone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nIf you add those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pictures
+    - text: pictures
     - utf16_bytes:
         - 14
         - 0
@@ -3478,68 +3449,68 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " to your\n"
+    - text: " to your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
+    - text: Hyrule Compendium
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", "
+    - text: ", "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "you can search for\ntheir subjects with the "
+    - text: "you can search for\ntheir subjects with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Sensor +
+    - text: Sheikah Sensor +
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: 
+        - 12
+    - text: 촁
     - utf16_bytes:
-        - 52481
         - 0
   Com_Talk_00:
-    - ascii: "These are the "
+    - text: "These are the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: pictures
+    - text: pictures
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " you can currently\nadd."
+    - text: " you can currently\nadd."
     - utf16_bytes:
         - 0
   talk55:
@@ -3548,30 +3519,29 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "You know, it looks like you still have\nspace in the "
+    - text: "ĆYou know, it looks like you still have\nspace in the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
+    - text: Hyrule Compendium
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Stop that!
+    - text: Stop that!
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: A Remote Bomb?!
+    - text: A Remote Bomb?!
     - utf16_bytes:
         - 0
   talk56:
@@ -3581,7 +3551,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Yes... What she said.
+    - text: Yes... What she said.
     - utf16_bytes:
         - 0
   talk57:
@@ -3591,21 +3561,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Let's go ahead and turn on the\n"
+    - text: "Let's go ahead and turn on the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guidance Stone
+    - text: Guidance Stone
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk58:
@@ -3615,28 +3585,28 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There should be a "
+    - text: "There should be a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sunshroom
+    - text: sunshroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " growing\nbehind the lab. \n\nGo take a picture of it with the "
+    - text: " growing\nbehind the lab. \n\nGo take a picture of it with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Camera
+    - text: Camera
     - utf16_bytes:
         - 14
         - 0
@@ -3647,7 +3617,7 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: ",\nand let me know when you've done it."
+    - text: ",\nand let me know when you've done it."
     - utf16_bytes:
         - 0
   talk60:
@@ -3657,13 +3627,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "You realize you might break the lab\nequipment if you fall from up there,\ndon't you?"
+    - text: "You realize you might break the lab\nequipment if you fall from up there,\ndon't you?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Come down please."
+    - text: " Come down please."
     - utf16_bytes:
         - 0
   talk59:
@@ -3673,13 +3643,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I didn't think you'd be so...childish."
+    - text: "I didn't think you'd be so...childish."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI'll talk to you when you come down from\nthere."
+    - text: "\nI'll talk to you when you come down from\nthere."
     - utf16_bytes:
         - 0
   talk61:
@@ -3688,29 +3658,28 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "It appears the "
+    - text: "ąIt appears the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "picture "
+    - text: "picture "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "from the\n"
+    - text: "from the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Guidance Stone "
+    - text: "Guidance Stone "
     - utf16_bytes:
         - 14
         - 0
@@ -3721,62 +3690,61 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "was transferred to \nyour "
+    - text: "was transferred to \nyour "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Compendium
+    - text: Hyrule Compendium
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "You can't restore transferred pictures,"
+    - text: "ĀYou can't restore transferred pictures,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nso be "
+    - text: "\nso be "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: careful
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: overwriting
+    - text: careful
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " it."
+    - text: " of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: overwriting
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " it."
     - utf16_bytes:
         - 0
   talk62:
@@ -3786,16 +3754,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Is that OK?
+    - text: Is that OK?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼ
+    - text: ᕼᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_06:
     - utf16_bytes:
@@ -3804,7 +3770,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Would you like to buy one?
+    - text: Would you like to buy one?
     - utf16_bytes:
         - 0
   talk63:
@@ -3813,76 +3779,75 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: This seems like a nice opportunity to ask
+    - text: ĆThis seems like a nice opportunity to ask
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nif you'd mind bringing me "
+    - text: "\nif you'd mind bringing me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "three\nsunshrooms"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nYou can find "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "sunshrooms "
+    - text: "three\nsunshrooms"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "growing\nin "
+    - text: ".\nYou can find "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Retsam Forest
+    - text: "sunshrooms "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I believe... "
+    - text: "growing\nin "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Retsam Forest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", I believe... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "The\n"
+    - text: "The\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Sensor +
+    - text: Sheikah Sensor +
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " should make it a snap!"
+    - text: " should make it a snap!"
     - utf16_bytes:
         - 0
   talk64:
@@ -3891,83 +3856,82 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nLinkle!"
+    - text: "\nLinkle!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " My goodness!"
+    - text: " My goodness!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Have you really\ncollected EVERY picture?!\n\n"
+    - text: " Have you really\ncollected EVERY picture?!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: Incredible!
+    - text: Incredible!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I never dreamed that I might\nsomeday see a complete collection.\n\n"
+    - text: " I never dreamed that I might\nsomeday see a complete collection.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "This level of dedication to research\ndeserves a reward, but I'm not sure\nthe lab budget has room for one...\n"
+    - text: "ĀThis level of dedication to research\ndeserves a reward, but I'm not sure\nthe lab budget has room for one...\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: Although...
+    - text: Although...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If he's that passionate about\npictures, maybe..."
+    - text: " If he's that passionate about\npictures, maybe..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n"
+    - text: "d\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
-    - ascii: "Well, it will have to do. "
+    - text: "Well, it will have to do. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Here. I found\nthis sandwiched in a book."
+    - text: "Here. I found\nthis sandwiched in a book."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I have no\ninterest in it myself, so..."
+    - text: " I have no\ninterest in it myself, so..."
     - utf16_bytes:
         - 0
   Com_Talk_10:
@@ -3976,33 +3940,32 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I have to charge you "
+    - text: "ĀI have to charge you "
     - utf16_bytes:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "rupees "
+    - text: "rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "for\nthe "
+    - text: "for\nthe "
     - utf16_bytes:
         - 14
         - 0
@@ -4010,13 +3973,14 @@ entries:
         - 2
         - 2
         - 14
-        - 201
+    - text: É
+    - utf16_bytes:
         - 4
         - 0
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -4024,16 +3988,14 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: ".\nBoss's orders!"
+    - text: ".\nBoss's orders!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   talk65:
     - utf16_bytes:
@@ -4042,14 +4004,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You can fill in open slots by taking\npictures with the "
+    - text: "You can fill in open slots by taking\npictures with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Camera
+    - text: Camera
     - utf16_bytes:
         - 14
         - 5
@@ -4060,21 +4022,21 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: " or using\nthe "
+    - text: " or using\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guidance Stone
+    - text: Guidance Stone
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Com_Talk_11:
@@ -4084,6 +4046,6 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Thank you for supporting our research.
+    - text: Thank you for supporting our research.
     - utf16_bytes:
         - 0

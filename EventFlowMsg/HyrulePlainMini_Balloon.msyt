@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "The weather's so bad you can't even\nsee the sky!"
+    - text: "The weather's so bad you can't even\nsee the sky!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Hey, listen to me, mister!"
+    - text: " Hey, listen to me, mister!"
     - utf16_bytes:
         - 0
   Talk_0007:
@@ -22,14 +22,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: Thank you!
+    - text: ਇThank you!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Now put some "
+    - text: " Now put some "
     - utf16_bytes:
         - 14
         - 0
@@ -41,35 +40,35 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: balloons
+    - text: balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "onto\na barrel"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: and make it float up high!
+    - text: "onto\na barrel"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: and make it float up high!
     - utf16_bytes:
         - 0
   Talk_0009:
@@ -78,8 +77,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You brought me "
+    - text: "ЀYou brought me "
     - utf16_bytes:
         - 14
         - 0
@@ -91,27 +89,27 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: balloons
+    - text: balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: in this rain?
+    - text: in this rain?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhat a nice girl!"
+    - text: "\nWhat a nice girl!"
     - utf16_bytes:
         - 0
   Talk_0010:
@@ -120,56 +118,55 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Yaaaaay!
+    - text: इYaaaaay!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You brought me "
+    - text: " You brought me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: balloons
+    - text: balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n"
+    - text: "!\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "What a guy!\n\nYou should tie those "
+    - text: "What a guy!\n\nYou should tie those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: balloons
+    - text: balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " on to that\nbarrel and make it soar into the sky!"
+    - text: " on to that\nbarrel and make it soar into the sky!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Leave it to me.
+    - text: Leave it to me.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   Talk_0012:
@@ -178,61 +175,60 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "I want to visit the land in the sky by\n"
+    - text: "ĆI want to visit the land in the sky by\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: balloon
+    - text: balloon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Then, I'm going to ride a really\nbig bird. Yep, that's my dream!\n"
+    - text: " Then, I'm going to ride a really\nbig bird. Yep, that's my dream!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "Thank you, mister!"
+    - text: "Thank you, mister!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " This is a "
+    - text: " This is a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: treasure
+    - text: treasure
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfrom the sky! "
+    - text: "\nfrom the sky! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Here, take it!"
+    - text: "Here, take it!"
     - utf16_bytes:
         - 0
   Talk_0000:
@@ -241,66 +237,51 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
+    - text: ℀
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PZzz...
+    - text: PZzz...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: zzz...
+    - text: zzz...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Balloons
+    - text: Balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... Floaty, floaty..."
+    - text: "... Floaty, floaty..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "d\n\n\nZzz..."
-    - utf16_bytes:
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
@@ -310,7 +291,23 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: dzzz...
+    - text: "d\n\n\nZzz..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: P
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: dzzz...
     - utf16_bytes:
         - 0
   Talk_0013:
@@ -319,34 +316,33 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: Floaty!
+    - text: ଇFloaty!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Balloons
+    - text: Balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " soaring high in the sky!"
+    - text: " soaring high in the sky!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nFly up and away to the land in the\nclouds!"
+    - text: "\nFly up and away to the land in the\nclouds!"
     - utf16_bytes:
         - 0
   Talk_0001:
@@ -355,42 +351,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You brought me "
+    - text: "ЀYou brought me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: balloons
+    - text: balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " even though\nthe weather is bad?"
+    - text: " even though\nthe weather is bad?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\nI wonder if the "
+    - text: "\n\nI wonder if the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "balloons "
+    - text: "balloons "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "will break\nthrough the clouds and soar in the\nclear skies."
+    - text: "will break\nthrough the clouds and soar in the\nclear skies."
     - utf16_bytes:
         - 0
   Talk_0014:
@@ -399,27 +394,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAww... "
+        - 9
+    - text: "Aww... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You've popped the"
+    - text: "You've popped the"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " balloon "
+    - text: " balloon "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "of my\ndreams."
+    - text: "of my\ndreams."
     - utf16_bytes:
         - 0
   Talk_0002:
@@ -428,32 +424,31 @@ entries:
         - 3
         - 1
         - 2
-        - 8704
-    - ascii: "Good kid,"
+    - text: "∀Good kid,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " good kid!"
+    - text: " good kid!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Goes to bed early!"
+    - text: " Goes to bed early!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt's already sleepy time."
+    - text: "\nIt's already sleepy time."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
@@ -463,7 +458,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\nSee you tomorrow!"
+    - text: "d\nSee you tomorrow!"
     - utf16_bytes:
         - 0
   Talk_0003:
@@ -472,36 +467,35 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: Good kid!
+    - text: ȇGood kid!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Good kid!"
+    - text: " Good kid!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Gets up early!"
+    - text: " Gets up early!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI have a favor to ask you! "
+    - text: "\nI have a favor to ask you! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Come with me!
+    - text: Come with me!
     - utf16_bytes:
         - 0
   Near_00:
-    - ascii: Balloons. Floaty balloons.
+    - text: Balloons. Floaty balloons.
     - utf16_bytes:
         - 0
   Talk_0004:
@@ -510,24 +504,23 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: "I sometimes see it in my dreams. "
+    - text: "ȇI sometimes see it in my dreams. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDo you think that a long time ago people\nused to live in the sky?"
+    - text: "\nDo you think that a long time ago people\nused to live in the sky?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I think so..."
+    - text: " I think so..."
     - utf16_bytes:
         - 0
   Near_01:
-    - ascii: In the sky...
+    - text: In the sky...
     - utf16_bytes:
         - 0
   Talk_0005:
@@ -536,48 +529,47 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hey, mister!"
+    - text: "ĀHey, mister!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Just once in my life, I want\nto see "
+    - text: " Just once in my life, I want\nto see "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: balloons
+    - text: balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " float right up into the\nsky!\nIf you'll help me realize my "
+    - text: " float right up into the\nsky!\nIf you'll help me realize my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: balloon
+    - text: balloon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\ndream,"
+    - text: "\ndream,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'll give you a treasure I got\nfrom the sky as thanks!"
+    - text: " I'll give you a treasure I got\nfrom the sky as thanks!"
     - utf16_bytes:
         - 14
         - 1
@@ -585,29 +577,30 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_0018:
-    - ascii: The barrel is quite heavy!
+    - text: The barrel is quite heavy!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If you don't\nhave at least a few "
+    - text: " If you don't\nhave at least a few "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: balloons
+    - text: balloons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", it might be\nhard to make it soar into the sky..."
+    - text: ", it might be\nhard to make it soar into the sky..."
     - utf16_bytes:
         - 0

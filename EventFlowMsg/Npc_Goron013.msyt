@@ -1,11 +1,11 @@
 ---
 entries:
   "0000":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: What is this place?
+    - text: What is this place?
     - utf16_bytes:
         - 0
   talk20:
@@ -14,12 +14,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: See ya later.
+    - text: ĀSee ya later.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk21:
@@ -28,26 +27,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm a proud Goron of Goron City.\nIf we dig up "
+    - text: "ĀI'm a proud Goron of Goron City.\nIf we dig up "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "ore "
+    - text: "ore "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "like this, Goron City \nwill prosper. Everyone wins!"
+    - text: "like this, Goron City \nwill prosper. Everyone wins!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: The Boss?
+    - text: The Boss?
     - utf16_bytes:
         - 0
   talk22:
@@ -57,7 +55,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yeah, yeah. What is it?"
+    - text: "Yeah, yeah. What is it?"
     - utf16_bytes:
         - 14
         - 1
@@ -66,10 +64,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: Got it!
+    - text: Got it!
     - utf16_bytes:
         - 0
   talk23:
@@ -79,76 +78,75 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "But right now, we've got that "
+    - text: "But right now, we've got that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "lizard\nmonster "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "sittin' up on "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Death Mountain
+    - text: "lizard\nmonster "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nNormally we can pull up good "
+    - text: "sittin' up on "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "ore "
+    - text: Death Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "from\nnear the mountain peak..."
+    - text: ".\n\nNormally we can pull up good "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "ore "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "from\nnear the mountain peak..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " But for now,\nwe have to mine here instead.\n"
+    - text: " But for now,\nwe have to mine here instead.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "You should ask the "
+    - text: "ĀYou should ask the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Boss "
+    - text: "Boss "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "for more details.\nHe's in Goron City."
+    - text: "for more details.\nHe's in Goron City."
     - utf16_bytes:
         - 14
         - 1
@@ -156,7 +154,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk11:
     - utf16_bytes:
@@ -164,20 +163,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Well then... "
+    - text: "ЀWell then... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Time to work.\n\n\nDon't talk to me while I'm workin', OK?"
+    - text: "Time to work.\n\n\nDon't talk to me while I'm workin', OK?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI need to concentrate."
+    - text: "\nI need to concentrate."
     - utf16_bytes:
         - 0
   talk24:
@@ -191,81 +189,82 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "The "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Boss "
+    - text: Ā
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is the most important Goron\nin Goron City! "
+    - text: "The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Boss "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "is the most important Goron\nin Goron City! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "His name is "
+    - text: "His name is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Bludo
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nHe's the visionary who thought to set up\ndig sites here and at "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Death Mountain "
+    - text: Bludo
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "so\nwe can sell the "
+    - text: ".\n\nHe's the visionary who thought to set up\ndig sites here and at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "ore "
+    - text: "Death Mountain "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "we find.\nThanks to the Boss, Goron City is happy\nand prosperous."
+    - text: "so\nwe can sell the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "ore "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "we find.\nThanks to the Boss, Goron City is happy\nand prosperous."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Nowhere else can even\ncompete! No way, no how!"
+    - text: " Nowhere else can even\ncompete! No way, no how!"
     - utf16_bytes:
         - 0
   talk12:
@@ -274,11 +273,8 @@ entries:
         - 3
         - 1
         - 2
-        - 6657
-        - 9834
-    - ascii: "Work, work, work!"
+    - text: "ᨁ♪Work, work, work!♪"
     - utf16_bytes:
-        - 9834
         - 0
   talk25:
     - utf16_bytes:
@@ -287,55 +283,55 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "lizard monster "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "on "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Death Mountain
+    - text: "lizard monster "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\ncalmed down, "
+    - text: "on "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Death Mountain
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\ncalmed down, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "so the "
+    - text: "so the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Boss "
+    - text: "Boss "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has instructed\nus to start mining this site again!"
+    - text: "has instructed\nus to start mining this site again!"
     - utf16_bytes:
         - 0
   talk00:
@@ -344,22 +340,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I need to concentrate while I'm workin'.\nIf you wanna talk, come see me when\nit's "
+    - text: "ĀI need to concentrate while I'm workin'.\nIf you wanna talk, come see me when\nit's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: nighttime
+    - text: nighttime
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: ". "
     - utf16_bytes:
         - 0
   talk13:
@@ -368,14 +363,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "It's finally break time!"
+    - text: "ሀIt's finally break time!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " We can talk once\nI'm good and relaxed."
+    - text: " We can talk once\nI'm good and relaxed."
     - utf16_bytes:
         - 0
   talk26:
@@ -384,8 +378,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Anything else you wanna ask?
+    - text: ĀAnything else you wanna ask?
     - utf16_bytes:
         - 14
         - 1
@@ -394,7 +387,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk01:
     - utf16_bytes:
@@ -402,20 +396,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᔊBah! "
+    - text: "ᔊBah! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "You scared me!\n\n\n"
+    - text: "You scared me!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: What is it?!
+    - text: ĀWhat is it?!
     - utf16_bytes:
         - 14
         - 1
@@ -424,7 +417,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk14:
     - utf16_bytes:
@@ -432,14 +426,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: "If you wanna talk, "
+    - text: "ဃIf you wanna talk, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "lemme sit down\na bit first, OK?"
+    - text: "lemme sit down\na bit first, OK?"
     - utf16_bytes:
         - 0
   talk27:
@@ -449,42 +442,41 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Problem is, there's a "
+    - text: "Problem is, there's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: lizard monster
+    - text: lizard monster
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\non the summit right now.\n\n"
+    - text: "\non the summit right now.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "We can get better ore up there,\nbut we're stuck mining here for the\ntime being.\nThe "
+    - text: "ĀWe can get better ore up there,\nbut we're stuck mining here for the\ntime being.\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Boss "
+    - text: "Boss "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "at Goron City can explain the\nwhole thing if you're interested."
+    - text: "at Goron City can explain the\nwhole thing if you're interested."
     - utf16_bytes:
         - 0
   talk02:
@@ -493,14 +485,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Me?
+    - text: ĀMe?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I'm Jengo."
+    - text: " I'm Jengo."
     - utf16_bytes:
         - 0
   talk16:
@@ -509,28 +500,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Take a look around. This is where we dig\nup "
+    - text: "ĀTake a look around. This is where we dig\nup "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: ore
+    - text: ore
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: ". "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: We call it the Southern Mine.
+    - text: We call it the Southern Mine.
     - utf16_bytes:
         - 0
   talk05:
@@ -539,13 +529,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh, it's you again. "
+        - 9
+    - text: "Oh, it's you again. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "It's not time for me\nto stop workin' yet, ya know..."
+    - text: "It's not time for me\nto stop workin' yet, ya know..."
     - utf16_bytes:
         - 14
         - 1
@@ -554,14 +545,12 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   near01:
+    - text: ♪Break time!♪
     - utf16_bytes:
-        - 9834
-    - ascii: Break time!
-    - utf16_bytes:
-        - 9834
         - 0
   talk06:
     - utf16_bytes:
@@ -569,8 +558,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm Jengo."
+    - text: "ĀI'm Jengo."
     - utf16_bytes:
         - 0
   talk19:
@@ -579,14 +567,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: "Heh... I'm exhausted."
+    - text: "ሆHeh... I'm exhausted."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " But now I've got\nsome time to talk. So what did ya wanna\nask me?"
+    - text: " But now I've got\nsome time to talk. So what did ya wanna\nask me?"
     - utf16_bytes:
         - 14
         - 1
@@ -595,5 +582,6 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0

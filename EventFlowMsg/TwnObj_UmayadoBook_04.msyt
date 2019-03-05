@@ -1,11 +1,11 @@
 ---
 entries:
   "0000":
-    - ascii: Read.
+    - text: Read.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0
   Book00:
@@ -14,28 +14,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is Traysi! I have a taste for\nthe rumors of worlds long gone and\nworlds yet to come!\nEveryone gossiping in the present\nworld? Here's my favorite bit of the\nlatest news...\n"
+    - text: "This is Traysi! I have a taste for\nthe rumors of worlds long gone and\nworlds yet to come!\nEveryone gossiping in the present\nworld? Here's my favorite bit of the\nlatest news...\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Treasures of the Falling Star!"
+    - text: "}Treasures of the Falling Star!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nThe stars spread out in the sky like a\ntapestry, and across that expanse, you\nsee one streak of light"
+    - text: "d\n\n\nThe stars spread out in the sky like a\ntapestry, and across that expanse, you\nsee one streak of light—a shooting star!\nAnd I've heard that there is treasure\nwaiting where these stars have landed.\n\nThe next time you see one, why not track\nit down to see where it lands?\n\nTraysi's Recommendation: ★★★★☆"
     - utf16_bytes:
-        - 8212
-    - ascii: "a shooting star!\nAnd I've heard that there is treasure\nwaiting where these stars have landed.\n\nThe next time you see one, why not track\nit down to see where it lands?\n\nTraysi's Recommendation: "
-    - utf16_bytes:
-        - 9733
-        - 9733
-        - 9733
-        - 9733
-        - 9734
         - 0
   BookFirst:
     - utf16_bytes:
@@ -43,7 +35,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rumor Mill: Volume 4"
+    - text: "Rumor Mill: Volume 4"
     - utf16_bytes:
         - 14
         - 1
@@ -51,5 +43,6 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

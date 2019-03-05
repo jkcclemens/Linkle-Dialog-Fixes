@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Guess what, though!"
+    - text: "Guess what, though!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I got him to paint\nme a picture of a bug!\nIt's all mine! Hehehe..."
+    - text: " I got him to paint\nme a picture of a bug!\nIt's all mine! Hehehe..."
     - utf16_bytes:
         - 0
   talk05:
@@ -22,32 +22,33 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: The old painter
+    - text: The old painter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "painted a bug picture\nfor me. Just for me."
+    - text: "painted a bug picture\nfor me. Just for me."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Hehehe..."
+    - text: " Hehehe..."
     - utf16_bytes:
         - 0
   talk40:
@@ -57,13 +58,13 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "I'm waiting for the bug guy..."
+    - text: "I'm waiting for the bug guy..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHe's on his way!"
+    - text: "\nHe's on his way!"
     - utf16_bytes:
         - 0
   talk70:
@@ -73,13 +74,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I want to go outside...
+    - text: I want to go outside...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: but the rain.
+    - text: but the rain.
     - utf16_bytes:
         - 0
   talk71:
@@ -88,28 +89,27 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "It's weird that some bugs only come out\nwhen it rains."
+    - text: "ćIt's weird that some bugs only come out\nwhen it rains."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Like "
+    - text: " Like "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "thunderwing\nbutterflies"
+    - text: "thunderwing\nbutterflies"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk50:
@@ -119,19 +119,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "He's got a bug..."
+    - text: "He's got a bug..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: on his back.
+    - text: on his back.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nLucky..."
+    - text: "\nLucky..."
     - utf16_bytes:
         - 0
   talk00:
@@ -140,8 +140,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I don't see any bugs here..."
+    - text: "ЀI don't see any bugs here..."
     - utf16_bytes:
         - 0
   talk01:
@@ -151,13 +150,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Where...
+    - text: Where...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "do all the rare bugs like to\nhang out?"
+    - text: "do all the rare bugs like to\nhang out?"
     - utf16_bytes:
         - 0
   talk02:
@@ -167,13 +166,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Oh...
+    - text: Oh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: you!
+    - text: you!
     - utf16_bytes:
         - 0
   talk60:
@@ -182,32 +181,31 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52511
-    - ascii: "...Buncha bugs..."
+    - text: 촟...Buncha bugs...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "all crawlin' all over the place."
+    - text: "all crawlin' all over the place."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHehe..."
+    - text: "\nHehe..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk03:
@@ -217,27 +215,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "old painter "
+    - text: "old painter "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "had to head out, but he\nasked me to say hi to you for him..."
+    - text: "had to head out, but he\nasked me to say hi to you for him..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSo, uh, hi!"
+    - text: "\nSo, uh, hi!"
     - utf16_bytes:
         - 0
   talk55:
@@ -246,8 +244,7 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "Girl, I really wish I had a backpack."
+    - text: "ćGirl, I really wish I had a backpack."
     - utf16_bytes:
         - 14
         - 0
@@ -257,8 +254,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "When I grow up, I'm going to buy a\nHUGE backpack with a million little\nbackpacks inside!"
+    - text: "ĀWhen I grow up, I'm going to buy a\nHUGE backpack with a million little\nbackpacks inside!"
     - utf16_bytes:
         - 0
   talk61:
@@ -267,12 +263,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tNot many rare bugs today either..."
+        - 9
+    - text: Not many rare bugs today either...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThis stinks..."
+    - text: "\nThis stinks..."
     - utf16_bytes:
         - 0

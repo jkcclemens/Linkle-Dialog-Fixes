@@ -12,68 +12,68 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Naydra "
+    - text: "Naydra "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is usually associated with\n"
+    - text: "is usually associated with\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Mount Lanayru
+    - text: Mount Lanayru
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I hear it was also spotted "
+    - text: "I hear it was also spotted "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "east of\nLanayru Road"
+    - text: "east of\nLanayru Road"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Snowy mountains aren't a problem for\nRitos like myself,"
+    - text: "Snowy mountains aren't a problem for\nRitos like myself,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but the journey might\nprove difficult for a Hylian like you.\n"
+    - text: " but the journey might\nprove difficult for a Hylian like you.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Be sure to prepare for extreme cold\nif you intend to go there."
+    - text: "Be sure to prepare for extreme cold\nif you intend to go there."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk13:
@@ -82,37 +82,36 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "Well then...\n\n\nMy wounds are just about healed,"
+    - text: "ሀWell then...\n\n\nMy wounds are just about healed,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so I \nguess it's time for me to take Tulin\nto the "
+    - text: " so I \nguess it's time for me to take Tulin\nto the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
+    - text: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 30
-    - ascii: "\f\r"
-    - utf16_bytes:
+        - 12
+        - 13
         - 768
         - 0
   Npc_HighMountain011_Talk24:
@@ -122,27 +121,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hmm.
+    - text: Hmm.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "sure\ncaused a lot of turmoil around here..."
+    - text: "sure\ncaused a lot of turmoil around here..."
     - utf16_bytes:
         - 14
         - 1
@@ -151,7 +150,8 @@ entries:
         - 18
         - 27
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk14:
     - utf16_bytes:
@@ -159,37 +159,36 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: Well then...
+    - text: ሀWell then...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I should probably get Tulin\nover to the "
+    - text: " I should probably get Tulin\nover to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: ". "
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 30
-    - ascii: "\f\r"
-    - utf16_bytes:
+        - 12
+        - 13
         - 768
         - 0
   Npc_HighMountain011_Talk00:
@@ -198,14 +197,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Oh...
+    - text: ЀOh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's you."
+    - text: " It's you."
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk25:
@@ -215,12 +213,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Is there anything else you'd like\nto chat about?"
+    - text: "Is there anything else you'd like\nto chat about?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 23
         - 24
@@ -235,80 +233,80 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "A challenge of "
+    - text: "A challenge of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: four targets
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "? "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "Hm, and you\nheard about it in a song?\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 0
-    - ascii: "Shooting four targets...at once, perhaps?"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\nWhy does that sound familiar?\n\nAh, of course! "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "I've heard "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Master Revali
+    - text: four targets
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\naccomplished something similar at the\n"
+    - text: "? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Hm, and you\nheard about it in a song?\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Shooting four targets...at once, perhaps?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nWhy does that sound familiar?\n\nAh, of course! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I've heard "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: Flight Range
+        - 2
+    - text: Master Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nAre you going to attempt the same, Link?"
+    - text: "\naccomplished something similar at the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Flight Range
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nAre you going to attempt the same, Link?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYes, of course you are. I can see it in\nyour eyes."
+    - text: "\nYes, of course you are. I can see it in\nyour eyes."
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk01:
@@ -317,14 +315,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4875
-    - ascii: "Hmm? "
+    - text: "ጋHmm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: A traveler?
+    - text: A traveler?
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk26:
@@ -334,35 +331,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I used to take lookout duty near\n"
+    - text: "I used to take lookout duty near\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tanagar Canyon
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " to keep an eye on\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: dragon
+    - text: Tanagar Canyon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that appears there.\nIt is truly a sight to behold!"
+    - text: " to keep an eye on\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: dragon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " that appears there.\nIt is truly a sight to behold!"
     - utf16_bytes:
         - 14
         - 0
@@ -372,22 +369,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Speaking of, you came to see the\n"
+    - text: "؋Speaking of, you came to see the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "at the top\nof our village, right?"
+    - text: "at the top\nof our village, right?"
     - utf16_bytes:
         - 14
         - 1
@@ -396,7 +392,8 @@ entries:
         - 18
         - 19
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk20:
     - utf16_bytes:
@@ -405,19 +402,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hoo?
+    - text: Hoo?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Champion descendant..."
+    - text: " Champion descendant..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You look\nlike you want to ask me something."
+    - text: " You look\nlike you want to ask me something."
     - utf16_bytes:
         - 14
         - 1
@@ -425,7 +422,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk16:
     - utf16_bytes:
@@ -434,17 +432,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hm? Was there anything else?
+    - text: Hm? Was there anything else?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 30
         - 11
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk02:
     - utf16_bytes:
@@ -453,7 +452,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: What a pleasant surprise.
+    - text: What a pleasant surprise.
     - utf16_bytes:
         - 14
         - 1
@@ -461,10 +460,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Near00:
-    - ascii: Lookout duty is tough...
+    - text: Lookout duty is tough...
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk27:
@@ -473,22 +473,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "There was this big beast called\n"
+    - text: "ĀThere was this big beast called\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "flying above\nthe village up until a while ago.\nBut someone took care of it, and things\nhave finally settled down."
+    - text: "flying above\nthe village up until a while ago.\nBut someone took care of it, and things\nhave finally settled down."
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk21:
@@ -497,27 +496,26 @@ entries:
         - 3
         - 1
         - 2
-        - 5125
-    - ascii: Hoo?
+    - text: ᐅHoo?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Ah... Never mind."
+    - text: " Ah... Never mind."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " My apologies.\n\n\n"
+    - text: " My apologies.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Did you need something from me?
+    - text: Did you need something from me?
     - utf16_bytes:
         - 14
         - 1
@@ -525,7 +523,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk17:
     - utf16_bytes:
@@ -533,57 +532,56 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "It's you..."
+    - text: "ȀIt's you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Haven't seen you in a while."
+    - text: " Haven't seen you in a while."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nNow that "
+    - text: "\nNow that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s calmed down,"
+    - text: "'s calmed down,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
+    - text: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
+    - text: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Don't let\nwhatever he says get to you."
+    - text: " Don't let\nwhatever he says get to you."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 15
         - 31
@@ -598,25 +596,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I came here because the elder tasked me\nwith keeping watch on the "
+    - text: "I came here because the elder tasked me\nwith keeping watch on the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dragon
+    - text: dragon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that\nappears around here."
+    - text: " that\nappears around here."
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Near01:
-    - ascii: I should get some rest.
+    - text: I should get some rest.
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk28:
@@ -626,69 +624,69 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "After all that, I went to "
+    - text: "After all that, I went to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tanagar Canyon
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nto keep an eye on the"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: " dragon"
+    - text: Tanagar Canyon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that is\nsaid to appear there.\nThe "
+    - text: "\nto keep an eye on the"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and\na mysterious "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: dragon
+    - text: " dragon"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " that is\nsaid to appear there.\nThe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Divine Beast Vah Medoh "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "and\na mysterious "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: dragon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Geez.\nWe can't catch a break!"
+    - text: " Geez.\nWe can't catch a break!"
     - utf16_bytes:
         - 14
         - 1
@@ -697,7 +695,8 @@ entries:
         - 18
         - 19
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk18:
     - utf16_bytes:
@@ -706,18 +705,18 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Would you mind showing Tulin how you\nhandle a bow?"
+    - text: "Would you mind showing Tulin how you\nhandle a bow?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
+    - text: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 15
         - 31
@@ -731,14 +730,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4102
-    - ascii: "It's so colossal..."
+    - text: "ဆIt's so colossal..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I know it won't\nharm us, yet my body can't help\nbut shiver..."
+    - text: " I know it won't\nharm us, yet my body can't help\nbut shiver..."
     - utf16_bytes:
         - 14
         - 1
@@ -746,7 +744,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk29:
     - utf16_bytes:
@@ -754,8 +753,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Any other questions?
+    - text: ĀAny other questions?
     - utf16_bytes:
         - 14
         - 1
@@ -764,7 +762,8 @@ entries:
         - 18
         - 19
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk19:
     - utf16_bytes:
@@ -773,18 +772,18 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Show Tulin how you handle a bow.
+    - text: Show Tulin how you handle a bow.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It\ncould set a good example for him."
+    - text: " It\ncould set a good example for him."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 15
         - 31
@@ -799,39 +798,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's been appearing quite frequently\nthese days."
+    - text: "It's been appearing quite frequently\nthese days."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Everyone's worried it's\ngoing to cause trouble for the village.\nAfter the incident with "
+    - text: " Everyone's worried it's\ngoing to cause trouble for the village.\nAfter the incident with "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can't\nblame them for worrying.\n\nSo far everything seems fine."
+    - text: " I can't\nblame them for worrying.\n\nSo far everything seems fine."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll be\nheading back to the village soon."
+    - text: " I'll be\nheading back to the village soon."
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk06:
@@ -841,13 +840,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Come to think of it...
+    - text: Come to think of it...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "the horns don't glow\nanymore. I wonder what that means..."
+    - text: "the horns don't glow\nanymore. I wonder what that means..."
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk00:
@@ -857,19 +856,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hoo hoo...
+    - text: Hoo hoo...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Hello, Champion descendant."
+    - text: " Hello, Champion descendant."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou look like you're sitting on a question\nthat would like to hatch."
+    - text: "\nYou look like you're sitting on a question\nthat would like to hatch."
     - utf16_bytes:
         - 14
         - 1
@@ -878,7 +877,8 @@ entries:
         - 4
         - 28
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk07:
     - utf16_bytes:
@@ -887,7 +887,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Don't let me keep you."
+    - text: "Don't let me keep you."
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk01:
@@ -897,95 +897,96 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "You're curious about "
+    - text: "You're curious about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Master Revali
+    - text: Master Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHoo hoo!"
+    - text: "\nHoo hoo!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What perfect timing.\n\nWe recently found "
+    - text: " What perfect timing.\n\nWe recently found "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: The Diary of Revali
+    - text: The Diary of Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWe were all excited to locate such a\npersonal item of the Champion's.\nHowever, not just anyone has the right\nto read something of that nature..."
+    - text: "\nWe were all excited to locate such a\npersonal item of the Champion's.\nHowever, not just anyone has the right\nto read something of that nature..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " \n\nThat's why I left "
+    - text: " \n\nThat's why I left "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Teba
+    - text: Teba
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in charge of it,\nsince he so admires "
+    - text: " in charge of it,\nsince he so admires "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Master Revali
+    - text: Master Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 29
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk08:
     - utf16_bytes:
@@ -994,7 +995,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Do you need something?
+    - text: Do you need something?
     - utf16_bytes:
         - 14
         - 1
@@ -1002,7 +1003,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk02:
     - utf16_bytes:
@@ -1011,11 +1013,11 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Hoo hoo...
+    - text: Hoo hoo...
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Near00:
-    - ascii: Hoo hoo...
+    - text: Hoo hoo...
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk04:
@@ -1025,7 +1027,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I am happy to answer anything I can.
+    - text: I am happy to answer anything I can.
     - utf16_bytes:
         - 14
         - 1
@@ -1034,7 +1036,8 @@ entries:
         - 4
         - 6
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk05:
     - utf16_bytes:
@@ -1043,17 +1046,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: What shall I speak of?
+    - text: What shall I speak of?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 7
         - 8
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 5
         - 768
         - 0
@@ -1063,8 +1065,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Was there anything else?
+    - text: ĀWas there anything else?
     - utf16_bytes:
         - 14
         - 1
@@ -1073,10 +1074,11 @@ entries:
         - 4
         - 6
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0030":
-    - ascii: The four targets trial?
+    - text: The four targets trial?
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk08:
@@ -1086,12 +1088,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I am happy to answer anything I can.
+    - text: I am happy to answer anything I can.
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 16
@@ -1100,7 +1102,7 @@ entries:
         - 768
         - 0
   "0031":
-    - ascii: The four targets trial?
+    - text: The four targets trial?
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk09:
@@ -1109,13 +1111,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Was there anything else?
+    - text: ĀWas there anything else?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 16
@@ -1124,39 +1125,39 @@ entries:
         - 768
         - 0
   "0010":
-    - ascii: Tell me about Revali.
+    - text: Tell me about Revali.
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: Take care.
+    - text: Take care.
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: Not yet.
+    - text: Not yet.
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: Sure thing.
+    - text: Sure thing.
     - utf16_bytes:
         - 0
   "0015":
-    - ascii: Tell me about Revali.
+    - text: Tell me about Revali.
     - utf16_bytes:
         - 0
   "0016":
-    - ascii: "Where's Teba?"
+    - text: "Where's Teba?"
     - utf16_bytes:
         - 0
   "0017":
-    - ascii: "Where's Kaneli?"
+    - text: "Where's Kaneli?"
     - utf16_bytes:
         - 0
   "0018":
-    - ascii: Divine Beast?
+    - text: Divine Beast?
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk30:
@@ -1165,8 +1166,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Any other questions?
+    - text: ĀAny other questions?
     - utf16_bytes:
         - 14
         - 1
@@ -1175,7 +1175,8 @@ entries:
         - 18
         - 27
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk20:
     - utf16_bytes:
@@ -1184,18 +1185,18 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Warrior...
+    - text: Warrior...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Might I trouble you to show\nTulin how you handle a bow?"
+    - text: " Might I trouble you to show\nTulin how you handle a bow?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 15
         - 31
@@ -1204,7 +1205,7 @@ entries:
         - 768
         - 0
   "0019":
-    - ascii: The dragon?
+    - text: The dragon?
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk31:
@@ -1213,34 +1214,33 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Did you know...
+    - text: ĀDid you know...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "that the dragon\nI mentioned before has a name?"
+    - text: "that the dragon\nI mentioned before has a name?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt's "
+    - text: "\nIt's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dinraal
+    - text: Dinraal
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk21:
@@ -1250,66 +1250,66 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "A challenge of "
+    - text: "A challenge of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: four targets
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "? "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "Hm, and you\nheard about it in a song?\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 0
-    - ascii: "Shooting four targets...at once, perhaps?"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\nWhy does that sound familiar?\n\nAh, of course! "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "I've heard "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Master Revali
+    - text: four targets
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\naccomplished something similar.\n\nAre you going to attempt the same, Link?"
+    - text: "? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Hm, and you\nheard about it in a song?\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Shooting four targets...at once, perhaps?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYes, of course you are. I can see it in\nyour eyes."
+    - text: "\nWhy does that sound familiar?\n\nAh, of course! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I've heard "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Master Revali
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\naccomplished something similar.\n\nAre you going to attempt the same, Link?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nYes, of course you are. I can see it in\nyour eyes."
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk32:
@@ -1318,28 +1318,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: That dragon...
+    - text: ĀThat dragon...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "is named "
+    - text: "is named "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dinraal
+    - text: Dinraal
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk33:
@@ -1348,8 +1347,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Apparently there are two more of those\ncreatures in Hyrule."
+    - text: "ĀApparently there are two more of those\ncreatures in Hyrule."
     - utf16_bytes:
         - 14
         - 0
@@ -1360,41 +1358,41 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: I believe the other ones are called...
+    - text: I believe the other ones are called...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Farosh "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Naydra
+    - text: "Farosh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Naydra
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -1402,7 +1400,8 @@ entries:
         - 6
         - 21
         - 22
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk10:
     - utf16_bytes:
@@ -1411,45 +1410,45 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's been appearing quite frequently\nthese days."
+    - text: "It's been appearing quite frequently\nthese days."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Everyone's worried it's\ngoing to cause trouble for the village.\nAfter the incident with "
+    - text: " Everyone's worried it's\ngoing to cause trouble for the village.\nAfter the incident with "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can't\nblame them for worrying.\n\nSo far everything seems fine."
+    - text: " I can't\nblame them for worrying.\n\nSo far everything seems fine."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " However..."
+    - text: " However..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nJust to be safe, I'll be scoping things out\nfor a while yet."
+    - text: "\nJust to be safe, I'll be scoping things out\nfor a while yet."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk00:
@@ -1459,28 +1458,29 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Hm?
+    - text: Hm?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " What is it?"
+    - text: " What is it?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If I'm not mistaken,\nthere's something on your mind."
+    - text: " If I'm not mistaken,\nthere's something on your mind."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk11:
     - utf16_bytes:
@@ -1489,47 +1489,47 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Come to think of it...
+    - text: Come to think of it...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "the "
+    - text: "the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dragon
+    - text: dragon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " always\nflies through this valley at night.\n\nWhen it does, its"
+    - text: " always\nflies through this valley at night.\n\nWhen it does, its"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " horns light up"
+    - text: " horns light up"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThere's something about that\nlight that's truly captivating."
+    - text: "\nThere's something about that\nlight that's truly captivating."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk01:
@@ -1539,31 +1539,31 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Link.
+    - text: Link.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " As you know, us Rito use our wings\nto fly forward."
+    - text: " As you know, us Rito use our wings\nto fly forward."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The wind lifts us up into\nthe glorious sky above.\nHowever, "
+    - text: " The wind lifts us up into\nthe glorious sky above.\nHowever, "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "we cannot ascend on our own.\n\n\nThe Rito tribe used to believe this was an\nirrevocable truth..."
+    - text: "we cannot ascend on our own.\n\n\nThe Rito tribe used to believe this was an\nirrevocable truth..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "until "
+    - text: "until "
     - utf16_bytes:
         - 14
         - 5
@@ -1574,81 +1574,79 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Master Revali
+    - text: Master Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s\nfeat changed everything.\n"
+    - text: "'s\nfeat changed everything.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "He learned to create his own updraft and\ncrafted a unique skill that allowed him to\nascend straight up into the air.\n"
+    - text: "ЁHe learned to create his own updraft and\ncrafted a unique skill that allowed him to\nascend straight up into the air.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm sure you can understand the great\nadvantage of being above your foe.\nAs a warrior, I..."
+    - text: "I'm sure you can understand the great\nadvantage of being above your foe.\nAs a warrior, I..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "am lacking in that way.\nHowever,"
+    - text: "am lacking in that way.\nHowever,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I swear on the sacred sky\nabove that someday I will surpass\n"
+    - text: " I swear on the sacred sky\nabove that someday I will surpass\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Master Revali
+    - text: Master Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "To that end, I'm determined to master\nhis skill..."
+    - text: "ЀTo that end, I'm determined to master\nhis skill..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "to teach myself "
+    - text: "to teach myself "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Revali's Gale"
+    - text: "Revali's Gale"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk12:
@@ -1658,21 +1656,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The elder requested that I watch for\nthe "
+    - text: "The elder requested that I watch for\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dragon
+    - text: dragon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that appears around here."
+    - text: " that appears around here."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk02:
@@ -1682,7 +1680,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: I see.
+    - text: I see.
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk13:
@@ -1692,53 +1690,53 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Come to think of it...
+    - text: Come to think of it...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "the "
+    - text: "the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dragon
+    - text: dragon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " always\nflies through this valley at night.\n\n...Look!"
+    - text: " always\nflies through this valley at night.\n\n...Look!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Do you see? Its"
+    - text: " Do you see? Its"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " horns light up"
+    - text: " horns light up"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThere's something about that light\nthat's truly captivating."
+    - text: "\nThere's something about that light\nthat's truly captivating."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk03:
@@ -1747,36 +1745,38 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "Well then...\n\n\nMy wounds are just about healed,"
+    - text: "ሀWell then...\n\n\nMy wounds are just about healed,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so I \nguess it's time for me to take Tulin\nto the "
+    - text: " so I \nguess it's time for me to take Tulin\nto the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
+    - text: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\n\f\r"
+    - text: "\n"
     - utf16_bytes:
-        - 512
+        - 12
+        - 13
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk14:
     - utf16_bytes:
@@ -1785,13 +1785,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's colossal for sure, but if you look\nclosely, it seems so tranquil."
+    - text: "It's colossal for sure, but if you look\nclosely, it seems so tranquil."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can't\nhelp but believe it means us no harm."
+    - text: " I can't\nhelp but believe it means us no harm."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk04:
@@ -1800,36 +1800,38 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: Well then...
+    - text: ሀWell then...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I should probably get Tulin\nover to the "
+    - text: " I should probably get Tulin\nover to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: ". "
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\n\f\r"
+    - text: "\n"
     - utf16_bytes:
-        - 512
+        - 12
+        - 13
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk15:
     - utf16_bytes:
@@ -1837,20 +1839,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Still...
+    - text: ကStill...
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "When I'm near something that enormous,"
+    - text: "When I'm near something that enormous,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nmy body shivers of its own accord,\neven if my mind knows it won't hurt me."
+    - text: "\nmy body shivers of its own accord,\neven if my mind knows it won't hurt me."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk05:
@@ -1859,52 +1860,51 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "It's you..."
+    - text: "ȀIt's you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Haven't seen you in a while."
+    - text: " Haven't seen you in a while."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nNow that "
+    - text: "\nNow that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s calmed down,"
+    - text: "'s calmed down,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
+    - text: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
+    - text: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Don't let\nwhatever he says get to you."
+    - text: " Don't let\nwhatever he says get to you."
     - utf16_bytes:
         - 14
         - 1
@@ -1913,7 +1913,8 @@ entries:
         - 15
         - 17
         - 14
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk16:
     - utf16_bytes:
@@ -1922,13 +1923,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Everyone's worried it's going to cause\ntrouble for the village..."
+    - text: "Everyone's worried it's going to cause\ntrouble for the village..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but everything\nseems fine.\nI think I'll head back."
+    - text: "but everything\nseems fine.\nI think I'll head back."
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk10:
@@ -1938,177 +1939,175 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Hoo hoo...
+    - text: Hoo hoo...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You wish to know where\n"
+    - text: " You wish to know where\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Teba
+    - text: Teba
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is?"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: " A good question."
+    - text: " is?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " All I know\nis he has not been in the village lately.\nHe always aspired to be like our\n"
+    - text: " A good question."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " All I know\nis he has not been in the village lately.\nHe always aspired to be like our\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion Revali
+    - text: Champion Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "to become a\nvalued warrior for Rito Village. \nHe also harbors the hope that his son,\nTulin,"
+    - text: "to become a\nvalued warrior for Rito Village. \nHe also harbors the hope that his son,\nTulin,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " will share in his dream of becoming\na great warrior like "
+    - text: " will share in his dream of becoming\na great warrior like "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Master
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Revali
+    - text: Master
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Revali
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1035
-    - ascii: "Ah, yes... Perhaps "
+    - text: "ЋAh, yes... Perhaps "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Teba's"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "wife,"
+    - text: "Teba's"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Saki
+    - text: "wife,"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nknows where he is. \n\n"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Saki
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nknows where he is. \n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "If you're curious, "
+    - text: "ĆIf you're curious, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Teba's home"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "right\nnext door"
+    - text: "Teba's home"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to my own humble abode."
+    - text: " is "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "right\nnext door"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " to my own humble abode."
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk06:
@@ -2118,13 +2117,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Would you mind showing Tulin how you\nhandle a bow?"
+    - text: "Would you mind showing Tulin how you\nhandle a bow?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
+    - text: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
     - utf16_bytes:
         - 14
         - 1
@@ -2133,7 +2132,8 @@ entries:
         - 15
         - 17
         - 14
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk17:
     - utf16_bytes:
@@ -2141,25 +2141,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Let me guess
-    - utf16_bytes:
-        - 8212
-    - ascii: "you've come to see\n"
+    - text: "؋Let me guess—you've come to see\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -2168,7 +2164,8 @@ entries:
         - 18
         - 19
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk07:
     - utf16_bytes:
@@ -2177,13 +2174,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Show Tulin how you handle a bow.
+    - text: Show Tulin how you handle a bow.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It\ncould set a good example for him."
+    - text: " It\ncould set a good example for him."
     - utf16_bytes:
         - 14
         - 1
@@ -2192,7 +2189,8 @@ entries:
         - 15
         - 17
         - 14
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk18:
     - utf16_bytes:
@@ -2200,25 +2198,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Let me guess
-    - utf16_bytes:
-        - 8212
-    - ascii: "you've come to see\n"
+    - text: "؋Let me guess—you've come to see\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -2227,7 +2221,8 @@ entries:
         - 18
         - 27
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk12:
     - utf16_bytes:
@@ -2236,12 +2231,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I am happy to answer anything I can.
+    - text: I am happy to answer anything I can.
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 28
@@ -2256,7 +2251,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I'm counting on you, warrior.\nTulin is awaiting your arrival."
+    - text: "I'm counting on you, warrior.\nTulin is awaiting your arrival."
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk19:
@@ -2266,19 +2261,19 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Ah, yes."
+    - text: "Ah, yes."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " There's no need for me to keep\nwatch on the dragon anymore."
+    - text: " There's no need for me to keep\nwatch on the dragon anymore."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It simply\ndoesn't seem to mean us any harm.\nThat's why I was able to return to\nthe village. I'm confident we're safe."
+    - text: " It simply\ndoesn't seem to mean us any harm.\nThat's why I was able to return to\nthe village. I'm confident we're safe."
     - utf16_bytes:
         - 14
         - 0
@@ -2289,13 +2284,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Oh! That reminds me.
+    - text: Oh! That reminds me.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I've done a bit of\nresearch about the dragon..."
+    - text: " I've done a bit of\nresearch about the dragon..."
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk13:
@@ -2305,12 +2300,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: What shall I speak of?
+    - text: What shall I speak of?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 16
         - 7
@@ -2324,89 +2319,88 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "The "
+    - text: "؆The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: elder
+    - text: elder
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I imagine he's at his home\nin "
+    - text: " I imagine he's at his home\nin "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Rito Village
+    - text: Rito Village
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Yes, it's safe to assume\nhe's in his favorite rocking chair.\nThat reminds me."
+    - text: ". Yes, it's safe to assume\nhe's in his favorite rocking chair.\nThat reminds me."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I was hoping the elder\ncould speak to Tulin about "
+    - text: " I was hoping the elder\ncould speak to Tulin about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Master
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Revali
+    - text: Master
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Revali
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Hmm... "
+    - text: "Hmm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "But perhaps Tulin's training\nshould come first."
+    - text: "But perhaps Tulin's training\nshould come first."
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk14:
@@ -2415,13 +2409,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Was there anything else?
+    - text: ĀWas there anything else?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 28
@@ -2436,21 +2429,21 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Hoo hoo! So you wish to hear\nabout the "
+    - text: "Hoo hoo! So you wish to hear\nabout the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blazing dragon
+    - text: blazing dragon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
@@ -2460,49 +2453,49 @@ entries:
         - 0
         - 4
         - 0
-    - ascii: "Well, you're in luck. A dragon was\nrecently spotted near "
+    - text: "Well, you're in luck. A dragon was\nrecently spotted near "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Tanagar Canyon
+    - text: Tanagar Canyon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "It's acting a bit odd, so we're concerned\nit may eventually cause trouble for\nour village.\n"
+    - text: "It's acting a bit odd, so we're concerned\nit may eventually cause trouble for\nour village.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "That is why I have asked the village\nguard, "
+    - text: "That is why I have asked the village\nguard, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Mazli
+    - text: Mazli
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", to keep a close eye\non the creature."
+    - text: ", to keep a close eye\non the creature."
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk16:
@@ -2511,8 +2504,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Was there anything else?
+    - text: ĀWas there anything else?
     - utf16_bytes:
         - 14
         - 1
@@ -2521,7 +2513,8 @@ entries:
         - 4
         - 28
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk17:
     - utf16_bytes:
@@ -2529,70 +2522,69 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: Hoo hoo...
+    - text: ІHoo hoo...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The historic "
+    - text: " The historic "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Diary of Revali
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nwas recently found at the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Flight Range
+    - text: Diary of Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nour Champion so adored.\n"
+    - text: "\nwas recently found at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Teba "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "took the diary to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: his home
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfor safekeeping."
+    - text: "\nour Champion so adored.\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Teba "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "took the diary to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: his home
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nfor safekeeping."
     - utf16_bytes:
         - 0
   Npc_HighMountain004_Talk19:
@@ -2601,27 +2593,26 @@ entries:
         - 3
         - 1
         - 2
-        - 5125
-    - ascii: Hoo?
+    - text: ᐅHoo?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Ah... Never mind. "
+    - text: " Ah... Never mind. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "My apologies.\n\n\n"
+    - text: "My apologies.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Did you need something from me?
+    - text: Did you need something from me?
     - utf16_bytes:
         - 14
         - 1
@@ -2630,70 +2621,71 @@ entries:
         - 4
         - 28
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0020":
-    - ascii: "Can't talk now."
+    - text: "Can't talk now."
     - utf16_bytes:
         - 0
   "0021":
-    - ascii: Tell me more!
+    - text: Tell me more!
     - utf16_bytes:
         - 0
   "0022":
-    - ascii: Maybe later.
+    - text: Maybe later.
     - utf16_bytes:
         - 0
   "0023":
-    - ascii: About Dinraal?
+    - text: About Dinraal?
     - utf16_bytes:
         - 0
   "0024":
-    - ascii: About Farosh?
+    - text: About Farosh?
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: What brings you here?
+    - text: What brings you here?
     - utf16_bytes:
         - 0
   "0025":
-    - ascii: About Naydra?
+    - text: About Naydra?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   "0026":
-    - ascii: Tell me other things.
+    - text: Tell me other things.
     - utf16_bytes:
         - 0
   "0027":
-    - ascii: "Let's talk dragons."
+    - text: "Let's talk dragons."
     - utf16_bytes:
         - 0
   "0028":
-    - ascii: The flame dragon?
+    - text: The flame dragon?
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Tell me about Revali.
+    - text: Tell me about Revali.
     - utf16_bytes:
         - 0
   "0029":
-    - ascii: Diary of Revali?
+    - text: Diary of Revali?
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Tell me something else.
+    - text: Tell me something else.
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Sword?
+    - text: Sword?
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk20:
@@ -2703,18 +2695,18 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Ah.
+    - text: Ah.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " So you're developing an interest\nin dragons too, I take it?"
+    - text: " So you're developing an interest\nin dragons too, I take it?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 23
         - 24
@@ -2723,7 +2715,7 @@ entries:
         - 768
         - 0
   "0008":
-    - ascii: Great Eagle Bow?
+    - text: Great Eagle Bow?
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk10:
@@ -2733,13 +2725,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Warrior...
+    - text: Warrior...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Might I trouble you to show\nTulin how you handle a bow?"
+    - text: " Might I trouble you to show\nTulin how you handle a bow?"
     - utf16_bytes:
         - 14
         - 1
@@ -2748,7 +2740,8 @@ entries:
         - 15
         - 17
         - 14
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk21:
     - utf16_bytes:
@@ -2762,67 +2755,67 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Dinraal "
+    - text: "Dinraal "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is the one I journeyed all the way\nto "
+    - text: "is the one I journeyed all the way\nto "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Tanagar Canyon "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to see.\n\nI hear it's been spotted near the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Eldin Mountains "
+    - text: "Tanagar Canyon "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "as well.\n\nThey say standing atop the massive fossil\ncalled the "
+    - text: "to see.\n\nI hear it's been spotted near the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Eldin Great Skeleton "
+    - text: "Eldin Mountains "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is the\nbest way to see it.\n"
+    - text: "as well.\n\nThey say standing atop the massive fossil\ncalled the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Eldin Great Skeleton "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "is the\nbest way to see it.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "Then again, I have no idea how much of\nwhat I just relayed is true..."
+    - text: "Then again, I have no idea how much of\nwhat I just relayed is true..."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Medoh?
+    - text: Medoh?
     - utf16_bytes:
         - 0
   Npc_HighMountain011_Talk22:
@@ -2832,62 +2825,62 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Farosh has been spotted at "
+    - text: "Farosh has been spotted at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lake Hylia
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nand "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lake Floria
+    - text: Lake Hylia
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nI hear you can get a breathtaking view\nof it "
+    - text: "\nand "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lake Floria
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nI hear you can get a breathtaking view\nof it "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "from dead center on the right\nside of the "
+    - text: "from dead center on the right\nside of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Bridge of Hylia
+    - text: Bridge of Hylia
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
-    - ascii: I would love to see such a sight.
+    - text: I would love to see such a sight.
     - utf16_bytes:
         - 0
   Npc_ValleyVillage010_Talk12:
@@ -2897,27 +2890,28 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Hm?
+    - text: Hm?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " What is it?"
+    - text: " What is it?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If I'm not mistaken,\nthere's something on your mind."
+    - text: " If I'm not mistaken,\nthere's something on your mind."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 30
         - 11
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0

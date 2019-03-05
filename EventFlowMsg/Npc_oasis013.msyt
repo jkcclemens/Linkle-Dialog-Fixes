@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Who would do something like that?\nI'll never forgive you!"
+    - text: "Who would do something like that?\nI'll never forgive you!"
     - utf16_bytes:
         - 0
   Npc_oasis013_004:
@@ -16,19 +16,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba."
+    - text: "촛Sav'saaba."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nToday was another busy day, so I think\nI'll go to bed soon."
+    - text: "\nToday was another busy day, so I think\nI'll go to bed soon."
     - utf16_bytes:
         - 0
   Npc_oasis013_017:
@@ -38,7 +38,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hey, you guys! Are you in love?"
+    - text: "Hey, you guys! Are you in love?"
     - utf16_bytes:
         - 0
   Npc_oasis013_018:
@@ -48,13 +48,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "When I'm all growed up, I will be!"
+    - text: "When I'm all growed up, I will be!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll go to Miss Ashai's class, and I'll\nbecome in love and I'll get married!"
+    - text: "\nI'll go to Miss Ashai's class, and I'll\nbecome in love and I'll get married!"
     - utf16_bytes:
         - 0
   Npc_oasis013_006:
@@ -64,7 +64,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I wonder how Dalia's crops are\ndoing..."
+    - text: "I wonder how Dalia's crops are\ndoing..."
     - utf16_bytes:
         - 0
   Npc_oasis013_019:
@@ -74,20 +74,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Mom says it's really strange that Miss\nAshai is unmarried but teaches her class\non voe."
+    - text: "Mom says it's really strange that Miss\nAshai is unmarried but teaches her class\non voe."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: I wonder what unmarried means...
+    - text: I wonder what unmarried means...
     - utf16_bytes:
         - 0
   Npc_oasis013_008:
@@ -97,46 +97,45 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Hey, lady!"
+    - text: "Hey, lady!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
+    - text: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: shock arrows
+    - text: shock arrows
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nIf you shoot them at something...\n\n"
+    - text: "!\nIf you shoot them at something...\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: BZZBZZT!!!
+    - text: ਇBZZBZZT!!!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -147,7 +146,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: dThey zap!
+    - text: dThey zap!
     - utf16_bytes:
         - 0
   Npc_oasis013_009:
@@ -157,44 +156,45 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Hey, lady!"
+    - text: "Hey, lady!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
+    - text: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fire arrows
+    - text: fire arrows
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nIf you shoot them at something...\n\n"
+    - text: "!\nIf you shoot them at something...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
+    - text: ਇ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}BOOSH!!!"
+    - text: "}BOOSH!!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -205,7 +205,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: dFlames everywhere!
+    - text: dFlames everywhere!
     - utf16_bytes:
         - 0
   Npc_oasis013_020:
@@ -214,8 +214,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I heard that being in love and being\nmarried is the sweetest thing in the\nworld!\nBut I really like berries, and those\nare really sweet. I don't know if I can\nhandle something sweeter than that!"
+    - text: "इI heard that being in love and being\nmarried is the sweetest thing in the\nworld!\nBut I really like berries, and those\nare really sweet. I don't know if I can\nhandle something sweeter than that!"
     - utf16_bytes:
         - 0
   Npc_oasis013_021:
@@ -225,13 +224,13 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: Whoa...
+    - text: Whoa...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThat's a really big vure..."
+    - text: "\nThat's a really big vure..."
     - utf16_bytes:
         - 0
   Npc_oasis013_022:
@@ -241,13 +240,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "You're a good person, right, lady?"
+    - text: "You're a good person, right, lady?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nMy vaba always says that people who\nspend lots of money are good people!"
+    - text: "\nMy vaba always says that people who\nspend lots of money are good people!"
     - utf16_bytes:
         - 0
   Npc_oasis013_010:
@@ -256,7 +255,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
@@ -267,44 +266,45 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dHey, lady!"
+    - text: "dHey, lady!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
+    - text: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: ice arrows
+    - text: ice arrows
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nIf you shoot them at something...\n\n"
+    - text: "!\nIf you shoot them at something...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
+    - text: ਇ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}CRAAAAACK!!!"
+    - text: "}CRAAAAACK!!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -315,7 +315,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: dFrozen solid!
+    - text: dFrozen solid!
     - utf16_bytes:
         - 0
   Talk_01:
@@ -324,25 +324,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "Ċ...Wait, I don't have time to hang around\nhere greeting people like this!\n\nI've got to hurry and go help out!"
+    - text: "Ċ...Wait, I don't have time to hang around\nhere greeting people like this!\n\nI've got to hurry and go help out!"
     - utf16_bytes:
         - 0
   Npc_oasis013_011:
@@ -352,7 +352,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Have you heard about Dalia's crops?"
+    - text: "Have you heard about Dalia's crops?"
     - utf16_bytes:
         - 0
   Talk_02:
@@ -361,13 +361,13 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!"
+    - text: "촚Sav'aaq!"
     - utf16_bytes:
         - 14
         - 5
@@ -380,7 +380,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tDalia... She won't stop crying..."
+        - 9
+    - text: "Dalia... She won't stop crying..."
     - utf16_bytes:
         - 0
   Talk_03:
@@ -389,13 +390,13 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 0
   Npc_oasis013_013:
@@ -405,7 +406,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Where is everyone?
+    - text: Where is everyone?
     - utf16_bytes:
         - 0
   Talk_04:
@@ -414,13 +415,13 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52508
-    - ascii: Vasaaq!
+    - text: 촜Vasaaq!
     - utf16_bytes:
         - 0
   Npc_oasis013_001:
@@ -429,30 +430,31 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
+    - text: ℀
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PVasaaq.
+    - text: PVasaaq.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBuy a lot"
+    - text: "\nBuy a lot"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "...OK?"
+    - text: "...OK?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_oasis013_014:
@@ -462,7 +464,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: I wanna eat a lot of fruit!
+    - text: I wanna eat a lot of fruit!
     - utf16_bytes:
         - 0
   Talk_05:
@@ -471,7 +473,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "Ċ...Wait, I don't have time to hang around\nhere greeting people like this!\n\nI've got to hurry up and meet the others!"
+    - text: "Ċ...Wait, I don't have time to hang around\nhere greeting people like this!\n\nI've got to hurry up and meet the others!"
     - utf16_bytes:
         - 0
   Npc_oasis013_015:
@@ -481,7 +483,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Let's go help everyone next time!"
+    - text: "Let's go help everyone next time!"
     - utf16_bytes:
         - 0
   Npc_oasis013_002:
@@ -491,62 +493,63 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Hey, lady!"
+    - text: "Hey, lady!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
+    - text: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bomb arrows
+    - text: bomb arrows
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIf you shoot them at something...\n\n"
+    - text: "\nIf you shoot them at something...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}BOOOOOM!!!"
+    - text: ਇ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}BOOOOOM!!!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
@@ -557,7 +560,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dIt's amazing!"
+    - text: "dIt's amazing!"
     - utf16_bytes:
         - 0
   Talk_06:
@@ -566,6 +569,6 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĊWait... I don't have time to hang around\nhere greeting people like this!\n\nIf I don't hurry, the vure will go away!"
+    - text: "ĊWait... I don't have time to hang around\nhere greeting people like this!\n\nIf I don't hurry, the vure will go away!"
     - utf16_bytes:
         - 0

@@ -6,20 +6,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tYou don't want to sell them to me?"
+        - 9
+    - text: "You don't want to sell them to me?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat's too bad...\n\n"
+    - text: "\nThat's too bad...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you change your mind, come on back."
+    - text: "If you change your mind, come on back."
     - utf16_bytes:
         - 0
   NewText_01:
@@ -28,8 +29,7 @@ entries:
         - 3
         - 1
         - 2
-        - 8195
-    - ascii: Whew... Another scorcher.
+    - text:  Whew... Another scorcher.
     - utf16_bytes:
         - 0
   NewText_02:
@@ -38,20 +38,19 @@ entries:
         - 3
         - 1
         - 2
-        - 8195
-    - ascii: Good evening...
+    - text:  Good evening...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It stays hot around here,\neven at night.\n\nI've got to hand it to those Gorons."
+    - text: " It stays hot around here,\neven at night.\n\nI've got to hand it to those Gorons."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nEating hot soup in this heat..."
+    - text: "\nEating hot soup in this heat..."
     - utf16_bytes:
         - 0
   NewText_04:
@@ -60,8 +59,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "Ah, hey."
+    - text: "ЇAh, hey."
     - utf16_bytes:
         - 0
   NewText_10:
@@ -70,96 +68,95 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I'll pay you "
+    - text: "āI'll pay you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "20 rupees "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "for every "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: three
+    - text: "20 rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\n"
+    - text: "for every "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: fireproof lizards
-    - utf16_bytes:
-        - 14
         - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " you bring me.\nYou can never have too many.\nIf you mix "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "fireproof lizards "
+    - text: three
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "with\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: monster parts
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", you can make\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: fireproof elixir
+    - text: fireproof lizards
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " you bring me.\nYou can never have too many.\nIf you mix "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "fireproof lizards "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "with\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: monster parts
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you can make\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: fireproof elixir
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   Near_00:
-    - ascii: "Nothin'..."
+    - text: "Nothin'..."
     - utf16_bytes:
         - 0
   NewText_05:
@@ -169,21 +166,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Have you caught any more\n"
+    - text: "Have you caught any more\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof lizards
+    - text: fireproof lizards
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   NewText_11:
@@ -192,50 +189,49 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I'll pay you "
+    - text: "āI'll pay you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "20 rupees "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "for every "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: three
+    - text: "20 rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\n"
+    - text: "for every "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: fireproof lizards
+        - 0
+    - text: three
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " you bring me.\nYou can never have too many."
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: fireproof lizards
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " you bring me.\nYou can never have too many."
     - utf16_bytes:
         - 0
   NewText_06:
@@ -245,21 +241,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "...One...two..."
+    - text: "...One...two..."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "three "
+    - text: "three "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof lizards
+    - text: fireproof lizards
     - utf16_bytes:
         - 14
         - 0
@@ -271,54 +267,53 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nVery nice.\n\n"
+    - text: "\nVery nice.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I'll buy these "
+    - text: "āI'll buy these "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: three
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " for "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 20 rupees
+    - text: three
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nDo we have a deal?"
+    - text: "\nDo we have a deal?"
     - utf16_bytes:
         - 14
         - 1
@@ -326,18 +321,19 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Sure.
+    - text: Sure.
     - utf16_bytes:
         - 0
   Near_02:
-    - ascii: "Heeeere, li'l lizards..."
+    - text: "Heeeere, li'l lizards..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "They're not for sale."
+    - text: "They're not for sale."
     - utf16_bytes:
         - 0
   NewText_07:
@@ -347,45 +343,45 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you manage to catch "
+    - text: "If you manage to catch "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: three
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: fireproof lizards
+    - text: three
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: fireproof lizards
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " bring 'em on by."
+    - text: " bring 'em on by."
     - utf16_bytes:
         - 0
   Near_03:
-    - ascii: Phew...
+    - text: Phew...
     - utf16_bytes:
         - 0
   NewText_08:
@@ -395,12 +391,12 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Thank you!
+    - text: Thank you!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAnd here you go..."
+    - text: "\nAnd here you go..."
     - utf16_bytes:
         - 0

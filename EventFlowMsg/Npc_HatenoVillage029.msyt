@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I thought you were one of the boys\nplaying spies...\n\nBut you've got to listen to this anyway!"
+    - text: "ĀI thought you were one of the boys\nplaying spies...\n\nBut you've got to listen to this anyway!"
     - utf16_bytes:
         - 0
   talk05:
@@ -17,65 +16,66 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There's a "
+    - text: "There's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: girl
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " staying up at the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hateno Ancient Tech Lab
+    - text: girl
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nI saw her come outside! She was right\nover there! It's true!\n\n"
+    - text: " staying up at the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hateno Ancient Tech Lab
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\n\nI saw her come outside! She was right\nover there! It's true!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut when I tried to tell a grown-up about\nit,"
+        - 9
+    - text: "But when I tried to tell a grown-up about\nit,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " they said the only people who've lived\nthere are an old man and old woman...\nShe was a "
+    - text: " they said the only people who've lived\nthere are an old man and old woman...\nShe was a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Sheikah girl
+    - text: Sheikah girl
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I swear!\n\n\nNo one ever listens to kids..."
+    - text: ", I swear!\n\n\nNo one ever listens to kids..."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Wow...
+    - text: Wow...
     - utf16_bytes:
         - 0
   talk06:
@@ -84,12 +84,11 @@ entries:
         - 3
         - 1
         - 2
-        - 8707
-    - ascii: "I'm getting sleepy..."
+    - text: "∃I'm getting sleepy..."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Pretty...
+    - text: Pretty...
     - utf16_bytes:
         - 0
   talk07:
@@ -98,16 +97,12 @@ entries:
         - 3
         - 1
         - 2
-        - 8707
-    - ascii: See you tomorrow...
+    - text: ∃See you tomorrow...
     - utf16_bytes:
         - 0
   near02:
+    - text: ♪La la la!♪
     - utf16_bytes:
-        - 9834
-    - ascii: La la la!
-    - utf16_bytes:
-        - 9834
         - 0
   talk08:
     - utf16_bytes:
@@ -120,45 +115,45 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "PThere's a "
+    - text: "PThere's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: girl
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " in the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hateno Ancient Tech Lab
+    - text: girl
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " in the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hateno Ancient Tech Lab
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   near03:
-    - ascii: "*sigh*"
+    - text: "*sigh*"
     - utf16_bytes:
         - 0
   talk09:
@@ -167,28 +162,28 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   near04:
-    - ascii: Zzz... Zzz...
+    - text: Zzz... Zzz...
     - utf16_bytes:
         - 0
   near05:
-    - ascii: Hyah!
+    - text: Hyah!
     - utf16_bytes:
         - 0
   talk00:
@@ -198,46 +193,45 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "I've heard so much about that "
+    - text: "I've heard so much about that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: girl
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " up at\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hateno Ancient Tech Lab
+    - text: girl
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: " up at\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hateno Ancient Tech Lab
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The boys playing spies are looking out\nfor her, but I don't think she has shown\nup here yet..."
+    - text: "ĀThe boys playing spies are looking out\nfor her, but I don't think she has shown\nup here yet..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Who did you see?
+    - text: Who did you see?
     - utf16_bytes:
         - 0
   talk01:
@@ -247,17 +241,17 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "Hey, hey! "
+    - text: "Hey, hey! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Where can I get that blue\nthing you got there?"
+    - text: "Where can I get that blue\nthing you got there?"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: You talking to me?
+    - text: You talking to me?
     - utf16_bytes:
         - 0
   talk02:
@@ -267,13 +261,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Wow... "
+    - text: "Wow... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Seeing it up close...it almost\nlooks like you're holding a star..."
+    - text: "Seeing it up close...it almost\nlooks like you're holding a star..."
     - utf16_bytes:
         - 0
   talk03:
@@ -283,13 +277,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "It's true! I really saw her!\n\n\nOh...oops.\n\n\n"
+    - text: "It's true! I really saw her!\n\n\nOh...oops.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nHeheh...sorry!"
+    - text: "\nHeheh...sorry!"
     - utf16_bytes:
         - 14
         - 1
@@ -297,5 +291,6 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

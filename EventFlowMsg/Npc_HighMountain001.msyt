@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: Good day!
+    - text: ȇGood day!
     - utf16_bytes:
         - 14
         - 1
@@ -16,7 +15,8 @@ entries:
         - 1
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_14:
     - utf16_bytes:
@@ -25,48 +25,48 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That place over there with the flag is the\n"
+    - text: "That place over there with the flag is the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n"
+    - text: "!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "I hope "
+    - text: "I hope "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dad
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " comes back soon!"
+    - text: " comes back soon!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI want to go play there!"
+    - text: "\nI want to go play there!"
     - utf16_bytes:
         - 0
   Talk_02:
@@ -75,8 +75,7 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: Evening!
+    - text: ȇEvening!
     - utf16_bytes:
         - 14
         - 1
@@ -85,7 +84,8 @@ entries:
         - 2
         - 0
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_03:
     - utf16_bytes:
@@ -94,21 +94,21 @@ entries:
         - 1
         - 2
         - 2560
-    - ascii: "Good response!\n\n\n\"Great kids are great greeters.\"\nThat's what my "
+    - text: "Good response!\n\n\n\"Great kids are great greeters.\"\nThat's what my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dad
+    - text: dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " always says!"
+    - text: " always says!"
     - utf16_bytes:
         - 0
   Talk_16:
@@ -118,7 +118,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "But he says he's gotten a lot better, so\nhe'll be able to take me flying again\nsoon!"
+    - text: "But he says he's gotten a lot better, so\nhe'll be able to take me flying again\nsoon!"
     - utf16_bytes:
         - 0
   Talk_04:
@@ -127,14 +127,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "What? "
+    - text: "ᐄWhat? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That's a weird way to greet\nsomeone!"
+    - text: "That's a weird way to greet\nsomeone!"
     - utf16_bytes:
         - 0
   Talk_17:
@@ -144,35 +143,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It sounds like "
+    - text: "It sounds like "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dad
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "'s feeling a lot better!\n\n\nHe says he'll be able to take me to the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Flight Range
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " soon!"
+    - text: "'s feeling a lot better!\n\n\nHe says he'll be able to take me to the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Flight Range
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " soon!"
     - utf16_bytes:
         - 0
   Talk_05:
@@ -181,14 +180,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Yo! "
+    - text: "ȀYo! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's you!"
+    - text: "It's you!"
     - utf16_bytes:
         - 0
   Talk_18:
@@ -197,34 +195,35 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Dad "
+    - text: "Dad "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "promised he'd play with me at the\n"
+    - text: "promised he'd play with me at the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Flight Range "
+    - text: "Flight Range "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: when he gets back!
+    - text: when he gets back!
     - utf16_bytes:
         - 14
         - 1
@@ -232,7 +231,8 @@ entries:
         - 6
         - 7
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_06:
     - utf16_bytes:
@@ -240,14 +240,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Yo! "
+    - text: "ȀYo! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's the weird-greeting girl!"
+    - text: "It's the weird-greeting girl!"
     - utf16_bytes:
         - 0
   Talk_19:
@@ -256,27 +255,27 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Dad "
+    - text: "Dad "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "finally came back from work!\n\n\n"
+    - text: "finally came back from work!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
-    - ascii: But it sounds like he got hurt...
+    - text: ăBut it sounds like he got hurt...
     - utf16_bytes:
         - 0
   Talk_07:
@@ -286,7 +285,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "It's really fun!"
+    - text: "It's really fun!"
     - utf16_bytes:
         - 0
   Talk_08:
@@ -295,8 +294,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh, listen to this! "
+    - text: "ĀOh, listen to this! "
     - utf16_bytes:
         - 14
         - 5
@@ -307,14 +305,14 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Dad
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " promised he'd\nplay with me later!"
+    - text: " promised he'd\nplay with me later!"
     - utf16_bytes:
         - 14
         - 1
@@ -322,34 +320,35 @@ entries:
         - 6
         - 5
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Morning!
+    - text: Morning!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "G'day!"
+    - text: "G'day!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Evening!
+    - text: Evening!
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Cool!
+    - text: Cool!
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Whoa.
+    - text: Whoa.
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Flight Range?
+    - text: Flight Range?
     - utf16_bytes:
         - 0
   Talk_20:
@@ -358,39 +357,28 @@ entries:
         - 3
         - 1
         - 2
-        - 6657
-        - 9834
-    - ascii: Soon soon!
+    - text: "ᨁ♪Soon soon!♪ \n♪Soon soon!♪"
     - utf16_bytes:
-        - 9834
-    - ascii: " \n"
-    - utf16_bytes:
-        - 9834
-    - ascii: Soon soon!
-    - utf16_bytes:
-        - 9834
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n♪"
     - utf16_bytes:
-        - 9834
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dad
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s coming back sooooooooooon!"
+    - text: "'s coming back sooooooooooon!♪"
     - utf16_bytes:
-        - 9834
         - 0
   Talk_21:
     - utf16_bytes:
@@ -398,23 +386,20 @@ entries:
         - 3
         - 1
         - 2
-        - 6657
-        - 9834
-    - ascii: La lala
+    - text: ᨁ♪La lala
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " hmm "
+    - text: " hmm "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: hmmmmmm...
+    - text: hmmmmmm...♪
     - utf16_bytes:
-        - 9834
         - 0
   Talk_22:
     - utf16_bytes:
@@ -422,8 +407,7 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: Come back later and play with me!
+    - text: āCome back later and play with me!
     - utf16_bytes:
         - 0
   Talk_10:
@@ -432,28 +416,27 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Zzz...
+    - text: ℀Zzz...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dad
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   Talk_23:
@@ -463,13 +446,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Really, Dad?!"
+    - text: "Really, Dad?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " YAAAAAAAAAY!"
+    - text: " YAAAAAAAAAY!"
     - utf16_bytes:
         - 0
   Talk_11:
@@ -478,13 +461,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ∉*yawn*
+    - text: ∉*yawn*
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nNight night..."
+    - text: "\nNight night..."
     - utf16_bytes:
         - 0
   Talk_24:
@@ -494,27 +477,27 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hey, girl!"
+    - text: "Hey, girl!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCome play with us at the "
+    - text: "\nCome play with us at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Flight Range "
+    - text: "Flight Range "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nsometime!"
+    - text: "\nsometime!"
     - utf16_bytes:
         - 0
   Talk_12:
@@ -523,21 +506,20 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Totally! "
+    - text: "āTotally! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Spread your wings at the\n"
+    - text: "Spread your wings at the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
@@ -548,13 +530,13 @@ entries:
         - 5
         - 1
         - 0
-    - ascii: " and it's like...FWOOSH! "
+    - text: " and it's like...FWOOSH! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou go flying way high!"
+    - text: "\nYou go flying way high!"
     - utf16_bytes:
         - 14
         - 1
@@ -562,7 +544,8 @@ entries:
         - 6
         - 7
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_00:
     - utf16_bytes:
@@ -570,8 +553,7 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: Morning!
+    - text: ȇMorning!
     - utf16_bytes:
         - 14
         - 1
@@ -580,7 +562,8 @@ entries:
         - 0
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_13:
     - utf16_bytes:
@@ -588,12 +571,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhoa! Where are your clothes?! "
+    - text: "\nWhoa! Where are your clothes?! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nMOM!"
+    - text: "\nMOM!"
     - utf16_bytes:
         - 0

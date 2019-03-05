@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "I've got an early mornin' again tomorrow,\nso I'm gonna just head home now..."
+    - text: "I've got an early mornin' again tomorrow,\nso I'm gonna just head home now..."
     - utf16_bytes:
         - 0
   talk08:
@@ -16,20 +16,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "*mumble*..."
+    - text: "*mumble*..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk09:
@@ -38,28 +38,28 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Zzz... Zzz...
+    - text: Zzz... Zzz...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk20:
@@ -68,13 +68,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "And now how could an old lady like me\nhelp you out there?"
+    - text: "ĀAnd now how could an old lady like me\nhelp you out there?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
@@ -83,7 +82,7 @@ entries:
         - 768
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk21:
@@ -93,61 +92,60 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Calamity
+    - text: Calamity
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", yes...\n\n\nI didn't come along until everything was\nalready over..."
+    - text: ", yes...\n\n\nI didn't come along until everything was\nalready over..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I was born during the\nAge of Burning Fields.\n"
+    - text: " I was born during the\nAge of Burning Fields.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "By the time I was old enough to be aware\nof it, the plants around Hateno Village\nwere budding..."
+    - text: "ĀBy the time I was old enough to be aware\nof it, the plants around Hateno Village\nwere budding..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " We were self-sufficient.\nEven so, "
+    - text: " We were self-sufficient.\nEven so, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Castle
+    - text: Hyrule Castle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and the "
+    - text: " and the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Castle\nTown"
+    - text: "Castle\nTown"
     - utf16_bytes:
         - 14
         - 0
@@ -158,25 +156,25 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " remain a home ground for the\nforces of the "
+    - text: " remain a home ground for the\nforces of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Calamity
+    - text: Calamity
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to this very day...\nThose who are older than I might know\nmore about it..."
+    - text: " to this very day...\nThose who are older than I might know\nmore about it..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Peaceful?
+    - text: Peaceful?
     - utf16_bytes:
         - 0
   talk22:
@@ -190,15 +188,14 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Hyrule Castle "
+    - text: "ကHyrule Castle "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "was the governing center\nof Hyrule, home to the king and the\nbeautiful princess.\nBrave souls from nearby villages would\nall set their sights there, do great deeds,\nand return home draped in glory.\n"
+    - text: "was the governing center\nof Hyrule, home to the king and the\nbeautiful princess.\nBrave souls from nearby villages would\nall set their sights there, do great deeds,\nand return home draped in glory.\n"
     - utf16_bytes:
         - 14
         - 0
@@ -210,38 +207,38 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: Hyrule Castle
+    - text: Hyrule Castle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", once strong and proud,\nwas corrupted by the "
+    - text: ", once strong and proud,\nwas corrupted by the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Calamity
+    - text: Calamity
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and it's\nstill in that state today."
+    - text: "and it's\nstill in that state today."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: The Calamity?
+    - text: The Calamity?
     - utf16_bytes:
         - 0
   talk23:
@@ -250,22 +247,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "They say that "
+    - text: "ĀThey say that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Castle Town
+    - text: Castle Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was once a\ncenter both for commerce and\nknowledge. "
+    - text: " was once a\ncenter both for commerce and\nknowledge. "
     - utf16_bytes:
         - 14
         - 5
@@ -276,39 +272,39 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "That reminds me...\nDo you have a "
+    - text: "That reminds me...\nDo you have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: map
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "?\n\n\nYou should be able to see the ruins of\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Castle Town "
+    - text: map
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in the center of your map.\n\nJust looking at those ruins now...it really\ngives you an idea of the destruction\nthat went on there."
+    - text: "?\n\n\nYou should be able to see the ruins of\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Castle Town "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "in the center of your map.\n\nJust looking at those ruins now...it really\ngives you an idea of the destruction\nthat went on there."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Hyrule Castle?
+    - text: Hyrule Castle?
     - utf16_bytes:
         - 0
   talk11:
@@ -317,8 +313,7 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: Are you some sorta traveler?
+    - text: ąAre you some sorta traveler?
     - utf16_bytes:
         - 14
         - 1
@@ -327,7 +322,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk24:
     - utf16_bytes:
@@ -336,39 +332,39 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "Oh, how unusual.\n\n\nThat "
+    - text: "Oh, how unusual.\n\n\nThat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "blue flame "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "undoubtedly belongs to\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Director
+    - text: "blue flame "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "undoubtedly belongs to\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Director
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Castle Town?
+    - text: Castle Town?
     - utf16_bytes:
         - 0
   talk12:
@@ -378,7 +374,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, good-bye."
+    - text: "Yes, good-bye."
     - utf16_bytes:
         - 0
   talk25:
@@ -388,37 +384,37 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "...Which reminds me,"
+    - text: "...Which reminds me,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I haven't seen the\n"
+    - text: " I haven't seen the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "director "
+    - text: "director "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "around here lately. "
+    - text: "around here lately. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I hope\neverything's all right..."
+    - text: "I hope\neverything's all right..."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Er...
+    - text: Er...
     - utf16_bytes:
         - 0
   talk00:
@@ -428,14 +424,14 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "Oh, my, how unusual...\n\n\nI thought that "
+    - text: "Oh, my, how unusual...\n\n\nI thought that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
@@ -446,7 +442,7 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " was only ever\nwielded by Purah..."
+    - text: " was only ever\nwielded by Purah..."
     - utf16_bytes:
         - 0
   talk13:
@@ -455,14 +451,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Oh...
+    - text: ЀOh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You must have moved here pretty\nrecently then, hm?"
+    - text: " You must have moved here pretty\nrecently then, hm?"
     - utf16_bytes:
         - 0
   talk26:
@@ -471,8 +466,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Unfortunate weather we're having today,\nisn't it?"
+    - text: "ĀUnfortunate weather we're having today,\nisn't it?"
     - utf16_bytes:
         - 0
   talk01:
@@ -481,14 +475,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "...Which reminds me, "
+    - text: "ဋ...Which reminds me, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I haven't seen\nPurah around here lately.\n\nI hope she's all right..."
+    - text: "I haven't seen\nPurah around here lately.\n\nI hope she's all right..."
     - utf16_bytes:
         - 0
   talk14:
@@ -497,8 +490,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Well, I'll be..."
+    - text: "ЁWell, I'll be..."
     - utf16_bytes:
         - 0
   talk27:
@@ -508,21 +500,22 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Huh? "
+    - text: "Huh? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: You need that?
+    - text: You need that?
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 7
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk02:
     - utf16_bytes:
@@ -531,7 +524,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, good mornin' indeed."
+    - text: "Yes, good mornin' indeed."
     - utf16_bytes:
         - 0
   talk15:
@@ -540,8 +533,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The village has grown to be quite a lively\nplace. I suppose that's on account of\nthings bein' so peaceful in general. "
+    - text: "ĀThe village has grown to be quite a lively\nplace. I suppose that's on account of\nthings bein' so peaceful in general. "
     - utf16_bytes:
         - 14
         - 1
@@ -549,7 +541,8 @@ entries:
         - 6
         - 3
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk28:
     - utf16_bytes:
@@ -558,13 +551,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Take it.
+    - text: Take it.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I'll explain to the villagers.\nYou eat your fill."
+    - text: " I'll explain to the villagers.\nYou eat your fill."
     - utf16_bytes:
         - 0
   talk03:
@@ -574,7 +567,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, good day, indeed."
+    - text: "Yes, good day, indeed."
     - utf16_bytes:
         - 0
   talk16:
@@ -584,7 +577,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, dear. You must be in a hurry..."
+    - text: "Oh, dear. You must be in a hurry..."
     - utf16_bytes:
         - 0
   talk29:
@@ -593,13 +586,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Did you wanna hear about anything else?
+    - text: ĀDid you wanna hear about anything else?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
@@ -614,7 +606,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, good evenin', indeed."
+    - text: "Yes, good evenin', indeed."
     - utf16_bytes:
         - 0
   talk17:
@@ -624,73 +616,73 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "Oh, yes... "
+    - text: "Oh, yes... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "When I was a child, this\nwhole region wasn't in a state fit to be\nsown, much less harvested.\n"
+    - text: "When I was a child, this\nwhole region wasn't in a state fit to be\nsown, much less harvested.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
+    - text: ă
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Castle
+    - text: Hyrule Castle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and "
+    - text: " and "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Castle Town "
+    - text: "Castle Town "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "had\nbeen destroyed, and all the lovely folks\nthere fell victim to...\n"
+    - text: "had\nbeen destroyed, and all the lovely folks\nthere fell victim to...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Well...
+    - text: ĀWell...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "back in bygone days, we called it\nthe "
+    - text: "back in bygone days, we called it\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Calamity
+    - text: Calamity
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nBut words often fall meaningless when\nwe try to describe tragic events of\na certain magnitude..."
+    - text: ".\n\nBut words often fall meaningless when\nwe try to describe tragic events of\na certain magnitude..."
     - utf16_bytes:
         - 0
   talk05:
@@ -699,14 +691,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Now then... "
+    - text: "ЀNow then... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I suppose I should start\ngetting ready for bed."
+    - text: "I suppose I should start\ngetting ready for bed."
     - utf16_bytes:
         - 0
   talk18:
@@ -716,7 +707,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, yes, you are a traveler, are you not?"
+    - text: "Yes, yes, you are a traveler, are you not?"
     - utf16_bytes:
         - 14
         - 1
@@ -725,7 +716,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk06:
     - utf16_bytes:
@@ -734,7 +726,7 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "It's time for everyone to head home."
+    - text: "It's time for everyone to head home."
     - utf16_bytes:
         - 0
   talk19:
@@ -744,6 +736,6 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, yes..."
+    - text: "Yes, yes..."
     - utf16_bytes:
         - 0

@@ -7,19 +7,19 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Oh, hey, traveler... "
+    - text: "Oh, hey, traveler... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "What's going on?"
+    - text: "What's going on?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nAre you lost?"
+    - text: "\nAre you lost?"
     - utf16_bytes:
         - 0
   talk15:
@@ -29,12 +29,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You looking for anything else?
+    - text: You looking for anything else?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -43,7 +43,7 @@ entries:
         - 768
         - 0
   near00:
-    - ascii: Zzzmph... Zzzrrk...
+    - text: Zzzmph... Zzzrrk...
     - utf16_bytes:
         - 0
   talk16:
@@ -53,17 +53,17 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "I don't mind "
+    - text: "I don't mind "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "that old woman, Purah."
+    - text: "that old woman, Purah."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: I should sleep...
+    - text: I should sleep...
     - utf16_bytes:
         - 0
   talk04:
@@ -72,14 +72,13 @@ entries:
         - 3
         - 1
         - 2
-        - 11524
-    - ascii: "You're good, then? "
+    - text: "ⴄYou're good, then? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "All right, whatever."
+    - text: "All right, whatever."
     - utf16_bytes:
         - 0
   talk17:
@@ -89,31 +88,31 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "I don't mind "
+    - text: "I don't mind "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "the "
+    - text: "the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "director "
+    - text: "director "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: there.
+    - text: there.
     - utf16_bytes:
         - 0
   near02:
-    - ascii: So...
+    - text: So...
     - utf16_bytes:
         - 0
   talk05:
@@ -122,13 +121,12 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Where are you looking to go?
+    - text: ĆWhere are you looking to go?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -142,21 +140,18 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Whatever that \"research\" is that they're\ndoing,"
+    - text: "ĀWhatever that \"research\" is that they're\ndoing,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm sure its ultimate goal is to\nhelp the people of the world."
+    - text: " I'm sure its ultimate goal is to\nhelp the people of the world."
     - utf16_bytes:
         - 0
   near03:
+    - text: ♪♪♪
     - utf16_bytes:
-        - 9834
-        - 9834
-        - 9834
         - 0
   talk06:
     - utf16_bytes:
@@ -165,13 +160,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Hrm? "
+    - text: "Hrm? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: You look troubled.
+    - text: You look troubled.
     - utf16_bytes:
         - 0
   talk19:
@@ -181,27 +176,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hurry and go deliver that "
+    - text: "Hurry and go deliver that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt's gonna be used for whatever that\n\"research\" is, I'm sure."
+    - text: "\nIt's gonna be used for whatever that\n\"research\" is, I'm sure."
     - utf16_bytes:
         - 0
   talk08:
@@ -210,20 +205,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Well, "
+    - text: "ЀWell, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm going to go crash."
+    - text: "I'm going to go crash."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSee you tomorrow."
+    - text: "\nSee you tomorrow."
     - utf16_bytes:
         - 0
   talk09:
@@ -233,21 +227,21 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "I worked myself to the bone today, but..."
+    - text: "I worked myself to the bone today, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm sure the effort will all add up to a \ngreat harvest."
+    - text: "\nI'm sure the effort will all add up to a \ngreat harvest."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: A strange place.
+    - text: A strange place.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: A very strange place.
+    - text: A very strange place.
     - utf16_bytes:
         - 0
   talk10:
@@ -256,12 +250,11 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Zzzrph...
+    - text: ℀Zzzrph...
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: A place to rest.
+    - text: A place to rest.
     - utf16_bytes:
         - 0
   talk11:
@@ -270,12 +263,11 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Zzzrrrmmmzzz...
+    - text: ℀Zzzrrrmmmzzz...
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Never mind...
+    - text: Never mind...
     - utf16_bytes:
         - 0
   talk12:
@@ -284,65 +276,63 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "A strange place, huh... "
+    - text: "؋A strange place, huh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That could mean\na lot of... Oh, wait! Are you talking about\nour resident Mr. Toothy?"
+    - text: "That could mean\na lot of... Oh, wait! Are you talking about\nour resident Mr. Toothy?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI mean, "
+    - text: "\nI mean, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "his shop's not called that."
+    - text: "his shop's not called that."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI think only I call him that. "
+    - text: "\nI think only I call him that. "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "He runs the \n"
+    - text: "ĆHe runs the \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "dye shop "
+    - text: "dye shop "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: near the bridge. He is WEIRD.
+    - text: near the bridge. He is WEIRD.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYeah, his real name is Sayge, and he's\ndefinitely a master of dyeing clothes, but"
+    - text: "\nYeah, his real name is Sayge, and he's\ndefinitely a master of dyeing clothes, but"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nhe's also a master of weirding me out."
+    - text: "\nhe's also a master of weirding me out."
     - utf16_bytes:
         - 0
   talk00:
@@ -351,48 +341,47 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: "Hey, "
+    - text: "ጆHey, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "that "
+    - text: "that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Isn't that from the\n"
+    - text: " Isn't that from the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: research lab
+    - text: research lab
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   talk13:
@@ -402,79 +391,79 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Oh, a very strange place, huh? "
+    - text: "Oh, a very strange place, huh? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nOnly one place you could mean.\n\nThe easternmost structure in this village,"
+    - text: "\nOnly one place you could mean.\n\nThe easternmost structure in this village,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nat the top of the hill..."
+    - text: "\nat the top of the hill..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Yup, you mean the\n"
+    - text: " Yup, you mean the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hateno Ancient Tech Lab
+    - text: Hateno Ancient Tech Lab
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", right?\nIts "
+    - text: ", right?\nIts "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "director "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "does \"research\" there every\nday, supposedly to help keep us all safe,\nbut who knows what THAT means!"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "\nThat "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "director "
+    - text: "director "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "doesn't like kids all that\nmuch,"
+    - text: "does \"research\" there every\nday, supposedly to help keep us all safe,\nbut who knows what THAT means!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so I hear the village tykes get\ncurious and snoop around a lot..."
+    - text: "\nThat "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "director "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "doesn't like kids all that\nmuch,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " so I hear the village tykes get\ncurious and snoop around a lot..."
     - utf16_bytes:
         - 0
   talk14:
@@ -483,82 +472,77 @@ entries:
         - 3
         - 1
         - 2
-        - 4102
-    - ascii: "If you want somewhere to rest, the "
+    - text: "ဆIf you want somewhere to rest, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: inn
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nis the usual choice for travelers..."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 256
-    - ascii: But maybe you mean...
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "the model houses\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: behind the general store
+    - text: inn
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "\nis the usual choice for travelers..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nBolson Construction"
+    - text: "\n\n"
     - utf16_bytes:
-        - 8212
-    - ascii: "yeah, they put \nthose up. Nice beds, OK furniture..."
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ĀBut maybe you mean...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "the model houses\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: behind the general store
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n"
+    - text: "\n\nBolson Construction—yeah, they put \nthose up. Nice beds, OK furniture..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2304
-    - ascii: "They've got that brand-new house smell."
+    - text: "They've got that brand-new house smell."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWouldn't mind sleeping in that smell\njust once."
+    - text: "\nWouldn't mind sleeping in that smell\njust once."
     - utf16_bytes:
         - 0

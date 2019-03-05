@@ -6,13 +6,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tGosh..."
+        - 9
+    - text: Gosh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Being eaten was about the last\nthing I wanted to spend my day doing!"
+    - text: " Being eaten was about the last\nthing I wanted to spend my day doing!"
     - utf16_bytes:
         - 0
   Com_Talk_00:
@@ -21,8 +22,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Whatcha got?
+    - text: 촂Whatcha got?
     - utf16_bytes:
         - 0
   MSG_Futa_04_1:
@@ -31,18 +31,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Hey. Hey, buddy."
+    - text: "ЁHey. Hey, buddy."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You wanna buy\nsome meat?"
+    - text: " You wanna buy\nsome meat?"
     - utf16_bytes:
         - 0
   Com_Talk_01:
-    - ascii: "I'll give you "
+    - text: "I'll give you "
     - utf16_bytes:
         - 14
         - 0
@@ -52,28 +51,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Sound good?"
+    - text: ". Sound good?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02:
     - utf16_bytes:
@@ -81,7 +79,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Great! You wanna sell anything else?
+    - text: 촉Great! You wanna sell anything else?
     - utf16_bytes:
         - 0
   Com_Talk_04:
@@ -90,24 +88,21 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Well, that's a shame."
+    - text: "촎Well, that's a shame."
     - utf16_bytes:
         - 0
   Com_Talk_10:
-    - ascii: Everything look good to you?
+    - text: Everything look good to you?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_05:
-    - ascii: "Whatever you're sellin', I'm buyin'!"
+    - text: "Whatever you're sellin', I'm buyin'!"
     - utf16_bytes:
         - 0
   Com_Talk_11:
@@ -116,8 +111,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Remember, if you want meat, you want\nMezer! That's my motto."
+    - text: "촂Remember, if you want meat, you want\nMezer! That's my motto."
     - utf16_bytes:
         - 0
   MSG_Futa_01_1:
@@ -126,32 +120,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "The secret to delicious meat is to grill\nit well!"
+    - text: "ЁThe secret to delicious meat is to grill\nit well!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " And adding a dash of "
+    - text: " And adding a dash of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rock salt
+    - text: rock salt
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\ndoubles down on the deliciousness.\nYou feel that sensation? That's your\nmouth watering. That's what makes me\nsuch a good salesman right there."
+    - text: "\ndoubles down on the deliciousness.\nYou feel that sensation? That's your\nmouth watering. That's what makes me\nsuch a good salesman right there."
     - utf16_bytes:
         - 0
   Com_Talk_06:
-    - ascii: Which one did you want?
+    - text: Which one did you want?
     - utf16_bytes:
         - 0
   Com_Talk_12:
@@ -160,42 +153,41 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Mm, you can't beat "
+    - text: "촂Mm, you can't beat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: raw prime meat
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nunless you've got "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: raw bird thigh
+    - text: raw prime meat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: ",\nunless you've got "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: raw bird thigh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " \nNothing compares to rare!"
+    - text: " \nNothing compares to rare!"
     - utf16_bytes:
         - 0
   Com_Talk_02b:
@@ -204,7 +196,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Thanks! You're doin' me a real\nservice here."
+    - text: "촉Thanks! You're doin' me a real\nservice here."
     - utf16_bytes:
         - 0
   Com_Talk_07:
@@ -213,22 +205,18 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Sorry, I'm fresh out."
+    - text: "촎Sorry, I'm fresh out."
     - utf16_bytes:
         - 0
   Com_Talk_13:
-    - ascii: "And how many did you want\nto sell me?"
+    - text: "And how many did you want\nto sell me?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Com_Talk_02c:
     - utf16_bytes:
@@ -236,8 +224,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Thank you much!
+    - text: 촂Thank you much!
     - utf16_bytes:
         - 0
   Com_Talk_08:
@@ -246,11 +233,11 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촌What are you tryin' to pull? You don't\nhave enough rupees!"
+    - text: "촌What are you tryin' to pull? You don't\nhave enough rupees!"
     - utf16_bytes:
         - 0
   Com_Talk_14:
-    - ascii: "I could do "
+    - text: "I could do "
     - utf16_bytes:
         - 14
         - 0
@@ -260,28 +247,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nSound good?"
+    - text: ".\nSound good?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_20:
     - utf16_bytes:
@@ -289,7 +275,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Look at you, chasing after adventure\nno matter the weather! You know what\nyou need? Some raw gourmet meat!"
+    - text: "촉Look at you, chasing after adventure\nno matter the weather! You know what\nyou need? Some raw gourmet meat!"
     - utf16_bytes:
         - 0
   RetMSG_Futa_03_1:
@@ -298,26 +284,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
+    - text: Ё
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dueling Peaks Stable
+    - text: Dueling Peaks Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is right over there."
+    - text: " is right over there."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIf you're feeling too tired to make it, how\nabout a little meat to charge you up?"
+    - text: "\nIf you're feeling too tired to make it, how\nabout a little meat to charge you up?"
     - utf16_bytes:
         - 0
   Com_Talk_02d:
@@ -326,8 +313,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Anything else I can do for you?
+    - text: 촂Anything else I can do for you?
     - utf16_bytes:
         - 0
   Com_Talk_09:
@@ -336,8 +322,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Your inventory's full up. You gotta make\nsome room. Maybe toss some stuff or,\nI don't know, sell it to me?"
+    - text: "촎Your inventory's full up. You gotta make\nsome room. Maybe toss some stuff or,\nI don't know, sell it to me?"
     - utf16_bytes:
         - 0
   Com_Talk_15:
@@ -346,14 +331,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: You want me to buy what?
+    - text: 촎You want me to buy what?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nNo, thanks! I'm not interested."
+    - text: "\nNo, thanks! I'm not interested."
     - utf16_bytes:
         - 0
   Thanks00:
@@ -362,14 +346,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: Thank you for saving me.
+    - text: āThank you for saving me.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Here, I want\nyou to have this."
+    - text: " Here, I want\nyou to have this."
     - utf16_bytes:
         - 0
   Com_Talk_16:
@@ -378,17 +361,17 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊If you're fixin' to sell your clothes, you\nmight want to take 'em off first."
+    - text: "촊If you're fixin' to sell your clothes, you\nmight want to take 'em off first."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " But\nnot in front of me!"
+    - text: " But\nnot in front of me!"
     - utf16_bytes:
         - 0
   Com_Talk_30:
-    - ascii: "That comes to "
+    - text: "That comes to "
     - utf16_bytes:
         - 14
         - 0
@@ -398,42 +381,37 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nSound good?"
+    - text: ".\nSound good?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_31:
-    - ascii: And how many are you after?
+    - text: And how many are you after?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   RetMSG_Futa_00_1:
     - utf16_bytes:
@@ -441,8 +419,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "You know what would cheer me up right\nnow? If you bought some of my meat.\nThat's what."
+    - text: "ЁYou know what would cheer me up right\nnow? If you bought some of my meat.\nThat's what."
     - utf16_bytes:
         - 0
   Atacked00:
@@ -452,23 +429,23 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Go on, get!"
+    - text: "Go on, get!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Dang ol' monsters!"
+    - text: " Dang ol' monsters!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou wanna fight? Is that it?"
+    - text: "\nYou wanna fight? Is that it?"
     - utf16_bytes:
         - 0
   Com_Talk_33:
-    - ascii: "Let's say "
+    - text: "Let's say "
     - utf16_bytes:
         - 14
         - 0
@@ -478,28 +455,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Sound good?"
+    - text: ". Sound good?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Atacked01:
     - utf16_bytes:
@@ -508,17 +484,17 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "You gotta be real tough to go toe-to-\ntoe with some of the monsters out here."
+    - text: "You gotta be real tough to go toe-to-\ntoe with some of the monsters out here."
     - utf16_bytes:
         - 0
   Com_Talk_34:
-    - ascii: "You want to buy all I've got? Sure thing!"
+    - text: "You want to buy all I've got? Sure thing!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt'll be "
+    - text: "\nIt'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -528,45 +504,44 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees "
+    - text: " rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "for all "
+    - text: "for all "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: ", OK?"
+    - text: ", OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_35:
-    - ascii: "You want to sell all of them, right?"
+    - text: "You want to sell all of them, right?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I'll\nbuy them all for "
+    - text: " I'll\nbuy them all for "
     - utf16_bytes:
         - 14
         - 0
@@ -576,28 +551,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", OK?"
+    - text: ", OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_36:
     - utf16_bytes:
@@ -605,13 +579,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉That's the last of it."
+    - text: "촉That's the last of it."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I'm afraid I've sold\nevery last thing I've got."
+    - text: " I'm afraid I've sold\nevery last thing I've got."
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -620,24 +594,23 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: Phew!
+    - text: ሆPhew!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I coulda sworn I was about to\nget eaten!"
+    - text: " I coulda sworn I was about to\nget eaten!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Which would have been bad\nfor everyone, because I taste AWFUL."
+    - text: " Which would have been bad\nfor everyone, because I taste AWFUL."
     - utf16_bytes:
         - 0
   Com_Talk_05b:
-    - ascii: "If you've got somethin' to sell,\nshow me what it is!"
+    - text: "If you've got somethin' to sell,\nshow me what it is!"
     - utf16_bytes:
         - 0
   Com_Talk_11b:
@@ -646,7 +619,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thank you.
+    - text: 촉Thank you.
     - utf16_bytes:
         - 0
   Com_Talk_37:
@@ -655,22 +628,20 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "I don't have anything left to sell today..."
+    - text: "촎I don't have anything left to sell today..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nTell you what, though. You want a quick\npeek at what I'll be ordering next?"
+    - text: "\nTell you what, though. You want a quick\npeek at what I'll be ordering next?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Talk01:
     - utf16_bytes:
@@ -678,14 +649,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: I carry only the finest meats.
+    - text: āI carry only the finest meats.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI guarantee these are top-choice\nprovisions, or your rupees back!"
+    - text: "\nI guarantee these are top-choice\nprovisions, or your rupees back!"
     - utf16_bytes:
         - 14
         - 1
@@ -694,7 +664,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   SavedLv1_01:
     - utf16_bytes:
@@ -702,24 +673,23 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: Phew!
+    - text: ሆPhew!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Sure is dangerous out here.\nI probably..."
+    - text: " Sure is dangerous out here.\nI probably..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "shouldn't have gone alone..."
+    - text: "shouldn't have gone alone..."
     - utf16_bytes:
         - 0
   Com_Talk_05c:
-    - ascii: "You gonna sell me somethin' or what?"
+    - text: "You gonna sell me somethin' or what?"
     - utf16_bytes:
         - 0
   Com_Talk_11c:
@@ -728,8 +698,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "If you're after some choice meat,\nyou come find me, all right?"
+    - text: "촂If you're after some choice meat,\nyou come find me, all right?"
     - utf16_bytes:
         - 0
   Talk02:
@@ -738,14 +707,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: Anything else you need?
+    - text: āAnything else you need?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Be a shame\nto let all this meat go to waste."
+    - text: " Be a shame\nto let all this meat go to waste."
     - utf16_bytes:
         - 14
         - 1
@@ -754,10 +722,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Com_Talk_05d:
-    - ascii: "Why don't we just take a little look-see?"
+    - text: "Why don't we just take a little look-see?"
     - utf16_bytes:
         - 0
   Com_Talk_11d:
@@ -766,7 +735,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Thanks, pal!"
+    - text: "촉Thanks, pal!"
     - utf16_bytes:
         - 0
   MSG_Futa_02_1:
@@ -775,26 +744,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
+    - text: Ё
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Kakariko Village "
+    - text: "Kakariko Village "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is a bit farther north of\nhere."
+    - text: "is a bit farther north of\nhere."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " If what you're looking for is a little\nfresh meat, I'm willing to trade with you."
+    - text: " If what you're looking for is a little\nfresh meat, I'm willing to trade with you."
     - utf16_bytes:
         - 0
   Rest_00:
@@ -803,33 +773,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Huh?
+    - text: ؋Huh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Me?"
+    - text: " Me?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I gotta rest sometime,\ndon't I?"
+    - text: " I gotta rest sometime,\ndon't I?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Of course, my body may\nneed rest, but meat waits for no one!\n"
+    - text: " Of course, my body may\nneed rest, but meat waits for no one!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "So you better believe I'm open for\nbusiness. I sell..."
+    - text: "āSo you better believe I'm open for\nbusiness. I sell..."
     - utf16_bytes:
         - 14
         - 5
@@ -839,12 +807,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
+    - text: 촇
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: meat.
+    - text: meat.
     - utf16_bytes:
         - 0
   RetMSG_Futa_04_1:
@@ -853,14 +822,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "I was just headed back to my camp,"
+    - text: "ЁI was just headed back to my camp,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but\ncustomers come first. Well...second,\nbecause meat always comes first!"
+    - text: " but\ncustomers come first. Well...second,\nbecause meat always comes first!"
     - utf16_bytes:
         - 0
   Rest_01:
@@ -870,41 +838,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When the weather's taken a turn for\nthe worse,"
+    - text: "When the weather's taken a turn for\nthe worse,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " it's best to take it easy and\ncatch up on your rest.\n"
+    - text: " it's best to take it easy and\ncatch up on your rest.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "At least that's what I do."
+    - text: "āAt least that's what I do."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Of course, the\nweather may be crummy, but meat waits\nfor no one!\nSo you better believe I'm open for\nbusiness. I sell..."
+    - text: " Of course, the\nweather may be crummy, but meat waits\nfor no one!\nSo you better believe I'm open for\nbusiness. I sell..."
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
+    - text: 촇
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: meat.
+    - text: meat.
     - utf16_bytes:
         - 0
   "5500":
-    - ascii: OK.
+    - text: OK.
     - utf16_bytes:
         - 0
   Rest_02:
@@ -913,48 +881,47 @@ entries:
         - 3
         - 1
         - 2
-        - 4612
-    - ascii: "Oh, man!"
+    - text: "ሄOh, man!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's raining fierce out!"
+    - text: " It's raining fierce out!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Guess\nI'll have to take cover for a while.\n\n"
+    - text: " Guess\nI'll have to take cover for a while.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "But even though I'm wet to the bone,"
+    - text: "āBut even though I'm wet to the bone,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nmeat waits for no one!\n\nSo you better believe I'm open for\nbusiness. I sell..."
+    - text: "\nmeat waits for no one!\n\nSo you better believe I'm open for\nbusiness. I sell..."
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
+    - text: 촇
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: meat.
+    - text: meat.
     - utf16_bytes:
         - 0
   Com_Talk_56:
-    - ascii: "That comes to "
+    - text: "That comes to "
     - utf16_bytes:
         - 14
         - 0
@@ -964,52 +931,50 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nSound good?"
+    - text: ".\nSound good?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "5501":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'll buy some meat."
+    - text: "I'll buy some meat."
     - utf16_bytes:
         - 0
   "5502":
-    - ascii: "I'll buy."
+    - text: "I'll buy."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'd rather sell."
+    - text: "I'd rather sell."
     - utf16_bytes:
         - 0
   "5503":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I'm good, thanks."
+    - text: "I'm good, thanks."
     - utf16_bytes:
         - 0
   Near00:
@@ -1018,8 +983,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-    - ascii: Top-quality steak!
+    - text: 촘Top-quality steak!
     - utf16_bytes:
         - 0
   RetMSG_Futa_01_1:
@@ -1029,13 +993,13 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "What's the matter? Aren't you hungry?"
+    - text: "What's the matter? Aren't you hungry?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI'll sell ya some meat."
+    - text: "\nI'll sell ya some meat."
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -1045,13 +1009,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Aw, dang!"
+    - text: "Aw, dang!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I guess I'm nothin' but a\nwalkin' pile of monster grub!"
+    - text: " I guess I'm nothin' but a\nwalkin' pile of monster grub!"
     - utf16_bytes:
         - 0
   Near01:
@@ -1060,8 +1024,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-    - ascii: Tasty meats!
+    - text: 촘Tasty meats!
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -1071,13 +1034,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Aw, dang!"
+    - text: "Aw, dang!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " They must have been\nlured by the many fine meats I've\ngot here in my bag!"
+    - text: " They must have been\nlured by the many fine meats I've\ngot here in my bag!"
     - utf16_bytes:
         - 0
   Near02:
@@ -1086,8 +1049,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-    - ascii: Farm fresh and ready!
+    - text: 촘Farm fresh and ready!
     - utf16_bytes:
         - 0
   Near03:
@@ -1096,12 +1058,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-    - ascii: Juicy sirloin!
+    - text: 촘Juicy sirloin!
     - utf16_bytes:
         - 0
   "5507":
-    - ascii: "I'll take 'em all!"
+    - text: "I'll take 'em all!"
     - utf16_bytes:
         - 0
   MSG_Futa_00:
@@ -1110,48 +1071,45 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Huh?
+    - text: ؋Huh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What's the matter?"
+    - text: " What's the matter?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhy the grumbles?"
+    - text: "\nWhy the grumbles?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Well, if it's your tummy that's grumblin', \nyou're talkin' to the right guy. I'm a\nbutcher, as luck would have it!\n"
+    - text: "ĀWell, if it's your tummy that's grumblin', \nyou're talkin' to the right guy. I'm a\nbutcher, as luck would have it!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I'd be happy to sell you whatever\nI've got in stock."
+    - text: "āI'd be happy to sell you whatever\nI've got in stock."
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: "It's raining..."
+    - text: "It's raining..."
     - utf16_bytes:
         - 0
   "5508":
-    - ascii: All of them.
+    - text: All of them.
     - utf16_bytes:
         - 0
   MSG_Futa_01:
@@ -1160,79 +1118,76 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: What?
+    - text: ဋWhat?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You smell it, don't you? "
+    - text: " You smell it, don't you? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nLike raw meat, wafting through the air?\nWell, you guessed right! It's me!"
+    - text: "\nLike raw meat, wafting through the air?\nWell, you guessed right! It's me!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "I'm Mezer."
+    - text: "ЁI'm Mezer."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm a wandering butcher.\nHuh. That sounds a touch weird when\nI say it out loud like that.\n"
+    - text: " I'm a wandering butcher.\nHuh. That sounds a touch weird when\nI say it out loud like that.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "How 'bout I whet your appetite with a\nlittle cooking tip?"
+    - text: "How 'bout I whet your appetite with a\nlittle cooking tip?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I've got just the thing\nto make your cuisine sizzle!\n"
+    - text: " I've got just the thing\nto make your cuisine sizzle!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: All you gotta do...
+    - text: āAll you gotta do...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "is add a dash of\n"
+    - text: "is add a dash of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "rock salt "
+    - text: "rock salt "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to double your dish's\ndeliciousness!"
+    - text: "to double your dish's\ndeliciousness!"
     - utf16_bytes:
         - 0
   MSG_Futa_02:
@@ -1241,14 +1196,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "What's goin' on with you?"
+    - text: "؋What's goin' on with you?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAre you lost or somethin'?\n\n"
+    - text: "\nAre you lost or somethin'?\n\n"
     - utf16_bytes:
         - 14
         - 0
@@ -1259,48 +1213,46 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Kakariko Village "
+    - text: "ĀKakariko Village "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is a ways north of here.
+    - text: is a ways north of here.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIf you're goin' to "
+    - text: "\nIf you're goin' to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dueling Peaks Stable
+    - text: Dueling Peaks Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nit's not much farther from here.\n"
+    - text: ",\nit's not much farther from here.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "You can usually find me at the stables,"
+    - text: "ЁYou can usually find me at the stables,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nbut if you can't wait, we can do a little\nbusiness right here."
+    - text: "\nbut if you can't wait, we can do a little\nbusiness right here."
     - utf16_bytes:
         - 0
   RetMSG_Futa_00:
@@ -1309,40 +1261,38 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: What?
+    - text: ؋What?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Don't give me that look!\n\n\n"
+    - text: " Don't give me that look!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Yeah, maybe it's a bit of a wasteland\nhere..."
+    - text: "ĀYeah, maybe it's a bit of a wasteland\nhere..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " But I find it peaceful, being all\nalone out in the wilderness.\n"
+    - text: " But I find it peaceful, being all\nalone out in the wilderness.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "If you've got time to judge, you've got\ntime to buy some meat from me!"
+    - text: "If you've got time to judge, you've got\ntime to buy some meat from me!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nMaybe I can even cut you a deal."
+    - text: "\nMaybe I can even cut you a deal."
     - utf16_bytes:
         - 0
   Guardian00:
@@ -1351,22 +1301,21 @@ entries:
         - 3
         - 1
         - 2
-        - 5636
-    - ascii: "Oh man, oh man, oh man! Get outta\nhere! There's a "
+    - text: "ᘄOh man, oh man, oh man! Get outta\nhere! There's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guardian
+    - text: Guardian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " a-comin'!"
+    - text: " a-comin'!"
     - utf16_bytes:
         - 0
   MSG_Futa_03:
@@ -1375,34 +1324,32 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "What's up?"
+    - text: "؋What's up?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You lookin' for someone\nto talk to?\n\n"
+    - text: " You lookin' for someone\nto talk to?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Fine by me, as long as we're talkin'\nmeat, 'cuz that's all I really have\nthat's worth talking about.\n"
+    - text: "ĀFine by me, as long as we're talkin'\nmeat, 'cuz that's all I really have\nthat's worth talking about.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "Finest meat in the land, a-yup."
+    - text: "Finest meat in the land, a-yup."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou, uh, fixin' to buy some?"
+    - text: "\nYou, uh, fixin' to buy some?"
     - utf16_bytes:
         - 0
   RetMSG_Futa_01:
@@ -1411,33 +1358,32 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: What is it?
+    - text: ؋What is it?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That face..."
+    - text: " That face..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Is that...the face\nof hunger? You can't adventure on an\nempty stomach."
+    - text: " Is that...the face\nof hunger? You can't adventure on an\nempty stomach."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "Grill some meat to get your strength\nback! In fact, why don't you give me\na sec, and I'll sell you some meat."
+    - text: "Grill some meat to get your strength\nback! In fact, why don't you give me\na sec, and I'll sell you some meat."
     - utf16_bytes:
         - 0
   MSG_Futa_04:
@@ -1446,34 +1392,32 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Huh?
+    - text: ؋Huh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You got opinions about where\nI rest my head at night? Well, I can't\nsee how it's any of your business.\n"
+    - text: " You got opinions about where\nI rest my head at night? Well, I can't\nsee how it's any of your business.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Sure, I'd love to stay in a nice, comfy\nbed. Who wouldn't? But the meat trade\nain't exactly rakin' in the dough.\n"
+    - text: "ĀSure, I'd love to stay in a nice, comfy\nbed. Who wouldn't? But the meat trade\nain't exactly rakin' in the dough.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "Why not help a fella out by stockin'\nup,"
+    - text: "Why not help a fella out by stockin'\nup,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " as long as you're here?"
+    - text: " as long as you're here?"
     - utf16_bytes:
         - 0
   RetMSG_Futa_02:
@@ -1482,39 +1426,38 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Huh?
+    - text: ؋Huh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What's your problem?"
+    - text: " What's your problem?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou look real salty..."
+    - text: "\nYou look real salty..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Wait, is that what\nyou're after? Well, you're in luck!"
+    - text: " Wait, is that what\nyou're after? Well, you're in luck!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "I sell rock salt and meat, and I tell you\nwhat, they do go great together!"
+    - text: "I sell rock salt and meat, and I tell you\nwhat, they do go great together!"
     - utf16_bytes:
         - 0
   MSG_Futa_03_1:
@@ -1523,26 +1466,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Speaking of meat, "
+    - text: "ЁSpeaking of meat, "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "Pand I'm sure we were"
+    - text: "Pand I'm sure we were"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d,"
+    - text: "d,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm selling some, so if you want to buy,\nlet's get down to business!"
+    - text: "\nI'm selling some, so if you want to buy,\nlet's get down to business!"
     - utf16_bytes:
         - 0
   RetMSG_Futa_03:
@@ -1551,41 +1493,40 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Huh? What's the matter with you?"
+    - text: "؋Huh? What's the matter with you?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou look right tuckered out. You know,\n"
+    - text: "\nYou look right tuckered out. You know,\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Dueling Peaks Stable "
+    - text: "Dueling Peaks Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is real close.
+    - text: is real close.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "If you're feelin' a mite peckish, I've\ngot just the thing to get your strength\nback. A nice hunk o' meat!"
+    - text: "If you're feelin' a mite peckish, I've\ngot just the thing to get your strength\nback. A nice hunk o' meat!"
     - utf16_bytes:
         - 0
   RetMSG_Futa_04:
@@ -1594,33 +1535,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Huh? "
+    - text: "؋Huh? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You fixin' to buy some meat?\n\n\n"
+    - text: "You fixin' to buy some meat?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I was just about to set myself down\nfor some sleep,"
+    - text: "āI was just about to set myself down\nfor some sleep,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but business always\ncomes first! And meat is my business!\nI'll let you in on a little secret of mine..."
+    - text: " but business always\ncomes first! And meat is my business!\nI'll let you in on a little secret of mine..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nPersonally? I don't touch the stuff. I'm\nmore of a fruit-and-veggies guy myself."
+    - text: "\nPersonally? I don't touch the stuff. I'm\nmore of a fruit-and-veggies guy myself."
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -1629,14 +1568,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: "Oh me, oh my..."
+    - text: "ሆOh me, oh my..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I coulda sworn I was\ngonna be somethin's dinner right there!"
+    - text: " I coulda sworn I was\ngonna be somethin's dinner right there!"
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -1645,14 +1583,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: "Oh me, oh my..."
+    - text: "ሆOh me, oh my..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " At least my delicious\nselection of meats didn't get damaged!"
+    - text: " At least my delicious\nselection of meats didn't get damaged!"
     - utf16_bytes:
         - 0
   MSG_Futa_00_1:
@@ -1661,14 +1598,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: You hungry?
+    - text: ЁYou hungry?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Then you're talkin' to the\nright meat man!"
+    - text: " Then you're talkin' to the\nright meat man!"
     - utf16_bytes:
         - 0
   RetMSG_Futa_02_1:
@@ -1677,14 +1613,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "If you're not getting enough salt in your\ndiet, I'll sell you some rock salt."
+    - text: "ЁIf you're not getting enough salt in your\ndiet, I'll sell you some rock salt."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " And\nwhy not some meat while I'm at it?"
+    - text: " And\nwhy not some meat while I'm at it?"
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -1693,14 +1628,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Thanks for stoppin' by."
+    - text: "ЁThanks for stoppin' by."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nGood luck out there!"
+    - text: "\nGood luck out there!"
     - utf16_bytes:
         - 0
   Failed00:
@@ -1709,12 +1643,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWhat took you so long?"
+        - 9
+    - text: What took you so long?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I was about to\nbe some fiend's meaty treat!"
+    - text: " I was about to\nbe some fiend's meaty treat!"
     - utf16_bytes:
         - 0

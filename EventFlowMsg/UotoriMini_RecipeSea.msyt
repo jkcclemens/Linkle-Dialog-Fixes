@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Really? I'm happy to hear that."
+    - text: "Really? I'm happy to hear that."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'll be waiting!"
+    - text: "\nI'll be waiting!"
     - utf16_bytes:
         - 0
   talk26:
@@ -23,7 +23,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Can't talk now. It's past the kids'\nbedtime.\n\nWhatever you need will have\nto wait until tomorrow."
+    - text: "Can't talk now. It's past the kids'\nbedtime.\n\nWhatever you need will have\nto wait until tomorrow."
     - utf16_bytes:
         - 0
   talk27:
@@ -32,18 +32,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "PShhhh! You'll wake the kids."
+    - text: Ā
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "PShhhh! You'll wake the kids."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   talk28:
@@ -53,7 +54,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You made room in your inventory for my\nsignature dish!"
+    - text: "You made room in your inventory for my\nsignature dish!"
     - utf16_bytes:
         - 0
   talk10:
@@ -62,8 +63,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4355
-    - ascii: "I see... That's a shame."
+    - text: "ᄃI see... That's a shame."
     - utf16_bytes:
         - 0
   talk11:
@@ -73,13 +73,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Oh! You have the ingredients!
+    - text: Oh! You have the ingredients!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCan I have them?"
+    - text: "\nCan I have them?"
     - utf16_bytes:
         - 14
         - 1
@@ -87,10 +87,11 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Sure.
+    - text: Sure.
     - utf16_bytes:
         - 0
   talk12:
@@ -99,12 +100,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4355
-    - ascii: "My, aren't we feeling grumpy..."
+    - text: "ᄃMy, aren't we feeling grumpy..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'm busy."
+    - text: "I'm busy."
     - utf16_bytes:
         - 0
   talk13:
@@ -114,39 +114,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Now, I'm going to need some\n"
+    - text: "Now, I'm going to need some\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "goat butter "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: hearty blueshell snail
+    - text: "goat butter "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThink you can help me out?"
+    - text: "and a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: hearty blueshell snail
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nThink you can help me out?"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "You can't have them."
+    - text: "You can't have them."
     - utf16_bytes:
         - 0
   talk15:
@@ -156,13 +156,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, it's you."
+    - text: "Oh, it's you."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou brought the ingredients?\n\nWell, I thought you forgot about us, so\nI went ahead and made dinner already."
+    - text: "\nYou brought the ingredients?\n\nWell, I thought you forgot about us, so\nI went ahead and made dinner already."
     - utf16_bytes:
         - 0
   talk16:
@@ -172,21 +172,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I thought you forgot about us, so I went\nahead and made dinner already.\n\nBut I'd still like to make "
+    - text: "I thought you forgot about us, so I went\nahead and made dinner already.\n\nBut I'd still like to make "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: seafood paella
+    - text: seafood paella
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfor tomorrow night!"
+    - text: "\nfor tomorrow night!"
     - utf16_bytes:
         - 0
   talk17:
@@ -195,13 +195,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAw... Your pouch is full."
+        - 9
+    - text: Aw... Your pouch is full.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I can't give you\nfood until you make space for it."
+    - text: " I can't give you\nfood until you make space for it."
     - utf16_bytes:
         - 0
   talk00:
@@ -210,8 +211,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "What should I cook for tonight's dinner?"
+    - text: "ІWhat should I cook for tonight's dinner?"
     - utf16_bytes:
         - 0
   talk18:
@@ -221,27 +221,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Are you a traveler?
+    - text: Are you a traveler?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nGood timing. Why don't you join us for\ndinner?\nWe're having "
+    - text: "\nGood timing. Why don't you join us for\ndinner?\nWe're having "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: salt-grilled fish
+    - text: salt-grilled fish
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nThe fish here are deeeee-lish!"
+    - text: "!\nThe fish here are deeeee-lish!"
     - utf16_bytes:
         - 0
   talk01:
@@ -251,13 +251,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "All right, I'll take those, then."
+    - text: "All right, I'll take those, then."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nNow to start cooking."
+    - text: "\nNow to start cooking."
     - utf16_bytes:
         - 0
   talk19:
@@ -267,7 +267,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Go on, dig in!\nIt's deeeee-lish!"
+    - text: "Go on, dig in!\nIt's deeeee-lish!"
     - utf16_bytes:
         - 0
   talk02:
@@ -277,13 +277,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Since you found the missing ingredients, "
+    - text: "Since you found the missing ingredients, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nwhy don't you eat with us?\nIt'll be done soon."
+    - text: "\nwhy don't you eat with us?\nIt'll be done soon."
     - utf16_bytes:
         - 0
   talk03:
@@ -293,13 +293,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Are you a traveler?
+    - text: Are you a traveler?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\nThis is Lurelin Village. We're a small\nfishing town and proud of it!\n\nMy husband is a fisherman, and I have\ntwo sons who will probably grow up to\nbe fishermen too."
+    - text: "\n\n\nThis is Lurelin Village. We're a small\nfishing town and proud of it!\n\nMy husband is a fisherman, and I have\ntwo sons who will probably grow up to\nbe fishermen too."
     - utf16_bytes:
         - 0
   talk20:
@@ -309,21 +309,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Make your "
+    - text: "Make your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: seafood paella
+    - text: seafood paella
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! It's so good\nand yummy and great!"
+    - text: "! It's so good\nand yummy and great!"
     - utf16_bytes:
         - 0
   talk21:
@@ -333,27 +333,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: That settles it!
+    - text: That settles it!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll make some "
+    - text: "\nI'll make some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: seafood paella
+    - text: seafood paella
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk04:
@@ -363,7 +363,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Here's a little something..."
+    - text: "Here's a little something..."
     - utf16_bytes:
         - 14
         - 5
@@ -376,8 +376,7 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Zzz...
+    - text: ℀Zzz...
     - utf16_bytes:
         - 0
   talk22:
@@ -387,7 +386,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Yaaaaay!
+    - text: Yaaaaay!
     - utf16_bytes:
         - 0
   talk06:
@@ -396,14 +395,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8704
-    - ascii: "Hey,"
+    - text: "∀Hey,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " don't you think it's a little late to be\nmaking small talk? We're going to bed.\nCome back tomorrow."
+    - text: " don't you think it's a little late to be\nmaking small talk? We're going to bed.\nCome back tomorrow."
     - utf16_bytes:
         - 0
   talk23:
@@ -413,7 +411,7 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "I'm so busy with housework that I don't\nhave time to go shopping for ingredients."
+    - text: "I'm so busy with housework that I don't\nhave time to go shopping for ingredients."
     - utf16_bytes:
         - 14
         - 5
@@ -427,27 +425,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, join us for dinner!"
+    - text: "Oh, join us for dinner!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWe're having "
+    - text: "\nWe're having "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: salt-grilled fish
+    - text: salt-grilled fish
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   talk24:
@@ -457,7 +455,7 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "I can't go shopping for ingredients in\nthis rain."
+    - text: "I can't go shopping for ingredients in\nthis rain."
     - utf16_bytes:
         - 14
         - 5
@@ -471,41 +469,41 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "We seem to be a bit short on ingredients\nthough."
+    - text: "We seem to be a bit short on ingredients\nthough."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " We'll need "
+    - text: " We'll need "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "goat butter "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and a\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: hearty blueshell snail
+    - text: "goat butter "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "and a\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: hearty blueshell snail
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
@@ -518,8 +516,7 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Oh, I know! Could you go and get me\nthe ingredients we're missing?"
+    - text: "ĆOh, I know! Could you go and get me\nthe ingredients we're missing?"
     - utf16_bytes:
         - 14
         - 1
@@ -527,5 +524,6 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

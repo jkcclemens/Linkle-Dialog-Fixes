@@ -1,11 +1,11 @@
 ---
 entries:
   "0000":
-    - ascii: Read.
+    - text: Read.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0
   Book00:
@@ -14,39 +14,34 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Traysi here! Awake or asleep, my quest\nfor juicy rumors never rests! EVER.\nDoesn't everyone gossip in their sleep?\nToday I've got a hot rumor fresh from the\nmill that is...wait for it...an EXCLUSIVE!\nAnd that special topic is...\n"
+    - text: "Traysi here! Awake or asleep, my quest\nfor juicy rumors never rests! EVER.\nDoesn't everyone gossip in their sleep?\nToday I've got a hot rumor fresh from the\nmill that is...wait for it...an EXCLUSIVE!\nAnd that special topic is...\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}the mysterious Korok Mask!"
+    - text: "}the mysterious Korok Mask!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nThey say if you pour enough love into an\nobject, a spirit will inhabit it. Something\nthat creepy's just gotta be true!\nAnd apparently, this Korok Mask really\nis inhabited by a spirit!\n\nIf you wear it, it supposedly shakes\nand makes adorably weird noises\nevery now and then.\nMaybe it does that to tell you when\nfriends are nearby and you can't\nsee them? Who knows!\nSome say the treasure chest containing\nthis mask is hidden "
+    - text: "d\n\n\nThey say if you pour enough love into an\nobject, a spirit will inhabit it. Something\nthat creepy's just gotta be true!\nAnd apparently, this Korok Mask really\nis inhabited by a spirit!\n\nIf you wear it, it supposedly shakes\nand makes adorably weird noises\nevery now and then.\nMaybe it does that to tell you when\nfriends are nearby and you can't\nsee them? Who knows!\nSome say the treasure chest containing\nthis mask is hidden "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "in a tree hollow in a\nforest that makes people lose their way"
+    - text: "in a tree hollow in a\nforest that makes people lose their way"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nHmm, sounds like a tough place to find\nsomething! Luckily, word has it there's a\nconvenient trick for finding your way...\nTraysi's Recommendation: "
+    - text: ".\nHmm, sounds like a tough place to find\nsomething! Luckily, word has it there's a\nconvenient trick for finding your way...\nTraysi's Recommendation: ★★★★★"
     - utf16_bytes:
-        - 9733
-        - 9733
-        - 9733
-        - 9733
-        - 9733
         - 0
   BookFirst:
     - utf16_bytes:
@@ -54,7 +49,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Super Rumor Mill EX: Volume 1"
+    - text: "Super Rumor Mill EX: Volume 1"
     - utf16_bytes:
         - 14
         - 1
@@ -62,5 +57,6 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

@@ -1,7 +1,7 @@
 ---
 entries:
   TerrorHorse:
-    - ascii: "It's huge!"
+    - text: "It's huge!"
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk500:
@@ -11,35 +11,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Actually, those three "
+    - text: "Actually, those three "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trials
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " aren't the\nonly ones we've prepared for you.\n\nThere's also all the hidden "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Riddles of \nHyrule"
+    - text: trials
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Have you found them yet?"
+    - text: " aren't the\nonly ones we've prepared for you.\n\nThere's also all the hidden "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Riddles of \nHyrule"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Have you found them yet?"
     - utf16_bytes:
         - 14
         - 5
@@ -51,7 +51,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk501:
     - utf16_bytes:
@@ -59,20 +60,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat?!"
+    - text: "\nWhat?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou found them already?!\n\nThen there is nothing left for me to\nteach you...\n\nActually, I could teach you how to grow\nmushrooms out of your head.\n\n"
+    - text: "\nYou found them already?!\n\nThen there is nothing left for me to\nteach you...\n\nActually, I could teach you how to grow\nmushrooms out of your head.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 10758
-    - ascii: "Though I'm not sure that would be of\nmuch use..."
+    - text: "⨆Though I'm not sure that would be of\nmuch use..."
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk502:
@@ -82,25 +82,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "In that case, you must climb to the very\ntop of the Great Deku Tree.\n\nThe ultimate "
+    - text: "In that case, you must climb to the very\ntop of the Great Deku Tree.\n\nThe ultimate "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trial
+    - text: trial
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", which none have yet\naccomplished, awaits you there!"
+    - text: ", which none have yet\naccomplished, awaits you there!"
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: "I have feelings, you know!"
+    - text: "I have feelings, you know!"
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk503:
@@ -109,11 +109,11 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ጊWhat?\n\n\nYou haven't pulled out the Master Sword\nover there! Do whatever is necessary\nto pull it out!\nIt's the only way the Great Deku Tree \nand all of us Koroks will feel safe!"
+    - text: "ጊWhat?\n\n\nYou haven't pulled out the Master Sword\nover there! Do whatever is necessary\nto pull it out!\nIt's the only way the Great Deku Tree \nand all of us Koroks will feel safe!"
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: "I'm going to burn!"
+    - text: "I'm going to burn!"
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk504:
@@ -123,15 +123,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Climb to the top of the Great Deku Tree,\nand face the ultimate trial!"
+    - text: "Climb to the top of the Great Deku Tree,\nand face the ultimate trial!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I found them.
+    - text: I found them.
     - utf16_bytes:
         - 0
   TerrorInsect:
-    - ascii: "I don't have any pollen!"
+    - text: "I don't have any pollen!"
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk000:
@@ -141,38 +141,38 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Huh?
+    - text: Huh?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou..."
+    - text: "\nYou..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCould it be?!\n"
+    - text: "\nCould it be?!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nYou're Ms. Heroine!\nMs. Heroine is here!\n\n"
+    - text: "\nYou're Ms. Heroine!\nMs. Heroine is here!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The mushroom on my head suddenly\nsprouted today, so I knew something was\nup!\n"
+    - text: "The mushroom on my head suddenly\nsprouted today, so I knew something was\nup!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nIt was a prediction that you'd come!"
+    - text: "\nIt was a prediction that you'd come!"
     - utf16_bytes:
         - 14
         - 0
@@ -183,15 +183,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "...I think."
+    - text: "...I think."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Not yet.
+    - text: Not yet.
     - utf16_bytes:
         - 0
   TerrorImpulse:
-    - ascii: What?!
+    - text: What?!
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk001:
@@ -201,88 +201,87 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Now then...
+    - text: Now then...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " The "
+    - text: " The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Korok Trials
+    - text: Korok Trials
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " await!\n\n\n"
+    - text: " await!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 5384
-    - ascii: Wait...
+    - text: ᔈWait...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You haven't even touched the\n"
+    - text: " You haven't even touched the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sword
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " yet? What are you waiting for?!\n\nYou've got to go to the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "sword "
+    - text: sword
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: first!
+    - text: " yet? What are you waiting for?!\n\nYou've got to go to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "sword "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: first!
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I'll tell you all about the "
+    - text: "I'll tell you all about the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Korok Trials
+    - text: Korok Trials
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nonce you've taken care of that!"
+    - text: "\nonce you've taken care of that!"
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk002:
@@ -292,29 +291,29 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "First you must go to the "
+    - text: "First you must go to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sword
+    - text: sword
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: Aah! Aah!
+    - text: Aah! Aah!
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Such violence!
+    - text: Such violence!
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk600:
@@ -324,7 +323,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I was privileged enough to witness \nyou pull out the Master Sword!"
+    - text: "I was privileged enough to witness \nyou pull out the Master Sword!"
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk601:
@@ -334,7 +333,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I have no more trials to give you!\nGo! Restore peace to Hyrule!"
+    - text: "I have no more trials to give you!\nGo! Restore peace to Hyrule!"
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Talk602:
@@ -344,14 +343,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Now go!\nWe will be cheering you on from the\ndepths of the forest!"
+    - text: "Now go!\nWe will be cheering you on from the\ndepths of the forest!"
     - utf16_bytes:
         - 0
   Npc_Kokiri008_Near000:
-    - ascii: Hrm?
+    - text: Hrm?
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Eeeek!
+    - text: Eeeek!
     - utf16_bytes:
         - 0

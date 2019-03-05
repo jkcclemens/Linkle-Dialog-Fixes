@@ -6,7 +6,8 @@ entries:
         - 3
         - 1
         - 2
-        - 267
+    - text: ċ
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -16,13 +17,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PDoctor...
+    - text: PDoctor...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -35,11 +36,11 @@ entries:
         - 0
         - 0
   "0010":
-    - ascii: "You're right."
+    - text: "You're right."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Read it.
+    - text: Read it.
     - utf16_bytes:
         - 0
   talk38:
@@ -48,14 +49,14 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "It's close... It HAS to be..."
+    - text: "It's close... It HAS to be..."
     - utf16_bytes:
         - 14
         - 0
@@ -65,20 +66,19 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "Hmm, dawn is starting to break. "
+    - text: "ċHmm, dawn is starting to break. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Time for another\nday of field research."
+    - text: "Time for another\nday of field research."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk20:
@@ -88,17 +88,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I don't mind a little rain, but the lightning\nin Hyrule is alarmingly attracted to\nanything metallic.\nNo, on days like this, it's best to shut\noneself in and wait for the rain to clear."
+    - text: "I don't mind a little rain, but the lightning\nin Hyrule is alarmingly attracted to\nanything metallic.\nNo, on days like this, it's best to shut\noneself in and wait for the rain to clear."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "If you must go gallivanting across the\ncountryside, take care you don't get\nstruck, at least."
+    - text: "If you must go gallivanting across the\ncountryside, take care you don't get\nstruck, at least."
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: Leave it alone.
+    - text: Leave it alone.
     - utf16_bytes:
         - 0
   talk21:
@@ -107,15 +107,16 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tToday's research trip is on hold.\nMy glasses are unfortunately metallic,\nso I must remain indoors at all costs!"
+        - 9
+    - text: "Today's research trip is on hold.\nMy glasses are unfortunately metallic,\nso I must remain indoors at all costs!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t\n"
+        - 9
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   Book00:
     - utf16_bytes:
@@ -123,7 +124,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
     - utf16_bytes:
         - 0
   talk22:
@@ -133,13 +134,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Monsters roam these parts after nightfall.
+    - text: Monsters roam these parts after nightfall.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt's best to stay safely inside until dawn."
+    - text: "\nIt's best to stay safely inside until dawn."
     - utf16_bytes:
         - 0
   Book01:
@@ -148,33 +149,34 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There's a worn-looking book here.\nWould you like to read it?"
+    - text: "There's a worn-looking book here.\nWould you like to read it?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 11
-    - ascii: 
+        - 12
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   talk23:
-    - ascii: "Today's research trip is on hold.\n"
+    - text: "Today's research trip is on hold.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tMy glasses are unfortunately metallic...\nIn this weather, my life could be at risk!"
+        - 9
+    - text: "My glasses are unfortunately metallic...\nIn this weather, my life could be at risk!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t\n"
+        - 9
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   talk24:
     - utf16_bytes:
@@ -183,25 +185,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I only do fieldwork at shrines and ruins\nduring the day."
+    - text: "I only do fieldwork at shrines and ruins\nduring the day."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Why, you ask?"
+    - text: " Why, you ask?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Hmm, could it have something to do\nwith the hordes of monsters roaming at\nnight? "
+    - text: "Hmm, could it have something to do\nwith the hordes of monsters roaming at\nnight? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: What an ignoramus...
+    - text: What an ignoramus...
     - utf16_bytes:
         - 0
   talk25:
@@ -211,15 +213,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I try not to set foot outside my hut when\nnight falls and monsters begin to roam\nthis area.\nJust because I'm a trained archaeologist\ndoesn't mean I have any skill with\na blade. Quite the opposite, in fact."
+    - text: "I try not to set foot outside my hut when\nnight falls and monsters begin to roam\nthis area.\nJust because I'm a trained archaeologist\ndoesn't mean I have any skill with\na blade. Quite the opposite, in fact."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: What are you up to?
+    - text: What are you up to?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'll...leave you to it."
+    - text: "I'll...leave you to it."
     - utf16_bytes:
         - 0
   talk27:
@@ -229,13 +231,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This changes things..."
+    - text: " This changes things..."
     - utf16_bytes:
         - 14
         - 0
@@ -250,42 +252,41 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Very well then!
+    - text: 촉Very well then!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm feeling charitable,\nso I'll let a few things spill."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: " This is just\nbetween us, understand.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - text: " I'm feeling charitable,\nso I'll let a few things spill."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: " This is just\nbetween us, understand.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52503
-    - ascii: "I'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nThat's my life in a nutshell."
+    - text: "촗I'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nThat's my life in a nutshell."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Days filled\nwith researching shrines and nights\nspent studying ancient texts.\nThat leaves no time to converse with\npassing strangers, so farewell."
+    - text: " Days filled\nwith researching shrines and nights\nspent studying ancient texts.\nThat leaves no time to converse with\npassing strangers, so farewell."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Do you need help?
+    - text: Do you need help?
     - utf16_bytes:
         - 0
   talk10:
@@ -299,15 +300,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52503
-    - ascii: "Soon, my long years of research will be\nrevealed...and all the world will hail it as\nthe discovery of the century!\n"
+    - text: "촗Soon, my long years of research will be\nrevealed...and all the world will hail it as\nthe discovery of the century!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "To prevent any undue attention, I haven't\neven told my family about my work.\nYou understand, I'm sure."
+    - text: "ĀTo prevent any undue attention, I haven't\neven told my family about my work.\nYou understand, I'm sure."
     - utf16_bytes:
         - 14
         - 1
@@ -315,7 +314,8 @@ entries:
         - 6
         - 7
         - 8
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk11:
     - utf16_bytes:
@@ -324,19 +324,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "...\n\n\nThese ancient writings are like a gauntlet\nlaid before us from long-dead\ncivilizations!\nOr, if you prefer, they are love letters\nmeant for the eyes of all archaeologists\nseduced by history.\nDo you see what I mean?"
+    - text: "...\n\n\nThese ancient writings are like a gauntlet\nlaid before us from long-dead\ncivilizations!\nOr, if you prefer, they are love letters\nmeant for the eyes of all archaeologists\nseduced by history.\nDo you see what I mean?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Either way,\nit's a private matter between me and my\nrelics. "
+    - text: " Either way,\nit's a private matter between me and my\nrelics. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "There's no room for laypersons."
+    - text: "There's no room for laypersons."
     - utf16_bytes:
         - 0
   talk29:
@@ -350,15 +350,15 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊I mustn't be outside right now!\nMy glasses are unfortunately metallic,\nso I must remain indoors at all costs!"
+    - text: "촊I mustn't be outside right now!\nMy glasses are unfortunately metallic,\nso I must remain indoors at all costs!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t\n"
+        - 9
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   talk12:
     - utf16_bytes:
@@ -367,43 +367,43 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Did I...
+    - text: Did I...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: just hear you call me doctor?
+    - text: just hear you call me doctor?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAs in,"
+    - text: "\nAs in,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " not merely Calip,"
+    - text: " not merely Calip,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but DOCTOR\nCalip?"
+    - text: " but DOCTOR\nCalip?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nIt rolled off your tongue so naturally."
+    - text: "\nIt rolled off your tongue so naturally."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt was downright salivary!"
+    - text: "\nIt was downright salivary!"
     - utf16_bytes:
         - 0
   talk13:
@@ -417,7 +417,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촌Will you never cease pestering me?\nAnd call me by my proper title: Dr. Calip.\nThe \"Dr.\" is important.\nAnyway, I'm busy deciphering these\nancient texts. Can whatever you need\nwait until later?"
+    - text: "촌Will you never cease pestering me?\nAnd call me by my proper title: Dr. Calip.\nThe \"Dr.\" is important.\nAnyway, I'm busy deciphering these\nancient texts. Can whatever you need\nwait until later?"
     - utf16_bytes:
         - 14
         - 1
@@ -425,10 +425,11 @@ entries:
         - 6
         - 6
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Ancient texts?
+    - text: Ancient texts?
     - utf16_bytes:
         - 0
   Talk20:
@@ -438,45 +439,44 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Don't go spreading this around, but I've\nmade an interesting discovery in this\nancient text.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\nAfter cross-checking with a few other\nmanuscripts, I've realized something\nabout this "
+    - text: "Don't go spreading this around, but I've\nmade an interesting discovery in this\nancient text.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\nAfter cross-checking with a few other\nmanuscripts, I've realized something\nabout this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: cursed statue
+    - text: cursed statue
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n"
+    - text: "...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "It can only refer to a dreadful variety of\ndoll with the ability to influence one's\nbehavior!\n"
+    - text: "ćIt can only refer to a dreadful variety of\ndoll with the ability to influence one's\nbehavior!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Ah, but my apologies."
+    - text: "Ah, but my apologies."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm delving into\nmatters too terrifying for laymen."
+    - text: " I'm delving into\nmatters too terrifying for laymen."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: "Of course, Dr. Calip."
+    - text: "Of course, Dr. Calip."
     - utf16_bytes:
         - 0
   talk15:
@@ -486,17 +486,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Unusually sensible of you. "
+    - text: "Unusually sensible of you. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "But if you\nhave the wit to address me by my proper\ntitle, perhaps I shouldn't be so surprised.\nMy work keeps me far too busy to sleep,\nso you can rest in my bed over there if\nyou need."
+    - text: "But if you\nhave the wit to address me by my proper\ntitle, perhaps I shouldn't be so surprised.\nMy work keeps me far too busy to sleep,\nso you can rest in my bed over there if\nyou need."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: "Gotcha, Calip."
+    - text: "Gotcha, Calip."
     - utf16_bytes:
         - 0
   talk16:
@@ -505,26 +505,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I only do fieldwork at shrines and ruins\nduring the day."
+    - text: "ЀI only do fieldwork at shrines and ruins\nduring the day."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Why, you ask?"
+    - text: " Why, you ask?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Hmm, could it have something to do\nwith the hordes of monsters roaming at\nnight? "
+    - text: "Hmm, could it have something to do\nwith the hordes of monsters roaming at\nnight? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: What an ignoramus...
+    - text: What an ignoramus...
     - utf16_bytes:
         - 0
   Talk22:
@@ -534,47 +533,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\n"
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I've been pondering the "
+    - text: "I've been pondering the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dark light
+    - text: dark light
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nmentioned here for some time, and I\nmust admit I'm stumped.\n"
+    - text: "\nmentioned here for some time, and I\nmust admit I'm stumped.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Light can't be dark, obviously. Unless..."
+    - text: "Light can't be dark, obviously. Unless..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWhoops!"
+    - text: "\nWhoops!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Can't go divulging my research\nbefore I publish, now, can I?"
+    - text: " Can't go divulging my research\nbefore I publish, now, can I?"
     - utf16_bytes:
         - 0
   talk17:
@@ -584,13 +583,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This changes things..."
+    - text: " This changes things..."
     - utf16_bytes:
         - 14
         - 0
@@ -605,42 +604,41 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Very well then!
+    - text: 촉Very well then!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm feeling charitable,\nso I'll let a few things spill."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: " This is just\nbetween us, understand.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - text: " I'm feeling charitable,\nso I'll let a few things spill."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: " This is just\nbetween us, understand.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52503
-    - ascii: "I'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nBut see here, there are far too many\ndangers lurking at this time of night for\nme to stand around discussing this.\nIf you want to rest in my bed, you may."
+    - text: "촗I'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nBut see here, there are far too many\ndangers lurking at this time of night for\nme to stand around discussing this.\nIf you want to rest in my bed, you may."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI tend to be far too engrossed in my\nwork to sleep..."
+    - text: "\nI tend to be far too engrossed in my\nwork to sleep..."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: What do you mean?
+    - text: What do you mean?
     - utf16_bytes:
         - 0
   talk00:
@@ -649,27 +647,27 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\n"
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I'm not wrong, am I?"
+    - text: "I'm not wrong, am I?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It must be around there..."
+    - text: " It must be around there..."
     - utf16_bytes:
         - 14
         - 1
@@ -677,12 +675,13 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk18:
@@ -696,26 +695,25 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촌For goodness' sake, can you not take\neven the broadest hint?"
+    - text: "촌For goodness' sake, can you not take\neven the broadest hint?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm busy!"
+    - text: " I'm busy!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " These\nancient texts won't decipher themselves!\n"
+    - text: " These\nancient texts won't decipher themselves!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Times like these make me long to be\nback in academia, where at least people\nunderstood the value of solitude..."
+    - text: "ĂTimes like these make me long to be\nback in academia, where at least people\nunderstood the value of solitude..."
     - utf16_bytes:
         - 14
         - 1
@@ -723,7 +721,8 @@ entries:
         - 6
         - 6
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk01:
     - utf16_bytes:
@@ -736,64 +735,63 @@ entries:
         - 4
         - 1
         - 2
-        - 52497
-    - ascii: HA!
+    - text: 촑HA!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Let me guess...\n\n\nYou caught wind of the great Dr. Calip's\ngroundbreaking research and just HAD to\nmeet him for yourself."
+    - text: " Let me guess...\n\n\nYou caught wind of the great Dr. Calip's\ngroundbreaking research and just HAD to\nmeet him for yourself."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Heh...\nNo?"
+    - text: " Heh...\nNo?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Don't tell me you've never even\nHEARD of me!"
+    - text: " Don't tell me you've never even\nHEARD of me!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " After I've dedicated my\nlife to researching the ancient shrines?!\n"
+    - text: " After I've dedicated my\nlife to researching the ancient shrines?!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "*sigh*"
+    - text: "*sigh*"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Well, you'd better remember my\nname, for it's not the last you'll hear\nof it!\n"
+    - text: " Well, you'd better remember my\nname, for it's not the last you'll hear\nof it!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "And while I'm at it, it's \"DOCTOR Calip,\"\nif you please. "
+    - text: "And while I'm at it, it's \"DOCTOR Calip,\"\nif you please. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I didn't study my rear end\noff to be called \"Mr. Calip.\"\n"
+    - text: "I didn't study my rear end\noff to be called \"Mr. Calip.\"\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PEveryone forgets I'm a doctor for some reason..."
+    - text: "PEveryone forgets I'm a doctor for some reason..."
     - utf16_bytes:
         - 14
         - 0
@@ -808,12 +806,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52503
+    - text: 촗
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dAnd since you asked, I'll inform you that\nI'm engaged in analyzing ancient texts.\nI haven't time for idle chitchat."
+    - text: "dAnd since you asked, I'll inform you that\nI'm engaged in analyzing ancient texts.\nI haven't time for idle chitchat."
     - utf16_bytes:
         - 14
         - 1
@@ -821,7 +820,8 @@ entries:
         - 6
         - 6
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk03:
     - utf16_bytes:
@@ -834,35 +834,35 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촌You again?
+    - text: 촌You again?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " What now?"
+    - text: " What now?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You want to tag\nalong on my fieldwork?"
+    - text: " You want to tag\nalong on my fieldwork?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Well, I suppose it might do you some\ngood to see an expert at work."
+    - text: "Well, I suppose it might do you some\ngood to see an expert at work."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Just try\nto stay out of my way."
+    - text: " Just try\nto stay out of my way."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: What a mystery...
+    - text: What a mystery...
     - utf16_bytes:
         - 0
   talk06:
@@ -872,19 +872,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, it's you. "
+    - text: "Oh, it's you. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Can whatever it is wait?
+    - text: Can whatever it is wait?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'm VERY busy deciphering these ancient\ntexts."
+    - text: "\nI'm VERY busy deciphering these ancient\ntexts."
     - utf16_bytes:
         - 14
         - 1
@@ -892,7 +892,8 @@ entries:
         - 6
         - 6
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk30:
     - utf16_bytes:
@@ -900,38 +901,38 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "A shrine? Here? But I hadn't completed my\ninquiry into the mystery of the ancient texts."
+    - text: "A shrine? Here? But I hadn't completed my\ninquiry into the mystery of the ancient texts."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This must be what we in the archaeology\nprofession refer to as \"a stroke of luck.\""
+    - text: " This must be what we in the archaeology\nprofession refer to as \"a stroke of luck.\""
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Er, not\nthat I believe in any such thing..."
+    - text: " Er, not\nthat I believe in any such thing..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk31:
@@ -941,25 +942,19 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Huh.
+    - text: Huh.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The mystery deepens..."
+    - text: " The mystery deepens..."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "My only response can be to redouble\nmy efforts"
-    - utf16_bytes:
-        - 8212
-    - ascii: "now that the shrine is\nvisible"
-    - utf16_bytes:
-        - 8212
-    - ascii: to solve the mystery at last!
+    - text: "My only response can be to redouble\nmy efforts—now that the shrine is\nvisible—to solve the mystery at last!"
     - utf16_bytes:
         - 0
   talk32:
@@ -968,26 +963,26 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThe answer is here somewhere..."
+    - text: "\nThe answer is here somewhere..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: but what is it?
+    - text: but what is it?
     - utf16_bytes:
         - 14
         - 1
@@ -995,12 +990,13 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk33:
@@ -1014,14 +1010,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "You again... You certainly look pleased\nwith yourself."
+    - text: "촂You again... You certainly look pleased\nwith yourself."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "But no matter. It's time I headed out for\nsome more shrine fieldwork. "
+    - text: "But no matter. It's time I headed out for\nsome more shrine fieldwork. "
     - utf16_bytes:
         - 0
   talk34:
@@ -1030,38 +1025,37 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "I'm feeling charitable, so I'll let a few\nthings spill."
+    - text: "ЁI'm feeling charitable, so I'll let a few\nthings spill."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This is just between us,\nunderstand.\n"
+    - text: " This is just between us,\nunderstand.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nThat's my life:"
+    - text: "\nI'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nThat's my life:"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " days spent researching\nshrines and nights filled with the study\nof ancient texts. "
+    - text: " days spent researching\nshrines and nights filled with the study\nof ancient texts. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Back to work now...
+    - text: Back to work now...
     - utf16_bytes:
         - 0

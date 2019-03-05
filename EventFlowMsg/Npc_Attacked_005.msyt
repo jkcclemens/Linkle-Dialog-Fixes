@@ -6,8 +6,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: Phew...
+    - text: 촐Phew...
     - utf16_bytes:
         - 0
   Talk01_01:
@@ -17,28 +16,28 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "There are some weird stories going\naround about that Kilton character."
+    - text: "There are some weird stories going\naround about that Kilton character."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHe's obsessed with monsters.\nThey say he does all kinds of hair-raising\nresearch with them and came up with\na bunch of strange stuff as a result.\n"
+    - text: "\nHe's obsessed with monsters.\nThey say he does all kinds of hair-raising\nresearch with them and came up with\na bunch of strange stuff as a result.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I kind of want to meet him at least once\nto see if the rumors are true, but he's\na hard guy to track down."
+    - text: "I kind of want to meet him at least once\nto see if the rumors are true, but he's\na hard guy to track down."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I've heard of him."
+    - text: "I've heard of him."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Doesn't ring a bell."
+    - text: "Doesn't ring a bell."
     - utf16_bytes:
         - 0
   Talk00:
@@ -47,8 +46,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "So you're probably wondering what that\nstuff is."
+    - text: "؋So you're probably wondering what that\nstuff is."
     - utf16_bytes:
         - 0
   Talk01:
@@ -58,47 +56,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's called monster extract."
+    - text: "It's called monster extract."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " A guy\nnamed "
+    - text: " A guy\nnamed "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Kilton
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " brews this stuff up at\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Fang and Bone
+    - text: Kilton
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIt's a kind of flavoring that makes any\nfood taste amazing."
+    - text: " brews this stuff up at\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Fang and Bone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nIt's a kind of flavoring that makes any\nfood taste amazing."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I know it's made of\nmonsters, but it's good stuff."
+    - text: " I know it's made of\nmonsters, but it's good stuff."
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -108,7 +106,7 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "Hmph... I would have been fine on my\nown."
+    - text: "Hmph... I would have been fine on my\nown."
     - utf16_bytes:
         - 14
         - 5
@@ -118,14 +116,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "You probably expect a reward,\nhuh? Unbelievable."
+    - text: "ĀYou probably expect a reward,\nhuh? Unbelievable."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Fine. Here."
+    - text: " Fine. Here."
     - utf16_bytes:
         - 0
   Talk02:
@@ -135,35 +132,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You seem to get around. You know much\nabout this "
+    - text: "You seem to get around. You know much\nabout this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Kilton
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " and his "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Fang and Bone
+    - text: Kilton
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: " and his "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Fang and Bone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -171,7 +168,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   SavedLv1_01:
     - utf16_bytes:
@@ -179,14 +177,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "So, what, you saw the sword and shield\nand thought, \"She looks like she needs\nme to save her\"? "
+    - text: "ขSo, what, you saw the sword and shield\nand thought, \"She looks like she needs\nme to save her\"? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Whatever...
+    - text: Whatever...
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -195,8 +192,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4611
-    - ascii: "OK, I admit you helped. "
+    - text: "ሃOK, I admit you helped. "
     - utf16_bytes:
         - 14
         - 5
@@ -206,8 +202,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I didn't need it,\nso don't expect any thanks, but you can\nhave this if you want."
+    - text: "ĀI didn't need it,\nso don't expect any thanks, but you can\nhave this if you want."
     - utf16_bytes:
         - 0
   Talk03:
@@ -217,13 +212,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Huh! And here I thought he was more\nobscure than that."
+    - text: "Huh! And here I thought he was more\nobscure than that."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Well, I'll tell you what\nlittle I know. Take this for helping me."
+    - text: " Well, I'll tell you what\nlittle I know. Take this for helping me."
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -232,8 +227,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Well, you sure made that simpler than it\nwould've been otherwise. "
+    - text: "ĀWell, you sure made that simpler than it\nwould've been otherwise. "
     - utf16_bytes:
         - 14
         - 5
@@ -243,8 +237,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I should do\nsomething to thank you, I suppose."
+    - text: "ĀI should do\nsomething to thank you, I suppose."
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -253,7 +246,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: " Thanks... I might've bitten off more than\nI could chew with that one."
+    - text: " Thanks... I might've bitten off more than\nI could chew with that one."
     - utf16_bytes:
         - 14
         - 0
@@ -263,8 +256,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I don't have much, but take it. It's yours."
+    - text: "ĀI don't have much, but take it. It's yours."
     - utf16_bytes:
         - 0
   Talk04:
@@ -274,7 +266,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Are you interested in finding out more?\nI could use some help with the hunt.\nTake this, too, for helping me."
+    - text: "Are you interested in finding out more?\nI could use some help with the hunt.\nTake this, too, for helping me."
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -283,14 +275,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I see you can handle yourself in a fight.\nSo can I...most of the time. "
+    - text: "ЀI see you can handle yourself in a fight.\nSo can I...most of the time. "
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I wish I had more to give you than this,\nbut times are tough all over, right?"
+    - text: "I wish I had more to give you than this,\nbut times are tough all over, right?"
     - utf16_bytes:
         - 0
   Talk05:
@@ -300,7 +291,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "One source I trust says he's most often\nfound at a "
+    - text: "One source I trust says he's most often\nfound at a "
     - utf16_bytes:
         - 14
         - 0
@@ -312,21 +303,21 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: skull-shaped lake
+    - text: skull-shaped lake
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in Akkala,\nbut I don't know the place."
+    - text: "in Akkala,\nbut I don't know the place."
     - utf16_bytes:
         - 0
   Talk06:
@@ -335,14 +326,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Apparently, he shows up after dark\nwhere you least expect him. "
+    - text: "ЀApparently, he shows up after dark\nwhere you least expect him. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It could\nbe anywhere in the world.\nBut mark my words...I'll find him\nsomeday!"
+    - text: "It could\nbe anywhere in the world.\nBut mark my words...I'll find him\nsomeday!"
     - utf16_bytes:
         - 0
   Talk07:
@@ -351,27 +341,26 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nYou've MET him?! Lucky you! I've been\nhunting for him forever!"
+    - text: "\nYou've MET him?! Lucky you! I've been\nhunting for him forever!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Is he as\nobsessed with monsters as I've heard?\n"
+    - text: " Is he as\nobsessed with monsters as I've heard?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "They say he does all kinds of hair-raising\nresearch with them and came up with\na bunch of strange stuff as a result.\n"
+    - text: "They say he does all kinds of hair-raising\nresearch with them and came up with\na bunch of strange stuff as a result.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'd love to meet him at least once to see\nif the rumors are true, but he's a hard\nguy to track down."
+    - text: "ĀI'd love to meet him at least once to see\nif the rumors are true, but he's a hard\nguy to track down."
     - utf16_bytes:
         - 0
   After00:
@@ -386,28 +375,28 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: Kilton
+    - text: Kilton
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " at "
+    - text: " at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Fang and Bone
+    - text: Fang and Bone
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is way more\ninterested in researching monsters than\nany normal person should be.\nI'd kind of like to meet him just to see\nwhat kind of weirdo loves monsters\nTHAT much."
+    - text: " is way more\ninterested in researching monsters than\nany normal person should be.\nI'd kind of like to meet him just to see\nwhat kind of weirdo loves monsters\nTHAT much."
     - utf16_bytes:
         - 0
   Talk08:
@@ -416,13 +405,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm so embarrassed you had to rescue\nme AGAIN. Ugh."
+        - 9
+    - text: "I'm so embarrassed you had to rescue\nme AGAIN. Ugh."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Anyway...\n\nI haven't given up the search for that\nKilton guy and his "
+    - text: " Anyway...\n\nI haven't given up the search for that\nKilton guy and his "
     - utf16_bytes:
         - 14
         - 0
@@ -434,7 +424,7 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: Fang and Bone
+    - text: Fang and Bone
     - utf16_bytes:
         - 14
         - 0
@@ -446,7 +436,7 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: ", but I\nhaven't gotten anywhere yet either."
+    - text: ", but I\nhaven't gotten anywhere yet either."
     - utf16_bytes:
         - 0
   Atacked00:
@@ -455,8 +445,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "This one's all mine!"
+    - text: "ขThis one's all mine!"
     - utf16_bytes:
         - 0
   Guardian00:
@@ -465,8 +454,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5634
-    - ascii: "It's a Guardian! Time to go!"
+    - text: "ᘂIt's a Guardian! Time to go!"
     - utf16_bytes:
         - 0
   After01:
@@ -476,21 +464,21 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "The most reliable tip I've heard for\nmeeting him is to hang around a "
+    - text: "The most reliable tip I've heard for\nmeeting him is to hang around a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "skull-\nshaped lake "
+    - text: "skull-\nshaped lake "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: out near Akkala.
+    - text: out near Akkala.
     - utf16_bytes:
         - 0
   Talk00_1:
@@ -499,42 +487,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "I see you've got some monster extract."
+    - text: "؋I see you've got some monster extract."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nDo you know where to find "
+    - text: "\nDo you know where to find "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Kilton
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " and his\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Fang and Bone
+    - text: Kilton
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", then?"
+    - text: " and his\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Fang and Bone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", then?"
     - utf16_bytes:
         - 0
   Failed00:
@@ -543,13 +530,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHmph... I would've sworn I could take\nthat thing. "
+        - 9
+    - text: "Hmph... I would've sworn I could take\nthat thing. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: I must be slipping...
+    - text: I must be slipping...
     - utf16_bytes:
         - 0
   Atacked01:
@@ -558,8 +546,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "What's the matter? Come and get me!"
+    - text: "ขWhat's the matter? Come and get me!"
     - utf16_bytes:
         - 0
   After02:
@@ -568,14 +555,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "He's been sighted all over the place now,\nnot just Akkala. "
+    - text: "ĀHe's been sighted all over the place now,\nnot just Akkala. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Should I be worried?
+    - text: Should I be worried?
     - utf16_bytes:
         - 14
         - 0
@@ -586,7 +572,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "The creepiest part of the stories is how\nhe's supposed to pop up out of nowhere\nonce night falls.\nI'm not as sure as I used to be that I\nactually want to meet him..."
+    - text: "The creepiest part of the stories is how\nhe's supposed to pop up out of nowhere\nonce night falls.\nI'm not as sure as I used to be that I\nactually want to meet him..."
     - utf16_bytes:
         - 0
   Failed01:
@@ -595,13 +581,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOww... What hurts worst is my pride for\nletting them get the drop on me.\n"
+        - 9
+    - text: "Oww... What hurts worst is my pride for\nletting them get the drop on me.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: Never again!
+    - text: ĂNever again!
     - utf16_bytes:
         - 0

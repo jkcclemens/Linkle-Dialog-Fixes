@@ -11,15 +11,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "I'd like to give you something as thanks.\n\n\n"
+    - text: "촎I'd like to give you something as thanks.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Have you decided on an accessory\nyou'd like?"
+    - text: "ĀHave you decided on an accessory\nyou'd like?"
     - utf16_bytes:
         - 14
         - 1
@@ -36,21 +34,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThere's nothing I can do about not\nhaving any "
+        - 9
+    - text: "There's nothing I can do about not\nhaving any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", though..."
+    - text: ", though..."
     - utf16_bytes:
         - 0
   Talk_16:
@@ -60,56 +59,55 @@ entries:
         - 1
         - 2
         - 3
-    - ascii: "Sorry you keep coming here with nothing\nto show for the trip...\n\nWithout "
+    - text: "Sorry you keep coming here with nothing\nto show for the trip...\n\nWithout "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I can't make any\naccessories, so the shop is closed\nfor now.\n"
+    - text: ", I can't make any\naccessories, so the shop is closed\nfor now.\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "It would be a different story if a kind,\ngenerous vai were to give me "
+    - text: "촎It would be a different story if a kind,\ngenerous vai were to give me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 pieces\nof"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: flint
+    - text: "10 pieces\nof"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", though..."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", though..."
     - utf16_bytes:
         - 14
         - 1
@@ -118,7 +116,8 @@ entries:
         - 8
         - 6
         - 7
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_17:
     - utf16_bytes:
@@ -131,8 +130,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: Uh...
+    - text: 촄Uh...
     - utf16_bytes:
         - 0
   Talk_18:
@@ -141,13 +139,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat?!"
+    - text: "\nWhat?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You're just...giving these to me?"
+    - text: " You're just...giving these to me?"
     - utf16_bytes:
         - 14
         - 5
@@ -165,29 +163,28 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Rubies
+    - text: ĀRubies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " have the power to grant cold\nresistance. So you'd like a "
+    - text: " have the power to grant cold\nresistance. So you'd like a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: ruby circlet
+    - text: ruby circlet
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -195,7 +192,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_20:
     - utf16_bytes:
@@ -208,29 +206,28 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Sapphires
+    - text: ĀSapphires
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " have the power to grant heat\nresistance. So you think you'd like a\n"
+    - text: " have the power to grant heat\nresistance. So you think you'd like a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sapphire circlet
+    - text: sapphire circlet
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -238,7 +235,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_21:
     - utf16_bytes:
@@ -251,39 +249,40 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Topaz
+    - text: Ā
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has the power to grant electric\nresistance. So you think you'd like\n"
-    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: topaz earrings
+    - text: Topaz
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: " has the power to grant electric\nresistance. So you think you'd like\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: topaz earrings
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -291,7 +290,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_23:
     - utf16_bytes:
@@ -300,62 +300,63 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I manage a shop that specializes in\nhandmade accessories, "
+    - text: "I manage a shop that specializes in\nhandmade accessories, "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tbut I've run out\nof "
+        - 9
+    - text: "but I've run out\nof "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ". I need it to make my items.\nIf only I had "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "10"
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... Just "
+    - text: ". I need it to make my items.\nIf only I had "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... If some kind\nvai would give me "
+    - text: "... Just "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 10 pieces of flint
+    - text: "10"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "... If some kind\nvai would give me "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 10 pieces of flint
     - utf16_bytes:
         - 14
         - 5
@@ -366,26 +367,26 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: ", \nI could offer a nice reward..."
+    - text: ", \nI could offer a nice reward..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I can dream all I want, though... "
+    - text: "I can dream all I want, though... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Nothing\ngoes that smoothly in the real world."
+    - text: "Nothing\ngoes that smoothly in the real world."
     - utf16_bytes:
         - 14
         - 1
@@ -393,10 +394,11 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Near:
-    - ascii: I have to do something...
+    - text: I have to do something...
     - utf16_bytes:
         - 0
   Talk_24:
@@ -406,13 +408,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You're a Hylian, right? Listen, I'm sorry\nyou came all this way,"
+    - text: "You're a Hylian, right? Listen, I'm sorry\nyou came all this way,"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\t but my shop is\ngonna have to close for a bit."
+        - 9
+    - text: " but my shop is\ngonna have to close for a bit."
     - utf16_bytes:
         - 0
   Talk_25:
@@ -422,13 +425,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Hmm.
+    - text: Hmm.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Well, I do appreciate the gesture...\n\n\n"
+    - text: " Well, I do appreciate the gesture...\n\n\n"
     - utf16_bytes:
         - 14
         - 0
@@ -445,33 +448,33 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "But unless I have "
+    - text: "But unless I have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 pieces of "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "flint "
+    - text: "10 pieces of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to\nget started with, there's no point..."
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "flint "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "to\nget started with, there's no point..."
     - utf16_bytes:
         - 0
   Talk_26:
@@ -480,22 +483,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI haven't really got the time to be\ngreeting people, honestly...\n\nNow that the Divine Beast has finally\ncalmed down, there should be a rush of\ncustomers any second...\n"
+        - 9
+    - text: "I haven't really got the time to be\ngreeting people, honestly...\n\nNow that the Divine Beast has finally\ncalmed down, there should be a rush of\ncustomers any second...\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "So why did something like this have to\nhappen to me now, of all times?"
+    - text: "촎So why did something like this have to\nhappen to me now, of all times?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t\n"
+        - 9
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   Talk_27:
     - utf16_bytes:
@@ -503,7 +506,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm in a bit of a jam, really..."
+        - 9
+    - text: "I'm in a bit of a jam, really..."
     - utf16_bytes:
         - 0
   Talk_28:
@@ -512,13 +516,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHahh... "
+        - 9
+    - text: "Hahh... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Oooh, what to do, what to do..."
+    - text: "Oooh, what to do, what to do..."
     - utf16_bytes:
         - 0
   Talk_29:
@@ -532,25 +537,24 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Vasaaq...\n\n\n"
+    - text: "촎Vasaaq...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ĉNot that I have any reason to be\ngreeting people..."
+    - text: "ĉNot that I have any reason to be\ngreeting people..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t\n"
+        - 9
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   "0000":
-    - ascii: "Yes, please!"
+    - text: "Yes, please!"
     - utf16_bytes:
         - 0
   Talk_01:
@@ -559,15 +563,16 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tGreat! You got the last of my free time\nwith that greeting."
+        - 9
+    - text: "Great! You got the last of my free time\nwith that greeting."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t\n"
+        - 9
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   Talk_30:
     - utf16_bytes:
@@ -575,60 +580,60 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry... I still haven't gotten my\nhands on any "
+        - 9
+    - text: "I'm sorry... I still haven't gotten my\nhands on any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". I can't really make\nanything without it.\n"
+    - text: ". I can't really make\nanything without it.\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Hah... I wonder if a kind, generous\nvai would give me "
+    - text: "촎Hah... I wonder if a kind, generous\nvai would give me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 10 pieces of
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: flint
+    - text: 10 pieces of
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   Talk_31:
@@ -637,70 +642,70 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry... I haven't been able to get any\n"
+        - 9
+    - text: "I'm sorry... I haven't been able to get any\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "flint "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "yet, so I'm not in a position to make\nany "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: accessories
+    - text: "flint "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " right now...\n"
+    - text: "yet, so I'm not in a position to make\nany "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: accessories
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " right now...\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Hmm, I wonder if I'd be able to work if\na kind, generous vai were to give me "
+    - text: "촎Hmm, I wonder if I'd be able to work if\na kind, generous vai were to give me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10\npieces of"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: flint
+    - text: "10\npieces of"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", though..."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", though..."
     - utf16_bytes:
         - 14
         - 1
@@ -709,7 +714,8 @@ entries:
         - 8
         - 6
         - 7
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_02:
     - utf16_bytes:
@@ -718,39 +724,39 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Sarqso!
+    - text: Sarqso!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But...I can't take this all from you with\njust a sarqso. We hardly know each\nother,"
+    - text: "But...I can't take this all from you with\njust a sarqso. We hardly know each\nother,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and you've been so nice...\n"
+    - text: " and you've been so nice...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "The shop's been closed so long,\nI hardly have any inventory..."
+    - text: "The shop's been closed so long,\nI hardly have any inventory..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -761,14 +767,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52497
-    - ascii: "Oh, of course!"
+    - text: "촑Oh, of course!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
@@ -784,21 +789,21 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "Now that I have some\n"
+    - text: "Now that I have some\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I could make a jeweled accessory\nfor you if you're interested in something."
+    - text: ", I could make a jeweled accessory\nfor you if you're interested in something."
     - utf16_bytes:
         - 14
         - 1
@@ -810,7 +815,7 @@ entries:
         - 768
         - 0
   "0002":
-    - ascii: Ruby?
+    - text: Ruby?
     - utf16_bytes:
         - 0
   Talk_32:
@@ -819,21 +824,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI can't do anything without some "
+        - 9
+    - text: "I can't do anything without some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -841,10 +847,11 @@ entries:
         - 6
         - 8
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: Sapphire?
+    - text: Sapphire?
     - utf16_bytes:
         - 0
   Talk_03:
@@ -854,14 +861,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm sorry that these are all I have to offer\nto show my appreciation...\n\n"
+    - text: "I'm sorry that these are all I have to offer\nto show my appreciation...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "But really...I need to give you something\nto feel OK about accepting your help.\nCould you please pick one?"
+    - text: "But really...I need to give you something\nto feel OK about accepting your help.\nCould you please pick one?"
     - utf16_bytes:
         - 14
         - 1
@@ -883,12 +890,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta..."
+    - text: "촙Sav'otta..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Topaz?
+    - text: Topaz?
     - utf16_bytes:
         - 0
   Talk_34:
@@ -902,8 +908,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq..."
+    - text: "촚Sav'aaq..."
     - utf16_bytes:
         - 0
   Talk_35:
@@ -917,12 +922,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba..."
+    - text: "촛Sav'saaba..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Accessories?
+    - text: Accessories?
     - utf16_bytes:
         - 0
   Talk_06:
@@ -932,74 +936,74 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh,"
+    - text: "Oh,"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " you..."
+    - text: " you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry you keep coming here for\nnothing...\n\nWithout "
+        - 9
+    - text: "I'm sorry you keep coming here for\nnothing...\n\nWithout "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I can't process jewels, so\nI can't sell anything in my shop.\n\n"
+    - text: ", I can't process jewels, so\nI can't sell anything in my shop.\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "It'd be a different story if a kind,\ngenerous vai were to give me "
+    - text: "촎It'd be a different story if a kind,\ngenerous vai were to give me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 pieces\nof"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: flint
+    - text: "10 pieces\nof"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", though..."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", though..."
     - utf16_bytes:
         - 14
         - 1
@@ -1007,7 +1011,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_36:
     - utf16_bytes:
@@ -1020,12 +1025,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk_37:
@@ -1039,8 +1043,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!"
+    - text: "촚Sav'aaq!"
     - utf16_bytes:
         - 0
   Talk_08:
@@ -1050,53 +1053,53 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I use "
+    - text: "I use "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rubies
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sapphires
+    - text: rubies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and other gems\nto make "
+    - text: ", "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: accessories
+    - text: sapphires
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". \n\nEach gem type has its own power that it\ncan transfer to whoever wears it."
+    - text: ", and other gems\nto make "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: accessories
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". \n\nEach gem type has its own power that it\ncan transfer to whoever wears it."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: "Here's some flint."
+    - text: "Here's some flint."
     - utf16_bytes:
         - 0
   Talk_38:
@@ -1110,12 +1113,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "What's the matter?"
+    - text: "What's the matter?"
     - utf16_bytes:
         - 0
   Talk_09:
@@ -1124,11 +1126,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry that you came all the way\nto see me for nothing."
+        - 9
+    - text: "I'm sorry that you came all the way\nto see me for nothing."
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk_10:
@@ -1142,8 +1145,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Brand-new, especially for you!\nI think it turned out really well!"
+    - text: "촇Brand-new, especially for you!\nI think it turned out really well!"
     - utf16_bytes:
         - 0
   Talk_11:
@@ -1157,25 +1159,25 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Thanks to you, I got the shop running\nagain, so if you ever need an accessory,\nplease come by for a special discount.\nJust..."
+    - text: "촉Thanks to you, I got the shop running\nagain, so if you ever need an accessory,\nplease come by for a special discount.\nJust..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "don't tell my other customers, "
+    - text: "don't tell my other customers, "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: POK?
+    - text: POK?
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_12:
@@ -1189,14 +1191,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Teehee, I thought you might pick that\none."
+    - text: "촇Teehee, I thought you might pick that\none."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Please give me a moment..."
+    - text: " Please give me a moment..."
     - utf16_bytes:
         - 0
   Talk_13:
@@ -1210,16 +1211,12 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Teehee, I thought you might pick that\none. "
+    - text: "촇Teehee, I thought you might pick that\none. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Just give
-    - utf16_bytes:
-        - 8212
-    - ascii: "\n\nHang on. It doesn't seem like you've got\nroom for this right now. Perhaps you can\nmake some room and come back?"
+    - text: "Just give—\n\nHang on. It doesn't seem like you've got\nroom for this right now. Perhaps you can\nmake some room and come back?"
     - utf16_bytes:
         - 0

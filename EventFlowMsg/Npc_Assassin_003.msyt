@@ -1,19 +1,19 @@
 ---
 entries:
   "0001":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "That's...um..."
+    - text: "That's...um..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "Can't wait!"
+    - text: "Can't wait!"
     - utf16_bytes:
         - 0
   Talk00:
@@ -23,23 +23,23 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: About a year ago...
+    - text: About a year ago...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I was walking along\nthe road here at night, when I suddenly\nsaw a blinding light in the sky.\nWhen my eyes finally adjusted, I found\nmyself looking at a shimmering object\nfloating overhead. I couldn't look away.\nThe next thing I knew, I was bathed in\nlight. "
+    - text: "I was walking along\nthe road here at night, when I suddenly\nsaw a blinding light in the sky.\nWhen my eyes finally adjusted, I found\nmyself looking at a shimmering object\nfloating overhead. I couldn't look away.\nThe next thing I knew, I was bathed in\nlight. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "When I came to, I woke up in bed\ncovered in sweat."
+    - text: "When I came to, I woke up in bed\ncovered in sweat."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Talk01:
@@ -49,13 +49,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: What...
+    - text: What...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: do you think about that?
+    - text: do you think about that?
     - utf16_bytes:
         - 14
         - 1
@@ -63,7 +63,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk02:
     - utf16_bytes:
@@ -71,45 +72,43 @@ entries:
         - 3
         - 1
         - 2
-        - 3339
-    - ascii: At first I thought it was just a bad dream.
+    - text: ഋAt first I thought it was just a bad dream.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nBut the bed I woke up in..."
+    - text: "\nBut the bed I woke up in..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nwasn't my bed.\nIt was a bed full of liquid in an empty\nroom. And when I looked in the corner..."
+    - text: "\nwasn't my bed.\nIt was a bed full of liquid in an empty\nroom. And when I looked in the corner..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nthere was a weird glowing device.\n"
+    - text: "\nthere was a weird glowing device.\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "And when I touched the device...\n\n\nI was overwhelmed with a feeling of..."
+    - text: "촎And when I touched the device...\n\n\nI was overwhelmed with a feeling of..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nfamiliarity."
+    - text: "\nfamiliarity."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " When I came to, I was here..."
+    - text: " When I came to, I was here..."
     - utf16_bytes:
         - 0
   Talk03:
@@ -119,13 +118,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: What...
+    - text: What...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: do you think about that?
+    - text: do you think about that?
     - utf16_bytes:
         - 14
         - 1
@@ -133,7 +132,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk04:
     - utf16_bytes:
@@ -142,13 +142,13 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: Does that story sound familiar...
+    - text: Does that story sound familiar...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nHylian Champion?"
+    - text: "\nHylian Champion?"
     - utf16_bytes:
         - 0
   Henshin00:
@@ -157,31 +157,32 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Your story ends here, hero girl!"
+    - text: "}Your story ends here, hero girl!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -192,13 +193,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Why so mum...
+    - text: Why so mum...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Hylian Champion?
+    - text: Hylian Champion?
     - utf16_bytes:
         - 0
   Henshin01:
@@ -207,31 +208,32 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}FOR MASTER KOHGA!"
+    - text: "}FOR MASTER KOHGA!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -241,8 +243,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "*grumble*"
+    - text: 촎*grumble*
     - utf16_bytes:
         - 0
   Talk06:
@@ -251,8 +252,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "I heard the weather is going to be nice\ntomorrow."
+    - text: "ᤀI heard the weather is going to be nice\ntomorrow."
     - utf16_bytes:
         - 14
         - 1
@@ -260,7 +260,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk07:
     - utf16_bytes:
@@ -268,11 +269,10 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Too bad you won't be alive to enjoy it..."
+    - text: "āToo bad you won't be alive to enjoy it..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Sounds like a dream.
+    - text: Sounds like a dream.
     - utf16_bytes:
         - 0

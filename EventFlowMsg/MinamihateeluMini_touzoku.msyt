@@ -11,21 +11,21 @@ entries:
         - 5
         - 1
         - 0
-    - ascii: "We're after nothing less than the\n"
+    - text: "We're after nothing less than the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "treasure of Misko, the Great Bandit"
+    - text: "treasure of Misko, the Great Bandit"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nFinding it would mean incredible riches...\nI'm not about to give this information\naway for free. I'm no fool!"
+    - text: "!\nFinding it would mean incredible riches...\nI'm not about to give this information\naway for free. I'm no fool!"
     - utf16_bytes:
         - 0
   near00:
@@ -35,7 +35,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 0
   Talk10:
@@ -45,13 +45,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Heh.
+    - text: Heh.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Good deal."
+    - text: " Good deal."
     - utf16_bytes:
         - 0
   near01:
@@ -61,7 +61,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I bet it's over there!"
+    - text: "I bet it's over there!"
     - utf16_bytes:
         - 0
   Talk11:
@@ -71,7 +71,7 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "Well, I've got nothing to say to some\nbum without even two rupees to rub\ntogether."
+    - text: "Well, I've got nothing to say to some\nbum without even two rupees to rub\ntogether."
     - utf16_bytes:
         - 0
   Talk12:
@@ -81,7 +81,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Way to go, Dak. You did it!"
+    - text: "Way to go, Dak. You did it!"
     - utf16_bytes:
         - 0
   Talk00:
@@ -90,8 +90,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1035
-    - ascii: Prissen! Hang on!
+    - text: ЋPrissen! Hang on!
     - utf16_bytes:
         - 0
   Talk13:
@@ -101,7 +100,7 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "Misko hid the location of the treasure in\nsome kind of strange secret code.\n\nI heard this from a former dog walker of\none of Misko's underling's descendant's\nneighbors. As solid a lead as any."
+    - text: "Misko hid the location of the treasure in\nsome kind of strange secret code.\n\nI heard this from a former dog walker of\none of Misko's underling's descendant's\nneighbors. As solid a lead as any."
     - utf16_bytes:
         - 0
   Talk01:
@@ -111,21 +110,21 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I've got the scoop on Misko's "
+    - text: "I've got the scoop on Misko's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: treasure
+    - text: treasure
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nand it's great! Listen up, Dak..."
+    - text: ",\nand it's great! Listen up, Dak..."
     - utf16_bytes:
         - 0
   Talk14:
@@ -134,8 +133,7 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "Just knowing someone with good intel\nlike that? Exactly what I'd expect from\nyou, Dak!"
+    - text: "ćJust knowing someone with good intel\nlike that? Exactly what I'd expect from\nyou, Dak!"
     - utf16_bytes:
         - 0
   Talk02:
@@ -144,8 +142,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "Prissen! You're going to give it all away!"
+    - text: "ขPrissen! You're going to give it all away!"
     - utf16_bytes:
         - 0
   Talk15:
@@ -154,27 +151,26 @@ entries:
         - 3
         - 1
         - 2
-        - 1794
-    - ascii: "But this riddle has even I, Domidak,\nthe premier treasure hunter,\nscratching my head.\n"
+    - text: "܂But this riddle has even I, Domidak,\nthe premier treasure hunter,\nscratching my head.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "So that you can tell how challenging my\nwork is, "
+    - text: "So that you can tell how challenging my\nwork is, "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'll tell it to you. "
+    - text: "I'll tell it to you. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You'll never\nsolve it, though."
+    - text: "You'll never\nsolve it, though."
     - utf16_bytes:
         - 0
   Talk03:
@@ -183,13 +179,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tSorry, Dak... "
+        - 9
+    - text: "Sorry, Dak... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: I got carried away.
+    - text: I got carried away.
     - utf16_bytes:
         - 0
   Talk16:
@@ -199,7 +196,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The little twin steps over the little river.\nMy cave rests above that river's source."
+    - text: "The little twin steps over the little river.\nMy cave rests above that river's source."
     - utf16_bytes:
         - 0
   Talk04:
@@ -209,11 +206,11 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "Anyway, we're busy here, dude.\nIf you need something, take it up\nwith someone else."
+    - text: "Anyway, we're busy here, dude.\nIf you need something, take it up\nwith someone else."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "So... Misko's treasure?"
+    - text: "So... Misko's treasure?"
     - utf16_bytes:
         - 0
   Talk17:
@@ -222,42 +219,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1026
-    - ascii: "It'll be "
+    - text: "ЂIt'll be "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 100 rupees
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " to learn what\nwe know.\n\nTruth is, it'd be a steal to get this\nexclusive scoop for "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "1,000 rupees"
+    - text: 100 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " to learn what\nwe know.\n\nTruth is, it'd be a steal to get this\nexclusive scoop for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "1,000 rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSo what do you say?"
+    - text: "\nSo what do you say?"
     - utf16_bytes:
         - 14
         - 1
@@ -265,7 +261,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk18:
     - utf16_bytes:
@@ -273,14 +270,13 @@ entries:
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Hey, buddy! What's your problem?"
+    - text: "ĂHey, buddy! What's your problem?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You\naren't being incredibly rude and listening\nto our conversation, are you?"
+    - text: " You\naren't being incredibly rude and listening\nto our conversation, are you?"
     - utf16_bytes:
         - 0
   Talk05:
@@ -290,7 +286,7 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "You again? Pay no mind to my little bro's\nchatter from before. He's got a penchant\nfor running his mouth with crazy talk."
+    - text: "You again? Pay no mind to my little bro's\nchatter from before. He's got a penchant\nfor running his mouth with crazy talk."
     - utf16_bytes:
         - 14
         - 1
@@ -298,10 +294,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: I...see.
+    - text: I...see.
     - utf16_bytes:
         - 0
   Talk19:
@@ -311,27 +308,27 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "We're treasure hunters, on the trail of\nour latest score... The"
+    - text: "We're treasure hunters, on the trail of\nour latest score... The"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " treasure of the\ngreat bandit Misko"
+    - text: " treasure of the\ngreat bandit Misko"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's as good as ours!"
+    - text: " It's as good as ours!"
     - utf16_bytes:
         - 0
   Talk06:
@@ -340,12 +337,11 @@ entries:
         - 3
         - 1
         - 2
-        - 3851
-    - ascii: "Ahhh shoot. Welp. Can't say I didn't try\nto throw him off..."
+    - text: "་Ahhh shoot. Welp. Can't say I didn't try\nto throw him off..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Deal!
+    - text: Deal!
     - utf16_bytes:
         - 0
   Talk07:
@@ -355,29 +351,23 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "Anyway. Misko's treasure"
-    - utf16_bytes:
-        - 8212
-    - ascii: "not that we\nwere talking about such a thing"
-    - utf16_bytes:
-        - 8212
-    - ascii: "is only\nfor the BEST of treasure hunters. \nThat probably rules you out, bub.\n\n\n"
+    - text: "Anyway. Misko's treasure—not that we\nwere talking about such a thing—is only\nfor the BEST of treasure hunters. \nThat probably rules you out, bub.\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PThe fewer people after it, the better.\nAnd we've still got the scoop!"
+    - text: "PThe fewer people after it, the better.\nAnd we've still got the scoop!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: No way!
+    - text: No way!
     - utf16_bytes:
         - 0
   Talk08:
@@ -387,7 +377,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Hey, Dak... Why don't we just tell him?\nMaybe he'll leave us alone if we do.\n\nI mean, if we can't figure this riddle out,\nthere's no way someone like him will be\nable to."
+    - text: "Hey, Dak... Why don't we just tell him?\nMaybe he'll leave us alone if we do.\n\nI mean, if we can't figure this riddle out,\nthere's no way someone like him will be\nable to."
     - utf16_bytes:
         - 0
   Talk09:
@@ -397,7 +387,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "...That's a good point.\n\n"
+    - text: "...That's a good point.\n\n"
     - utf16_bytes:
         - 0
   Talk20:
@@ -407,9 +397,6 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "That's the keen sense of the strongest\ntreasure hunter at work! No gold left\nbehind"
-    - utf16_bytes:
-        - 8212
-    - ascii: "not by Domidak!\nYou're great, Dak!"
+    - text: "That's the keen sense of the strongest\ntreasure hunter at work! No gold left\nbehind—not by Domidak!\nYou're great, Dak!"
     - utf16_bytes:
         - 0

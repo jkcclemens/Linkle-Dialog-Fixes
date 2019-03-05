@@ -7,7 +7,7 @@ entries:
         - 2
         - 18
         - 16
-    - ascii: ActivatePlace the Sheikah Slate in the pedestal.
+    - text: ActivatePlace the Sheikah Slate in the pedestal.
     - utf16_bytes:
         - 0
   Talk02:
@@ -17,11 +17,11 @@ entries:
         - 2
         - 18
         - 16
-    - ascii: "ActivateSheikah Slate confirmed.\nPlease beware of tremors..."
+    - text: "ActivateSheikah Slate confirmed.\nPlease beware of tremors..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   Talk03:
@@ -31,7 +31,7 @@ entries:
         - 2
         - 18
         - 16
-    - ascii: ActivateReturn to the Shrine of Resurrection?
+    - text: ActivateReturn to the Shrine of Resurrection?
     - utf16_bytes:
         - 14
         - 1
@@ -39,9 +39,10 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0

@@ -6,21 +6,19 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: Huh...
+    - text: ᠀Huh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "I heard Purah was giving you the\nrunaround, but you seem just fine."
+    - text: "ćI heard Purah was giving you the\nrunaround, but you seem just fine."
     - utf16_bytes:
         - 0
   Talk_19_ch3:
@@ -30,22 +28,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You should have everything you need to\nconfront Ganon."
+    - text: "You should have everything you need to\nconfront Ganon."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I leave the princess's\nlife in your hands."
+    - text: " I leave the princess's\nlife in your hands."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 11
-    - ascii: "\r\n"
+        - 13
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   CarryingBlueFireEXMini03:
     - utf16_bytes:
@@ -54,13 +52,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Now then...
+    - text: Now then...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Let me see."
+    - text: " Let me see."
     - utf16_bytes:
         - 0
   Talk_19_ch4:
@@ -70,21 +68,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You should have everything you need to\nconfront Ganon."
+    - text: "You should have everything you need to\nconfront Ganon."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I leave the princess's\nlife in your hands."
+    - text: " I leave the princess's\nlife in your hands."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-    - ascii: "\t\r\n"
+        - 9
+        - 13
+    - text: "\n"
     - utf16_bytes:
         - 768
         - 0
@@ -95,7 +95,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A hundred years ago, you and the\nprincess were quite close.\n\nYou were a comfort and an encouraging\npresence to her as she struggled\neach day to fulfill her destiny."
+    - text: "A hundred years ago, you and the\nprincess were quite close.\n\nYou were a comfort and an encouraging\npresence to her as she struggled\neach day to fulfill her destiny."
     - utf16_bytes:
         - 0
   Give_ChampionShirt_10:
@@ -105,7 +105,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is something of yours that I have\nbeen keeping safe, by request of\nthe princess.\nThis clothing was specially made for\nyou when you became a Champion.\nPlease handle it with care."
+    - text: "This is something of yours that I have\nbeen keeping safe, by request of\nthe princess.\nThis clothing was specially made for\nyou when you became a Champion.\nPlease handle it with care."
     - utf16_bytes:
         - 0
   Talk_00_ch3:
@@ -114,17 +114,16 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you want a different outcome this \ntime around, you'll need to be properly\nequipped."
+    - text: "ĀIf you want a different outcome this \ntime around, you'll need to be properly\nequipped."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
-    - ascii: "\r\n"
+        - 13
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   CarryingBlueFireEXMini05:
     - utf16_bytes:
@@ -132,27 +131,27 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᘊAha!
+    - text: ᘊAha!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " This is, without a doubt, the "
+    - text: " This is, without a doubt, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Camera
+    - text: Camera
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nthat Princess Zelda used 100 years ago."
+    - text: "\nthat Princess Zelda used 100 years ago."
     - utf16_bytes:
         - 0
   Connective_Comp_Find_4Relic:
@@ -162,13 +161,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: By the way...
+    - text: By the way...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " How are you faring\nthus far?"
+    - text: " How are you faring\nthus far?"
     - utf16_bytes:
         - 0
   Talk03:
@@ -178,25 +177,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That is why she believes in you...\nand why she has the strength\nto fight "
+    - text: "That is why she believes in you...\nand why she has the strength\nto fight "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Ganon "
+    - text: "Ganon "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: all alone.
+    - text: all alone.
     - utf16_bytes:
         - 0
   NakedPlayer:
-    - ascii: Put on some clothes!
+    - text: Put on some clothes!
     - utf16_bytes:
         - 0
   Talk_00_ch4:
@@ -205,16 +204,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you want a different outcome this \ntime around, you'll need to be properly\nequipped."
+    - text: "ĀIf you want a different outcome this \ntime around, you'll need to be properly\nequipped."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "\t\r\n"
+        - 9
+        - 13
+    - text: "\n"
     - utf16_bytes:
         - 768
         - 0
@@ -224,41 +224,39 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "..."
+    - text: ċ...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 6145
-    - ascii: "It could be that if you visit the locations\nwithin those "
+    - text: "᠁It could be that if you visit the locations\nwithin those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pictures
+    - text: pictures
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", "
+    - text: ", "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "you will be able\nto restore some of your lost memories."
+    - text: "you will be able\nto restore some of your lost memories."
     - utf16_bytes:
         - 0
   Talk04:
@@ -267,7 +265,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tLinkle.\n\n\nThe princess...\n\n\nPlease hurry and save our princess!\nShe has been fighting all alone for\n100 years."
+        - 9
+    - text: "Linkle.\n\n\nThe princess...\n\n\nPlease hurry and save our princess!\nShe has been fighting all alone for\n100 years."
     - utf16_bytes:
         - 0
   Talk05:
@@ -276,8 +275,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6145
-    - ascii: "It seems you have visited all of\nthe locations."
+    - text: "᠁It seems you have visited all of\nthe locations."
     - utf16_bytes:
         - 14
         - 5
@@ -290,30 +288,30 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᠊Oh? I see...
+    - text: ᠊Oh? I see...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nThere was a time when you would have\nfearlessly charged forward on such a\nchallenge without a moment's hesitation."
+    - text: "\n\n\nThere was a time when you would have\nfearlessly charged forward on such a\nchallenge without a moment's hesitation."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Well, it is what it is. In any case, please\nreturn here once your heart remembers\nwhat your mind has forgotten."
+    - text: "Well, it is what it is. In any case, please\nreturn here once your heart remembers\nwhat your mind has forgotten."
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: "Don't be a fool..."
+    - text: "Don't be a fool..."
     - utf16_bytes:
         - 0
   Sayonara01:
@@ -322,26 +320,25 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: I have been waiting for 100 years.
+    - text: इI have been waiting for 100 years.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nNeedless to say, I can certainly wait\na bit longer, if I must."
+    - text: "\nNeedless to say, I can certainly wait\na bit longer, if I must."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThis is an important decision. You must\nnot make it lightly."
+    - text: "\nThis is an important decision. You must\nnot make it lightly."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Please take your\ntime thinking it over."
+    - text: " Please take your\ntime thinking it over."
     - utf16_bytes:
         - 14
         - 5
@@ -355,22 +352,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: The princess...our Zelda...
+    - text: The princess...our Zelda...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I leave her life\nin your hands."
+    - text: "I leave her life\nin your hands."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 11
-    - ascii: "\r\n"
+        - 13
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   Talk_18_ch4:
     - utf16_bytes:
@@ -379,21 +376,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: The princess...our Zelda...
+    - text: The princess...our Zelda...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I leave her life\nin your hands."
+    - text: "I leave her life\nin your hands."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-    - ascii: "\t\r\n"
+        - 9
+        - 13
+    - text: "\n"
     - utf16_bytes:
         - 768
         - 0
@@ -403,17 +402,16 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "All I can do is tell you what took place...\nand so I shall. I will tell you all that\nI know."
+    - text: "ĀAll I can do is tell you what took place...\nand so I shall. I will tell you all that\nI know."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
-    - ascii: "\r\n"
+        - 13
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   SecondTalk01:
     - utf16_bytes:
@@ -421,48 +419,48 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ဉYou're still here?\n\n\n"
+    - text: "ဉYou're still here?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Princess Zelda gifted that "
+    - text: "Princess Zelda gifted that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nto you. "
+    - text: "\nto you. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It is the only guide that can lead\nyou to "
+    - text: "It is the only guide that can lead\nyou to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Calamity Ganon
+    - text: Calamity Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nBut you cannot use it to its full potential\nin its present state..."
+    - text: ".\nBut you cannot use it to its full potential\nin its present state..."
     - utf16_bytes:
         - 0
   Talk_12_ch4:
@@ -471,16 +469,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "All I can do is tell you what took place...\nand so I shall. I will tell you all that\nI know."
+    - text: "ĀAll I can do is tell you what took place...\nand so I shall. I will tell you all that\nI know."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "\t\r\n"
+        - 9
+        - 13
+    - text: "\n"
     - utf16_bytes:
         - 768
         - 0
@@ -490,34 +489,35 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tPaya has been like that ever since the\n"
+        - 9
+    - text: "Paya has been like that ever since the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah heirloom "
+    - text: "Sheikah heirloom "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "was stolen... "
+    - text: "was stolen... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "To think\nthat it would be taken, just like that.\n"
+    - text: "To think\nthat it would be taken, just like that.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "We would like your help, of course,\nbut we understand you have an\nimportant mission to complete."
+    - text: "We would like your help, of course,\nbut we understand you have an\nimportant mission to complete."
     - utf16_bytes:
         - 0
   Talk_07_2:
@@ -527,81 +527,81 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Daruk.
+    - text: Daruk.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Urbosa."
+    - text: " Urbosa."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nRevali."
+    - text: "\nRevali."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Mipha."
+    - text: " Mipha."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nA hundred years ago, "
+    - text: "\n\nA hundred years ago, "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I put my life on\nthe line to fight alongside everyone.\n\n"
+    - text: "I put my life on\nthe line to fight alongside everyone.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut...I could not protect them."
+        - 9
+    - text: But...I could not protect them.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nThey died without fulfilling their\ndestinies. "
+    - text: "\n\n\nThey died without fulfilling their\ndestinies. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I have lived all this time\nthinking they died in vain.\n"
+    - text: "I have lived all this time\nthinking they died in vain.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But this energy I feel from\ntheir presence..."
+    - text: "But this energy I feel from\ntheir presence..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 6151
-    - ascii: "It seems they have not given up.\n\n\nI can also sense..."
+    - text: "᠇It seems they have not given up.\n\n\nI can also sense..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "that they were all\noverjoyed to see you again."
+    - text: "that they were all\noverjoyed to see you again."
     - utf16_bytes:
         - 0
   Shinju_05_noko_Fire:
@@ -611,39 +611,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Still, the "
+    - text: "Still, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Vah Rudania
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nremains. That one was controlled\nby Daruk of the Gorons."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Vah Rudania
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nremains. That one was controlled\nby Daruk of the Gorons."
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: The joke has gone too far!
+    - text: The joke has gone too far!
     - utf16_bytes:
         - 0
   Shinju_01:
@@ -652,8 +652,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6145
-    - ascii: Ha! I see...
+    - text: ᠁Ha! I see...
     - utf16_bytes:
         - 0
   Give_ChampionShirt_00:
@@ -663,7 +662,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Now that you have seen some of the\nprincess's memories, you must have\nstarted to remember certain things...\nHere. I will hand this over to you now,\nbefore I forget."
+    - text: "Now that you have seen some of the\nprincess's memories, you must have\nstarted to remember certain things...\nHere. I will hand this over to you now,\nbefore I forget."
     - utf16_bytes:
         - 0
   Shinju00:
@@ -673,14 +672,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "four Divine Beasts "
+    - text: "four Divine Beasts "
     - utf16_bytes:
         - 14
         - 0
@@ -691,179 +690,179 @@ entries:
         - 5
         - 1
         - 0
-    - ascii: "are the ancient\nSheikah weapons wielded by the four\nChampions who Ganon defeated.\nThe "
+    - text: "are the ancient\nSheikah weapons wielded by the four\nChampions who Ganon defeated.\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Divine Beast Vah
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Rudania
+    - text: Divine Beast Vah
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\ncontrolled by "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: "Daruk "
+        - 0
+    - text: Rudania
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of the Gorons.
+    - text: ",\ncontrolled by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Daruk "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: of the Gorons.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nThe "
+    - text: "\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Divine Beast Vah Medoh
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\ncontrolled by "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Revali "
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of the Rito.
+    - text: ",\ncontrolled by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Revali "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: of the Rito.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nThe "
+    - text: "\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Divine Beast Vah
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Ruta
+    - text: Divine Beast Vah
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\ncontrolled by "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: "Mipha "
+        - 0
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of the Zora.
+    - text: ",\ncontrolled by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Mipha "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: of the Zora.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nAnd the "
+    - text: "\n\nAnd the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Divine Beast Vah
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Naboris
+    - text: Divine Beast Vah
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\ncontrolled by "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: "Urbosa "
+        - 0
+    - text: Naboris
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: of the Gerudo.
+    - text: ",\ncontrolled by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Urbosa "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: of the Gerudo.
     - utf16_bytes:
         - 14
         - 5
@@ -876,98 +875,98 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ЉIt would be extremely ill-advised to face\n"
+    - text: "ЉIt would be extremely ill-advised to face\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Ganon "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "without the power of the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Divine\nBeasts"
+    - text: "Ganon "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to help you...\nYou must infiltrate the "
+    - text: "without the power of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beasts
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " that\nwere stolen away by "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Ganon
+    - text: "Divine\nBeasts"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " 100 years\nago and bring them back to our side.\n"
+    - text: " to help you...\nYou must infiltrate the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beasts
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " that\nwere stolen away by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Ganon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " 100 years\nago and bring them back to our side.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "More information about these "
+    - text: "More information about these "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine\nBeasts "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "can be found by locating the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "four races "
+    - text: "Divine\nBeasts "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: scattered across Hyrule.
+    - text: "can be found by locating the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "four races "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: scattered across Hyrule.
     - utf16_bytes:
         - 0
   Shinju_03:
@@ -976,36 +975,35 @@ entries:
         - 3
         - 1
         - 2
-        - 5899
-    - ascii: "I thank you for freeing one of the\n"
+    - text: "ᜋI thank you for freeing one of the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beasts
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " from"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: " Calamity Ganon"
+    - text: Divine Beasts
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s\ncontrol... But there are others still."
+    - text: " from"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: " Calamity Ganon"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "'s\ncontrol... But there are others still."
     - utf16_bytes:
         - 0
   Shinju_04_Electric:
@@ -1020,14 +1018,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "Urbosa's power"
+    - text: "Urbosa's power"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is that of lightning.\nIt will help you put evil in its place."
+    - text: " is that of lightning.\nIt will help you put evil in its place."
     - utf16_bytes:
         - 0
   Shinju_04_Water:
@@ -1042,14 +1040,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "Mipha's power"
+    - text: "Mipha's power"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is that of healing.\nIt will aid you when your strength\nhas been exhausted."
+    - text: " is that of healing.\nIt will aid you when your strength\nhas been exhausted."
     - utf16_bytes:
         - 14
         - 5
@@ -1063,14 +1061,13 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "You... You have already found them.\nYes, I can feel their power emanating\nfrom you even now...\n"
+    - text: "You... You have already found them.\nYes, I can feel their power emanating\nfrom you even now...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "Ha! It would seem I had no cause\nto worry after all."
+    - text: "ćHa! It would seem I had no cause\nto worry after all."
     - utf16_bytes:
         - 14
         - 5
@@ -1084,14 +1081,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Come back here once you have tried\ngoing to at least one of those locations.\n\n"
+    - text: "Come back here once you have tried\ngoing to at least one of those locations.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: There is something I wish to give to you.
+    - text: There is something I wish to give to you.
     - utf16_bytes:
         - 0
   hime00:
@@ -1100,14 +1097,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Ha!
+    - text: इHa!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nNot a memory to your name, yet you are\nas intent as ever to charge forward with\nonly courage and justice on your side.\nYou have not changed a bit.\nOnce a heroine, always a heroine."
+    - text: "\n\n\nNot a memory to your name, yet you are\nas intent as ever to charge forward with\nonly courage and justice on your side.\nYou have not changed a bit.\nOnce a heroine, always a heroine."
     - utf16_bytes:
         - 14
         - 5
@@ -1120,14 +1116,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I apologize... "
+    - text: "ĀI apologize... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "It seems I strayed from\nthe topic at hand."
+    - text: "It seems I strayed from\nthe topic at hand."
     - utf16_bytes:
         - 0
   FirstTalk00:
@@ -1136,14 +1131,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "...So you're finally awake."
+    - text: "Ā...So you're finally awake."
     - utf16_bytes:
         - 14
         - 1
         - 0
         - 4
-    - ascii: f
+    - text: f
     - utf16_bytes:
         - 0
         - 0
@@ -1153,23 +1147,25 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-        - 14
-        - 1
-        - 3
-        - 4
-    - ascii: x
-    - utf16_bytes:
-        - 0
-    - ascii: "It has been quite a long time...Linkle.\n\n\n"
+    - text: ć
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-        - 200
+    - text: x
+    - utf16_bytes:
         - 0
-    - ascii: "I am much older now, but...\nyou remember me, don't you?"
+    - text: "It has been quite a long time...Linkle.\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 3
+        - 4
+    - text: È
+    - utf16_bytes:
+        - 0
+    - text: "I am much older now, but...\nyou remember me, don't you?"
     - utf16_bytes:
         - 0
   FirstTalk02:
@@ -1178,14 +1174,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The words that the princess risked her\nlife to impart to you..."
+    - text: "ЀThe words that the princess risked her\nlife to impart to you..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I cannot pass them\non to someone who lacks conviction.\nAre you prepared to risk your life\nfor the greater good?"
+    - text: "I cannot pass them\non to someone who lacks conviction.\nAre you prepared to risk your life\nfor the greater good?"
     - utf16_bytes:
         - 14
         - 1
@@ -1193,7 +1188,8 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_10:
     - utf16_bytes:
@@ -1201,36 +1197,35 @@ entries:
         - 4
         - 1
         - 2
-        - 52500
-    - ascii: "I believe you will find "
+    - text: "촔I believe you will find "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Calamity Ganon
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nin "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hyrule Castle
+    - text: Calamity Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "\nin "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hyrule Castle
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   FirstTalk05:
@@ -1239,20 +1234,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Very well.
+    - text: ЀVery well.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nSince you have lost your memory,"
+    - text: "\n\n\nSince you have lost your memory,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I will\nrecount for you all that has happened..."
+    - text: " I will\nrecount for you all that has happened..."
     - utf16_bytes:
         - 14
         - 5
@@ -1266,19 +1260,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Very well.
+    - text: Very well.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Since you lost your memory,"
+    - text: " Since you lost your memory,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI will gladly tell you as many times as\nyou need me to."
+    - text: "\nI will gladly tell you as many times as\nyou need me to."
     - utf16_bytes:
         - 0
   ChottoMatte00:
@@ -1287,37 +1281,33 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ЉPrincess Zelda is fighting "
+    - text: "ЉPrincess Zelda is fighting "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Calamity Ganon
+    - text: Calamity Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nall alone."
+    - text: "\nall alone."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 264
-    - ascii: You are the only one who can save her
-    - utf16_bytes:
-        - 8212
-    - ascii: "\nthe only one who can save Hyrule.\nNow go. You must!"
+    - text: "ĈYou are the only one who can save her—\nthe only one who can save Hyrule.\nNow go. You must!"
     - utf16_bytes:
         - 0
   Talk_13:
@@ -1327,41 +1317,40 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Princess Zelda's memories are your\nmemories as well."
+    - text: "Princess Zelda's memories are your\nmemories as well."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: "Visit the locations chronicled by the\n"
+    - text: "ᄋVisit the locations chronicled by the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Camera
+    - text: Camera
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and you may be able to\nrecover bits of your memory.\n"
+    - text: ", and you may be able to\nrecover bits of your memory.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Once you have visited all of\nthe locations, return to me."
+    - text: "Once you have visited all of\nthe locations, return to me."
     - utf16_bytes:
         - 0
   FirstTalk07:
@@ -1370,51 +1359,51 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: A hundred years ago...
+    - text: ЀA hundred years ago...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nin preparation for the foretold revival of\nGanon, "
+    - text: "\n\n\nin preparation for the foretold revival of\nGanon, "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "we strove to follow the lead of\nour ancestors of 10,000 years prior."
+    - text: "we strove to follow the lead of\nour ancestors of 10,000 years prior."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut...in the end..."
+        - 9
+    - text: But...in the end...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nDespite our best efforts and careful\nplanning, we underestimated his power.\n\n"
+    - text: "\n\n\nDespite our best efforts and careful\nplanning, we underestimated his power.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "In order to avoid ever making that grave\nmistake again, "
+    - text: "In order to avoid ever making that grave\nmistake again, "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "the princess left you\nthese words..."
+    - text: "the princess left you\nthese words..."
     - utf16_bytes:
         - 0
   Talk_14:
@@ -1423,72 +1412,70 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: Hm?
+    - text: ጀHm?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ᘊAh...
+    - text: ᘊAh...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 6151
-    - ascii: "So the sword has been returned to\nits rightful owner."
+    - text: "᠇So the sword has been returned to\nits rightful owner."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Heh, just as I\nexpected of you, heroine."
+    - text: " Heh, just as I\nexpected of you, heroine."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sword that seals the darkness
+    - text: sword that seals the darkness
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is\nyour counterpart..."
+    - text: " is\nyour counterpart..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nSo long as that blade is at your side,\nyou shall wield enormous power.\n\nThe princess risked everything for you\nand that sword. Do not forget that,\nand do not waste this chance."
+    - text: "\n\nSo long as that blade is at your side,\nyou shall wield enormous power.\n\nThe princess risked everything for you\nand that sword. Do not forget that,\nand do not waste this chance."
     - utf16_bytes:
         - 0
   FirstTalk08:
@@ -1497,73 +1484,73 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: A hundred years ago...
+    - text: ကA hundred years ago...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nin preparation for the foretold revival of\n"
+    - text: "\n\n\nin preparation for the foretold revival of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Ganon
+    - text: Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", "
+    - text: ", "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "we strove to follow the lead of\nour ancestors of 10,000 years prior."
+    - text: "we strove to follow the lead of\nour ancestors of 10,000 years prior."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut...in the end..."
+        - 9
+    - text: But...in the end...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nDespite our best efforts and careful\nplanning, we underestimated his power.\n\n"
+    - text: "\n\n\nDespite our best efforts and careful\nplanning, we underestimated his power.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "We must never again make that mistake.\nThe "
+    - text: "We must never again make that mistake.\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "princess "
+    - text: "princess "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has left the future of Hyrule\nin your hands."
+    - text: "has left the future of Hyrule\nin your hands."
     - utf16_bytes:
         - 0
   Talk_15:
@@ -1572,73 +1559,72 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Ha!
+    - text: इHa!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How strange...\n\n\nTo think, 100 years ago, you wore that\n"
+    - text: " How strange...\n\n\nTo think, 100 years ago, you wore that\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Champion's tunic "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "every day. "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "I feel as\nthough I've been transported in time..."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 0
-    - ascii: "Linkle... "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "Our "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: princess
+    - text: "Champion's tunic "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "every day. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nyou must rescue her!"
+    - text: "I feel as\nthough I've been transported in time..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Linkle... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Our "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: princess
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nyou must rescue her!"
     - utf16_bytes:
         - 0
   Talk_16:
@@ -1648,13 +1634,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Princess Zelda's memories "
+    - text: "Princess Zelda's memories "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "are your\nmemories as well.\n\nEven if you do not remember,\nyou must surely feel something\nstirring in your heart..."
+    - text: "are your\nmemories as well.\n\nEven if you do not remember,\nyou must surely feel something\nstirring in your heart..."
     - utf16_bytes:
         - 0
   Sukuitai00_ch3:
@@ -1664,31 +1650,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "In any case... If you ever lose\nyour way, simply look to your\n"
+    - text: "In any case... If you ever lose\nyour way, simply look to your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah Slate "
+    - text: "Sheikah Slate "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: to guide you.
+    - text: to guide you.
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 5
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_17:
     - utf16_bytes:
@@ -1697,20 +1683,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The final location of Princess Zelda's\nlost memories...\n\n"
+    - text: "The final location of Princess Zelda's\nlost memories...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ᄉEven I do not know where it is.\n\n\n"
+    - text: "ᄉEven I do not know where it is.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But although you do not remember,\nyou spent much time with the princess.\nI have faith you will find it somehow."
+    - text: "But although you do not remember,\nyou spent much time with the princess.\nI have faith you will find it somehow."
     - utf16_bytes:
         - 0
   Sukuitai00_ch4:
@@ -1720,31 +1706,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "In any case... If you ever lose\nyour way, simply look to your\n"
+    - text: "In any case... If you ever lose\nyour way, simply look to your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah Slate "
+    - text: "Sheikah Slate "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: to guide you.
+    - text: to guide you.
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 5
         - 8
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 6
         - 768
         - 0
@@ -1754,21 +1739,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThough "
+        - 9
+    - text: "Though "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Ganon
+    - text: Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s power is weak, I do not\nknow how much longer the princess\nwill be able to hold out."
+    - text: "'s power is weak, I do not\nknow how much longer the princess\nwill be able to hold out."
     - utf16_bytes:
         - 0
   Talk_19:
@@ -1778,48 +1764,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Princess Zelda's memories "
+    - text: "Princess Zelda's memories "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "are your\nmemories as well.\n\n"
+    - text: "are your\nmemories as well.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: "Visit the locations chronicled by the\n"
+    - text: "ᄋVisit the locations chronicled by the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Camera
+    - text: Camera
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and you may be able to\nrecover bits of your memory.\n"
+    - text: ", and you may be able to\nrecover bits of your memory.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you manage to visit even one of\nthose locations...come back and\nsee me.\n"
+    - text: "If you manage to visit even one of\nthose locations...come back and\nsee me.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "After all, there is still something I wish\nto give you."
+    - text: "After all, there is still something I wish\nto give you."
     - utf16_bytes:
         - 0
   Shinju_05_Water:
@@ -1834,14 +1819,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: Divine Beast Vah Ruta
+    - text: Divine Beast Vah Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " also remains.\nThat one was controlled by Mipha\nof the Zora."
+    - text: " also remains.\nThat one was controlled by Mipha\nof the Zora."
     - utf16_bytes:
         - 0
   Shinju_02_Fire:
@@ -1851,21 +1836,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So, you've gained the "
+    - text: "So, you've gained the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: power of Daruk
+    - text: power of Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   SecondTalk01_ch3:
@@ -1875,31 +1860,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hurry to
+    - text: Hurry to
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " Hateno Village"
+    - text: " Hateno Village"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 5
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   SecondTalk01_ch4:
     - utf16_bytes:
@@ -1908,31 +1893,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hurry to "
+    - text: "Hurry to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Hateno Village
+    - text: Hateno Village
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 5
         - 8
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 6
         - 768
         - 0
@@ -1948,14 +1932,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Daruk's power"
+    - text: "Daruk's power"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is that of defense.\nIt will protect you from evil."
+    - text: " is that of defense.\nIt will protect you from evil."
     - utf16_bytes:
         - 14
         - 5
@@ -1968,14 +1952,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4352
-    - ascii: "You may not remember your last meeting\nwith Ganon,"
+    - text: "ᄀYou may not remember your last meeting\nwith Ganon,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " but it did not end well for\nyou."
+    - text: " but it did not end well for\nyou."
     - utf16_bytes:
         - 0
   Shinju_02_Wind:
@@ -1985,21 +1968,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So, you've gained the "
+    - text: "So, you've gained the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: power of Revali
+    - text: power of Revali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   ThirdKioku02:
@@ -2008,34 +1991,33 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "The location shining on the eastern edge\nis"
+    - text: "촂The location shining on the eastern edge\nis"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " Hateno Village"
+    - text: " Hateno Village"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nIt is a small village... "
+    - text: "\n\nIt is a small village... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "One of the very few\nplaces that avoided suffering significant\ndamage during the Great Calamity."
+    - text: "One of the very few\nplaces that avoided suffering significant\ndamage during the Great Calamity."
     - utf16_bytes:
         - 0
   Shinju_04_Wind:
@@ -2050,14 +2032,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "Revali's power"
+    - text: "Revali's power"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is that of wind.\nIt will prove to be most useful."
+    - text: " is that of wind.\nIt will prove to be most useful."
     - utf16_bytes:
         - 0
   Talk_02:
@@ -2066,8 +2048,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "You should be able to find the general\nlocation of any remaining Divine Beasts\non your map."
+    - text: "촂You should be able to find the general\nlocation of any remaining Divine Beasts\non your map."
     - utf16_bytes:
         - 0
   ThirdKioku03:
@@ -2077,25 +2058,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You are Princess Zelda's only hope...\nand Hyrule's, as well..."
+    - text: "You are Princess Zelda's only hope...\nand Hyrule's, as well..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ĊYou cannot turn back now.
+    - text: ĊYou cannot turn back now.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nFollow your heart and\nseize your destiny!"
+    - text: "\nFollow your heart and\nseize your destiny!"
     - utf16_bytes:
         - 0
   Shinju_05_Wind:
@@ -2105,43 +2086,43 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Still, the "
+    - text: "Still, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Vah Medoh
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nremains. That one was controlled\nby Revali of the Rito."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Vah Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nremains. That one was controlled\nby Revali of the Rito."
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: "I won't fail."
+    - text: "I won't fail."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Where should I go?
+    - text: Where should I go?
     - utf16_bytes:
         - 0
   Talk_06:
@@ -2150,14 +2131,13 @@ entries:
         - 3
         - 1
         - 2
-        - 6145
-    - ascii: "It seems you are doing well in following\nthe princess's words."
+    - text: "᠁It seems you are doing well in following\nthe princess's words."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nThe spirits of some Divine Beasts have\nbeen appeased, and the powers of\nevil have weakened.\nThe princess must sense this as well..."
+    - text: "\n\nThe spirits of some Divine Beasts have\nbeen appeased, and the powers of\nevil have weakened.\nThe princess must sense this as well..."
     - utf16_bytes:
         - 0
   Shinju_05_Electric:
@@ -2172,14 +2152,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: Divine Beast Vah Naboris
+    - text: Divine Beast Vah Naboris
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " also remains.\nThat one was controlled by Urbosa\nof the Gerudo."
+    - text: " also remains.\nThat one was controlled by Urbosa\nof the Gerudo."
     - utf16_bytes:
         - 0
   Shinju_05_noko_Water:
@@ -2189,35 +2169,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Still, the "
+    - text: "Still, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Vah Ruta "
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "remains.\nThat one was controlled by Mipha\nof the Zora."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Vah Ruta "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "remains.\nThat one was controlled by Mipha\nof the Zora."
     - utf16_bytes:
         - 0
   Talk_07:
@@ -2226,13 +2206,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᠉I sense it...
+    - text: ᠉I sense it...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nTheir presence."
+    - text: "\n\n\nTheir presence."
     - utf16_bytes:
         - 14
         - 5
@@ -2246,7 +2226,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ah, that's right..."
+    - text: "Ah, that's right..."
     - utf16_bytes:
         - 14
         - 5
@@ -2254,7 +2234,7 @@ entries:
         - 0
         - 0
   "0013":
-    - ascii: "10,000 years ago?"
+    - text: "10,000 years ago?"
     - utf16_bytes:
         - 0
   Talk_08:
@@ -2263,27 +2243,27 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᘊNow you all serve the same purpose!\n\n\nNow it is time to attack "
+    - text: "ᘊNow you all serve the same purpose!\n\n\nNow it is time to attack "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Calamity Ganon
+    - text: Calamity Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nwhile he is weak!"
+    - text: ",\nwhile he is weak!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Hurry to the princess!\nGo, now!"
+    - text: " Hurry to the princess!\nGo, now!"
     - utf16_bytes:
         - 0
   Talk_20_ch4a:
@@ -2293,15 +2273,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I am only here to help guide you to\nthe princess..."
+    - text: "I am only here to help guide you to\nthe princess..."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "\t\r\n"
+        - 9
+        - 13
+    - text: "\n"
     - utf16_bytes:
         - 768
         - 0
@@ -2312,35 +2294,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Even with blessings of the "
+    - text: "Even with blessings of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beasts
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\non your side, you must be careful.\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Calamity Ganon "
+    - text: Divine Beasts
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "will be well protected.\nBe prepared for anything!"
+    - text: "\non your side, you must be careful.\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Calamity Ganon "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "will be well protected.\nBe prepared for anything!"
     - utf16_bytes:
         - 0
   Talk_20_ch4b:
@@ -2350,20 +2332,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I am only here to help guide you to\nthe princess..."
+    - text: "I am only here to help guide you to\nthe princess..."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-    - ascii: "\t\r\n"
+        - 9
+        - 13
+    - text: "\n"
     - utf16_bytes:
         - 768
         - 0
   TerrorBomb:
-    - ascii: "Don't be a fool..."
+    - text: "Don't be a fool..."
     - utf16_bytes:
         - 0
   Shinju_02_Water:
@@ -2373,25 +2357,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So, you've gained the "
+    - text: "So, you've gained the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: power of Mipha
+    - text: power of Mipha
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: Settle down!
+    - text: Settle down!
     - utf16_bytes:
         - 0
   Shinju_02_Electric:
@@ -2401,25 +2385,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So, you've gained the "
+    - text: "So, you've gained the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: power of Urbosa
+    - text: power of Urbosa
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I am.
+    - text: I am.
     - utf16_bytes:
         - 0
   Anataha00:
@@ -2428,20 +2412,19 @@ entries:
         - 3
         - 1
         - 2
-        - 5120
-    - ascii: What is the matter?
+    - text: ᐀What is the matter?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nYou are looking at me as though I am a\nstranger to you. Those eyes... They lack\nthe light of familiarity.\nIt is I, courageous one. Impa."
+    - text: "\n\n\nYou are looking at me as though I am a\nstranger to you. Those eyes... They lack\nthe light of familiarity.\nIt is I, courageous one. Impa."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSurely you must at least remember\nthe name Impa?"
+    - text: "\nSurely you must at least remember\nthe name Impa?"
     - utf16_bytes:
         - 14
         - 5
@@ -2454,19 +2437,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᘊ
+    - text: ᘊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}However!"
+    - text: "}However!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
@@ -2474,7 +2457,7 @@ entries:
         - 0
         - 0
   "0002":
-    - ascii: "I don't know..."
+    - text: "I don't know..."
     - utf16_bytes:
         - 0
   Anataha02:
@@ -2483,46 +2466,44 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "These words, which the princess risked\nher life to leave you..."
+    - text: "ĀThese words, which the princess risked\nher life to leave you..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Well, if you are to\nhear them...\n"
+    - text: " Well, if you are to\nhear them...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: "You must be prepared to risk your life\nas well."
+    - text: "จYou must be prepared to risk your life\nas well."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ĉBut I am afraid that burden "
+    - text: "ĉBut I am afraid that burden "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "may be too\nmuch to bear while you are still without\nyour memories.\n"
+    - text: "may be too\nmuch to bear while you are still without\nyour memories.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I leave the choice to you. When you feel\nyou are ready to receive the princess's\nmessage, return to me."
+    - text: "I leave the choice to you. When you feel\nyou are ready to receive the princess's\nmessage, return to me."
     - utf16_bytes:
         - 0
   Anataha03:
@@ -2531,37 +2512,37 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᘊI see... "
+    - text: "ᘊI see... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: So you have lost your memory.
+    - text: So you have lost your memory.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ဉWell, it matters not. "
+    - text: "ဉWell, it matters not. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "In fact, that may\nactually be a blessing in disguise for\nthe time being.\nDearest Linkle... "
+    - text: "In fact, that may\nactually be a blessing in disguise for\nthe time being.\nDearest Linkle... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Please come a bit closer.
+    - text: Please come a bit closer.
     - utf16_bytes:
         - 0
   Talk_20_ch3a:
@@ -2571,16 +2552,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I am only here to help guide you to\nthe princess..."
+    - text: "I am only here to help guide you to\nthe princess..."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
-    - ascii: "\r\n"
+        - 13
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   Shinju_05_noko_Electric:
     - utf16_bytes:
@@ -2589,35 +2570,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Still, the "
+    - text: "Still, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Vah Naboris
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nremains. That one was controlled\nby Urbosa of the Gerudo."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Vah Naboris
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nremains. That one was controlled\nby Urbosa of the Gerudo."
     - utf16_bytes:
         - 0
   Talk_20_ch3b:
@@ -2627,19 +2608,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I am only here to help guide you to\nthe princess..."
+    - text: "I am only here to help guide you to\nthe princess..."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 11
-    - ascii: "\r\n"
+        - 13
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   "0005":
-    - ascii: Hateno Village?
+    - text: Hateno Village?
     - utf16_bytes:
         - 0
   Connective_Find_4Relic_One:
@@ -2649,7 +2630,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I am curious how your adventure is\ngoing so far..."
+    - text: "I am curious how your adventure is\ngoing so far..."
     - utf16_bytes:
         - 0
   Connective_Give_ChampionShirt:
@@ -2658,11 +2639,11 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊAh, that's right..."
+    - text: "ᐊAh, that's right..."
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: What are you doing?!
+    - text: What are you doing?!
     - utf16_bytes:
         - 0
   kioku_00:
@@ -2671,26 +2652,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4352
-    - ascii: "...It seems to me that your "
+    - text: "ᄀ...It seems to me that your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nis not yet complete."
+    - text: "\nis not yet complete."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Understood.
+    - text: Understood.
     - utf16_bytes:
         - 0
   Connective_Find_4Relic_TwoOrMore:
@@ -2700,7 +2680,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: By the way...
+    - text: By the way...
     - utf16_bytes:
         - 14
         - 5
@@ -2714,7 +2694,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ah, that's right..."
+    - text: "Ah, that's right..."
     - utf16_bytes:
         - 14
         - 5
@@ -2727,8 +2707,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: A hundred years ago...
+    - text: จA hundred years ago...
     - utf16_bytes:
         - 14
         - 5
@@ -2736,7 +2715,7 @@ entries:
         - 0
         - 0
   "0007":
-    - ascii: Four Divine Beasts?
+    - text: Four Divine Beasts?
     - utf16_bytes:
         - 0
   kioku_01:
@@ -2746,26 +2725,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The device Princess Zelda left you is\nyour guide "
+    - text: "The device Princess Zelda left you is\nyour guide "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: and also your memory.
+    - text: and also your memory.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: "Now, let's see..."
+    - text: "ᄋNow, let's see..."
     - utf16_bytes:
         - 14
         - 5
@@ -2778,33 +2756,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tYes..."
+        - 9
+    - text: Yes...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " A hundred years ago, the kingdom\nof Hyrule was destroyed.\n\nAfter you fell, Princess Zelda's final wish\nwas to place you in a sacred slumber.\n\nAnd then...all alone..."
+    - text: " A hundred years ago, the kingdom\nof Hyrule was destroyed.\n\nAfter you fell, Princess Zelda's final wish\nwas to place you in a sacred slumber.\n\nAnd then...all alone..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Alone she went\nto face "
+    - text: " Alone she went\nto face "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Ganon
+    - text: Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   kioku_02:
@@ -2814,21 +2793,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Someone at the "
+    - text: "Someone at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "research lab in\nHateno Village "
+    - text: "research lab in\nHateno Village "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "might be able to\nhelp you..."
+    - text: "might be able to\nhelp you..."
     - utf16_bytes:
         - 14
         - 1
@@ -2836,10 +2815,11 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0008":
-    - ascii: Four Divine Beasts?
+    - text: Four Divine Beasts?
     - utf16_bytes:
         - 0
   Shinju_05_Fire:
@@ -2854,14 +2834,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: Divine Beast Vah Rudania
+    - text: Divine Beast Vah Rudania
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " also remains.\nThat one was controlled by Daruk\nof the Gorons."
+    - text: " also remains.\nThat one was controlled by Daruk\nof the Gorons."
     - utf16_bytes:
         - 0
   Anataha08:
@@ -2870,39 +2850,38 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "Before Princess Zelda went to nobly\nmeet her fate...she entrusted me with\n"
+    - text: "ąBefore Princess Zelda went to nobly\nmeet her fate...she entrusted me with\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "some words "
+    - text: "some words "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "she wished to say to you.\n"
+    - text: "she wished to say to you.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I have been waiting 100 years "
+    - text: "I have been waiting 100 years "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "to\ndeliver the princess's message."
+    - text: "to\ndeliver the princess's message."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: My memories?
+    - text: My memories?
     - utf16_bytes:
         - 0
   FirstTalk_consecutive:
@@ -2911,100 +2890,97 @@ entries:
         - 3
         - 1
         - 2
-        - 5120
-    - ascii: Is something wrong?
+    - text: ᐀Is something wrong?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ĊDo not tell me the steel has slipped from\nyour spine...\n\n"
+    - text: "ĊDo not tell me the steel has slipped from\nyour spine...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "I realize you have just awoken. I am\nnot suggesting that you must defeat\n"
+    - text: "ċI realize you have just awoken. I am\nnot suggesting that you must defeat\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Calamity Ganon
+    - text: Calamity Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " right this moment.\n"
+    - text: " right this moment.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "For now, you should focus on getting\nthat broken "
+    - text: "For now, you should focus on getting\nthat broken "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah Slate "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "fixed.\n\nHurry to the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "research lab "
+    - text: "Sheikah Slate "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in\n"
+    - text: "fixed.\n\nHurry to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Hateno Village
+    - text: "research lab "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "in\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Hateno Village
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 5
         - 8
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 6
         - 768
         - 0
@@ -3014,27 +2990,27 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᘊ
+    - text: ᘊ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Free the four Divine Beasts
+    - text: Free the four Divine Beasts
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThat is what she said."
+    - text: "\nThat is what she said."
     - utf16_bytes:
         - 14
         - 1
@@ -3042,7 +3018,8 @@ entries:
         - 6
         - 7
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   ThirdShinju02:
     - utf16_bytes:
@@ -3055,46 +3032,47 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "The "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Sheikah Slate "
+    - text: 촂
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "will guide you on\nyour way. "
+    - text: "The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Sheikah Slate "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "will guide you on\nyour way. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You must go where it tells\nyou and meet with each "
+    - text: "You must go where it tells\nyou and meet with each "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "leader "
+    - text: "leader "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: there.
+    - text: there.
     - utf16_bytes:
         - 0

@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I once traveled across all of Hyrule,\nsearching for the best meats ever.\n\nI learned some of the correct ways to say\ncommon Hylian words. Just the basics,\nlike \"tank you\" and \"good mauning.\"\nPretty amazing, huh?"
+    - text: "I once traveled across all of Hyrule,\nsearching for the best meats ever.\n\nI learned some of the correct ways to say\ncommon Hylian words. Just the basics,\nlike \"tank you\" and \"good mauning.\"\nPretty amazing, huh?"
     - utf16_bytes:
         - 14
         - 1
@@ -15,10 +15,11 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "5503":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   Talk_18:
@@ -27,8 +28,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Good purchases, one and all!"
+    - text: "इGood purchases, one and all!"
     - utf16_bytes:
         - 0
   Talk_19:
@@ -37,8 +37,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Tank you very much.
+    - text: इTank you very much.
     - utf16_bytes:
         - 0
   Com_Talk_00:
@@ -47,12 +46,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Sure! What have you got?
+    - text: ЀSure! What have you got?
     - utf16_bytes:
         - 0
   "5508":
-    - ascii: All of them.
+    - text: All of them.
     - utf16_bytes:
         - 0
   Com_Talk_01:
@@ -62,7 +60,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "How's "
+    - text: "How's "
     - utf16_bytes:
         - 14
         - 0
@@ -72,28 +70,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " sound?"
+    - text: " sound?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02:
     - utf16_bytes:
@@ -102,15 +99,15 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: Tank you!
+    - text: Tank you!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Buy from me?
+    - text: Buy from me?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Com_Talk_04:
@@ -120,7 +117,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: What? You changed your mind?
+    - text: What? You changed your mind?
     - utf16_bytes:
         - 0
   Com_Talk_05:
@@ -130,7 +127,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You sure there isn't anything else you'd\nlike to sell?"
+    - text: "You sure there isn't anything else you'd\nlike to sell?"
     - utf16_bytes:
         - 0
   Com_Talk_05b:
@@ -140,11 +137,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Sell me all you got!
+    - text: Sell me all you got!
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Meat.
+    - text: Meat.
     - utf16_bytes:
         - 0
   Com_Talk_05c:
@@ -154,7 +151,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'll buy it all."
+    - text: "I'll buy it all."
     - utf16_bytes:
         - 0
   Talk_01:
@@ -163,8 +160,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Good mauning!\n\n\nWhat do you eat for breakfast?"
+    - text: "ȁGood mauning!\n\n\nWhat do you eat for breakfast?"
     - utf16_bytes:
         - 14
         - 1
@@ -172,10 +168,11 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Vegetables.
+    - text: Vegetables.
     - utf16_bytes:
         - 0
   Com_Talk_05d:
@@ -185,7 +182,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Take a good look! You sure there isn't\nanything else you'd like to sell?"
+    - text: "Take a good look! You sure there isn't\nanything else you'd like to sell?"
     - utf16_bytes:
         - 0
   Talk_20:
@@ -195,7 +192,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Good mauning!
+    - text: Good mauning!
     - utf16_bytes:
         - 0
   Talk_03:
@@ -205,7 +202,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Tank you! Good-bye!
+    - text: Tank you! Good-bye!
     - utf16_bytes:
         - 0
   Talk_21:
@@ -215,7 +212,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Hi-low!
+    - text: Hi-low!
     - utf16_bytes:
         - 0
   Talk_22:
@@ -225,7 +222,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Good ebbning!
+    - text: Good ebbning!
     - utf16_bytes:
         - 0
   Talk_23:
@@ -234,36 +231,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Hey there, have you heard?\n\n\nIt looks like our chief was able to calm\n"
+    - text: "ЁHey there, have you heard?\n\n\nIt looks like our chief was able to calm\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Naboris
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " down! She may be small, but\nshe's still really something else.\nI bet the secret to her training is eating\na lot of meat.\n\nIf you ate a lot of meat, I think you'd\nhave the same secret strength as\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: chief
+    - text: Naboris
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nI'm pretty sure that's true, anyway!"
+    - text: " down! She may be small, but\nshe's still really something else.\nI bet the secret to her training is eating\na lot of meat.\n\nIf you ate a lot of meat, I think you'd\nhave the same secret strength as\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: chief
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nI'm pretty sure that's true, anyway!"
     - utf16_bytes:
         - 14
         - 1
@@ -271,7 +267,8 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_06:
     - utf16_bytes:
@@ -280,13 +277,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Sarqso...
+    - text: Sarqso...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Wait, I mean tank you!"
+    - text: " Wait, I mean tank you!"
     - utf16_bytes:
         - 0
   Talk_24:
@@ -295,36 +292,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Hey there, have you heard?\n\n\nIt looks like our chief was able to calm\n"
+    - text: "ЁHey there, have you heard?\n\n\nIt looks like our chief was able to calm\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Naboris
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " down! She may be small, but\nshe's still really something else.\nI bet the secret to her training is eating\na lot of meat.\n\nWe're always getting new stock in. If you\nate a lot of meat, I think you'd have the\nsame secret strength as the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: chief
+    - text: Naboris
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nI'm pretty sure that's true, anyway!"
+    - text: " down! She may be small, but\nshe's still really something else.\nI bet the secret to her training is eating\na lot of meat.\n\nWe're always getting new stock in. If you\nate a lot of meat, I think you'd have the\nsame secret strength as the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: chief
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nI'm pretty sure that's true, anyway!"
     - utf16_bytes:
         - 14
         - 1
@@ -332,7 +328,8 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_07:
     - utf16_bytes:
@@ -341,11 +338,11 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Enjoy! I'll grill some more and restock\nlater."
+    - text: "Enjoy! I'll grill some more and restock\nlater."
     - utf16_bytes:
         - 0
   Near001:
-    - ascii: Willcome!
+    - text: Willcome!
     - utf16_bytes:
         - 0
   Com_Talk_02b:
@@ -355,7 +352,7 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: Tank you for your patronage.
+    - text: Tank you for your patronage.
     - utf16_bytes:
         - 0
   Com_Talk_02c:
@@ -364,7 +361,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Tank you very much.
+    - text: 촉Tank you very much.
     - utf16_bytes:
         - 0
   Com_Talk_02d:
@@ -373,7 +370,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Sarqso! Oh...darn...
+    - text: 촉Sarqso! Oh...darn...
     - utf16_bytes:
         - 0
   Com_Talk_13:
@@ -383,17 +380,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: How many?
+    - text: How many?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Com_Talk_14:
     - utf16_bytes:
@@ -402,15 +396,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That's "
+    - text: "That's "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them, you said?\nOK, then... How's "
+    - text: " of them, you said?\nOK, then... How's "
     - utf16_bytes:
         - 14
         - 0
@@ -420,28 +414,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " sound?"
+    - text: " sound?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_15:
     - utf16_bytes:
@@ -450,10 +443,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I'm prepared to buy almost anything\nfrom you"
-    - utf16_bytes:
-        - 8212
-    - ascii: "almost. Don't you have\nanything else?"
+    - text: "I'm prepared to buy almost anything\nfrom you—almost. Don't you have\nanything else?"
     - utf16_bytes:
         - 0
   Com_Talk_16:
@@ -462,8 +452,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Wait, wait, wait. It wouldn't be sanitary\nfor me to take the clothes right off your\nbody!"
+    - text: "ጀWait, wait, wait. It wouldn't be sanitary\nfor me to take the clothes right off your\nbody!"
     - utf16_bytes:
         - 0
   Com_Talk_33:
@@ -473,13 +462,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Just one, right?"
+    - text: "Just one, right?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Let's say "
+    - text: " Let's say "
     - utf16_bytes:
         - 14
         - 0
@@ -489,28 +478,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_50:
     - utf16_bytes:
@@ -519,7 +507,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Wanna buy that for "
+    - text: "Wanna buy that for "
     - utf16_bytes:
         - 14
         - 0
@@ -529,28 +517,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Talk_10:
     - utf16_bytes:
@@ -558,8 +545,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Good ebbning!\n\n\nWhat do you eat for dinner?"
+    - text: "ȁGood ebbning!\n\n\nWhat do you eat for dinner?"
     - utf16_bytes:
         - 14
         - 1
@@ -567,18 +553,19 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Com_Talk_35:
-    - ascii: "Oh, all "
+    - text: "Oh, all "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them?\nI'll buy them for "
+    - text: " of them?\nI'll buy them for "
     - utf16_bytes:
         - 14
         - 0
@@ -588,28 +575,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Talk_12:
     - utf16_bytes:
@@ -617,8 +603,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Good effernoon!\n\n\nWhat do you eat for lunch?"
+    - text: "ȁGood effernoon!\n\n\nWhat do you eat for lunch?"
     - utf16_bytes:
         - 14
         - 1
@@ -626,7 +611,8 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Com_Talk_53:
     - utf16_bytes:
@@ -635,13 +621,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Hey!
+    - text: Hey!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Is this some kind of haggling\ntechnique? Are you pretending not to\nbe interested so I'll lower the price?"
+    - text: " Is this some kind of haggling\ntechnique? Are you pretending not to\nbe interested so I'll lower the price?"
     - utf16_bytes:
         - 0
   Talk_13:
@@ -651,13 +637,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "That Rito vai keeps shooting me the\nstink eye... Does she have something\nagainst meat?"
+    - text: "That Rito vai keeps shooting me the\nstink eye... Does she have something\nagainst meat?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
@@ -668,13 +654,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "PNo, that's impossible..."
+    - text: "PNo, that's impossible..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_14:
@@ -683,8 +669,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "Good choice! You've got great taste!"
+    - text: "ᤀGood choice! You've got great taste!"
     - utf16_bytes:
         - 14
         - 1
@@ -692,10 +677,11 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "5500":
-    - ascii: OK.
+    - text: OK.
     - utf16_bytes:
         - 0
   Talk_15:
@@ -704,7 +690,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
@@ -715,25 +701,25 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dYou must mean... "
+    - text: "dYou must mean... "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Meat!!!"
+    - text: "}Meat!!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nThat's what you meant, right?\nBecause it's so good!"
+    - text: "\n\n\nThat's what you meant, right?\nBecause it's so good!"
     - utf16_bytes:
         - 14
         - 1
@@ -741,10 +727,11 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "5501":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   Talk_16:
@@ -754,22 +741,19 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Hey there, customer!"
+    - text: "Hey there, customer!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nFeeling so good now that the beast\nis calm. "
+    - text: "\nFeeling so good now that the beast\nis calm. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Sarq
-    - utf16_bytes:
-        - 8212
-    - ascii: I mean tanks again!
+    - text: Sarq—I mean tanks again!
     - utf16_bytes:
         - 14
         - 1
@@ -777,5 +761,6 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

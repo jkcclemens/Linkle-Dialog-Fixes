@@ -6,33 +6,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĉAh! "
+    - text: "ĉAh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It is you, Linkle!"
+    - text: "It is you, Linkle!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I am sorry... "
+    - text: " I am sorry... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI was talking to myself."
+    - text: "\nI was talking to myself."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk10:
     - utf16_bytes:
@@ -41,71 +42,71 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "The truth is... "
+    - text: "The truth is... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "My wife Mei left and hasn't\ncome back yet.\n\nAfter the "
+    - text: "My wife Mei left and hasn't\ncome back yet.\n\nAfter the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Ruta "
+    - text: "Divine Beast Vah Ruta "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "started\nrampaging, "
+    - text: "started\nrampaging, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "she went out to go fishing\nlike everything was normal.\nAnd now "
+    - text: "she went out to go fishing\nlike everything was normal.\nAnd now "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has settled down,"
+    - text: " has settled down,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but she\nstill hasn't returned...\n\n"
+    - text: " but she\nstill hasn't returned...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ఉI'm afraid the worst has happened..."
+    - text: "ఉI'm afraid the worst has happened..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIf only I had stopped her from leaving!"
+    - text: "\nIf only I had stopped her from leaving!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nOh, what do I do?!"
+    - text: "\nOh, what do I do?!"
     - utf16_bytes:
         - 14
         - 1
@@ -113,7 +114,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk11:
     - utf16_bytes:
@@ -121,13 +123,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ఉOh, Mei... "
+    - text: "ఉOh, Mei... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "What are the children and I\nsupposed to do without you?"
+    - text: "What are the children and I\nsupposed to do without you?"
     - utf16_bytes:
         - 14
         - 1
@@ -135,7 +137,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk12:
     - utf16_bytes:
@@ -143,12 +146,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1027
-    - ascii: Yes...
+    - text: ЃYes...
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Go on...
+    - text: Go on...
     - utf16_bytes:
         - 0
   talk13:
@@ -157,37 +159,36 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "Linkle... "
+    - text: "ᐄLinkle... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You saved Zora's Domain,"
+    - text: "You saved Zora's Domain,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nand now you're going to help me\nfind my Mei, as well?\n"
+    - text: "\nand now you're going to help me\nfind my Mei, as well?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: You are a true Champion!
+    - text: You are a true Champion!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I am sorry to\nput this burden on you, but please...\nPlease bring her home!"
+    - text: " I am sorry to\nput this burden on you, but please...\nPlease bring her home!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "What's wrong?"
+    - text: "What's wrong?"
     - utf16_bytes:
         - 0
   talk14:
@@ -197,20 +198,20 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "If you are going to look for Mei,"
+    - text: "If you are going to look for Mei,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI will help you however I can.\n\n"
+    - text: "\nI will help you however I can.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1536
-    - ascii: "Please, ask me anything!"
+    - text: "Please, ask me anything!"
     - utf16_bytes:
         - 14
         - 1
@@ -227,7 +228,7 @@ entries:
         - 768
         - 0
   "0004":
-    - ascii: "I'll find her!"
+    - text: "I'll find her!"
     - utf16_bytes:
         - 0
   talk15:
@@ -236,12 +237,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1027
-    - ascii: Linkle...
+    - text: ЃLinkle...
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "I'll leave."
+    - text: "I'll leave."
     - utf16_bytes:
         - 0
   talk16:
@@ -250,31 +250,29 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Mei is my wife.
+    - text: ЀMei is my wife.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " She is also Tumbo and\nKeye's mother.\n\nShe spends her days catching fish and\nselling them at the general store.\n\n"
+    - text: " She is also Tumbo and\nKeye's mother.\n\nShe spends her days catching fish and\nselling them at the general store.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Unlike me, she is very lively and\ncheerful..."
+    - text: "စUnlike me, she is very lively and\ncheerful..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I suppose Tumbo gets\nthat from her."
+    - text: " I suppose Tumbo gets\nthat from her."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Mei?
+    - text: Mei?
     - utf16_bytes:
         - 0
   talk17:
@@ -283,107 +281,106 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "The day "
+    - text: "စThe day "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " started raging,"
+    - text: " started raging,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " she said\nshe was going fishing "
+    - text: " she said\nshe was going fishing "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "in "
+    - text: "in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora River
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Ruta
+    - text: Zora River
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s rage caused the river to swell."
+    - text: ".\n\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Ruta
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "'s rage caused the river to swell."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nShe may have been swept downstream!\n\nHowever, if Ledo's group didn't see\nanything, maybe she passed through\n"
+    - text: "\nShe may have been swept downstream!\n\nHowever, if Ledo's group didn't see\nanything, maybe she passed through\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora River
+    - text: Zora River
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and is beyond there...\n"
+    - text: " and is beyond there...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3075
-    - ascii: "Worst case scenario...she could have\nbeen carried all the way to "
+    - text: "Worst case scenario...she could have\nbeen carried all the way to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lake Hylia
+    - text: Lake Hylia
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Where could she be?
+    - text: Where could she be?
     - utf16_bytes:
         - 0
   talk18:
@@ -393,7 +390,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Do you have any more questions?
+    - text: Do you have any more questions?
     - utf16_bytes:
         - 14
         - 1
@@ -410,11 +407,11 @@ entries:
         - 768
         - 0
   near00:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk01:
@@ -423,14 +420,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "If you'll excuse me..."
+    - text: "စIf you'll excuse me..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm going to bed."
+    - text: "\nI'm going to bed."
     - utf16_bytes:
         - 0
   talk19:
@@ -440,32 +436,32 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Linkle! "
+    - text: "Linkle! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: LINKLE!!
+    - text: LINKLE!!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " My wife, Mei..."
+    - text: " My wife, Mei..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nShe came back to me!\n\nI cannot possibly thank you enough!\n\n\n"
+    - text: "\nShe came back to me!\n\nI cannot possibly thank you enough!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "But I shall try! Thank you! Thank you!\nTHANK YOU, TRULY!!"
+    - text: "But I shall try! Thank you! Thank you!\nTHANK YOU, TRULY!!"
     - utf16_bytes:
         - 0
   talk02:
@@ -474,8 +470,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: Excuse me...
+    - text: စExcuse me...
     - utf16_bytes:
         - 0
   talk03:
@@ -484,26 +479,27 @@ entries:
         - 3
         - 1
         - 2
-        - 3077
+    - text: అ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Ruta
+    - text: Divine Beast Vah Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... This is all that\nmonster's fault!"
+    - text: "... This is all that\nmonster's fault!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Or, no... I suppose it is\nmy own fault."
+    - text: " Or, no... I suppose it is\nmy own fault."
     - utf16_bytes:
         - 0
   talk20:
@@ -513,19 +509,19 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Linkle!
+    - text: Linkle!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You are a true Champion...\n\n\nNow you have even saved my wife,\nmy children, and myself..."
+    - text: " You are a true Champion...\n\n\nNow you have even saved my wife,\nmy children, and myself..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThank you, truly."
+    - text: "\nThank you, truly."
     - utf16_bytes:
         - 0
   talk04:
@@ -534,28 +530,27 @@ entries:
         - 3
         - 1
         - 2
-        - 3077
-    - ascii: "Is it "
+    - text: "అIs it "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Ruta
+    - text: Divine Beast Vah Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s fault?\n"
+    - text: "'s fault?\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Or is it my own fault...
+    - text: Or is it my own fault...
     - utf16_bytes:
         - 0
   talk05:
@@ -564,8 +559,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4613
-    - ascii: "...\n\n\nMy apologies. I was lost in thought..."
+    - text: "ህ...\n\n\nMy apologies. I was lost in thought..."
     - utf16_bytes:
         - 0
   talk06:
@@ -574,14 +568,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4613
-    - ascii: Pardon me.
+    - text: ህPardon me.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Could you please get out\nof the way?"
+    - text: " Could you please get out\nof the way?"
     - utf16_bytes:
         - 0
   talk08:
@@ -590,40 +583,40 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "They say "
+    - text: "စThey say "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has calmed down,\nand yet..."
+    - text: " has calmed down,\nand yet..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0

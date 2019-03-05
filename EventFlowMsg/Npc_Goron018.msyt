@@ -17,35 +17,35 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "If you still have "
+    - text: "If you still have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of those "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: rubies
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: " of those "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: rubies
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
@@ -61,21 +61,21 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "\nI'll buy them for "
+    - text: "\nI'll buy them for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,300 rupees"
+    - text: "2,300 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Yeah?"
+    - text: ". Yeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -83,12 +83,12 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: "That's not what I"
+    - text: "That's not what I—"
     - utf16_bytes:
-        - 8212
         - 0
   talk24:
     - utf16_bytes:
@@ -107,55 +107,55 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "If you still have "
+    - text: "If you still have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of those "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: sapphires
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: " of those "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sapphires
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll buy them for "
+    - text: "\nI'll buy them for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,900 rupees"
+    - text: "2,900 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Yeah?"
+    - text: ". Yeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -163,10 +163,11 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   talk25:
@@ -186,55 +187,55 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "If you still have "
+    - text: "If you still have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of those "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: topazes
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: " of those "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: topazes
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll buy them for "
+    - text: "\nI'll buy them for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,000 rupees"
+    - text: "2,000 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Yeah?"
+    - text: ". Yeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -242,10 +243,11 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   talk26:
@@ -254,11 +256,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI really can't believe this heat..."
+        - 9
+    - text: "I really can't believe this heat..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "I'll sell!"
+    - text: "I'll sell!"
     - utf16_bytes:
         - 0
   talk27:
@@ -267,23 +270,24 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t*sigh*"
+        - 9
+    - text: "*sigh*"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Willpower alone"
+    - text: " Willpower alone"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " is not going to\nsave me from this heat..."
+    - text: " is not going to\nsave me from this heat..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "No, thanks."
+    - text: "No, thanks."
     - utf16_bytes:
         - 0
   talk28:
@@ -292,31 +296,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tPhew!"
+        - 9
+    - text: Phew!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " This heat is something else.\nWay more intense than in the\nGerudo"
+    - text: " This heat is something else.\nWay more intense than in the\nGerudo"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: region.
+    - text: region.
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "Aren't you hot?"
+    - text: "Aren't you hot?"
     - utf16_bytes:
         - 0
   talk29:
@@ -325,27 +330,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tPheeeew... "
+        - 9
+    - text: "Pheeeew... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Trying to gather "
+    - text: "Trying to gather "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: jewels
+    - text: jewels
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in\nthis heat will be my undoing..."
+    - text: " in\nthis heat will be my undoing..."
     - utf16_bytes:
         - 0
   talk30:
@@ -354,38 +360,37 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: The jewels from Goron City
+    - text: ĀThe jewels from Goron City
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " are for the\nvai in Gerudo Town, I'm afraid.\n\nI don't intend to let a "
+    - text: " are for the\nvai in Gerudo Town, I'm afraid.\n\nI don't intend to let a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian "
+    - text: "Hylian "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: have them.
+    - text: have them.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nMy apologies."
+    - text: "\nMy apologies."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk31:
@@ -395,13 +400,13 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: What is it?
+    - text: What is it?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Have you never seen\na real Gerudo before?"
+    - text: " Have you never seen\na real Gerudo before?"
     - utf16_bytes:
         - 14
         - 1
@@ -409,10 +414,11 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0007":
-    - ascii: Fireproof elixir?
+    - text: Fireproof elixir?
     - utf16_bytes:
         - 0
   talk32:
@@ -421,28 +427,27 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Oh...
+    - text: ĆOh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Well, I slathered "
+    - text: " Well, I slathered "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "fireproof elixir "
+    - text: "fireproof elixir "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "on\nmy skin, so I'll be fine."
+    - text: "on\nmy skin, so I'll be fine."
     - utf16_bytes:
         - 0
   talk33:
@@ -451,39 +456,38 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Too hot to speak, are we?"
+    - text: "ĆToo hot to speak, are we?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Hmph.\n\n\n"
+    - text: " Hmph.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Try applying some "
+    - text: "Try applying some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nYou'll feel much better."
+    - text: ".\nYou'll feel much better."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "No, thanks."
+    - text: "No, thanks."
     - utf16_bytes:
         - 0
   talk34:
@@ -492,42 +496,41 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "The eruptions on "
+    - text: "āThe eruptions on "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Death Mountain "
+    - text: "Death Mountain "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "have\nfinally come to a stop."
+    - text: "have\nfinally come to a stop."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " As a result,\nwe've started restocking "
+    - text: " As a result,\nwe've started restocking "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: jewels
+    - text: jewels
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk35:
@@ -536,26 +539,25 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "Work... "
+    - text: "℀Work... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk36:
@@ -564,38 +566,39 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 8448
+    - text: ℀
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Jewels
+    - text: Jewels
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Zzz..."
+    - text: " Zzz..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk37:
@@ -604,26 +607,25 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "Need to gather... "
+    - text: "℀Need to gather... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk38:
@@ -632,26 +634,25 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "Got to get a good price... "
+    - text: "℀Got to get a good price... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk39:
@@ -661,7 +662,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Here, take this."
+    - text: "Here, take this."
     - utf16_bytes:
         - 0
   talk42:
@@ -671,13 +672,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is business talk, but..."
+    - text: "This is business talk, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI want to procure some "
+    - text: "\nI want to procure some "
     - utf16_bytes:
         - 14
         - 0
@@ -689,21 +690,21 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: diamonds
+    - text: diamonds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "today.\nDo you happen to have "
+    - text: "today.\nDo you happen to have "
     - utf16_bytes:
         - 14
         - 5
@@ -714,42 +715,42 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "10"
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: diamonds
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "?\nIf so, I'll buy them for "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "5,500 rupees"
+    - text: diamonds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThat's more than the shop will pay!\nYeah?"
+    - text: "?\nIf so, I'll buy them for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "5,500 rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nThat's more than the shop will pay!\nYeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -757,10 +758,11 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near00:
-    - ascii: Holy hotness...
+    - text: Holy hotness...
     - utf16_bytes:
         - 0
   talk43:
@@ -770,13 +772,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is business talk, but..."
+    - text: "This is business talk, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI want to procure some\n"
+    - text: "\nI want to procure some\n"
     - utf16_bytes:
         - 14
         - 0
@@ -788,70 +790,70 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: rubies
+    - text: rubies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "today. \n"
+    - text: "today. \n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Do you happen to have "
+    - text: "Do you happen to have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: rubies
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nIf so, I'll buy them for "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,300 rupees"
+    - text: rubies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nThat's more than the shop will pay!\nYeah?"
+    - text: "?\nIf so, I'll buy them for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "2,300 rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nThat's more than the shop will pay!\nYeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -859,10 +861,11 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near01:
-    - ascii: Phew...
+    - text: Phew...
     - utf16_bytes:
         - 0
   talk44:
@@ -872,13 +875,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is business talk, but..."
+    - text: "This is business talk, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI want to procure some\n"
+    - text: "\nI want to procure some\n"
     - utf16_bytes:
         - 14
         - 0
@@ -890,70 +893,70 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: sapphires
+    - text: sapphires
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "today.\n"
+    - text: "today.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Do you happen to have "
+    - text: "Do you happen to have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: sapphires
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nIf so, I'll buy them for "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,900 rupees"
+    - text: sapphires
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nYeah?"
+    - text: "?\nIf so, I'll buy them for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "2,900 rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nYeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -961,10 +964,11 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near02:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk45:
@@ -974,13 +978,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is business talk, but..."
+    - text: "This is business talk, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI want to procure some\n"
+    - text: "\nI want to procure some\n"
     - utf16_bytes:
         - 14
         - 0
@@ -992,28 +996,28 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: topazes
+    - text: topazes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "today.\n"
+    - text: "today.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Do you happen to have "
+    - text: "Do you happen to have "
     - utf16_bytes:
         - 14
         - 5
@@ -1024,48 +1028,48 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "10"
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: topazes
+    - text: topazes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nIf so, I'll buy them for "
+    - text: "\nIf so, I'll buy them for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,000 rupees"
+    - text: "2,000 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nThat's more than the shop will pay!\nYeah?"
+    - text: ".\n\nThat's more than the shop will pay!\nYeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -1073,7 +1077,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk46:
     - utf16_bytes:
@@ -1081,22 +1086,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you want to buy "
+    - text: "ĀIf you want to buy "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixirs
+    - text: fireproof elixirs
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\na little Goron brat is selling them.\nI suggest you buy one and use it."
+    - text: ",\na little Goron brat is selling them.\nI suggest you buy one and use it."
     - utf16_bytes:
         - 0
   talk00:
@@ -1105,13 +1109,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᘊSa'oten!"
+    - text: "ᘊSa'oten!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Hmm... This is the first time\nI've been hit on by someone in an\noutfit like that."
+    - text: " Hmm... This is the first time\nI've been hit on by someone in an\noutfit like that."
     - utf16_bytes:
         - 14
         - 1
@@ -1119,7 +1123,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk47:
     - utf16_bytes:
@@ -1127,36 +1132,35 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "There's no rest in the "
+    - text: "ĀThere's no rest in the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "jewel "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "business,\nso I need to apply this "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: fireproof elixir
+    - text: "jewel "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nand work as hard as I can..."
+    - text: "business,\nso I need to apply this "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: fireproof elixir
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nand work as hard as I can..."
     - utf16_bytes:
         - 14
         - 1
@@ -1164,7 +1168,8 @@ entries:
         - 6
         - 7
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk01:
     - utf16_bytes:
@@ -1172,7 +1177,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ሉIt's about time for my break..."
+    - text: "ሉIt's about time for my break..."
     - utf16_bytes:
         - 0
   talk48:
@@ -1181,8 +1186,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "It's a strange concoction that saves you\nfrom the heat for a while."
+    - text: "ĀIt's a strange concoction that saves you\nfrom the heat for a while."
     - utf16_bytes:
         - 0
   talk02:
@@ -1192,13 +1196,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Huh...
+    - text: Huh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Are you a Hylian vai?"
+    - text: " Are you a Hylian vai?"
     - utf16_bytes:
         - 0
   talk49:
@@ -1207,14 +1211,13 @@ entries:
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "Oh... "
+    - text: "ăOh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That's too bad."
+    - text: "That's too bad."
     - utf16_bytes:
         - 0
   talk03:
@@ -1223,7 +1226,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ሉIt's too hot..."
+    - text: "ሉIt's too hot..."
     - utf16_bytes:
         - 0
   talk51:
@@ -1232,14 +1235,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'd pay anything "
+    - text: "ĀI'd pay anything "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "to save myself from\nthis wretched heat..."
+    - text: "to save myself from\nthis wretched heat..."
     - utf16_bytes:
         - 0
   talk04:
@@ -1249,21 +1251,21 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Ah, a "
+    - text: "Ah, a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian "
+    - text: "Hylian "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: vai...
+    - text: vai...
     - utf16_bytes:
         - 0
   talk05:
@@ -1272,14 +1274,13 @@ entries:
         - 3
         - 1
         - 2
-        - 6918
-    - ascii: "Sav'otta. "
+    - text: "ᬆSav'otta. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "A bit early to flirt, isn't it?"
+    - text: "A bit early to flirt, isn't it?"
     - utf16_bytes:
         - 14
         - 1
@@ -1287,7 +1288,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk06:
     - utf16_bytes:
@@ -1295,20 +1297,19 @@ entries:
         - 3
         - 1
         - 2
-        - 7174
-    - ascii: "Sav'aaq."
+    - text: "ᰆSav'aaq."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Flirting in the middle of\nthe day, are we? "
+    - text: " Flirting in the middle of\nthe day, are we? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Bold.
+    - text: Bold.
     - utf16_bytes:
         - 14
         - 1
@@ -1316,7 +1317,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk54:
     - utf16_bytes:
@@ -1324,14 +1326,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: Oh...
+    - text: ጆOh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Do you have some "
+    - text: " Do you have some "
     - utf16_bytes:
         - 14
         - 0
@@ -1343,27 +1344,27 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: amber
+    - text: amber
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: too?
+    - text: too?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI need a whole lot of it."
+    - text: "\nI need a whole lot of it."
     - utf16_bytes:
         - 0
   talk07:
@@ -1372,14 +1373,13 @@ entries:
         - 3
         - 1
         - 2
-        - 7430
-    - ascii: "Sav'saaba... "
+    - text: "ᴆSav'saaba... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Look at you, talking up a\nwoman in the middle of the night..."
+    - text: "Look at you, talking up a\nwoman in the middle of the night..."
     - utf16_bytes:
         - 14
         - 1
@@ -1387,7 +1387,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk55:
     - utf16_bytes:
@@ -1395,28 +1396,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: "In any case, do you have some "
+    - text: "ጆIn any case, do you have some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: amber
+    - text: amber
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI need lots of it."
+    - text: "\nI need lots of it."
     - utf16_bytes:
         - 0
   talk08:
@@ -1425,8 +1425,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "See you later. Sav'orq."
+    - text: "ĀSee you later. Sav'orq."
     - utf16_bytes:
         - 0
   talk56:
@@ -1436,27 +1435,27 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Bring me "
+    - text: "Bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "of them, "
+    - text: "of them, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and I'll buy them\nfor more than a shop would pay!"
+    - text: "and I'll buy them\nfor more than a shop would pay!"
     - utf16_bytes:
         - 0
   talk09:
@@ -1465,14 +1464,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh. "
+    - text: "ĀOh. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That's too bad."
+    - text: "That's too bad."
     - utf16_bytes:
         - 14
         - 1
@@ -1480,7 +1478,8 @@ entries:
         - 6
         - 2
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk10:
     - utf16_bytes:
@@ -1488,28 +1487,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm Ramella. "
+    - text: "ĀI'm Ramella. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "As you can see, I'm from the\nGerudo region.\n\nI came for the "
+    - text: "As you can see, I'm from the\nGerudo region.\n\nI came for the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "jewels "
+    - text: "jewels "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "that are to be found\nin Goron City."
+    - text: "that are to be found\nin Goron City."
     - utf16_bytes:
         - 0
   talk57:
@@ -1518,22 +1516,21 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: "In any case, do you have "
+    - text: "ጆIn any case, do you have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 pieces of\namber"
+    - text: "10 pieces of\namber"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? If so, will you sell them to me?"
+    - text: "? If so, will you sell them to me?"
     - utf16_bytes:
         - 0
   talk11:
@@ -1543,41 +1540,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "By the way, do you happen to have\n"
+    - text: "By the way, do you happen to have\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 10 diamonds
+    - text: 10 diamonds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\nYou'll get 5,000 rupees if you sell them\nat a store..."
+    - text: "?\n\nYou'll get 5,000 rupees if you sell them\nat a store..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "or you can trade them to me\nfor "
+    - text: "or you can trade them to me\nfor "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "5,500 rupees"
+    - text: "5,500 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -1585,7 +1582,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk12:
     - utf16_bytes:
@@ -1594,41 +1592,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "By the way, do you have "
+    - text: "By the way, do you have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 10 rubies
+    - text: 10 rubies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\nYou'll get 2,100 rupees if you sell them\nat a store..."
+    - text: "?\n\n\nYou'll get 2,100 rupees if you sell them\nat a store..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "or you can trade them to me\nfor "
+    - text: "or you can trade them to me\nfor "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,300 rupees"
+    - text: "2,300 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -1636,7 +1634,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk59:
     - utf16_bytes:
@@ -1644,43 +1643,42 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Yes, 10 pieces of amber... "
+    - text: "āYes, 10 pieces of amber... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Sell them\nto the shop, and you'll get 300 rupees."
+    - text: "Sell them\nto the shop, and you'll get 300 rupees."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nOr sell them to me for "
+    - text: "\nOr sell them to me for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 500 rupees
+    - text: 500 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 3
-    - ascii: "\t"
+        - 9
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   talk60:
     - utf16_bytes:
@@ -1688,8 +1686,7 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: Tell me if you change your mind.
+    - text: āTell me if you change your mind.
     - utf16_bytes:
         - 0
   talk13:
@@ -1699,55 +1696,55 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "By the way, do you have "
+    - text: "By the way, do you have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: sapphires
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\nYou'll get 2,600 rupees if you sell them\nat a store..."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sapphires
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?\n\n\nYou'll get 2,600 rupees if you sell them\nat a store..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "or you can trade them to me\nfor "
+    - text: "or you can trade them to me\nfor "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,900 rupees"
+    - text: "2,900 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -1755,7 +1752,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk61:
     - utf16_bytes:
@@ -1763,28 +1761,27 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: Thanks!
+    - text: ćThanks!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Here you go: "
+    - text: " Here you go: "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 500 rupees
+    - text: 500 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk14:
@@ -1794,41 +1791,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "By the way, do you have "
+    - text: "By the way, do you have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 10 topazes
+    - text: 10 topazes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\nYou'll get 1,800 rupees for them at\na store..."
+    - text: "?\n\n\nYou'll get 1,800 rupees for them at\na store..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "or you can sell them to me\nfor "
+    - text: "or you can sell them to me\nfor "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "2,000 rupees"
+    - text: "2,000 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -1836,7 +1833,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk62:
     - utf16_bytes:
@@ -1844,62 +1842,61 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I need to procure other "
+    - text: "ĀI need to procure other "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "jewels "
+    - text: "jewels "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "too,\nso keep bringing me what you find."
+    - text: "too,\nso keep bringing me what you find."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBring me "
+    - text: "\nBring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "at a time, got it?\nAs for what kinds of jewels I want\nto buy, well..."
+    - text: "at a time, got it?\nAs for what kinds of jewels I want\nto buy, well..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That's likely to change\n"
+    - text: " That's likely to change\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: every once in a while
+    - text: every once in a while
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk63:
@@ -1909,35 +1906,35 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "These days, those "
+    - text: "These days, those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "magma bombs "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "are\ncausing trouble and preventing me from\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: working
+    - text: "magma bombs "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". I'm not too happy about it."
+    - text: "are\ncausing trouble and preventing me from\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: working
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". I'm not too happy about it."
     - utf16_bytes:
         - 0
   talk16:
@@ -1946,14 +1943,13 @@ entries:
         - 3
         - 1
         - 2
-        - 6918
-    - ascii: "Sav'otta. "
+    - text: "ᬆSav'otta. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's hot for so early in the day."
+    - text: "It's hot for so early in the day."
     - utf16_bytes:
         - 0
   talk17:
@@ -1962,14 +1958,13 @@ entries:
         - 3
         - 1
         - 2
-        - 7174
-    - ascii: "Sav'aaq. "
+    - text: "ᰆSav'aaq. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "The daytime sure is\nscorching here."
+    - text: "The daytime sure is\nscorching here."
     - utf16_bytes:
         - 0
   talk18:
@@ -1978,14 +1973,13 @@ entries:
         - 3
         - 1
         - 2
-        - 7430
-    - ascii: "Sav'saaba. "
+    - text: "ᴆSav'saaba. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Sure is hot for nighttime.
+    - text: Sure is hot for nighttime.
     - utf16_bytes:
         - 0
   talk19:
@@ -1995,13 +1989,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Sav'orq."
+    - text: "Sav'orq."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " See you later."
+    - text: " See you later."
     - utf16_bytes:
         - 0
   talk20:
@@ -2010,14 +2004,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Sarqso. "
+    - text: "āSarqso. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's a huge help."
+    - text: "It's a huge help."
     - utf16_bytes:
         - 0
   talk21:
@@ -2026,21 +2019,19 @@ entries:
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Are you trying to pull a fast one on me?\nYou don't have enough to sell!"
+    - text: "ĂAre you trying to pull a fast one on me?\nYou don't have enough to sell!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Well, I suppose this is good-bye."
+    - text: "ĀWell, I suppose this is good-bye."
     - utf16_bytes:
         - 0
   talk22:
@@ -2060,55 +2051,55 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "If you still have "
+    - text: "If you still have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of those "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: diamonds
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: " of those "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: diamonds
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll buy them for "
+    - text: "\nI'll buy them for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "5,500 rupees"
+    - text: "5,500 rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Yeah?"
+    - text: ". Yeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -2116,5 +2107,6 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

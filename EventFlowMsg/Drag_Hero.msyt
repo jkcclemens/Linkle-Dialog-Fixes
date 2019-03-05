@@ -1,7 +1,7 @@
 ---
 entries:
   Npc_SmallOasis006_Near_001:
-    - ascii: "What's the deal?"
+    - text: "What's the deal?"
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_F_001:
@@ -11,19 +11,19 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Grrr... "
+    - text: "Grrr... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Who do you think the man who\nsnuck into this town was, anyway?!\n\nWhy are you looking at me like that?"
+    - text: "Who do you think the man who\nsnuck into this town was, anyway?!\n\nWhy are you looking at me like that?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'm just trying to gather more info!"
+    - text: "\nI'm just trying to gather more info!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_F_002:
@@ -32,19 +32,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Eep?! Eeeeeeek!!"
+    - text: "}Eep?! Eeeeeeek!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 0
@@ -55,13 +55,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PThat lovely young lady is just my type...
+    - text: PThat lovely young lady is just my type...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -74,7 +74,8 @@ entries:
         - 6
         - 22
         - 23
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_SmallOasis006_F_003:
     - utf16_bytes:
@@ -82,13 +83,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Wh-what?! N-n-n-n-no!!"
+    - text: "}Wh-what?! N-n-n-n-no!!"
     - utf16_bytes:
         - 14
         - 5
@@ -98,13 +99,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\nO-o-o-o-o-of course not!\nI-I-I'm just investigating!!"
+    - text: "d\nO-o-o-o-o-of course not!\nI-I-I'm just investigating!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
@@ -115,13 +116,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PHm? This exchange feels incredibly familiar to me...
+    - text: PHm? This exchange feels incredibly familiar to me...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_010:
@@ -131,41 +132,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "We wanted to make it to "
+    - text: "We wanted to make it to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nto sell our goods, but we were stopped\nbefore we could go in.\nApparently they "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "only let women into that\ntown"
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "\nto sell our goods, but we were stopped\nbefore we could go in.\nApparently they "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "only let women into that\ntown"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " And to think we came all the\nway out here..."
+    - text: " And to think we came all the\nway out here..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_F_004:
@@ -174,19 +175,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}WHAAAAAAT?!"
+    - text: "}WHAAAAAAT?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 0
@@ -202,13 +203,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PIs it already over?
+    - text: PIs it already over?
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -223,41 +224,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "We wanted to make it to "
+    - text: "We wanted to make it to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nto sell our goods, but we were stopped\nbefore we could go in.\nThey "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: only let women into that town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "\nto sell our goods, but we were stopped\nbefore we could go in.\nThey "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: only let women into that town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAnd to think we came all the way out\nhere..."
+    - text: "\nAnd to think we came all the way out\nhere..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_F_010:
@@ -266,22 +267,21 @@ entries:
         - 3
         - 1
         - 2
-        - 5889
-    - ascii: "That being said... You look adorable!\nWith those clothes, anyone around here\nmight think you're a "
+    - text: "ᜁThat being said... You look adorable!\nWith those clothes, anyone around here\nmight think you're a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: nice gerudo girl
+    - text: nice gerudo girl
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_012:
@@ -291,21 +291,21 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Male merchants can't go to town, and\nmost travelers can't go farther because\nof the "
+    - text: "Male merchants can't go to town, and\nmost travelers can't go farther because\nof the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_F_011:
@@ -315,27 +315,27 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: By the way...
+    - text: By the way...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "what happened to the\n"
+    - text: "what happened to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo outfit
+    - text: Gerudo outfit
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " I gave to you?"
+    - text: " I gave to you?"
     - utf16_bytes:
         - 14
         - 1
@@ -343,7 +343,8 @@ entries:
         - 6
         - 24
         - 25
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_013:
     - utf16_bytes:
@@ -352,21 +353,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So close, and yet so far. Nothing has\ndescribed "
+    - text: "So close, and yet so far. Nothing has\ndescribed "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " more accurately."
+    - text: " more accurately."
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_F_012:
@@ -376,7 +377,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "My dear girl... You really do want to get\ninside Gerudo Town, don't you?\n\nThey'll spot you in a heartbeat if you\ndon't dress yourself up.\n\nThose traditional clothes really do look\ngood on you. Don't be so shy about\nwearing them, OK?"
+    - text: "My dear girl... You really do want to get\ninside Gerudo Town, don't you?\n\nThey'll spot you in a heartbeat if you\ndon't dress yourself up.\n\nThose traditional clothes really do look\ngood on you. Don't be so shy about\nwearing them, OK?"
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_014:
@@ -386,21 +387,21 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Our caravan leader went to "
+    - text: "Our caravan leader went to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nto negotiate, but he hasn't come back\nyet..."
+    - text: "\nto negotiate, but he hasn't come back\nyet..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_015:
@@ -409,35 +410,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
+        - 9
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: PBossssss...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PBossssss...
-    - utf16_bytes:
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0030":
-    - ascii: "I'll take them!"
+    - text: "I'll take them!"
     - utf16_bytes:
         - 0
   "0031":
-    - ascii: "No, thanks..."
+    - text: "No, thanks..."
     - utf16_bytes:
         - 0
   "0032":
-    - ascii: "*study her face*"
+    - text: "*study her face*"
     - utf16_bytes:
         - 0
   "0033":
-    - ascii: "*squint suspiciously*"
+    - text: "*squint suspiciously*"
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_020:
@@ -446,18 +446,19 @@ entries:
         - 3
         - 1
         - 2
-        - 2055
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}Hrrrrrrrnnngh!"
+    - text: ࠇ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}Hrrrrrrrnnngh!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_005:
@@ -467,29 +468,29 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey...\n\n\n"
+    - text: "Hey...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: Um...
+    - text: Um...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou're...?"
+    - text: "\nYou're...?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 8
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   Npc_SmallOasis008_S1_021:
     - utf16_bytes:
@@ -497,8 +498,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1035
-    - ascii: "If you want to get more lady's clothing,\ncome back anytime..."
+    - text: "ЋIf you want to get more lady's clothing,\ncome back anytime..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_006:
@@ -507,27 +507,26 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oooh, I see."
+    - text: "ЀOooh, I see."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " So you're just like us.\n\n\n"
+    - text: " So you're just like us.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "But then, that must mean... "
+    - text: "But then, that must mean... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Are you also\nstranded out here?"
+    - text: "Are you also\nstranded out here?"
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_S1_001:
@@ -537,56 +536,56 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "I hear the "
+    - text: "I hear the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: man who infiltrated
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Gerudo Town "
+    - text: man who infiltrated
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is frequently traveling\nbetween "
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: Kara Kara Bazaar
+        - 0
+    - text: "Gerudo Town "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and here.\n"
+    - text: "is frequently traveling\nbetween "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Kara Kara Bazaar
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and here.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "So I'm waiting for him. I plan on asking\nhim how he pulls off his amazing\ninfiltration. My plan is flawless!"
+    - text: "So I'm waiting for him. I plan on asking\nhim how he pulls off his amazing\ninfiltration. My plan is flawless!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_007:
@@ -596,36 +595,36 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Our leader went to "
+    - text: "Our leader went to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Gerudo Town "
+    - text: "Gerudo Town "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to try to\nfigure out how we can get inside...\n\n"
+    - text: "to try to\nfigure out how we can get inside...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "But he hasn't come back yet. I imagine\nhe isn't having a ton of luck..."
+    - text: "But he hasn't come back yet. I imagine\nhe isn't having a ton of luck..."
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: Are you spying?
+    - text: Are you spying?
     - utf16_bytes:
         - 0
   "0021":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_R_009:
@@ -634,14 +633,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh, I see. "
+    - text: "ЀOh, I see. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Well, we're merchants."
+    - text: "Well, we're merchants."
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_F_008:
@@ -651,77 +649,74 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "That giant monster cloaked in the\nsandstorm... If I recall correctly, it's\ncalled a "
+    - text: "That giant monster cloaked in the\nsandstorm... If I recall correctly, it's\ncalled a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\nI hear it started wandering the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Desert
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " several weeks ago. \nI wonder what it is exactly...\n"
+    - text: "...\nI hear it started wandering the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Desert
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " several weeks ago. \nI wonder what it is exactly...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Apparently the "
+    - text: "Apparently the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "chief of Gerudo Town "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is\nhaving a lot of trouble figuring out how\nto handle the situation.\nOne thing's for sure"
-    - utf16_bytes:
-        - 8212
-    - ascii: "they'd be helpless\nif the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Divine Beast "
+    - text: "chief of Gerudo Town "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: headed for town.
+    - text: "is\nhaving a lot of trouble figuring out how\nto handle the situation.\nOne thing's for sure—they'd be helpless\nif the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Divine Beast "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: headed for town.
     - utf16_bytes:
         - 0
   "0022":
-    - ascii: Still spying?
+    - text: Still spying?
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_F_009:
@@ -731,32 +726,29 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "They'd be completely helpless if that\nbeast headed straight for town"
-    - utf16_bytes:
-        - 8212
-    - ascii: "that's\nfor sure.\nI heard the "
+    - text: "They'd be completely helpless if that\nbeast headed straight for town—that's\nfor sure.\nI heard the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: chief of Gerudo Town
+    - text: chief of Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is\ntrying her best to come up with a way to\ndeal with it, but..."
+    - text: " is\ntrying her best to come up with a way to\ndeal with it, but..."
     - utf16_bytes:
         - 0
   "0023":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   "0024":
-    - ascii: Please sell me one.
+    - text: Please sell me one.
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_F_003:
@@ -765,7 +757,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᐊWOW!
+    - text: ᐊWOW!
     - utf16_bytes:
         - 14
         - 5
@@ -773,7 +765,7 @@ entries:
         - 0
         - 0
   "0025":
-    - ascii: "I'm taking care of it."
+    - text: "I'm taking care of it."
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_F_004:
@@ -787,13 +779,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PSo cute...
+    - text: PSo cute...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
@@ -804,31 +796,31 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Oh, my. Please excuse my rudeness. Are\nyou all by yourself in a place like this?\n"
+    - text: "Oh, my. Please excuse my rudeness. Are\nyou all by yourself in a place like this?\n"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "The desert is quite dangerous, you know.\n"
+    - text: "The desert is quite dangerous, you know.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "If you feel even the slightest twinge of\nfear, you can count on me to help, OK?"
+    - text: "If you feel even the slightest twinge of\nfear, you can count on me to help, OK?"
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_Near_001:
-    - ascii: Heeheehee...
+    - text: Heeheehee...
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_011:
@@ -837,28 +829,27 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: "Ahhh heeheehee... Just as I thought! You\nmake for quite a "
+    - text: "᠀Ahhh heeheehee... Just as I thought! You\nmake for quite a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "good-lookin' gal"
+    - text: "good-lookin' gal"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". That's\na traditional Gerudo outfit.\nIt's such a striking look around here, I\ndoubt anyone would even suspect that\nyou're not from here!\nOn top of that, it breathes so well that\nit's sure to help you deal with the\ndesert heat..."
+    - text: ". That's\na traditional Gerudo outfit.\nIt's such a striking look around here, I\ndoubt anyone would even suspect that\nyou're not from here!\nOn top of that, it breathes so well that\nit's sure to help you deal with the\ndesert heat..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " At least a little!"
+    - text: " At least a little!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis003_S1_001:
@@ -868,38 +859,36 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: Oh...
+    - text: 촀Oh...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52508
-    - ascii: Vasaaq.
+    - text: 촜Vasaaq.
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 18
         - 17
@@ -913,26 +902,27 @@ entries:
         - 3
         - 1
         - 2
-        - 2315
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}..."
+    - text: ऋ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nHeh... Make sure you watch out for\nthe wind."
+    - text: "}..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\nHeh... Make sure you watch out for\nthe wind."
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: A man snuck in...
+    - text: A man snuck in...
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_014:
@@ -941,8 +931,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm so glad I was able to help you out."
+    - text: "ЀI'm so glad I was able to help you out."
     - utf16_bytes:
         - 0
   Npc_SmallOasis003_S1_004:
@@ -952,34 +941,34 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "A sneaky what? You mean a voe,\nsneaking around town? "
+    - text: "A sneaky what? You mean a voe,\nsneaking around town? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I haven't seen\nanyone like that.\n"
+    - text: "I haven't seen\nanyone like that.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "There's a "
+    - text: "There's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Hylian vai
+    - text: Hylian vai
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " who likes to relax\non the roof. Though in the afternoon, it's\nprobably too hot up there."
+    - text: " who likes to relax\non the roof. Though in the afternoon, it's\nprobably too hot up there."
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_015:
@@ -988,8 +977,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: "It's a deal, then! I'll take your\nrupees now."
+    - text: "᠀It's a deal, then! I'll take your\nrupees now."
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_R_101:
@@ -999,13 +987,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Oh, I was so focused just now..."
+    - text: "Oh, I was so focused just now..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDo you have business with me?"
+    - text: "\nDo you have business with me?"
     - utf16_bytes:
         - 14
         - 1
@@ -1013,7 +1001,8 @@ entries:
         - 6
         - 20
         - 21
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_016:
     - utf16_bytes:
@@ -1021,20 +1010,19 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: "Heehee... I have the perfect outfit\nfor you!"
+    - text: "᠀Heehee... I have the perfect outfit\nfor you!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Go ahead and change into it\nright now. "
+    - text: " Go ahead and change into it\nright now. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Don't worry. I'll look away..."
+    - text: "Don't worry. I'll look away..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis003_S1_006:
@@ -1043,13 +1031,12 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Did you need anything else?
+    - text: ȀDid you need anything else?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 18
         - 17
@@ -1064,21 +1051,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I heard that man is frequently traveling\nbetween "
+    - text: "I heard that man is frequently traveling\nbetween "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and\nGerudo Town.\nI've been waiting here, trying to spot\nhim as he travels!"
+    - text: " and\nGerudo Town.\nI've been waiting here, trying to spot\nhim as he travels!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_017:
@@ -1088,14 +1075,14 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Oh, dear... You don't appear to have\nenough rupees...\n\n"
+    - text: "Oh, dear... You don't appear to have\nenough rupees...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Money talks, as they say. You should\nreally make it a habit to have a nice little\nnest egg with you."
+    - text: "Money talks, as they say. You should\nreally make it a habit to have a nice little\nnest egg with you."
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_R_103:
@@ -1105,14 +1092,14 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: "What? You went out of your way to have\na conversation with me, but you'll leave\nwithout hearing what I have to say?\n"
+    - text: "What? You went out of your way to have\na conversation with me, but you'll leave\nwithout hearing what I have to say?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "Don't act so rashly! You must hear my\nheroic tale before you go!"
+    - text: "Don't act so rashly! You must hear my\nheroic tale before you go!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_018:
@@ -1122,13 +1109,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Oh, dear. That's too bad."
+    - text: "Oh, dear. That's too bad."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Let me know\nif you change your mind."
+    - text: " Let me know\nif you change your mind."
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_R_104:
@@ -1137,14 +1124,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᔊWhat?! N-no! I'm not a spy!\n\n\n"
+    - text: "ᔊWhat?! N-no! I'm not a spy!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm a merchant! I may not look like it, but\nI'm actually the leader of a caravan!\n\nI've traveled all the way here, but this\ntown doesn't allow men to go in. \nSo...that's why I...had to...um..."
+    - text: "I'm a merchant! I may not look like it, but\nI'm actually the leader of a caravan!\n\nI've traveled all the way here, but this\ntown doesn't allow men to go in. \nSo...that's why I...had to...um..."
     - utf16_bytes:
         - 14
         - 1
@@ -1152,7 +1139,8 @@ entries:
         - 6
         - 20
         - 21
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_019:
     - utf16_bytes:
@@ -1161,11 +1149,11 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "If you're free to grab something to eat\nsometime, keep me in mind..."
+    - text: "If you're free to grab something to eat\nsometime, keep me in mind..."
     - utf16_bytes:
         - 0
   "0016":
-    - ascii: I want to buy.
+    - text: I want to buy.
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_R_105:
@@ -1174,28 +1162,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᔊIt's research!\nRESEARCH!\n\n"
+    - text: "ᔊIt's research!\nRESEARCH!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "And think what you want, but I've finally\nfound some key info on how to\nsneak into "
+    - text: "And think what you want, but I've finally\nfound some key info on how to\nsneak into "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
@@ -1203,10 +1191,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0017":
-    - ascii: I want to sell.
+    - text: I want to sell.
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_R_106:
@@ -1216,20 +1205,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's been close to a week now..."
+    - text: "It's been close to a week now..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThe guards have kicked me out more\ntimes than I can count...\n"
+    - text: "\nThe guards have kicked me out more\ntimes than I can count...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: I almost gave up hope...
+    - text: ဃI almost gave up hope...
     - utf16_bytes:
         - 14
         - 5
@@ -1239,7 +1227,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "P\n\n\n"
+    - text: "P\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -1250,47 +1238,47 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}HOWEVER!!"
+    - text: "}HOWEVER!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nI have learned only recently of a "
+    - text: "d\n\n\nI have learned only recently of a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "man \nthat"
+    - text: "man \nthat"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: slipped into
+    - text: slipped into
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " this well-guarded town!"
+    - text: " this well-guarded town!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_001:
@@ -1300,11 +1288,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, my. What a lovely young lady you are.\nDo you need something from me?"
+    - text: "Oh, my. What a lovely young lady you are.\nDo you need something from me?"
     - utf16_bytes:
         - 0
   "0018":
-    - ascii: Seen a sneaky guy?
+    - text: Seen a sneaky guy?
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_R_107:
@@ -1314,13 +1302,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Heheheh... Well, "
+    - text: "Heheheh... Well, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "allow me to share\nwith you...my heroic tale!"
+    - text: "allow me to share\nwith you...my heroic tale!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_002:
@@ -1329,15 +1317,14 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh, such a nice thing to say! And I'm\nsure you'd agree that these clothes only\nhelp my looks, right?\nNow that I think about it, this style\nwould look quite fetching on you...\n\nI'd have to charge you, of course, but I\nbet people would see you completely\ndifferently if you wore them!\n"
+    - text: "ЀOh, such a nice thing to say! And I'm\nsure you'd agree that these clothes only\nhelp my looks, right?\nNow that I think about it, this style\nwould look quite fetching on you...\n\nI'd have to charge you, of course, but I\nbet people would see you completely\ndifferently if you wore them!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "What do you think? Do you want to\nbuy them for..."
+    - text: "What do you think? Do you want to\nbuy them for..."
     - utf16_bytes:
         - 14
         - 5
@@ -1348,14 +1335,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: 600 rupees
+    - text: 600 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -1363,10 +1350,11 @@ entries:
         - 6
         - 30
         - 31
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0019":
-    - ascii: Nothing.
+    - text: Nothing.
     - utf16_bytes:
         - 0
   Npc_SmallOasis006_R_108:
@@ -1376,14 +1364,14 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey! Hold on, hold on! You can't just run\noff like that!\n\n"
+    - text: "Hey! Hold on, hold on! You can't just run\noff like that!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I've worked really hard to get info on\ngetting into Gerudo Town, and I have to\nshare the fruits of my labors! I gotta!"
+    - text: "I've worked really hard to get info on\ngetting into Gerudo Town, and I have to\nshare the fruits of my labors! I gotta!"
     - utf16_bytes:
         - 14
         - 1
@@ -1391,7 +1379,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_003:
     - utf16_bytes:
@@ -1400,50 +1389,49 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Well, well... You still haven't given up on\nyour search for "
+    - text: "Well, well... You still haven't given up on\nyour search for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: the man
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " who snuck into\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: the man
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n"
+    - text: " who snuck into\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I told you I didn't know anything.\nDo you always doubt someone's word?"
+    - text: "I told you I didn't know anything.\nDo you always doubt someone's word?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: " !"
+    - text: " !Ȁ"
     - utf16_bytes:
-        - 512
         - 0
   Npc_SmallOasis006_R_109:
     - utf16_bytes:
@@ -1452,28 +1440,28 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Hang on! You must have needed\nsomething! Maybe you were looking\nfor a "
+    - text: "Hang on! You must have needed\nsomething! Maybe you were looking\nfor a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: way to sneak into Gerudo Town
+    - text: way to sneak into Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n"
+    - text: "?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I can't think of a single other reason for\na you to be here..."
+    - text: "I can't think of a single other reason for\na you to be here..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_004:
@@ -1483,57 +1471,56 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "What's that? You've heard about "
+    - text: "What's that? You've heard about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: a man
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nwho snuck into "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: a man
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n"
+    - text: "\nwho snuck into "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Oh, I don't know anything about him...\nSorry I couldn't be more help."
+    - text: "Oh, I don't know anything about him...\nSorry I couldn't be more help."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: " !"
+    - text: " !Ȁ"
     - utf16_bytes:
-        - 512
         - 0
   "0002":
-    - ascii: What info?
+    - text: What info?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_007:
@@ -1542,8 +1529,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1035
-    - ascii: "Heehee... You're making my cheeks warm\nlooking at me like that."
+    - text: "ЋHeehee... You're making my cheeks warm\nlooking at me like that."
     - utf16_bytes:
         - 14
         - 1
@@ -1551,14 +1537,15 @@ entries:
         - 6
         - 4
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: "You're very beautiful!"
+    - text: "You're very beautiful!"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "You're... not a gerudo?"
+    - text: "You're... not a gerudo?"
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_008:
@@ -1568,19 +1555,19 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Oh, my! "
+    - text: "Oh, my! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "You sure say the funniest things,\nyoung lady."
+    - text: "You sure say the funniest things,\nyoung lady."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Anyway, if you don't need\nanything, you should be off, then."
+    - text: " Anyway, if you don't need\nanything, you should be off, then."
     - utf16_bytes:
         - 0
   Npc_SmallOasis008_S1_009:
@@ -1589,28 +1576,25 @@ entries:
         - 3
         - 1
         - 2
-        - 2055
+    - text: ࠇ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}♪Eeeeeeeee!♪"
     - utf16_bytes:
-        - 9834
-    - ascii: Eeeeeeeee!
-    - utf16_bytes:
-        - 9834
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nYou look adorable!!"
+    - text: "\n\n\nYou look adorable!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_S1_001:
@@ -1620,33 +1604,34 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Our boss... I get the feeling that he isn't\ncoming back from "
+    - text: "Our boss... I get the feeling that he isn't\ncoming back from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " anytime\nsoon... I hope he's OK..."
+    - text: " anytime\nsoon... I hope he's OK..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0008":
-    - ascii: A merchant.
+    - text: A merchant.
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_S1_002:
@@ -1655,116 +1640,112 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ؊Wha
-    - utf16_bytes:
-        - 8212
-    - ascii: " There's a "
+    - text: "؊Wha— There's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "man who got into\nGerudo Town"
+    - text: "man who got into\nGerudo Town"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nAnd the boss says he comes here to the\n"
+    - text: "\n\nAnd the boss says he comes here to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I guess it must be true if the boss\nsaid so...\n\n"
+    - text: "I guess it must be true if the boss\nsaid so...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "But I've never seen anyone around here\nwho strikes me as a super sneaky guy...\n\nThere was that pretty Hylian gal at the\n"
+    - text: "But I've never seen anyone around here\nwho strikes me as a super sneaky guy...\n\nThere was that pretty Hylian gal at the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: general store
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: " It's unusual to see a\nHylian girl dressed like a Gerudo...\nHer "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo clothes
+    - text: general store
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 8212
-    - ascii: "I wonder where she\nbought them..."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Maybe if I wore those\nclothes...\n"
+    - text: " It's unusual to see a\nHylian girl dressed like a Gerudo...\nHer "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo clothes
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "—I wonder where she\nbought them..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Maybe if I wore those\nclothes...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Ha, nah. I'm so out of my element with\nall this sneaky stuff."
+    - text: "Ha, nah. I'm so out of my element with\nall this sneaky stuff."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: A traveler.
+    - text: A traveler.
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_S1_003:
@@ -1773,8 +1754,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It doesn't seem like he'll be coming back\ntoday, either..."
+    - text: "ЀIt doesn't seem like he'll be coming back\ntoday, either..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_S1_004:
@@ -1784,48 +1764,48 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "You hear that a man somehow made\nhis way into Gerudo Town?\n\nI haven't seen any suspicious guys\naround here, though...\n\nAlthough I did see a pretty Hylian gal\nwearing "
+    - text: "You hear that a man somehow made\nhis way into Gerudo Town?\n\nI haven't seen any suspicious guys\naround here, though...\n\nAlthough I did see a pretty Hylian gal\nwearing "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Gerudo clothes "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "at the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: general store
+    - text: "Gerudo clothes "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", which was unusual...\nI wonder if just wearing different clothes\nwould allow someone..."
+    - text: "at the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: general store
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", which was unusual...\nI wonder if just wearing different clothes\nwould allow someone..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Ha! Never mind. No one would ever\nbe that crazy!"
+    - text: "Ha! Never mind. No one would ever\nbe that crazy!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_S1_005:
@@ -1834,43 +1814,42 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PDarn it... "
+    - text: "PDarn it... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'll make sure to get into Gerudo Town...\nEven if it means dressing like a woman...\n"
+    - text: "I'll make sure to get into Gerudo Town...\nEven if it means dressing like a woman...\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: No...
+    - text: No...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Matter..."
+    - text: " Matter..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What..."
+    - text: " What..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_SmallOasis005_S1_006:
@@ -1880,32 +1859,32 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Our leader...
+    - text: Our leader...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I get the feeling he's not\ncoming back from "
+    - text: " I get the feeling he's not\ncoming back from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Gerudo Town "
+    - text: "Gerudo Town "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "anytime\nsoon..."
+    - text: "anytime\nsoon..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I hope he's OK."
+    - text: " I hope he's OK."
     - utf16_bytes:
         - 0

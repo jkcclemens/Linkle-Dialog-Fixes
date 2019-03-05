@@ -6,11 +6,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tSo hungry!"
+        - 9
+    - text: So hungry!
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Din din!
+    - text: Din din!
     - utf16_bytes:
         - 0
   Talk04:
@@ -20,11 +21,11 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I eat vegetables 'cause I wanna be big\nand strong!"
+    - text: "I eat vegetables 'cause I wanna be big\nand strong!"
     - utf16_bytes:
         - 0
   Near_Sleep00:
-    - ascii: Zzz... Zzz...
+    - text: Zzz... Zzz...
     - utf16_bytes:
         - 0
   Talk05:
@@ -33,7 +34,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tSplash splosh!"
+        - 9
+    - text: Splash splosh!
     - utf16_bytes:
         - 0
   Near_Sleep01:
@@ -42,7 +44,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촠*yawn*
+    - text: 촠*yawn*
     - utf16_bytes:
         - 0
   Talk06:
@@ -52,11 +54,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I wish the rain would stop.
+    - text: I wish the rain would stop.
     - utf16_bytes:
         - 0
   Near_RunRain00:
-    - ascii: Raaaain!
+    - text: Raaaain!
     - utf16_bytes:
         - 0
   Talk07:
@@ -65,7 +67,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ∉Gonna sleep!
+    - text: ∉Gonna sleep!
     - utf16_bytes:
         - 0
   Talk08:
@@ -75,13 +77,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: So full...
+    - text: So full...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSo sweepy..."
+    - text: "\nSo sweepy..."
     - utf16_bytes:
         - 0
   Talk00:
@@ -91,7 +93,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Yes?
+    - text: Yes?
     - utf16_bytes:
         - 14
         - 1
@@ -99,14 +101,15 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: What are you doing?
+    - text: What are you doing?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Nothing.
+    - text: Nothing.
     - utf16_bytes:
         - 0
   Talk01:
@@ -116,7 +119,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Playing tag! You want to play?
+    - text: Playing tag! You want to play?
     - utf16_bytes:
         - 0
   Talk02:
@@ -126,10 +129,10 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: Thbbb!
+    - text: Thbbb!
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: Heehee!
+    - text: Heehee!
     - utf16_bytes:
         - 0

@@ -7,22 +7,21 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "How is your shrine treasure hunting\ncoming along?"
+    - text: "How is your shrine treasure hunting\ncoming along?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   NakedPlayer:
-    - ascii: "Aren't you...a bit chilly?"
+    - text: "Aren't you...a bit chilly?"
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: What is it?!
+    - text: What is it?!
     - utf16_bytes:
         - 0
   Talk15:
@@ -32,38 +31,37 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: How is the shrine exploration going?
+    - text: How is the shrine exploration going?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: I cooked something.
+    - text: I cooked something.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Got any tips?
+    - text: Got any tips?
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Huh?!
+    - text: Huh?!
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Got any tips?
+    - text: Got any tips?
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   Takibi00:
@@ -72,14 +70,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: My back is aching...
+    - text: ĀMy back is aching...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I clearly need to\ntake a little break."
+    - text: " I clearly need to\ntake a little break."
     - utf16_bytes:
         - 0
   Takibi01:
@@ -88,14 +85,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Say, courageous one... Are you hungry?"
+    - text: "ĀSay, courageous one... Are you hungry?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIf so, please feel free to use my cooking\npot to whip up a snack."
+    - text: "\nIf so, please feel free to use my cooking\npot to whip up a snack."
     - utf16_bytes:
         - 0
   Near00:
@@ -105,11 +101,11 @@ entries:
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 0
   TerrorImpulse:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   Takibi02:
@@ -118,18 +114,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you feel like cooking, you are welcome\nto use my cooking pot over there."
+    - text: "ЀIf you feel like cooking, you are welcome\nto use my cooking pot over there."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: L
+    - text: L
     - utf16_bytes:
         - 65535
         - 0
         - 1
-    - ascii: ":Npc_King_Vagrant004_Have_Dish"
+    - text: ":Npc_King_Vagrant004_Have_Dish"
     - utf16_bytes:
         - 2
         - 0
@@ -138,11 +133,11 @@ entries:
         - 768
         - 0
   Near01:
-    - ascii: Where did my prey go...
+    - text: Where did my prey go...
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: Toasty...
+    - text: Toasty...
     - utf16_bytes:
         - 0
   Takibi03:
@@ -151,19 +146,20 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughUse my cooking pot as much as you like.
+    - text: CustomLaughUse my cooking pot as much as you like.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nJust remember to be smart about how\nyou combine your ingredients!"
+    - text: "\nJust remember to be smart about how\nyou combine your ingredients!"
     - utf16_bytes:
         - 0
   Sleep00:
@@ -173,39 +169,39 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: I must rise early tomorrow...
+    - text: I must rise early tomorrow...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You may\nrest here too, if you wish."
+    - text: " You may\nrest here too, if you wish."
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Quietly...
+    - text: Quietly...
     - utf16_bytes:
         - 0
   Sleep01:
-    - ascii: "Sitting by a warm campfire is the best\nway to pass the time..."
+    - text: "Sitting by a warm campfire is the best\nway to pass the time..."
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   Takibi05:
-    - ascii: "If you need to start a fire, just light your\ntorch on that campfire over there."
+    - text: "If you need to start a fire, just light your\ntorch on that campfire over there."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: L
+    - text: L
     - utf16_bytes:
         - 65535
         - 0
         - 1
-    - ascii: ":Npc_King_Vagrant004_Have_Dish"
+    - text: ":Npc_King_Vagrant004_Have_Dish"
     - utf16_bytes:
         - 2
         - 0
@@ -214,15 +210,15 @@ entries:
         - 768
         - 0
   Near04:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Easy there!
+    - text: Easy there!
     - utf16_bytes:
         - 0
   ClearTerrorEnemy:
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   Sleep03:
@@ -232,11 +228,11 @@ entries:
         - 1
         - 2
         - 3328
-    - ascii: "If I can't hunt, what else is there to do\nbut sleep?"
+    - text: "If I can't hunt, what else is there to do\nbut sleep?"
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: What is this?!
+    - text: What is this?!
     - utf16_bytes:
         - 0
   Kari00:
@@ -245,19 +241,17 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Can you not see that I'm hunting here?\n\n\nYou'll scare off my prey like that. At least\ncrouch down a bit."
+    - text: "ጀCan you not see that I'm hunting here?\n\n\nYou'll scare off my prey like that. At least\ncrouch down a bit."
     - utf16_bytes:
         - 0
   KariKotsu00:
-    - ascii: "It is not impossible to hunt with a sword,\nbut wild prey can be quite fast...\n\n"
+    - text: "It is not impossible to hunt with a sword,\nbut wild prey can be quite fast...\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "I would suggest getting your hands on a\nbow and some arrows, so you can take\nshots from afar.\nWe can discuss technique after that."
+    - text: "촂I would suggest getting your hands on a\nbow and some arrows, so you can take\nshots from afar.\nWe can discuss technique after that."
     - utf16_bytes:
         - 0
   TalkBokangi00:
@@ -267,23 +261,23 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: What is it now?!
+    - text: What is it now?!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Can't you see I'm\ntrying to get some sleep?"
+    - text: " Can't you see I'm\ntrying to get some sleep?"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: L
+    - text: L
     - utf16_bytes:
         - 65535
         - 0
         - 1
-    - ascii: ":Npc_King_Vagrant004_Have_Dish"
+    - text: ":Npc_King_Vagrant004_Have_Dish"
     - utf16_bytes:
         - 2
         - 0
@@ -292,22 +286,21 @@ entries:
         - 768
         - 0
   Kari02:
-    - ascii: "Go on! Hurry up and crouch down before\nyou scare off my prey!"
+    - text: "Go on! Hurry up and crouch down before\nyou scare off my prey!"
     - utf16_bytes:
         - 0
   KariKotsu01:
-    - ascii: "First, crouch down and approach your\nprey quietly to ensure you will not\nbe noticed.\n"
+    - text: "First, crouch down and approach your\nprey quietly to ensure you will not\nbe noticed.\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52498
-    - ascii: "When you're close enough that detection\nis nearly imminent...draw your bow and\nlet your arrow fly!\nAim thoughtfully, and you should be\nable to take down your prey with a\nsingle arrow."
+    - text: "촒When you're close enough that detection\nis nearly imminent...draw your bow and\nlet your arrow fly!\nAim thoughtfully, and you should be\nable to take down your prey with a\nsingle arrow."
     - utf16_bytes:
         - 0
   TerrorEnemy:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   TalkBokangi01:
@@ -317,17 +310,17 @@ entries:
         - 1
         - 2
         - 3328
-    - ascii: "I can't tell if you're stubborn, oblivious,\nor just plain rude! I was clearly sleeping!"
+    - text: "I can't tell if you're stubborn, oblivious,\nor just plain rude! I was clearly sleeping!"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: L
+    - text: L
     - utf16_bytes:
         - 65535
         - 0
         - 1
-    - ascii: ":Npc_King_Vagrant004_Have_Dish"
+    - text: ":Npc_King_Vagrant004_Have_Dish"
     - utf16_bytes:
         - 2
         - 0
@@ -342,13 +335,13 @@ entries:
         - 1
         - 2
         - 3328
-    - ascii: Hunting demands a great deal of focus...
+    - text: Hunting demands a great deal of focus...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt keeps your mind off how much your\nback hurts from crouching all day."
+    - text: "\nIt keeps your mind off how much your\nback hurts from crouching all day."
     - utf16_bytes:
         - 14
         - 1
@@ -356,7 +349,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   KariKotsu02:
     - utf16_bytes:
@@ -364,14 +358,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52497
-    - ascii: "Courageous one... I see you have taken\npossession of my old bow. Splendid."
+    - text: "촑Courageous one... I see you have taken\npossession of my old bow. Splendid."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nNow, let's see what you can do with it."
+    - text: "\nNow, let's see what you can do with it."
     - utf16_bytes:
         - 0
   Kari04:
@@ -381,13 +374,13 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "Quiet, please."
+    - text: "Quiet, please."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm still hunting."
+    - text: " I'm still hunting."
     - utf16_bytes:
         - 14
         - 1
@@ -395,7 +388,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   KariKotsu03:
     - utf16_bytes:
@@ -403,14 +397,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: I am rather tired...
+    - text: ĀI am rather tired...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Yes, I think I'm going\nto take a small break."
+    - text: " Yes, I think I'm going\nto take a small break."
     - utf16_bytes:
         - 0
   KariKotsu04:
@@ -420,13 +413,13 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: Blast it all! My back is acting up again...
+    - text: Blast it all! My back is acting up again...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI suppose that means this old man has\nhad enough hunting for one day."
+    - text: "\nI suppose that means this old man has\nhad enough hunting for one day."
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -435,8 +428,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I look forward to seeing what type of\ntreasure you secure out there."
+    - text: "ĀI look forward to seeing what type of\ntreasure you secure out there."
     - utf16_bytes:
         - 0
   GoodBye01:
@@ -445,33 +437,33 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: Oho ho!
+    - text: 초Oho ho!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you still wish to acquire the\n"
+    - text: " If you still wish to acquire the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: paraglider
+    - text: paraglider
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you must put in the effort.\nI will not simply give it away, you see."
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."
     - utf16_bytes:
         - 0
   GoodBye02:
@@ -480,18 +472,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1280
-    - ascii: Hmph!
+    - text: ԀHmph!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Please do not wake me up for\nno reason. I need my rest."
+    - text: " Please do not wake me up for\nno reason. I need my rest."
     - utf16_bytes:
         - 0
   "1002":
-    - ascii: What are you doing?
+    - text: What are you doing?
     - utf16_bytes:
         - 0
   Hadaka00:
@@ -500,12 +491,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: What in the blazes is going on...
+    - text: ĀWhat in the blazes is going on...
     - utf16_bytes:
         - 0
   "1003":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   Talk00:
@@ -514,16 +504,14 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hm? What is it?
+    - text: ȀHm? What is it?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk01:
     - utf16_bytes:
@@ -531,27 +519,27 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: "CustomLaughWell, well, well..."
+    - text: "CustomLaughWell, well, well..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " So we meet again."
+    - text: " So we meet again."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk02:
     - utf16_bytes:
@@ -560,21 +548,20 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "Just a question, not a judgment..."
+    - text: "Just a question, not a judgment..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nbut how long were you planning on\nwalking around like that?"
+    - text: "\nbut how long were you planning on\nwalking around like that?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk03:
     - utf16_bytes:
@@ -583,15 +570,14 @@ entries:
         - 1
         - 2
         - 3584
-    - ascii: Out of the way!
+    - text: Out of the way!
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk04:
     - utf16_bytes:
@@ -599,27 +585,27 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Some days the prey is a bit too\nfast for this old hunter."
+    - text: " Some days the prey is a bit too\nfast for this old hunter."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk05:
     - utf16_bytes:
@@ -628,18 +614,17 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "With you causing such a commotion\nin my hunting grounds lately, it's no\nwonder I can hardly catch a thing!"
+    - text: "With you causing such a commotion\nin my hunting grounds lately, it's no\nwonder I can hardly catch a thing!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   TerrorInsect:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   Talk06:
@@ -648,16 +633,14 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It's so quiet..."
+    - text: "ЀIt's so quiet..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk07:
     - utf16_bytes:
@@ -666,15 +649,14 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: Could you not see I was sleeping?!
+    - text: Could you not see I was sleeping?!
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk08:
     - utf16_bytes:
@@ -682,22 +664,20 @@ entries:
         - 3
         - 1
         - 2
-        - 3840
-    - ascii: Shhh...
+    - text: ༀShhh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Quiet now..."
+    - text: " Quiet now..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk09:
     - utf16_bytes:
@@ -706,21 +686,20 @@ entries:
         - 1
         - 2
         - 3328
-    - ascii: "Far be it from me to interfere with your\nlogging efforts..."
+    - text: "Far be it from me to interfere with your\nlogging efforts..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "but could you do that\nelsewhere? You're scaring off my prey."
+    - text: "but could you do that\nelsewhere? You're scaring off my prey."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk10:
     - utf16_bytes:
@@ -729,21 +708,20 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "As they say, silence is golden."
+    - text: "As they say, silence is golden."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nAnd my prey frightens easily..."
+    - text: "\nAnd my prey frightens easily..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   Talk11:
     - utf16_bytes:
@@ -751,20 +729,18 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It gets quite dangerous out here at night.\nThe land fills with unspeakable beasts."
+    - text: "ЀIt gets quite dangerous out here at night.\nThe land fills with unspeakable beasts."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nPerhaps you should wait until morning..."
+    - text: "\nPerhaps you should wait until morning..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0

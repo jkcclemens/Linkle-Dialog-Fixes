@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Why's a stranger like yoooou askin'\nabout Yunobo?"
+    - text: "Why's a stranger like yoooou askin'\nabout Yunobo?"
     - utf16_bytes:
         - 14
         - 1
@@ -15,7 +15,8 @@ entries:
         - 6
         - 6
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk09:
     - utf16_bytes:
@@ -23,56 +24,55 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Yunobo went to the "
+    - text: "ЀYunobo went to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Bridge of Eldin
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "..."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: "\nI thiiiiink."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " Probably.\n\nTo get to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Death Mountain Summit
+    - text: Bridge of Eldin
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\njust keep going uuuuup this hill\naaaaall the way to the top!"
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nI thiiiiink."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Probably.\n\nTo get to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Death Mountain Summit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\njust keep going uuuuup this hill\naaaaall the way to the top!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Where am I?
+    - text: Where am I?
     - utf16_bytes:
         - 0
   talk20:
@@ -92,25 +92,25 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "Ever since "
+    - text: "Ever since "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Rudania
+    - text: Divine Beast Vah Rudania
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nshowed up, there's a tooooon of lava.\n\nIt's waaaay too hot now, and there are\nmore monsters around too.\n\nBoss keeps waaaatch over this area,\nbut he can only do sooo much..."
+    - text: "\nshowed up, there's a tooooon of lava.\n\nIt's waaaay too hot now, and there are\nmore monsters around too.\n\nBoss keeps waaaatch over this area,\nbut he can only do sooo much..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   talk21:
@@ -130,17 +130,17 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "This place is daaangerous, so Boss told\nme not to let anyone through..."
+    - text: "This place is daaangerous, so Boss told\nme not to let anyone through..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat means you tooooo, my maaaan."
+    - text: "\nThat means you tooooo, my maaaan."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Do you know Yunobo?
+    - text: Do you know Yunobo?
     - utf16_bytes:
         - 0
   talk22:
@@ -150,13 +150,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, OK."
+    - text: "Well, OK."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll tell you agaaaain."
+    - text: " I'll tell you agaaaain."
     - utf16_bytes:
         - 0
   talk23:
@@ -165,62 +165,62 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHEEEY!"
+        - 9
+    - text: HEEEY!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " YOOOOU!!"
+    - text: " YOOOOU!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Don't mess with\n"
+    - text: " Don't mess with\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Boss's"
+    - text: "Boss's"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: cannon
+    - text: cannon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n"
+    - text: "!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "You dooon't wanna send a cannonball\nflyyyin', so don't even thiiiiink about\nputtin' any explosives inside!"
+    - text: "ĂYou dooon't wanna send a cannonball\nflyyyin', so don't even thiiiiink about\nputtin' any explosives inside!"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "6"
+    - text: "6"
     - utf16_bytes:
         - 3
-    - ascii: $NPC_Goron030_Yunbo
+    - text: $NPC_Goron030_Yunbo
     - utf16_bytes:
         - 0
         - 0
@@ -231,7 +231,7 @@ entries:
         - 768
         - 0
   "0006":
-    - ascii: Boss wants to know.
+    - text: Boss wants to know.
     - utf16_bytes:
         - 0
   talk25:
@@ -240,8 +240,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you're lookin' for Yunobo, he rushed\noff earlier, baaaack to Goron City."
+    - text: "ЀIf you're lookin' for Yunobo, he rushed\noff earlier, baaaack to Goron City."
     - utf16_bytes:
         - 0
   talk00:
@@ -251,15 +250,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Soooo? Do ya neeeed somethin' else?!"
+    - text: "Soooo? Do ya neeeed somethin' else?!"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "6"
+    - text: "6"
     - utf16_bytes:
         - 3
-    - ascii: $NPC_Goron030_Yunbo
+    - text: $NPC_Goron030_Yunbo
     - utf16_bytes:
         - 0
         - 0
@@ -275,13 +274,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nHuuuuh? "
+    - text: "\nHuuuuh? "
     - utf16_bytes:
         - 14
         - 0
@@ -292,33 +291,33 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "Boss "
+    - text: "Boss "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: does?!
+    - text: does?!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Well... "
+    - text: "Well... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Then I guess I better tell you\nwheeeeere Yunobo is!"
+    - text: "Then I guess I better tell you\nwheeeeere Yunobo is!"
     - utf16_bytes:
         - 0
   talk01:
@@ -328,7 +327,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Who, meeee?"
+    - text: "Who, meeee?"
     - utf16_bytes:
         - 0
   talk14:
@@ -337,28 +336,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Yunobo...
+    - text: ЀYunobo...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "went to the "
+    - text: "went to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: vault
+    - text: vault
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to fetch some\npainkillers. But now that ya mention it,\nI suppooooose he never came back."
+    - text: " to fetch some\npainkillers. But now that ya mention it,\nI suppooooose he never came back."
     - utf16_bytes:
         - 0
   talk02:
@@ -367,8 +365,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Goooood-bye!
+    - text: ЀGoooood-bye!
     - utf16_bytes:
         - 0
   talk15:
@@ -378,7 +375,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This place is daaaaangerous, so ya\nprobably shouldn't go lookin' for him."
+    - text: "This place is daaaaangerous, so ya\nprobably shouldn't go lookin' for him."
     - utf16_bytes:
         - 0
   talk03:
@@ -387,16 +384,15 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Oh. Yooou again.
+    - text: ЀOh. Yooou again.
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "6"
+    - text: "6"
     - utf16_bytes:
         - 3
-    - ascii: $NPC_Goron030_Yunbo
+    - text: $NPC_Goron030_Yunbo
     - utf16_bytes:
         - 0
         - 0
@@ -412,33 +408,33 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nHEY! "
+    - text: "\nHEY! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Stooop that!
+    - text: Stooop that!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " That's "
+    - text: " That's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Boss's cannon"
+    - text: "Boss's cannon"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nDon't you daaaare touch that lever!"
+    - text: "!\nDon't you daaaare touch that lever!"
     - utf16_bytes:
         - 0
   talk04:
@@ -447,84 +443,83 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "This is the "
+    - text: "ЀThis is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Abandoned North Mine
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nOh, and this is the little ditty we all\nused to siiiiing as we worked:\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Ammo "
+    - text: Abandoned North Mine
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "goes BOOM 'til "
+    - text: ".\nOh, and this is the little ditty we all\nused to siiiiing as we worked:\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: "ore "
-    - utf16_bytes:
-        - 14
         - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "fills the ROOM!\nGather said "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: ORE
+    - text: "Ammo "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for rupees GALORE!\nDig all the DAY to get the good PAY!\nYeah, this is a famous mine, my maaaan.\nOr it was...until "
+    - text: "goes BOOM 'til "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Rudania
+    - text: "ore "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nshowed up. Now it's waaaay too hot!\nThere's tons more lava and all kiiiiiinds\nof monsters out and about."
+    - text: "fills the ROOM!\nGather said "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: ORE
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " for rupees GALORE!\nDig all the DAY to get the good PAY!\nYeah, this is a famous mine, my maaaan.\nOr it was...until "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast Vah Rudania
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nshowed up. Now it's waaaay too hot!\nThere's tons more lava and all kiiiiiinds\nof monsters out and about."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's so\ndangerous, we can't dig here anymore!"
+    - text: " It's so\ndangerous, we can't dig here anymore!"
     - utf16_bytes:
         - 0
   talk17:
@@ -534,17 +529,17 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Huuuuh?
+    - text: Huuuuh?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Didn't I already teeeell you..."
+    - text: " Didn't I already teeeell you..."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Hm?
+    - text: Hm?
     - utf16_bytes:
         - 0
   talk05:
@@ -553,34 +548,35 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tYeesh!"
+        - 9
+    - text: Yeesh!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " What's goin' on today?!"
+    - text: " What's goin' on today?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSo many peeeople out and about!\n\n"
+    - text: "\nSo many peeeople out and about!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "You should know it gets much hotter\npast here, and there are also looots of\nmonsters. It's reeeally dangerous!"
+    - text: "You should know it gets much hotter\npast here, and there are also looots of\nmonsters. It's reeeally dangerous!"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "6"
+    - text: "6"
     - utf16_bytes:
         - 3
-    - ascii: $NPC_Goron030_Yunbo
+    - text: $NPC_Goron030_Yunbo
     - utf16_bytes:
         - 0
         - 0
@@ -596,48 +592,47 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Yunobo?
+    - text: ЀYunobo?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " He went rushin' off to\nGoron City... I think. "
+    - text: " He went rushin' off to\nGoron City... I think. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Preeeetty sure.\nAll cuz of "
+    - text: "Preeeetty sure.\nAll cuz of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Rudania
+    - text: Rudania
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nMaaaaybe he went to talk with "
+    - text: "...\nMaaaaybe he went to talk with "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boss
+    - text: Boss
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   talk19:
@@ -647,7 +642,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: They call meeeee...
+    - text: They call meeeee...
     - utf16_bytes:
         - 14
         - 5
@@ -658,13 +653,13 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Draaaaak
+    - text: Draaaaak
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0

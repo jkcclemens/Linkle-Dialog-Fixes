@@ -7,11 +7,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Feel free to ask me anything whenever\nyou like!"
+    - text: "Feel free to ask me anything whenever\nyou like!"
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: "All right, all right!"
+    - text: "All right, all right!"
     - utf16_bytes:
         - 0
   talk05:
@@ -20,8 +20,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Anything else you want to ask about?
+    - text: ĀAnything else you want to ask about?
     - utf16_bytes:
         - 14
         - 1
@@ -30,22 +29,23 @@ entries:
         - 1
         - 0
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Near02:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk06:
-    - ascii: Hrnghhh...
+    - text: Hrnghhh...
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: Phew!
+    - text: Phew!
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: Time for bed...
+    - text: Time for bed...
     - utf16_bytes:
         - 0
   talk00:
@@ -54,26 +54,25 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Thank you so much for your help!\nIn return, I'll happily tell you about\nthis area. \n"
+    - text: "ȁThank you so much for your help!\nIn return, I'll happily tell you about\nthis area. \n"
     - utf16_bytes:
         - 14
         - 4
         - 3
         - 0
-    - ascii: "Are you, perchance, interested in a giant\nhorse? "
+    - text: "Are you, perchance, interested in a giant\nhorse? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Or in...
+    - text: Or in...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: resurrecting horses?
+    - text: resurrecting horses?
     - utf16_bytes:
         - 14
         - 1
@@ -82,14 +81,15 @@ entries:
         - 1
         - 0
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk01:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Resurrecting horses?
+    - text: Resurrecting horses?
     - utf16_bytes:
         - 0
   talk02:
@@ -99,25 +99,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Not far from here lives the mysterious\n"
+    - text: "Not far from here lives the mysterious\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: god of horses
+    - text: god of horses
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". If a horse dies, he can\nbring it back to life.\nSounds crazy, right? But it's true."
+    - text: ". If a horse dies, he can\nbring it back to life.\nSounds crazy, right? But it's true."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: A giant horse? Hm...
+    - text: A giant horse? Hm...
     - utf16_bytes:
         - 0
   talk03:
@@ -127,42 +127,42 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you head west of here, you'll reach a\nplace called "
+    - text: "If you head west of here, you'll reach a\nplace called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Taobab Grassland
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nA "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: really big horse
+    - text: Taobab Grassland
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " lives there.\nAnd by big...I mean REALLY big."
+    - text: ".\n\nA "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: really big horse
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " lives there.\nAnd by big...I mean REALLY big."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I'm good."
+    - text: "I'm good."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "Hmm, looks like rain..."
+    - text: "Hmm, looks like rain..."
     - utf16_bytes:
         - 0

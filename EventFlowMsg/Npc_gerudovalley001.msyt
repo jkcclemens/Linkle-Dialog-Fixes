@@ -6,20 +6,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52511
-    - ascii: Zzzz... Zzzz...
+    - text: 촟Zzzz... Zzzz...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_20:
@@ -29,37 +28,37 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Heh, I knew you'd be good for it. "
+    - text: "Heh, I knew you'd be good for it. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Is this\nall you brought, though?"
+    - text: "Is this\nall you brought, though?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "You're not..."
+    - text: "You're not..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "holding out on me, are you?"
+    - text: "holding out on me, are you?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 8
-    - ascii: "\t"
+        - 9
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   "0009":
-    - ascii: "That's all I have."
+    - text: "That's all I have."
     - utf16_bytes:
         - 0
   Talk_21:
@@ -69,19 +68,19 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Heh heh.
+    - text: Heh heh.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If there's one thing I've learned\nafter running this stable all these years,\nit's how to read people.\nThere's no point in trying to keep\nanything from me."
+    - text: " If there's one thing I've learned\nafter running this stable all these years,\nit's how to read people.\nThere's no point in trying to keep\nanything from me."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Go ahead and show\nme what you've got."
+    - text: " Go ahead and show\nme what you've got."
     - utf16_bytes:
         - 0
   Talk_22:
@@ -90,28 +89,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I will only take them in bulk, in units\nof "
+    - text: "ЀI will only take them in bulk, in units\nof "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "55"
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " each. That's a good number, eh?\n\nTake your time getting some. "
+    - text: " each. That's a good number, eh?\n\nTake your time getting some. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'll be waiting here, heh heh."
+    - text: "\nI'll be waiting here, heh heh."
     - utf16_bytes:
         - 0
   Talk_0001:
@@ -121,13 +119,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I knew you'd be back."
+    - text: "I knew you'd be back."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Run a stable as\nlong as I have and you can tell which\nfolks will be repeat customers.\nSo did you bring me the stuff?"
+    - text: " Run a stable as\nlong as I have and you can tell which\nfolks will be repeat customers.\nSo did you bring me the stuff?"
     - utf16_bytes:
         - 14
         - 1
@@ -135,7 +133,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_06:
     - utf16_bytes:
@@ -144,18 +143,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hey...
+    - text: Hey...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Here you go.
+    - text: Here you go.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I don't have enough."
+    - text: "I don't have enough."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: I have more.
+    - text: I have more.
     - utf16_bytes:
         - 0

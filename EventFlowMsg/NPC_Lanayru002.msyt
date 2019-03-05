@@ -7,17 +7,17 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Chill out, my man."
+    - text: "Chill out, my man."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You don't need to\nworry about the details!"
+    - text: " You don't need to\nworry about the details!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Nah.
+    - text: Nah.
     - utf16_bytes:
         - 0
   Talk_02:
@@ -26,14 +26,13 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "My best bud is standin' over there\nbeneath that tree!"
+    - text: "ĆMy best bud is standin' over there\nbeneath that tree!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " He can show you\nthe ropes."
+    - text: " He can show you\nthe ropes."
     - utf16_bytes:
         - 0
   Talk_03:
@@ -42,8 +41,7 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "So you gonna go up there or not,\nmy man?"
+    - text: "ĆSo you gonna go up there or not,\nmy man?"
     - utf16_bytes:
         - 14
         - 1
@@ -51,7 +49,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_04:
     - utf16_bytes:
@@ -60,19 +59,19 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "What's your DEAL, man?"
+    - text: "What's your DEAL, man?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You're really\ncrampin' my vibe right now!"
+    - text: " You're really\ncrampin' my vibe right now!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Come back\nafter you chill out."
+    - text: " Come back\nafter you chill out."
     - utf16_bytes:
         - 0
   Talk_05:
@@ -82,13 +81,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Epic!
+    - text: Epic!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That's the spirit! After all,\nshields were made to be surfed on!"
+    - text: " That's the spirit! After all,\nshields were made to be surfed on!"
     - utf16_bytes:
         - 0
   Talk_06:
@@ -97,28 +96,27 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Hey, maaan!"
+    - text: "ȁHey, maaan!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Back for some more\n"
+    - text: " Back for some more\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: shield surfing
+    - text: shield surfing
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   Talk_07:
@@ -127,28 +125,27 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Hey, maaan!"
+    - text: "ȁHey, maaan!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " So you're a "
+    - text: " So you're a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: shield-surfing
+    - text: shield-surfing
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\njunkie now, eh?"
+    - text: "\njunkie now, eh?"
     - utf16_bytes:
         - 14
         - 1
@@ -156,7 +153,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_08:
     - utf16_bytes:
@@ -164,12 +162,11 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "My best bud is beneath that tree\nover there!"
+    - text: "ĆMy best bud is beneath that tree\nover there!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Shield what now?
+    - text: Shield what now?
     - utf16_bytes:
         - 0
   Talk_09:
@@ -178,56 +175,55 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Hey, maaan!"
+    - text: "ȁHey, maaan!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I heard it all from "
+    - text: " I heard it all from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Russ
+    - text: Russ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBack for more "
+    - text: "\nBack for more "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: shield surfing
+    - text: shield surfing
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", yeah?"
+    - text: ", yeah?"
     - utf16_bytes:
         - 0
   near_00:
-    - ascii: "I bet he's slacking off..."
+    - text: "I bet he's slacking off..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Nope.
+    - text: Nope.
     - utf16_bytes:
         - 0
   Talk_00:
@@ -236,34 +232,33 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Hey, maaan!"
+    - text: "ȁHey, maaan!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What's that? "
+    - text: " What's that? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You're dyin'\nfor some "
+    - text: "You're dyin'\nfor some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: shield-surfing
+    - text: shield-surfing
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " action, that it?"
+    - text: " action, that it?"
     - utf16_bytes:
         - 14
         - 1
@@ -271,9 +266,10 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: Totally!
+    - text: Totally!
     - utf16_bytes:
         - 0

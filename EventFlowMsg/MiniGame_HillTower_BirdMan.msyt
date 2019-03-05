@@ -6,24 +6,23 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I see... "
+    - text: "ЀI see... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Then let's call it a day."
+    - text: "Then let's call it a day."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'm looking forward to next time."
+    - text: "\nI'm looking forward to next time."
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: No...
+    - text: No...
     - utf16_bytes:
         - 0
   New_13:
@@ -32,21 +31,20 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "What's wrong?"
+    - text: "؋What's wrong?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Why aren't you flying?\n"
+    - text: " Why aren't you flying?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Please don't tell me you've changed\nyour mind."
+    - text: "Please don't tell me you've changed\nyour mind."
     - utf16_bytes:
         - 14
         - 1
@@ -54,10 +52,11 @@ entries:
         - 6
         - 15
         - 16
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0015":
-    - ascii: I changed my mind.
+    - text: I changed my mind.
     - utf16_bytes:
         - 0
   New_14:
@@ -66,34 +65,33 @@ entries:
         - 3
         - 1
         - 2
-        - 4100
-    - ascii: WHAT?!
+    - text: ငWHAT?!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " But... But our research!\n\n\nSince the project has already begun,\nI can't give you your "
+    - text: " But... But our research!\n\n\nSince the project has already begun,\nI can't give you your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "20 rupees "
+    - text: "20 rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: back.
+    - text: back.
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
@@ -103,7 +101,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\nAre you sure about this?"
+    - text: "d\nAre you sure about this?"
     - utf16_bytes:
         - 14
         - 1
@@ -111,7 +109,8 @@ entries:
         - 6
         - 17
         - 18
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   New_15:
     - utf16_bytes:
@@ -119,34 +118,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ဉ*sigh*
+    - text: ဉ*sigh*
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " OK."
+    - text: " OK."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " But please come back soon!\n"
+    - text: " But please come back soon!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "It's very boring up here."
+    - text: "It's very boring up here."
     - utf16_bytes:
         - 0
   "0016":
-    - ascii: "I'll still do it."
+    - text: "I'll still do it."
     - utf16_bytes:
         - 0
   "0017":
-    - ascii: I still want to quit.
+    - text: I still want to quit.
     - utf16_bytes:
         - 0
   New_16:
@@ -155,24 +154,23 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Yes, yes! "
+    - text: "ЀYes, yes! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Understood!
+    - text: Understood!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " We're ready to\ntake off whenever you're ready."
+    - text: " We're ready to\ntake off whenever you're ready."
     - utf16_bytes:
         - 0
   "0018":
-    - ascii: "Actually, I'll do it."
+    - text: "Actually, I'll do it."
     - utf16_bytes:
         - 0
   New_17:
@@ -182,19 +180,19 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Phew!
+    - text: Phew!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I thought you got cold feet."
+    - text: " I thought you got cold feet."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nBut even icy toes can fly! Show me what\nyou got, my chilly-footed pal!"
+    - text: "\nBut even icy toes can fly! Show me what\nyou got, my chilly-footed pal!"
     - utf16_bytes:
         - 0
   New_18:
@@ -203,13 +201,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ఉWhat happened?!
+    - text: ఉWhat happened?!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You looked so\nconfident, but you only flew\n"
+    - text: " You looked so\nconfident, but you only flew\n"
     - utf16_bytes:
         - 14
         - 0
@@ -218,64 +216,64 @@ entries:
         - 0
         - 14
         - 2
-    - ascii: "\tXTMiniGame_BirdMan_HillTower_CurrentDistance"
+        - 9
+    - text: XTMiniGame_BirdMan_HillTower_CurrentDistance
     - utf16_bytes:
         - 0
-    - ascii: " m"
+    - text: " m"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nThis does NOTHING for my research!\n\n\nI'm sorry, but I don't give rewards for\npaltry performances."
+    - text: "!\nThis does NOTHING for my research!\n\n\nI'm sorry, but I don't give rewards for\npaltry performances."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I give rewards for\npoultry performances!\n"
+    - text: " I give rewards for\npoultry performances!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: Just...
+    - text: ĆJust...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "try to imagine that you're a\n"
+    - text: "try to imagine that you're a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "bird-man "
+    - text: "bird-man "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "freeing yourself from the\nunjust chains of gravity!\nAnd if you run out of energy while\ngliding, "
+    - text: "freeing yourself from the\nunjust chains of gravity!\nAnd if you run out of energy while\ngliding, "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "try making some adjustments\nthat will give you more stamina."
+    - text: "try making some adjustments\nthat will give you more stamina."
     - utf16_bytes:
         - 0
   "0019":
-    - ascii: "No, I'm done."
+    - text: "No, I'm done."
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: "I'll just fly down."
+    - text: "I'll just fly down."
     - utf16_bytes:
         - 0
   New_19:
@@ -284,14 +282,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "Let's see here..."
+    - text: "ІLet's see here..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You flew "
+    - text: " You flew "
     - utf16_bytes:
         - 14
         - 0
@@ -300,89 +297,90 @@ entries:
         - 0
         - 14
         - 2
-    - ascii: "\tXTMiniGame_BirdMan_HillTower_CurrentDistance"
+        - 9
+    - text: XTMiniGame_BirdMan_HillTower_CurrentDistance
     - utf16_bytes:
         - 0
-    - ascii: " m"
+    - text: " m"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\nSmall steps lead to great strides in the\nlong run.\n\nOh, right! "
+    - text: ".\n\n\nSmall steps lead to great strides in the\nlong run.\n\nOh, right! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Your compensation.
+    - text: Your compensation.
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "P "
+    - text: "P "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dIsn't the\ncollection of priceless research data\ncompensation enough?"
+    - text: "dIsn't the\ncollection of priceless research data\ncompensation enough?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " No? "
+    - text: " No? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Fine.\nWell, a promise is a promise. "
+    - text: "Fine.\nWell, a promise is a promise. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Here's\nyour reward:"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: " 21 rupees!\n\n"
+    - text: "Here's\nyour reward:"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "."
+    - text: " 21 rupees!\n\n"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: ".\n\n\nUgh."
+    - text: ".\n\n\nUgh."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Fine."
+    - text: " Fine."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll make it 50 rupees."
+    - text: " I'll make it 50 rupees."
     - utf16_bytes:
         - 0
   New_20:
@@ -391,14 +389,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: MARVELOUS! What a breathtaking flight!
+    - text: ଇMARVELOUS! What a breathtaking flight!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI never dreamed a Hylian could fly\n"
+    - text: "\nI never dreamed a Hylian could fly\n"
     - utf16_bytes:
         - 14
         - 0
@@ -407,63 +404,57 @@ entries:
         - 0
         - 14
         - 2
-    - ascii: "\tXTMiniGame_BirdMan_HillTower_CurrentDistance"
+        - 9
+    - text: XTMiniGame_BirdMan_HillTower_CurrentDistance
     - utf16_bytes:
         - 0
-    - ascii: " m"
+    - text: " m"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "\nYour methods may have been\nunconventional"
-    - utf16_bytes:
-        - 8212
-    - ascii: "I didn't see you flap\nyour arms once"
-    - utf16_bytes:
-        - 8212
-    - ascii: but they were effective!
+    - text: "\nYour methods may have been\nunconventional—I didn't see you flap\nyour arms once—but they were effective!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThe field of "
+    - text: "\nThe field of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "bird-man "
+    - text: "bird-man "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "research will\nbenefit greatly from this data.\n\n"
+    - text: "research will\nbenefit greatly from this data.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "You deserve heavy compensation for\nyour stellar efforts."
+    - text: "ĆYou deserve heavy compensation for\nyour stellar efforts."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Please, take this!"
+    - text: " Please, take this!"
     - utf16_bytes:
         - 0
   New_21:
@@ -473,13 +464,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: That was the longest flight yet...
+    - text: That was the longest flight yet...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nBut I bet you can set an even better\nrecord next time!"
+    - text: "\nBut I bet you can set an even better\nrecord next time!"
     - utf16_bytes:
         - 0
   New_22:
@@ -489,7 +480,7 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Let's see how this most recent flight\ncompares to your past flights...\n\n"
+    - text: "Let's see how this most recent flight\ncompares to your past flights...\n\n"
     - utf16_bytes:
         - 14
         - 0
@@ -506,7 +497,7 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "Hmm... That time you flew "
+    - text: "Hmm... That time you flew "
     - utf16_bytes:
         - 14
         - 0
@@ -515,17 +506,18 @@ entries:
         - 0
         - 14
         - 2
-    - ascii: "\tVRMiniGame_BirdMan_HillTower_RecordDistance"
+        - 9
+    - text: VRMiniGame_BirdMan_HillTower_RecordDistance
     - utf16_bytes:
         - 0
-    - ascii: " m"
+    - text: " m"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nyielded the best research data. That was\nan unforgettable feat!"
+    - text: "\nyielded the best research data. That was\nan unforgettable feat!"
     - utf16_bytes:
         - 0
   New_23:
@@ -534,14 +526,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: So?
+    - text: ؋So?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you're still up for it..."
+    - text: " If you're still up for it..."
     - utf16_bytes:
         - 14
         - 5
@@ -552,36 +543,37 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "why not glide\ndown again?"
+    - text: "why not glide\ndown again?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The world of "
+    - text: " The world of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bird-man
+    - text: bird-man
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nresearch waits for no man."
+    - text: "\nresearch waits for no man."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 19
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   New_24:
     - utf16_bytes:
@@ -590,42 +582,42 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: YESSSSS!
+    - text: YESSSSS!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nSo..."
+    - text: "\n\n\nSo..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "can I get those "
+    - text: "can I get those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nThat should cover the filing fee in case\nI have to file an incident report."
+    - text: "?\nThat should cover the filing fee in case\nI have to file an incident report."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 14
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   New_25:
     - utf16_bytes:
@@ -633,64 +625,64 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "It's the legendary "
+    - text: "ȁIt's the legendary "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: Pand only
+    - text: Pand only
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d "
+    - text: "d "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "bird-man\nresearch assistant"
+    - text: "bird-man\nresearch assistant"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n"
+    - text: "!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you want to fly, you'll need to pay\nthe "
+    - text: "If you want to fly, you'll need to pay\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20-rupee
+    - text: 20-rupee
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " liability fee, of course."
+    - text: " liability fee, of course."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   New_26:
     - utf16_bytes:
@@ -698,32 +690,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: Ċ
+    - text: Ċ
     - utf16_bytes:
         - 14
         - 4
         - 2
         - 26
         - 24
-    - ascii: SurpriseM_01WAAAH!
+    - text: SurpriseM_01WAAAH!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Wh-where did you come from?"
+    - text: " Wh-where did you come from?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nDon't scare me like that!"
+    - text: "\nDon't scare me like that!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHow... How did you get up here?"
+    - text: "\nHow... How did you get up here?"
     - utf16_bytes:
         - 0
   New_27:
@@ -732,22 +724,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "But my misfortune is a blessing in\ndisguise!\n\nYou see, this tower is the perfect place\nto observe "
+    - text: "ЀBut my misfortune is a blessing in\ndisguise!\n\nYou see, this tower is the perfect place\nto observe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bird-men
+    - text: bird-men
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in their natural\nhabitat!"
+    - text: " in their natural\nhabitat!"
     - utf16_bytes:
         - 0
   New_28:
@@ -756,20 +747,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4869
-    - ascii: Huh?
+    - text: ጅHuh?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Where did you come from?"
+    - text: " Where did you come from?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHow did you get up here?"
+    - text: "\nHow did you get up here?"
     - utf16_bytes:
         - 0
   New_00:
@@ -778,47 +768,48 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
+    - text: စ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PHmm... "
+    - text: "PHmm... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "It's quite high. If only I was a "
+    - text: "It's quite high. If only I was a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bird-man
+    - text: bird-man
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 8
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   New_29:
     - utf16_bytes:
@@ -827,68 +818,68 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: Is that true?
+    - text: Is that true?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I thought it impossible for a\n"
+    - text: " I thought it impossible for a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to fly like a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: bird-man
+    - text: "Hylian "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n"
+    - text: "to fly like a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: bird-man
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Ah... It's more like gliding then?\nThat's still a step in the right direction!\n\nIf I can analyze your glide distance and\ntrajectory, it may help us understand the\nscience of "
+    - text: "Ah... It's more like gliding then?\nThat's still a step in the right direction!\n\nIf I can analyze your glide distance and\ntrajectory, it may help us understand the\nscience of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "bird-man "
+    - text: "bird-man "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "flight. \nThen maybe one day I'll finally realize\nmy dream of becoming a bird!"
+    - text: "flight. \nThen maybe one day I'll finally realize\nmy dream of becoming a bird!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n*ahem*"
+    - text: "\n*ahem*"
     - utf16_bytes:
         - 0
   New_30:
@@ -897,28 +888,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you're ready, let's take to the skies!\n\n\n"
+    - text: "ЀIf you're ready, let's take to the skies!\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Bird-man research study
+    - text: Bird-man research study
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " GOOOO!"
+    - text: " GOOOO!"
     - utf16_bytes:
         - 0
   New_31:
@@ -927,21 +917,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: Huh?
+    - text: စHuh?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I need you to glide as far as you\ncan from the tower!"
+    - text: "I need you to glide as far as you\ncan from the tower!"
     - utf16_bytes:
         - 0
   New_03:
@@ -950,35 +939,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Would you mind participating in a short\nresearch study?"
+    - text: "ЀWould you mind participating in a short\nresearch study?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I want to see how far \nyou can glide.\nYou'll be compensated for your time and\ntravel..."
+    - text: " I want to see how far \nyou can glide.\nYou'll be compensated for your time and\ntravel..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: depending on how far you fly.
+    - text: depending on how far you fly.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSo how about it?"
+    - text: "\nSo how about it?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   New_04:
     - utf16_bytes:
@@ -987,69 +976,69 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Marvelous!
+    - text: Marvelous!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Our findings today may prove\nto be the cornerstone of "
+    - text: " Our findings today may prove\nto be the cornerstone of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bird-man
+    - text: bird-man
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nresearch for generations to come!\n"
+    - text: "\nresearch for generations to come!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: However...
+    - text: However...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "you are merely gliding.\nNot flying."
+    - text: "you are merely gliding.\nNot flying."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Making this a rather\ndangerous research project.\nAs such, a liability fee of "
+    - text: " Making this a rather\ndangerous research project.\nAs such, a liability fee of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwill be necessary to proceed. You know,\nin case I have to file an...incident report."
+    - text: "\nwill be necessary to proceed. You know,\nin case I have to file an...incident report."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 14
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   New_05:
     - utf16_bytes:
@@ -1058,81 +1047,81 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "All right!\n\n\n"
+    - text: "All right!\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Landing elevation
+    - text: Landing elevation
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Wind direction
+    - text: Wind direction
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Stamina usage
+    - text: Stamina usage
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nKeep all of these in mind as you consider\nthe "
+    - text: "\nKeep all of these in mind as you consider\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "farthest destination "
+    - text: "farthest destination "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "you can reach\nby gliding!"
+    - text: "you can reach\nby gliding!"
     - utf16_bytes:
         - 0
   New_06:
@@ -1141,29 +1130,29 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ဉI understand...
+    - text: ဉI understand...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dEven if one's wallet is\nripe, courage doesn't grow on trees."
+    - text: "dEven if one's wallet is\nripe, courage doesn't grow on trees."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: BOO!
+    - text: BOO!
     - utf16_bytes:
         - 0
   New_07:
@@ -1172,39 +1161,38 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: Hrrng!
+    - text: စHrrng!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You don't have "
+    - text: " You don't have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\nWell, I can't let you participate in the\nstudy without paying the liability fee.\n"
+    - text: "?\n\n\nWell, I can't let you participate in the\nstudy without paying the liability fee.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: PLEASE come back once you have it!
+    - text: PLEASE come back once you have it!
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "*ahem...*"
+    - text: "*ahem...*"
     - utf16_bytes:
         - 0
   New_08:
@@ -1214,21 +1202,22 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Oh, my! Now that you've climbed up\nhere, how will you get down without\nfalling?!"
+    - text: "Oh, my! Now that you've climbed up\nhere, how will you get down without\nfalling?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I suppose you're stuck here too."
+    - text: " I suppose you're stuck here too."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 20
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   New_09:
     - utf16_bytes:
@@ -1236,38 +1225,37 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: WHAT?!
+    - text: ᐄWHAT?!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You can fly?!"
+    - text: " You can fly?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou can fly like a "
+    - text: "\nYou can fly like a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bird-man
+    - text: bird-man
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: "I'll glide for you."
+    - text: "I'll glide for you."
     - utf16_bytes:
         - 0
   New_11:
@@ -1276,13 +1264,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ఉBefore I came here, I met a girl who\ndreamed of touching the clouds.\n\nI want to make that dream a reality."
+    - text: "ఉBefore I came here, I met a girl who\ndreamed of touching the clouds.\n\nI want to make that dream a reality."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nCome back when you also want to\nachieve greatness!"
+    - text: "\nCome back when you also want to\nachieve greatness!"
     - utf16_bytes:
         - 0
   New_12:
@@ -1292,36 +1280,36 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Though I suppose you could ask me the\nsame question..."
+    - text: "Though I suppose you could ask me the\nsame question..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\nYou see, I have dedicated my life to\nthe study of "
+    - text: "d\n\nYou see, I have dedicated my life to\nthe study of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bird-men
+    - text: bird-men
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! Their flight\nmechanics fascinate me!\nGiven their weight, it should be\nphysically impossible for them to fly with\nwings of their size. I just don't get it!\nI was standing on the ground watching\nthe skies, when suddenly this tower\nerupted beneath my feet!\nI've been stuck up here since with no\nway to get down."
+    - text: "! Their flight\nmechanics fascinate me!\nGiven their weight, it should be\nphysically impossible for them to fly with\nwings of their size. I just don't get it!\nI was standing on the ground watching\nthe skies, when suddenly this tower\nerupted beneath my feet!\nI've been stuck up here since with no\nway to get down."
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: Fine...
+    - text: Fine...
     - utf16_bytes:
         - 0

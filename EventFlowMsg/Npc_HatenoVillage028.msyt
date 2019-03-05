@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "I'm sleepy. G'night..."
+    - text: "ሀI'm sleepy. G'night..."
     - utf16_bytes:
         - 0
   talk15:
@@ -17,7 +16,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: OK. See you!
+    - text: OK. See you!
     - utf16_bytes:
         - 0
   talk03:
@@ -26,12 +25,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: You should go home to your own bed.
+    - text: ሀYou should go home to your own bed.
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Waaahhh!
+    - text: Waaahhh!
     - utf16_bytes:
         - 0
   talk04:
@@ -40,22 +38,23 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: P*grumble*
+    - text: ℀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: P*grumble*
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   near02:
-    - ascii: Aw...
+    - text: Aw...
     - utf16_bytes:
         - 0
   talk05:
@@ -64,24 +63,23 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "S'not fair..."
+    - text: "℀S'not fair..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   near03:
-    - ascii: Zzz... Zzz...
+    - text: Zzz... Zzz...
     - utf16_bytes:
         - 0
   talk06:
@@ -91,7 +89,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, mister!"
+    - text: "Hey, mister!"
     - utf16_bytes:
         - 14
         - 1
@@ -99,10 +97,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near04:
-    - ascii: Ungh... There!
+    - text: Ungh... There!
     - utf16_bytes:
         - 0
   talk07:
@@ -111,18 +110,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh... "
+    - text: "ĀOh... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Bye!
+    - text: Bye!
     - utf16_bytes:
         - 0
   near05:
-    - ascii: Over here!
+    - text: Over here!
     - utf16_bytes:
         - 0
   talk08:
@@ -132,13 +130,13 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "You'll never guess what I found!"
+    - text: "You'll never guess what I found!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWanna see?"
+    - text: "\nWanna see?"
     - utf16_bytes:
         - 14
         - 1
@@ -146,10 +144,11 @@ entries:
         - 6
         - 2
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near06:
-    - ascii: "Hey, come see!"
+    - text: "Hey, come see!"
     - utf16_bytes:
         - 0
   talk09:
@@ -158,33 +157,33 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Um...
+    - text: ؋Um...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Were you talking to that statue?"
+    - text: " Were you talking to that statue?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 4
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: "What is it, buddy?"
+    - text: "What is it, buddy?"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Bye, kid."
+    - text: "Bye, kid."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Sure I do!
+    - text: Sure I do!
     - utf16_bytes:
         - 0
   talk10:
@@ -193,18 +192,17 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "'Kay! "
+    - text: "ć'Kay! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Follow me!
+    - text: Follow me!
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Well...
+    - text: Well...
     - utf16_bytes:
         - 0
   talk11:
@@ -214,7 +212,7 @@ entries:
         - 1
         - 2
         - 2560
-    - ascii: "It's this way!"
+    - text: "It's this way!"
     - utf16_bytes:
         - 0
   talk12:
@@ -223,14 +221,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "Here it is! "
+    - text: "ਇHere it is! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Neat, huh?"
+    - text: "Neat, huh?"
     - utf16_bytes:
         - 0
   talk00:
@@ -239,22 +236,21 @@ entries:
         - 3
         - 1
         - 2
-        - 2822
-    - ascii: "Pretty "
+    - text: "ଆPretty "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk13:
@@ -263,42 +259,41 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "It looks kinda like the "
+    - text: "ဋIt looks kinda like the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "statue "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "at the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: chief
+    - text: "statue "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s house..."
+    - text: "at the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: chief
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "'s house..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What do you think it is?"
+    - text: " What do you think it is?"
     - utf16_bytes:
         - 0
   talk01:
@@ -307,22 +302,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Isn't that "
+    - text: "؋Isn't that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " hot?"
+    - text: " hot?"
     - utf16_bytes:
         - 0
   talk14:
@@ -331,12 +325,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWow! "
+    - text: "\nWow! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: You talk to statues?! Weird!
+    - text: You talk to statues?! Weird!
     - utf16_bytes:
         - 0

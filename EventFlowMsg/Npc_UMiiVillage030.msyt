@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You're in high spirits!"
+    - text: "You're in high spirits!"
     - utf16_bytes:
         - 0
   talk09:
@@ -17,15 +17,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "*snore*"
+    - text: "*snore*"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I've seen her."
+    - text: "I've seen her."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Not yet.
+    - text: Not yet.
     - utf16_bytes:
         - 0
   talk20:
@@ -34,48 +34,46 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh, man..."
+    - text: "ĀOh, man..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat was a real nice ceremony.\n\n"
+    - text: "\nThat was a real nice ceremony.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "I was a little surprised at the "
+    - text: "I was a little surprised at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: boss
+    - text: boss
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s\noutburst, though...\n\n"
+    - text: "'s\noutburst, though...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh, that's right! "
+    - text: "ĀOh, that's right! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Hudson was looking\nfor you. He wanted to talk to you about\nsomething."
+    - text: "Hudson was looking\nfor you. He wanted to talk to you about\nsomething."
     - utf16_bytes:
         - 0
   talk21:
@@ -85,7 +83,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hudson said he wanted to talk with\nyou about something."
+    - text: "Hudson said he wanted to talk with\nyou about something."
     - utf16_bytes:
         - 0
   talk22:
@@ -95,7 +93,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "As you wander around, make sure to\ncheck in with Hudson and see what he\nhas to say!"
+    - text: "As you wander around, make sure to\ncheck in with Hudson and see what he\nhas to say!"
     - utf16_bytes:
         - 0
   talk10:
@@ -105,7 +103,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "*snore*"
+    - text: "*snore*"
     - utf16_bytes:
         - 0
   talk23:
@@ -115,14 +113,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You were really helpful in getting this\ntown into the shape it's in now,\nweren't you? Hudson is really grateful.\n"
+    - text: "You were really helpful in getting this\ntown into the shape it's in now,\nweren't you? Hudson is really grateful.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I can tell, whenever and wherever I\nmeet you...you're no ordinary man..."
+    - text: "I can tell, whenever and wherever I\nmeet you...you're no ordinary man..."
     - utf16_bytes:
         - 0
   talk11:
@@ -132,13 +130,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Why? I'm going to bed."
+    - text: "Why? I'm going to bed."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCome back tomorrow."
+    - text: "\nCome back tomorrow."
     - utf16_bytes:
         - 0
   talk12:
@@ -148,13 +146,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I don't wanna be rude,"
+    - text: "I don't wanna be rude,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I gotta ask\nyou to let me rest today."
+    - text: " but I gotta ask\nyou to let me rest today."
     - utf16_bytes:
         - 0
   talk25:
@@ -164,13 +162,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You know, my girlfriend also works in a\nclothing shop! "
+    - text: "You know, my girlfriend also works in a\nclothing shop! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Although, it's her father\nmaking all the clothes they sell.\nI guess it doesn't matter..."
+    - text: "Although, it's her father\nmaking all the clothes they sell.\nI guess it doesn't matter..."
     - utf16_bytes:
         - 0
   talk00:
@@ -180,7 +178,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Mornin'!"
+    - text: "Mornin'!"
     - utf16_bytes:
         - 0
   talk13:
@@ -190,29 +188,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I just met with Hudson,"
+    - text: "I just met with Hudson,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so now I'm\nfeeling pretty relaxed!\n\n"
+    - text: " so now I'm\nfeeling pretty relaxed!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "That reminds me, have you already\nmet"
+    - text: "That reminds me, have you already\nmet"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Hudson's fianc"
-    - utf16_bytes:
-        - 233
-    - ascii: e?
+    - text: " Hudson's fiancée?"
     - utf16_bytes:
         - 14
         - 1
@@ -220,7 +215,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk26:
     - utf16_bytes:
@@ -228,8 +224,7 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "She's too good for Hudson!"
+    - text: "āShe's too good for Hudson!"
     - utf16_bytes:
         - 0
   talk01:
@@ -239,7 +234,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "G'day!"
+    - text: "G'day!"
     - utf16_bytes:
         - 0
   talk14:
@@ -249,7 +244,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "She's a real beauty..."
+    - text: "She's a real beauty..."
     - utf16_bytes:
         - 0
   talk27:
@@ -258,14 +253,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "But really, what does Rhondson"
+    - text: "ĀBut really, what does Rhondson"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " see in\nHudson, anyway?"
+    - text: " see in\nHudson, anyway?"
     - utf16_bytes:
         - 0
   talk02:
@@ -275,7 +269,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Evenin'!"
+    - text: "Evenin'!"
     - utf16_bytes:
         - 0
   talk15:
@@ -284,13 +278,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nOh, really?"
+    - text: "\nOh, really?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nShe's a real beauty..."
+    - text: "\nShe's a real beauty..."
     - utf16_bytes:
         - 0
   talk28:
@@ -300,13 +294,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Maybe...
+    - text: Maybe...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCould it be his silky smooth hair?"
+    - text: "\nCould it be his silky smooth hair?"
     - utf16_bytes:
         - 0
   talk16:
@@ -316,13 +310,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "And apparently she's an amazing tailor\ntoo!"
+    - text: "And apparently she's an amazing tailor\ntoo!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " All those clothes she sells? She\nmakes them herself!"
+    - text: " All those clothes she sells? She\nmakes them herself!"
     - utf16_bytes:
         - 0
   talk29:
@@ -332,13 +326,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Maybe...
+    - text: Maybe...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCould it be his toned, muscular body?"
+    - text: "\nCould it be his toned, muscular body?"
     - utf16_bytes:
         - 0
   talk04:
@@ -348,13 +342,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I don't wanna be rude,"
+    - text: "I don't wanna be rude,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I gotta ask\nyou to let me rest today."
+    - text: " but I gotta ask\nyou to let me rest today."
     - utf16_bytes:
         - 0
   talk17:
@@ -364,10 +358,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hudson's fianc"
-    - utf16_bytes:
-        - 233
-    - ascii: e is quite lovely...
+    - text: "Hudson's fiancée is quite lovely..."
     - utf16_bytes:
         - 0
   talk05:
@@ -377,7 +368,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Heya!
+    - text: Heya!
     - utf16_bytes:
         - 0
   talk06:
@@ -386,7 +377,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "∉I'm sleepy..."
+    - text: "∉I'm sleepy..."
     - utf16_bytes:
         - 0
   talk19:
@@ -396,12 +387,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "All that's left now is to wait for the\nwedding ceremony!"
+    - text: "All that's left now is to wait for the\nwedding ceremony!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I wonder if it's\ngonna start soon..."
+    - text: " I wonder if it's\ngonna start soon..."
     - utf16_bytes:
         - 0

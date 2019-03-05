@@ -7,19 +7,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Thankfully, the thing only shoots at\nanything flying high up above the village.\n\n"
+    - text: "Thankfully, the thing only shoots at\nanything flying high up above the village.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 14
         - 5
         - 0
         - 0
-    - ascii: "But still... It is pretty demoralizing for us\nRito to have to fly so low to the ground."
+    - text: "But still... It is pretty demoralizing for us\nRito to have to fly so low to the ground."
     - utf16_bytes:
         - 0
   Talk_09:
@@ -28,14 +27,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4875
-    - ascii: "Hmm? "
+    - text: "ጋHmm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Are you a traveler?
+    - text: Are you a traveler?
     - utf16_bytes:
         - 0
   Talk_20:
@@ -44,8 +42,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you're looking for Teba, he left the\nvillage.\n\nI bet Gesane knows more. He patrols the\nbridges into town."
+    - text: "ЀIf you're looking for Teba, he left the\nvillage.\n\nI bet Gesane knows more. He patrols the\nbridges into town."
     - utf16_bytes:
         - 0
   Talk_21:
@@ -54,16 +51,15 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Any other questions?
+    - text: ĀAny other questions?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: ">"
+    - text: ">"
     - utf16_bytes:
         - 5
-    - ascii: ",Rito_NPC011_ChoiceTeba"
+    - text: ",Rito_NPC011_ChoiceTeba"
     - utf16_bytes:
         - 0
         - 0
@@ -79,14 +75,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4875
-    - ascii: "Hmm? "
+    - text: "ጋHmm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: A traveler at this hour?
+    - text: A traveler at this hour?
     - utf16_bytes:
         - 0
   Talk_11:
@@ -95,22 +90,21 @@ entries:
         - 3
         - 1
         - 2
-        - 4875
-    - ascii: "Hmm? "
+    - text: "ጋHmm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: A traveler in this weather?
+    - text: A traveler in this weather?
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Where am I?
+    - text: Where am I?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "What's going on?"
+    - text: "What's going on?"
     - utf16_bytes:
         - 0
   Talk_00:
@@ -119,16 +113,15 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'd like to show you around, but now's\nnot really a good time."
+    - text: "ĀI'd like to show you around, but now's\nnot really a good time."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: ">"
+    - text: ">"
     - utf16_bytes:
         - 5
-    - ascii: ",Rito_NPC011_ChoiceTeba"
+    - text: ",Rito_NPC011_ChoiceTeba"
     - utf16_bytes:
         - 0
         - 0
@@ -139,7 +132,7 @@ entries:
         - 768
         - 0
   "0002":
-    - ascii: "Can't talk now."
+    - text: "Can't talk now."
     - utf16_bytes:
         - 0
   Talk_01:
@@ -148,14 +141,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Oh...
+    - text: ЀOh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's you."
+    - text: " It's you."
     - utf16_bytes:
         - 0
   Talk_14:
@@ -164,22 +156,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "There was this big beast called\n"
+    - text: "ĀThere was this big beast called\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "flying above\nthe village up until a while ago.\nBut someone took care of it, and things\nhave finally settled down."
+    - text: "flying above\nthe village up until a while ago.\nBut someone took care of it, and things\nhave finally settled down."
     - utf16_bytes:
         - 14
         - 1
@@ -187,7 +178,8 @@ entries:
         - 6
         - 4
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_02:
     - utf16_bytes:
@@ -196,13 +188,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is Rito Village, but..."
+    - text: "This is Rito Village, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWell, you could say we're not in a\nwelcoming mood.\nTalk to the folks in the village to hear all\nabout it."
+    - text: "\nWell, you could say we're not in a\nwelcoming mood.\nTalk to the folks in the village to hear all\nabout it."
     - utf16_bytes:
         - 0
   Talk_15:
@@ -211,26 +203,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Yeah, "
+    - text: "ĀYeah, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is\nperched above the village now. It has not\nmoved an inch since it stopped there."
+    - text: "is\nperched above the village now. It has not\nmoved an inch since it stopped there."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Divine beast?
+    - text: Divine beast?
     - utf16_bytes:
         - 0
   Talk_03:
@@ -240,55 +231,55 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Did you see the "
+    - text: "Did you see the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: beast in the sky
+    - text: beast in the sky
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThat's "
+    - text: "\nThat's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nIt showed up a while back. The Rito\nwarriors who flew up to check it out\nwere shot down.\nThey say it used to be a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "divine being "
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "that\nprotected the village, but it doesn't seem\nvery divine to me."
+    - text: ".\n\nIt showed up a while back. The Rito\nwarriors who flew up to check it out\nwere shot down.\nThey say it used to be a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "divine being "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "that\nprotected the village, but it doesn't seem\nvery divine to me."
     - utf16_bytes:
         - 0
   Talk_16:
@@ -298,11 +289,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I am surprised that rock up there can\nsupport all that weight."
+    - text: "I am surprised that rock up there can\nsupport all that weight."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Do you know Teba?
+    - text: Do you know Teba?
     - utf16_bytes:
         - 0
   Talk_04:
@@ -312,7 +303,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Don't let me keep you."
+    - text: "Don't let me keep you."
     - utf16_bytes:
         - 0
   Talk_17:
@@ -321,16 +312,15 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Things are the same as always\naround here."
+    - text: "ĀThings are the same as always\naround here."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: ">"
+    - text: ">"
     - utf16_bytes:
         - 5
-    - ascii: ",Rito_NPC011_ChoiceTeba"
+    - text: ",Rito_NPC011_ChoiceTeba"
     - utf16_bytes:
         - 0
         - 0
@@ -346,25 +336,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Let me guess
-    - utf16_bytes:
-        - 8212
-    - ascii: "you've come to see\n"
+    - text: "؋Let me guess—you've come to see\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -372,7 +358,8 @@ entries:
         - 6
         - 4
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_19:
     - utf16_bytes:
@@ -380,7 +367,6 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you're looking for Teba, he's not in the\nvillage.\n\nI bet Gesane knows where Teba is.\nGesane is probably patrolling the bridges\nto the mainland."
+    - text: "ЀIf you're looking for Teba, he's not in the\nvillage.\n\nI bet Gesane knows where Teba is.\nGesane is probably patrolling the bridges\nto the mainland."
     - utf16_bytes:
         - 0

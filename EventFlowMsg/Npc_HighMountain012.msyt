@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Are you...uh...
+    - text: Are you...uh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: naked?
+    - text: naked?
     - utf16_bytes:
         - 0
   talk17:
@@ -22,8 +22,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4352
-    - ascii: "You're pretty energetic despite the cold\nhere..."
+    - text: "ᄀYou're pretty energetic despite the cold\nhere..."
     - utf16_bytes:
         - 0
   talk18:
@@ -32,8 +31,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Hurry up and put some clothes on.
+    - text: ကHurry up and put some clothes on.
     - utf16_bytes:
         - 0
   talk19:
@@ -42,13 +40,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tShame about the weather today..."
+        - 9
+    - text: Shame about the weather today...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThe weather always affects my mood."
+    - text: "\nThe weather always affects my mood."
     - utf16_bytes:
         - 0
   talk20:
@@ -57,21 +56,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ഉThere have been a lot of troubled\nfaces around here ever since\n"
+    - text: "ഉThere have been a lot of troubled\nfaces around here ever since\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: appeared.
+    - text: appeared.
     - utf16_bytes:
         - 0
   talk21:
@@ -80,24 +79,23 @@ entries:
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "When will we be able to go back to living\na relaxed life here?"
+    - text: "ăWhen will we be able to go back to living\na relaxed life here?"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Hahhh...
+    - text: Hahhh...
     - utf16_bytes:
         - 0
   near01:
-    - ascii: That song...
+    - text: That song...
     - utf16_bytes:
         - 0
   near02:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   near03:
-    - ascii: "*snore*"
+    - text: "*snore*"
     - utf16_bytes:
         - 0
   talk00:
@@ -106,12 +104,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Hello.
+    - text: ЀHello.
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Teach it to me!
+    - text: Teach it to me!
     - utf16_bytes:
         - 0
   talk01:
@@ -120,8 +117,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Good evening.
+    - text: ЀGood evening.
     - utf16_bytes:
         - 0
   talk30:
@@ -130,26 +126,25 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I heard that "
+    - text: "इI heard that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nhas been appeased. It just sends my\nheart soaring!"
+    - text: "\nhas been appeased. It just sends my\nheart soaring!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: I have to go.
+    - text: I have to go.
     - utf16_bytes:
         - 0
   talk02:
@@ -158,8 +153,7 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "*snore*"
+    - text: ℀*snore*
     - utf16_bytes:
         - 0
   talk31:
@@ -169,11 +163,11 @@ entries:
         - 1
         - 2
         - 3331
-    - ascii: "But with the weather like this,\nI'll have to put that on hold..."
+    - text: "But with the weather like this,\nI'll have to put that on hold..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk03:
@@ -183,14 +177,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The song I've been humming is one\nthat's been passed down in this village.\n"
+    - text: "The song I've been humming is one\nthat's been passed down in this village.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: Would you like me to teach it to you?
+    - text: Would you like me to teach it to you?
     - utf16_bytes:
         - 14
         - 1
@@ -198,7 +192,8 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk32:
     - utf16_bytes:
@@ -206,15 +201,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I didn't even realize I had started singing\nthis old song.\n\n"
+    - text: "ĀI didn't even realize I had started singing\nthis old song.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: Did you hear me singing it?
+    - text: ċDid you hear me singing it?
     - utf16_bytes:
         - 14
         - 1
@@ -222,10 +215,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk04:
@@ -234,8 +228,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Good morning!
+    - text: ЀGood morning!
     - utf16_bytes:
         - 0
   talk33:
@@ -244,14 +237,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I know an old song that has been passed\ndown in this village."
+    - text: "ĀI know an old song that has been passed\ndown in this village."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Want me to teach it\nto you?"
+    - text: " Want me to teach it\nto you?"
     - utf16_bytes:
         - 14
         - 1
@@ -259,7 +251,8 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk05:
     - utf16_bytes:
@@ -267,14 +260,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8704
-    - ascii: "I'm going to sleep now."
+    - text: "∀I'm going to sleep now."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nGood night."
+    - text: "\nGood night."
     - utf16_bytes:
         - 0
   talk34:
@@ -283,12 +275,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "*ahem*"
+    - text: Ā*ahem*
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "Yes, please."
+    - text: "Yes, please."
     - utf16_bytes:
         - 0
   talk06:
@@ -297,14 +288,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh... "
+    - text: "ĀOh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Farewell.
+    - text: Farewell.
     - utf16_bytes:
         - 0
   talk35:
@@ -313,14 +303,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
-        - 39322
-        - 16025
-    - ascii: "The pride of the Rito, "
+    - text: "馚㺙The pride of the Rito, "
     - utf16_bytes:
         - 14
         - 1
@@ -328,7 +317,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: "pillar in the sky,"
+    - text: "pillar in the sky,"
     - utf16_bytes:
         - 14
         - 1
@@ -336,7 +325,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: "\nits heart lights up,"
+    - text: "\nits heart lights up,"
     - utf16_bytes:
         - 14
         - 1
@@ -344,7 +333,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: " when the sun is high."
+    - text: " when the sun is high."
     - utf16_bytes:
         - 14
         - 1
@@ -354,7 +343,7 @@ entries:
         - 0
         - 0
   "0006":
-    - ascii: "No, thanks."
+    - text: "No, thanks."
     - utf16_bytes:
         - 0
   talk07:
@@ -364,14 +353,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "It's such a haunting song...\n\n\n"
+    - text: "It's such a haunting song...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Just let me know if you'd like to hear it\nagain."
+    - text: "ĀJust let me know if you'd like to hear it\nagain."
     - utf16_bytes:
         - 0
   talk36:
@@ -380,58 +368,58 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ഉ.
+    - text: ഉ.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Uhhh.
+    - text: Uhhh.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " There's more to the song,"
+    - text: " There's more to the song,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I\nforget the rest of the words.\n\n"
+    - text: " but I\nforget the rest of the words.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "You should ask "
+    - text: "You should ask "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: my sister
+    - text: my sister
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", Laissa, if you\nwant to know the rest."
+    - text: ", Laissa, if you\nwant to know the rest."
     - utf16_bytes:
         - 0
   talk37:
@@ -440,49 +428,47 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "So you asked "
+    - text: "ĀSo you asked "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: my sister
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Laissa
+    - text: my sister
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", to recite\nthe rest of the song?\n\n"
+    - text: ", "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Laissa
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", to recite\nthe rest of the song?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: I also remembered the rest of the words.
+    - text: ਇI also remembered the rest of the words.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nDo you want to hear them?"
+    - text: "\nDo you want to hear them?"
     - utf16_bytes:
         - 14
         - 1
@@ -490,7 +476,8 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk38:
     - utf16_bytes:
@@ -498,8 +485,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: OK...
+    - text: ĀOK...
     - utf16_bytes:
         - 0
   talk10:
@@ -508,8 +494,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Hello.
+    - text: ЀHello.
     - utf16_bytes:
         - 0
   talk39:
@@ -518,21 +503,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: But still...
+    - text: ဋBut still...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWhat does it all mean?\n\n"
+    - text: "\nWhat does it all mean?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Not knowing bothers me...
+    - text: ĀNot knowing bothers me...
     - utf16_bytes:
         - 0
   talk11:
@@ -542,13 +525,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "The song I've been humming is one\nthat's been passed down in this village."
+    - text: "The song I've been humming is one\nthat's been passed down in this village."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nShall I teach it to you?"
+    - text: "\nShall I teach it to you?"
     - utf16_bytes:
         - 14
         - 1
@@ -556,7 +539,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk40:
     - utf16_bytes:
@@ -564,14 +548,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: Huh?
+    - text: ᐄHuh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Well that's embarrassing..."
+    - text: " Well that's embarrassing..."
     - utf16_bytes:
         - 0
   talk12:
@@ -580,9 +563,7 @@ entries:
         - 1
         - 1
         - 4
-        - 39322
-        - 16025
-    - ascii: "The pride of the Rito,"
+    - text: "馚㺙The pride of the Rito,"
     - utf16_bytes:
         - 14
         - 1
@@ -590,7 +571,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: " pillar in the sky,"
+    - text: " pillar in the sky,"
     - utf16_bytes:
         - 14
         - 1
@@ -598,7 +579,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: "\nits heart lights up"
+    - text: "\nits heart lights up"
     - utf16_bytes:
         - 14
         - 1
@@ -606,7 +587,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: " when the sun is high."
+    - text: " when the sun is high."
     - utf16_bytes:
         - 14
         - 1
@@ -614,23 +595,13 @@ entries:
         - 4
         - 5
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
-        - 39322
-        - 16025
-    - ascii: The heart shines upon
-    - utf16_bytes:
-        - 14
-        - 1
-        - 0
-        - 4
-        - 20
-        - 0
-    - ascii: " a path not whole,"
+    - text: 馚㺙The heart shines upon
     - utf16_bytes:
         - 14
         - 1
@@ -638,7 +609,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: "\nbut a warming flame"
+    - text: " a path not whole,"
     - utf16_bytes:
         - 14
         - 1
@@ -646,7 +617,15 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: " can stir its soul"
+    - text: "\nbut a warming flame"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+        - 20
+        - 0
+    - text: " can stir its soul"
     - utf16_bytes:
         - 14
         - 1
@@ -654,7 +633,7 @@ entries:
         - 4
         - 5
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk13:
@@ -664,13 +643,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I understand.
+    - text: I understand.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll hurry to it then."
+    - text: " I'll hurry to it then."
     - utf16_bytes:
         - 0
   talk14:
@@ -679,33 +658,32 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Say, traveler...\n\n\nI take it you've seen\n"
+    - text: "ĀSay, traveler...\n\n\nI take it you've seen\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nEveryone is at a loss as to what to do...\n"
+    - text: "\nEveryone is at a loss as to what to do...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ഉI can't help but sigh every time I look\nskyward."
+    - text: "ഉI can't help but sigh every time I look\nskyward."
     - utf16_bytes:
         - 0

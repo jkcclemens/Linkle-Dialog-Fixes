@@ -11,47 +11,48 @@ entries:
         - 3
         - 1
         - 2
-        - 5888
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "Don't you think the waterfall flowing\ndown from "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Lake Floria "
+    - text: ᜀ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is the very picture\nof perfection?"
+    - text: "Don't you think the waterfall flowing\ndown from "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Lake Floria "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "is the very picture\nof perfection?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "There is something strange at the "
+    - text: "There is something strange at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "top of\nthat waterfall"
+    - text: "top of\nthat waterfall"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", though...\n\nAnd even though it has shrunken over\ntime, you can still see a faint glow."
+    - text: ", though...\n\nAnd even though it has shrunken over\ntime, you can still see a faint glow."
     - utf16_bytes:
         - 0
   talk_01:
@@ -60,14 +61,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4357
-    - ascii: "Maybe I'm just imagining things..."
+    - text: "ᄅMaybe I'm just imagining things..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWas it like that the whole time?"
+    - text: "\nWas it like that the whole time?"
     - utf16_bytes:
         - 0
   talk_02:
@@ -76,7 +76,6 @@ entries:
         - 4
         - 1
         - 2
-        - 52511
-    - ascii: Zzz...zzz...
+    - text: 촟Zzz...zzz...
     - utf16_bytes:
         - 0

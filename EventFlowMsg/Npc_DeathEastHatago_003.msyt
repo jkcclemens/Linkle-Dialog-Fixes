@@ -7,19 +7,19 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Huh?
+    - text: Huh?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nLooks like"
+    - text: "\nLooks like"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " your inventory is full.\nGet rid of some of that junk first."
+    - text: " your inventory is full.\nGet rid of some of that junk first."
     - utf16_bytes:
         - 0
   talk17:
@@ -29,13 +29,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "OK. "
+    - text: "OK. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Here you go.
+    - text: Here you go.
     - utf16_bytes:
         - 0
   talk18:
@@ -49,33 +49,34 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "If you're headed to Goron City,"
+    - text: "If you're headed to Goron City,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll sell\nyou some of my "
+    - text: " I'll sell\nyou some of my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixirs
+    - text: fireproof elixirs
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk19:
@@ -85,7 +86,7 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   talk20:
@@ -95,14 +96,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It looks like you already have a bunch of\n"
+    - text: "It looks like you already have a bunch of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixirs
+    - text: fireproof elixirs
     - utf16_bytes:
         - 14
         - 0
@@ -113,7 +114,7 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: ". You should be able to\nmake it to Goron City."
+    - text: ". You should be able to\nmake it to Goron City."
     - utf16_bytes:
         - 0
   talk21:
@@ -123,21 +124,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Even Goron City regulars usually take\n"
+    - text: "Even Goron City regulars usually take\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "at least three "
+    - text: "at least three "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: elixirs with them.
+    - text: elixirs with them.
     - utf16_bytes:
         - 0
   talk23:
@@ -146,15 +147,14 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "If you want to buy some "
+    - text: "āIf you want to buy some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
@@ -165,7 +165,7 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: ",\njust let me know."
+    - text: ",\njust let me know."
     - utf16_bytes:
         - 0
   talk24:
@@ -175,54 +175,54 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's "
+    - text: "It's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 60 rupees
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " for one, "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 110 rupees
+    - text: 60 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for\ntwo, and "
+    - text: " for one, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 150 rupees
+    - text: 110 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for three. Buying\nin bulk pays off here!"
+    - text: " for\ntwo, and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 150 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " for three. Buying\nin bulk pays off here!"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 6
         - 7
@@ -237,13 +237,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "If you have that many,"
+    - text: "If you have that many,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " you should be\nable to make it to Goron City no problem."
+    - text: " you should be\nable to make it to Goron City no problem."
     - utf16_bytes:
         - 0
   talk26:
@@ -252,8 +252,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You know what they say though...\n\"Hope for the best.\nPrepare for the worst.\""
+    - text: "ЀYou know what they say though...\n\"Hope for the best.\nPrepare for the worst.\""
     - utf16_bytes:
         - 0
   talk27:
@@ -263,7 +262,7 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "With fireproofing like that, you should be\nable to make it to Goron City."
+    - text: "With fireproofing like that, you should be\nable to make it to Goron City."
     - utf16_bytes:
         - 0
   talk28:
@@ -273,7 +272,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "With fireproofing like that, you should be\nable to make it to Goron City.\n\nGood luck."
+    - text: "With fireproofing like that, you should be\nable to make it to Goron City.\n\nGood luck."
     - utf16_bytes:
         - 0
   talk00:
@@ -282,8 +281,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Morning!
+    - text: ȀMorning!
     - utf16_bytes:
         - 0
   talk29:
@@ -293,11 +291,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Of course, it would be a completely\ndifferent story..."
+    - text: "Of course, it would be a completely\ndifferent story..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   talk01:
@@ -306,8 +304,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hello!
+    - text: ȀHello!
     - utf16_bytes:
         - 0
   talk30:
@@ -317,32 +314,32 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Normally I wouldn't stop a stranger from\nheading to their doom, but I kinda\nlike ya.\n"
+    - text: "Normally I wouldn't stop a stranger from\nheading to their doom, but I kinda\nlike ya.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3072
-    - ascii: "So I guess I have no choice but to sell\nyou these "
+    - text: "So I guess I have no choice but to sell\nyou these "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixirs
+    - text: fireproof elixirs
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". They can\nprotect you from the burning air."
+    - text: ". They can\nprotect you from the burning air."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "No, not really."
+    - text: "No, not really."
     - utf16_bytes:
         - 0
   talk02:
@@ -351,8 +348,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Good evening!
+    - text: ȀGood evening!
     - utf16_bytes:
         - 0
   talk31:
@@ -362,11 +358,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I can sell you more if you need them.\nJust come and talk to me."
+    - text: "I can sell you more if you need them.\nJust come and talk to me."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk32:
@@ -376,31 +372,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "In any case, do you want me to sell\nyou"
+    - text: "In any case, do you want me to sell\nyou"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " some of my "
+    - text: " some of my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk04:
@@ -410,13 +406,13 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "If you're stopping by Foothill Stable,"
+    - text: "If you're stopping by Foothill Stable,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nthen you're probably headed to\nGoron City?"
+    - text: "\nthen you're probably headed to\nGoron City?"
     - utf16_bytes:
         - 14
         - 1
@@ -424,7 +420,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk33:
     - utf16_bytes:
@@ -433,21 +430,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you have some of this "
+    - text: "If you have some of this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nthat I'm selling."
+    - text: "\nthat I'm selling."
     - utf16_bytes:
         - 0
   talk05:
@@ -457,11 +454,11 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: I thought so.
+    - text: I thought so.
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "No, thanks."
+    - text: "No, thanks."
     - utf16_bytes:
         - 0
   talk06:
@@ -470,24 +467,23 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh, OK...\n\n\nBut if you do ever decide to head to\nGoron City, you'd better take care.\nIt's really hot there.\nWell,"
+    - text: "ЀOh, OK...\n\n\nBut if you do ever decide to head to\nGoron City, you'd better take care.\nIt's really hot there.\nWell,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " \"hot\" doesn't really do it justice.\nIt's more like..."
+    - text: " \"hot\" doesn't really do it justice.\nIt's more like..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "it'll burn the flesh from\nyour bones...and then burn those too."
+    - text: "it'll burn the flesh from\nyour bones...and then burn those too."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "I'll take one."
+    - text: "I'll take one."
     - utf16_bytes:
         - 0
   talk07:
@@ -496,12 +492,11 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Ah...
+    - text: ȀAh...
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: "I'll take two."
+    - text: "I'll take two."
     - utf16_bytes:
         - 0
   talk08:
@@ -511,19 +506,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hold on... "
+    - text: "Hold on... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Buddy,"
+    - text: "Buddy,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " are you really headed\nto Goron City dressed like that?"
+    - text: " are you really headed\nto Goron City dressed like that?"
     - utf16_bytes:
         - 14
         - 1
@@ -531,10 +526,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0008":
-    - ascii: "I'll take three."
+    - text: "I'll take three."
     - utf16_bytes:
         - 0
   talk09:
@@ -544,27 +540,27 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: See...this is how tourists get a bad rep.
+    - text: See...this is how tourists get a bad rep.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\nThat place is sheer cliff after sheer cliff,\nand it gets so hot past the "
+    - text: "\n\n\nThat place is sheer cliff after sheer cliff,\nand it gets so hot past the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "second\ncheckpoint "
+    - text: "second\ncheckpoint "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: that your body will catch fire.
+    - text: that your body will catch fire.
     - utf16_bytes:
         - 0
   talk10:
@@ -574,7 +570,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You've clearly taken precautions to deal\nwith the burning air up there.\n\nYou MIGHT just be able to reach\nGoron City. Best of luck."
+    - text: "You've clearly taken precautions to deal\nwith the burning air up there.\n\nYou MIGHT just be able to reach\nGoron City. Best of luck."
     - utf16_bytes:
         - 0
   talk11:
@@ -584,7 +580,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Good to hear.\n\n\nIf you tried to get to Goron City dressed\nlike that,"
+    - text: "Good to hear.\n\n\nIf you tried to get to Goron City dressed\nlike that,"
     - utf16_bytes:
         - 14
         - 0
@@ -595,14 +591,14 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "you'd be burned alive faster\nthan you can say \"Hylian barbecue.\""
+    - text: "you'd be burned alive faster\nthan you can say \"Hylian barbecue.\""
     - utf16_bytes:
         - 0
   talk12:
@@ -612,13 +608,13 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "I see.\n\n\nI won't waste my breath arguing about\nit."
+    - text: "I see.\n\n\nI won't waste my breath arguing about\nit."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Just trust me when I say you should\ngive up on going to Goron City."
+    - text: " Just trust me when I say you should\ngive up on going to Goron City."
     - utf16_bytes:
         - 0
   talk13:
@@ -627,14 +623,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Hmm...
+    - text: ကHmm...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Looks like you're broke.\nMaybe sell some of the junk in your bag\nto get some rupees."
+    - text: " Looks like you're broke.\nMaybe sell some of the junk in your bag\nto get some rupees."
     - utf16_bytes:
         - 0
   talk14:
@@ -644,26 +639,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "All right. "
+    - text: "All right. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Here is your "
+    - text: "Here is your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0

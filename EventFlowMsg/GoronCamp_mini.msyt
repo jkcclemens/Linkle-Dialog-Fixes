@@ -7,37 +7,38 @@ entries:
         - 1
         - 2
         - 2306
-    - ascii: "Our Gut Check Challenge training\nprogram costs "
+    - text: "Our Gut Check Challenge training\nprogram costs "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 50 rupees
+    - text: 50 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " per try!"
+    - text: " per try!"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: J
+    - text: J
     - utf16_bytes:
         - 5
         - 0
         - 7
-    - ascii: 8GoronCamp_mini_ChoiceExclude
+    - text: 8GoronCamp_mini_ChoiceExclude
     - utf16_bytes:
         - 6
         - 0
         - 65535
         - 0
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_22:
     - utf16_bytes:
@@ -46,21 +47,21 @@ entries:
         - 1
         - 2
         - 2306
-    - ascii: "For passing the Gut Check Challenge,\nI'm gonna award ya with this fancy\n"
+    - text: "For passing the Gut Check Challenge,\nI'm gonna award ya with this fancy\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rushroom
+    - text: rushroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Talk_06:
@@ -70,21 +71,21 @@ entries:
         - 1
         - 2
         - 2306
-    - ascii: "The Super Gut Check Challenge training\nprogram will cost ya "
+    - text: "The Super Gut Check Challenge training\nprogram will cost ya "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 100 rupees
+    - text: 100 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nper try, sister!"
+    - text: "\nper try, sister!"
     - utf16_bytes:
         - 14
         - 1
@@ -92,7 +93,8 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_23:
     - utf16_bytes:
@@ -100,15 +102,14 @@ entries:
         - 3
         - 1
         - 2
-        - 4875
-    - ascii: "...That's what I was plannin' on, anyway.\nBut ya seem to have plenty already.\n\n"
+    - text: "ጋ...That's what I was plannin' on, anyway.\nBut ya seem to have plenty already.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2
-    - ascii: "I know! Take this instead, sister!"
+    - text: "I know! Take this instead, sister!"
     - utf16_bytes:
         - 0
   Talk_07:
@@ -117,28 +118,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1026
-    - ascii: "You've gotta collect "
+    - text: "ЂYou've gotta collect "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 100 rupees
+    - text: 100 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " as you\ntrain! But if you're bringin' the heat like\na true Goron, that should be no problem.\nEven if ya reach the goal within the\ntime limit, without those rupees,\nyou fail. So don't fail, sister!\nNow then..."
+    - text: " as you\ntrain! But if you're bringin' the heat like\na true Goron, that should be no problem.\nEven if ya reach the goal within the\ntime limit, without those rupees,\nyou fail. So don't fail, sister!\nNow then..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It's finally time for..."
+    - text: " It's finally time for..."
     - utf16_bytes:
         - 0
   Talk_08:
@@ -147,18 +147,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tPathetic answer, sister! I'm extremely\ndisappointed with your lack of grit.\n\n"
+        - 9
+    - text: "Pathetic answer, sister! I'm extremely\ndisappointed with your lack of grit.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "If ya change your mind, come on back!\nI'll be waitin' for ya to rethink your life\nand rise to the challenge!"
+    - text: "If ya change your mind, come on back!\nI'll be waitin' for ya to rethink your life\nand rise to the challenge!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'm pumped, sister!"
+    - text: "I'm pumped, sister!"
     - utf16_bytes:
         - 0
   Talk_09:
@@ -167,16 +168,15 @@ entries:
         - 3
         - 1
         - 2
-        - 11522
-    - ascii: "That was the new recruit price! That offer\nhas expired, brother. I have my reasons...\nProtein doesn't buy itself, little lady."
+    - text: "ⴂThat was the new recruit price! That offer\nhas expired, brother. I have my reasons...\nProtein doesn't buy itself, little lady."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'm not pumped."
+    - text: "I'm not pumped."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Explain the rules.
+    - text: Explain the rules.
     - utf16_bytes:
         - 0
   Talk_10:
@@ -186,31 +186,31 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "You've gotta collect "
+    - text: "You've gotta collect "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 300 rupees
+    - text: 300 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " as\nyou train! Go on, show me how\nmuch of a Goron you really are!\nEven if ya reach the goal within the\ntime limit, without those rupees,\nyou fail. So don't fail, sister!\nNow then..."
+    - text: " as\nyou train! Go on, show me how\nmuch of a Goron you really are!\nEven if ya reach the goal within the\ntime limit, without those rupees,\nyou fail. So don't fail, sister!\nNow then..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It's finally time for..."
+    - text: " It's finally time for..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Gut Check Challenge.
+    - text: Gut Check Challenge.
     - utf16_bytes:
         - 0
   Talk_11:
@@ -219,12 +219,11 @@ entries:
         - 3
         - 1
         - 2
-        - 11522
-    - ascii: "Don't doubt yourself, sister! I believe\nin you and your tiny little muscles!"
+    - text: "ⴂDon't doubt yourself, sister! I believe\nin you and your tiny little muscles!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Super Gut Check.
+    - text: Super Gut Check.
     - utf16_bytes:
         - 0
   Talk_12:
@@ -238,17 +237,17 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "Let's DO THIS!"
+    - text: "Let's DO THIS!"
     - utf16_bytes:
         - 0
   Talk_13:
@@ -258,7 +257,7 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "Time for a gut check, tiny Hylian!\nYou ready to challenge yourself\nwith our extreme training program?!"
+    - text: "Time for a gut check, tiny Hylian!\nYou ready to challenge yourself\nwith our extreme training program?!"
     - utf16_bytes:
         - 14
         - 1
@@ -267,10 +266,11 @@ entries:
         - 0
         - 2
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: "I'd rather not..."
+    - text: "I'd rather not..."
     - utf16_bytes:
         - 0
   Talk_14:
@@ -279,18 +279,19 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}Unbelievable!!"
+    - text: ਇ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}Unbelievable!!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -300,28 +301,29 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dYou annihilated our training like it was\na mere warm up, sister!"
+    - text: "dYou annihilated our training like it was\na mere warm up, sister!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I knew I was right about you! You've got\nthe body of a bitty baby but the heart\nof a Goron warrior!"
+    - text: "I knew I was right about you! You've got\nthe body of a bitty baby but the heart\nof a Goron warrior!"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Did the price go up?
+    - text: Did the price go up?
     - utf16_bytes:
         - 0
   Talk_15:
@@ -330,33 +332,33 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᘊ
+    - text: ᘊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}NO WAY!! So close and yet\nso far, brother!!"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 4
-        - 0
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "dSorry, but you're just barely short of the\nminimum rupee goal."
+    - text: "}NO WAY!! So close and yet\nso far, brother!!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Tough luck, little lady! But no worries.\nI'll be waitin', so come back when\nyou're ready to challenge yourself again!"
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "dSorry, but you're just barely short of the\nminimum rupee goal."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Tough luck, little lady! But no worries.\nI'll be waitin', so come back when\nyou're ready to challenge yourself again!"
     - utf16_bytes:
         - 0
   Talk_16:
-    - ascii: "Prove your grit, sister!"
+    - text: "Prove your grit, sister!"
     - utf16_bytes:
         - 0
   Talk_17:
@@ -365,12 +367,13 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Gut Check Challenge!!"
+    - text: "}Gut Check Challenge!!"
     - utf16_bytes:
         - 14
         - 5
@@ -384,19 +387,19 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Ready?! "
+    - text: "촉Ready?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: GOOOOOO!!
+    - text: GOOOOOO!!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_00:
@@ -410,24 +413,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, BLOOD SISTER!"
+    - text: "}PUMP IT UP, BLOOD SISTER!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
-    - utf16_bytes:
-        - 14
-        - 0
-        - 4
-        - 0
-        - 14
-        - 3
-        - 1
-        - 2
-        - 258
-    - ascii: "You cleared our training program like\nit was nothin'!"
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -437,15 +429,23 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: "But! I know your type. Your type is MY\ntype. You can't be satisfied with just\none victory. Can you, sister?\n"
+    - text: "ĂYou cleared our training program like\nit was nothin'!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĈBut! I know your type. Your type is MY\ntype. You can't be satisfied with just\none victory. Can you, sister?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "To be a true Goron, you've gotta\nbe unflinchingly dedicated to training!\nNo flinching whatsoever!\nLucky for you, I've prepared a training\nprogram to help you ascend to even\ngreater heights! I call it..."
+    - text: "ĂTo be a true Goron, you've gotta\nbe unflinchingly dedicated to training!\nNo flinching whatsoever!\nLucky for you, I've prepared a training\nprogram to help you ascend to even\ngreater heights! I call it..."
     - utf16_bytes:
         - 14
         - 0
@@ -460,13 +460,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Super Gut Check Challenge!!"
+    - text: "}Super Gut Check Challenge!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -476,8 +476,7 @@ entries:
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "So? Ready to take your training to the\nnext level of hard-core, my sister?"
+    - text: "ĂSo? Ready to take your training to the\nnext level of hard-core, my sister?"
     - utf16_bytes:
         - 14
         - 1
@@ -486,7 +485,8 @@ entries:
         - 0
         - 2
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_18:
     - utf16_bytes:
@@ -494,12 +494,13 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Super Gut Check Challenge!!"
+    - text: "}Super Gut Check Challenge!!"
     - utf16_bytes:
         - 14
         - 5
@@ -513,19 +514,19 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Ready?! "
+    - text: "촉Ready?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: GOOOOOO!!
+    - text: GOOOOOO!!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_01:
@@ -535,47 +536,47 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I KNEW IT! Good answer, sister!\nI'm gonna train ya to smithereens,\nso I hope you're ready!\nYou already beat "
+    - text: "I KNEW IT! Good answer, sister!\nI'm gonna train ya to smithereens,\nso I hope you're ready!\nYou already beat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Gut Check Challenge
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nso that wouldn't be enough of a trial\nfor a sister like you."
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nI recommend our hardest training\nprogram of all time. I call it...\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Super Gut Check Challenge
+    - text: Gut Check Challenge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: ",\nso that wouldn't be enough of a trial\nfor a sister like you."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nI recommend our hardest training\nprogram of all time. I call it...\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Super Gut Check Challenge
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   Talk_19:
@@ -589,13 +590,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -605,8 +606,7 @@ entries:
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Ya showed some real grit out there,\ntiny Hylian! In fact, I've got a new\nchallenge I'd like to run by ya.\nLemme know when you're ready to go,\nand I'll get to explainin', my sister.\nDon't keep me waitin' forever!"
+    - text: "ĂYa showed some real grit out there,\ntiny Hylian! In fact, I've got a new\nchallenge I'd like to run by ya.\nLemme know when you're ready to go,\nand I'll get to explainin', my sister.\nDon't keep me waitin' forever!"
     - utf16_bytes:
         - 0
   Talk_02:
@@ -615,8 +615,7 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: So? Which training program will it be?
+    - text: ĈSo? Which training program will it be?
     - utf16_bytes:
         - 14
         - 1
@@ -624,7 +623,8 @@ entries:
         - 6
         - 3
         - 4
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_03:
     - utf16_bytes:
@@ -632,13 +632,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat?! You...DON'T wanna train?!\nI don't understand such things, sister."
+    - text: "\nWhat?! You...DON'T wanna train?!\nI don't understand such things, sister."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "When ya change your mind, come back.\nI'll be waitin' for ya to find your grit\nand rise to the challenge, little lady!"
+    - text: "When ya change your mind, come back.\nI'll be waitin' for ya to find your grit\nand rise to the challenge, little lady!"
     - utf16_bytes:
         - 0
   Talk_20:
@@ -648,7 +648,7 @@ entries:
         - 1
         - 2
         - 2306
-    - ascii: "Take this training as many times as ya\nwant, sister! In fact, I'll be waitin' here\nfor ya to challenge yourself again!"
+    - text: "Take this training as many times as ya\nwant, sister! In fact, I'll be waitin' here\nfor ya to challenge yourself again!"
     - utf16_bytes:
         - 0
   Talk_04:
@@ -658,7 +658,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "The rules are simple, sister!"
+    - text: "The rules are simple, sister!"
     - utf16_bytes:
         - 0
   Talk_21:
@@ -667,21 +667,20 @@ entries:
         - 3
         - 1
         - 2
-        - 1026
-    - ascii: "For passing our famous Super Gut Check\nChallenge, I'm gonna reward ya with an\n"
+    - text: "ЂFor passing our famous Super Gut Check\nChallenge, I'm gonna reward ya with an\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: endura shroom
+    - text: endura shroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! It's yours, sister!"
+    - text: "! It's yours, sister!"
     - utf16_bytes:
         - 0

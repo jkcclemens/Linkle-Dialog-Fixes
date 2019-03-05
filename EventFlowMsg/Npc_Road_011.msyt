@@ -7,19 +7,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Meat and hydromelons just taste\nbetter when you're lounging at the\nKara Kara Bazaar. "
+    - text: "Meat and hydromelons just taste\nbetter when you're lounging at the\nKara Kara Bazaar. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Everyone knows that.\nWhich should I go for? "
+    - text: "Everyone knows that.\nWhich should I go for? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Melon or meat?
+    - text: Melon or meat?
     - utf16_bytes:
         - 14
         - 0
@@ -29,14 +29,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "What am I saying? "
+    - text: "촇What am I saying? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Both, obviously!"
+    - text: "Both, obviously!"
     - utf16_bytes:
         - 0
   MSG_Gerud_05:
@@ -50,20 +49,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52497
-    - ascii: "You're..."
+    - text: "촑You're..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "not trying to sneak into\nGerudo Town in my shadow, are you?"
+    - text: "not trying to sneak into\nGerudo Town in my shadow, are you?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "It won't work. And if Dorrah and Merina\nat the gates catch you, you'll wish you\nhadn't even thought of trying."
+    - text: "It won't work. And if Dorrah and Merina\nat the gates catch you, you'll wish you\nhadn't even thought of trying."
     - utf16_bytes:
         - 0
   RetMSG_Gerud_01_1:
@@ -72,19 +70,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t*sigh* "
+        - 9
+    - text: "*sigh* "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\"Stop playing in the fountain and\ngo practice your sand-seal riding!\" vaba\nalways said."
+    - text: "\"Stop playing in the fountain and\ngo practice your sand-seal riding!\" vaba\nalways said."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Why didn't I listen?"
+    - text: " Why didn't I listen?"
     - utf16_bytes:
         - 0
   MSG_Gerud_06:
@@ -94,53 +93,53 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Are you sure you want to be here?
+    - text: Are you sure you want to be here?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's\nnot safe with "
+    - text: " It's\nnot safe with "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Naboris "
+    - text: "Naboris "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: roaming around.
+    - text: roaming around.
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I'd rather be anywhere else, personally."
+    - text: "I'd rather be anywhere else, personally."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI do love the desert, but "
+    - text: "\nI do love the desert, but "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Naboris "
+    - text: "Naboris "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "makes\nit tough..."
+    - text: "makes\nit tough..."
     - utf16_bytes:
         - 0
   MSG_Gerud_04_1:
@@ -149,19 +148,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: "I'm on a snack break right now."
+    - text: "촐I'm on a snack break right now."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nFood just tastes better when you're\nlounging at the Kara Kara Bazaar."
+    - text: "\nFood just tastes better when you're\nlounging at the Kara Kara Bazaar."
     - utf16_bytes:
         - 0
   MSG_Gerud_01_1:
@@ -171,7 +170,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I haven't been out in these sands long,\nbut it's still such a relief to see the face\nof my fellow vai whenever I come home."
+    - text: "I haven't been out in these sands long,\nbut it's still such a relief to see the face\nof my fellow vai whenever I come home."
     - utf16_bytes:
         - 0
   Atacked00:
@@ -180,14 +179,13 @@ entries:
         - 3
         - 1
         - 2
-        - 10752
-    - ascii: Hey!
+    - text: ⨀Hey!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Personal space!"
+    - text: " Personal space!"
     - utf16_bytes:
         - 0
   first_00:
@@ -196,51 +194,49 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: N...
+    - text: ċN...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "nice to meet you! "
+    - text: "nice to meet you! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I'm Kyra."
+    - text: "I'm Kyra."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nFrom the..."
+    - text: "\nFrom the..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "the... "
+    - text: "the... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: From the Gerudo!
+    - text: From the Gerudo!
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I'm wandering the world, learning what\nI can and seeking my dreams...\n\n"
+    - text: "I'm wandering the world, learning what\nI can and seeking my dreams...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "And I can tell, just from looking at you...\nYou have a place in my dreams, don't\nyou? Did we meet for a reason?"
+    - text: "ćAnd I can tell, just from looking at you...\nYou have a place in my dreams, don't\nyou? Did we meet for a reason?"
     - utf16_bytes:
         - 14
         - 1
@@ -248,7 +244,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Atacked01:
     - utf16_bytes:
@@ -256,8 +253,7 @@ entries:
         - 3
         - 1
         - 2
-        - 10752
-    - ascii: This is why I hate leaving town...
+    - text: ⨀This is why I hate leaving town...
     - utf16_bytes:
         - 0
   hello_00:
@@ -266,13 +262,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq."
+    - text: "촚Sav'aaq."
     - utf16_bytes:
         - 0
   first_01:
@@ -281,14 +277,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "Oh, is that how it's going to be?"
+    - text: "ขOh, is that how it's going to be?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThen I can stop wasting my time\nwith you.\nSav'orq, traveler."
+    - text: "\nThen I can stop wasting my time\nwith you.\nSav'orq, traveler."
     - utf16_bytes:
         - 0
   RetMSG_Gerud_02_1:
@@ -298,13 +293,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Even with the Divine Beast appeased,\nthese sands are dangerous. "
+    - text: "Even with the Divine Beast appeased,\nthese sands are dangerous. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Move fast,\nor the monsters will catch you."
+    - text: "Move fast,\nor the monsters will catch you."
     - utf16_bytes:
         - 0
   hello_01:
@@ -313,13 +308,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 0
   first_02:
@@ -328,31 +323,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHmm... "
+        - 9
+    - text: "Hmm... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "No. "
+    - text: "No. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: I know this one.
+    - text: I know this one.
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "My vaba warned me about vai who throw\nwords like \"dream girl\" around."
+    - text: "My vaba warned me about vai who throw\nwords like \"dream girl\" around."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nLet's just forget we ever spoke.\nSav'orq, traveler."
+    - text: "\nLet's just forget we ever spoke.\nSav'orq, traveler."
     - utf16_bytes:
         - 0
   first:
@@ -361,55 +357,55 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ጊ
+    - text: ጊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: POK...
+    - text: POK...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's a vai. "
+    - text: " It's a vai. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: You can handle this.
+    - text: You can handle this.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nDeep breaths, Kyra."
+    - text: "\nDeep breaths, Kyra."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Remember your training."
+    - text: " Remember your training."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: First...
+    - text: First...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You greet the otusider like anyone else."
+    - text: " You greet the otusider like anyone else."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   first_03:
@@ -418,38 +414,37 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: You again?
+    - text: ขYou again?
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I'm on my personal journey of learning\nand discovery,"
+    - text: "I'm on my personal journey of learning\nand discovery,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so it would be great if you\ncould not disrupt it...\n"
+    - text: " so it would be great if you\ncould not disrupt it...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Unless... Do you think you're part of my\ndestiny?"
+    - text: "촇Unless... Do you think you're part of my\ndestiny?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " My dream life?"
+    - text: " My dream life?"
     - utf16_bytes:
         - 14
         - 1
@@ -457,7 +452,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   MSG_Gerud_05_1:
     - utf16_bytes:
@@ -466,17 +462,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You're..."
+    - text: "You're..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "not actually trying to sneak into\nGerudo Town in my shadow, are you?"
+    - text: "not actually trying to sneak into\nGerudo Town in my shadow, are you?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "You're my dream girl!"
+    - text: "You're my dream girl!"
     - utf16_bytes:
         - 0
   first_04:
@@ -490,27 +486,26 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "My vaba always said nothing's so shady\nas a vai who talks about dream this\nand dream that."
+    - text: "촎My vaba always said nothing's so shady\nas a vai who talks about dream this\nand dream that."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I guess she was right.\n"
+    - text: " I guess she was right.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Run along, voe."
+    - text: "Run along, voe."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm busy."
+    - text: " I'm busy."
     - utf16_bytes:
         - 0
   Rest_00:
@@ -519,12 +514,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Phew... Traveling the world outside of\nhome is harder than I expected."
+    - text: "ЀPhew... Traveling the world outside of\nhome is harder than I expected."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Just a girl takin' a walk."
+    - text: "Just a girl takin' a walk."
     - utf16_bytes:
         - 0
   first_05:
@@ -534,69 +528,69 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Pretty clothes. "
+    - text: "Pretty clothes. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You don't see my\nkinswomen wearing that style often."
+    - text: "You don't see my\nkinswomen wearing that style often."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI bet it drives voe out in the world wild.\n"
+    - text: "\nI bet it drives voe out in the world wild.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm at the perfect age to travel and see\nwhat the world holds, myself, but I've\nbarely explored this desert...\n"
+    - text: "I'm at the perfect age to travel and see\nwhat the world holds, myself, but I've\nbarely explored this desert...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 261
+    - text: ą
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Adventures won't come and find me, I\nknow. I have to put myself out there..."
+    - text: "촎Adventures won't come and find me, I\nknow. I have to put myself out there..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI like staying around the familiar, I guess.\n"
+    - text: "\nI like staying around the familiar, I guess.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "You, though..."
+    - text: "You, though..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You should see the\nworld. "
+    - text: " You should see the\nworld. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Meet new people. "
+    - text: "Meet new people. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Maybe you'll\nmeet a nice voe!\nSav'orq, traveler!"
+    - text: "Maybe you'll\nmeet a nice voe!\nSav'orq, traveler!"
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -606,13 +600,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "There've been monsters swarming these\nsands ever since I can remember."
+    - text: "There've been monsters swarming these\nsands ever since I can remember."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I swear they've gotten more\naggressive lately, though."
+    - text: "I swear they've gotten more\naggressive lately, though."
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -621,25 +615,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Sarqso, traveler. "
+    - text: "촂Sarqso, traveler. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "But that thing's friends\ncould show up any second. "
+    - text: "But that thing's friends\ncould show up any second. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Let's run\nwhile we still can!"
+    - text: "Let's run\nwhile we still can!"
     - utf16_bytes:
         - 0
   Failed00:
@@ -648,25 +642,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ĉ
+    - text: ĉ
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-    - ascii: "촪Urgh... "
+    - text: "촪Urgh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I think my hourglass is running\nout."
+    - text: "I think my hourglass is running\nout."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I had so much left to do..."
+    - text: " I had so much left to do..."
     - utf16_bytes:
         - 0
   Thanks00:
@@ -675,25 +669,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Oh, right... "
+    - text: "촂Oh, right... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: You should have this.
+    - text: You should have this.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou fought well."
+    - text: "\nYou fought well."
     - utf16_bytes:
         - 0
   MSG_Gerud_02_1:
@@ -702,13 +696,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThe desert sands are hard on my feet."
+        - 9
+    - text: The desert sands are hard on my feet.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nMaybe one day someone who can\nsand-seal surf will carry me about..."
+    - text: "\nMaybe one day someone who can\nsand-seal surf will carry me about..."
     - utf16_bytes:
         - 0
   Failed01:
@@ -717,13 +712,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ⰉUrgh... "
+    - text: "ⰉUrgh... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Looks like this is the end...
+    - text: Looks like this is the end...
     - utf16_bytes:
         - 0
   hello:
@@ -732,13 +727,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -747,19 +742,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Sa'oten!"
+    - text: "촂Sa'oten!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You're stronger than I gave you\ncredit for."
+    - text: " You're stronger than I gave you\ncredit for."
     - utf16_bytes:
         - 0
   RetMSG_Gerud_00:
@@ -769,26 +764,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: It occurs to me sometimes...
+    - text: It occurs to me sometimes...
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "If we got rid of the law keeping voe out\nof Gerudo Town, they could come to\ntown with tales of their adventures...\n"
+    - text: "If we got rid of the law keeping voe out\nof Gerudo Town, they could come to\ntown with tales of their adventures...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Then again, the younger vai like the\nlaw. "
+    - text: "Then again, the younger vai like the\nlaw. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It gives them an excuse to get out\nand see the world, you know?"
+    - text: "It gives them an excuse to get out\nand see the world, you know?"
     - utf16_bytes:
         - 0
   RetMSG_Gerud_03_1:
@@ -797,13 +792,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMy daydreams keep getting more\nelaborate. "
+        - 9
+    - text: "My daydreams keep getting more\nelaborate. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'd better get down to it and\nstart living them!"
+    - text: "I'd better get down to it and\nstart living them!"
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -812,25 +808,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Sarqso, traveler. "
+    - text: "촂Sarqso, traveler. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I really should be able\nto handle myself... "
+    - text: "I really should be able\nto handle myself... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Need to work on that.
+    - text: Need to work on that.
     - utf16_bytes:
         - 0
   Near00:
@@ -838,10 +834,10 @@ entries:
         - 14
         - 4
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "CallI'm bushed..."
+    - text: "CallI'm bushed..."
     - utf16_bytes:
         - 0
   RetMSG_Gerud_01:
@@ -851,7 +847,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Kara Kara Bazaar is sounding real nice\nright about now, but..."
+    - text: "Kara Kara Bazaar is sounding real nice\nright about now, but..."
     - utf16_bytes:
         - 14
         - 0
@@ -861,13 +857,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI can't sand-seal surf, so I'd have\nto walk, and I'm not feeling up to that\nright now.\nWhy didn't I ever learn how to stay\nupright while one of those things pulls\nme around the desert? "
+        - 9
+    - text: "I can't sand-seal surf, so I'd have\nto walk, and I'm not feeling up to that\nright now.\nWhy didn't I ever learn how to stay\nupright while one of those things pulls\nme around the desert? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "*sigh*"
+    - text: "*sigh*"
     - utf16_bytes:
         - 0
   Near01:
@@ -875,10 +872,10 @@ entries:
         - 14
         - 4
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "CallI'm baking in this sun..."
+    - text: "CallI'm baking in this sun..."
     - utf16_bytes:
         - 0
   MSG_Gerud_06_1:
@@ -888,27 +885,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I wish I was anywhere else but out here\nwith "
+    - text: "I wish I was anywhere else but out here\nwith "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Naboris "
+    - text: "Naboris "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "roaming around. "
+    - text: "roaming around. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I feel like\nI could be zapped at any moment."
+    - text: "I feel like\nI could be zapped at any moment."
     - utf16_bytes:
         - 0
   RetMSG_Gerud_02:
@@ -918,19 +915,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Even with the Divine Beast appeased,\nthese sands are dangerous. "
+    - text: "Even with the Divine Beast appeased,\nthese sands are dangerous. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Move fast,\nor the monsters will catch you.\n"
+    - text: "Move fast,\nor the monsters will catch you.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tIt's easiest to give them the slip when\nyou're sand-seal surfing, but I never\nreally learned how."
+        - 9
+    - text: "It's easiest to give them the slip when\nyou're sand-seal surfing, but I never\nreally learned how."
     - utf16_bytes:
         - 0
   Near02:
@@ -938,10 +936,10 @@ entries:
         - 14
         - 4
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "CallOh, to live my dreams..."
+    - text: "CallOh, to live my dreams..."
     - utf16_bytes:
         - 0
   RetMSG_Gerud_03:
@@ -951,22 +949,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There's no better place to relax than\nKara Kara Bazaar. "
+    - text: "There's no better place to relax than\nKara Kara Bazaar. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Cool water, green\nplants"
-    - utf16_bytes:
-        - 8212
-    - ascii: "this place has it all.\nI come here whenever possible."
+    - text: "Cool water, green\nplants—this place has it all.\nI come here whenever possible."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI just can't get enough of it!"
+    - text: "\nI just can't get enough of it!"
     - utf16_bytes:
         - 0
   RetMSG_Gerud_00_1:
@@ -976,13 +971,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Sometimes I wish voe were allowed in\ntown,"
+    - text: "Sometimes I wish voe were allowed in\ntown,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but banning them does have\nsome advantages...\nThe outside world can be an interesting\nplace, and I'd probably never have\nleft town if I could just hear about it."
+    - text: " but banning them does have\nsome advantages...\nThe outside world can be an interesting\nplace, and I'd probably never have\nleft town if I could just hear about it."
     - utf16_bytes:
         - 0
   RetMSG_Gerud_04:
@@ -992,16 +987,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Have you tried the hydromelon here?
+    - text: Have you tried the hydromelon here?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt's the same fruit you can buy in\nGerudo Town"
-    - utf16_bytes:
-        - 8212
-    - ascii: "it just tastes better here.\nIn this desert heat, it's just the thing to\ncool you down inside and out."
+    - text: "\nIt's the same fruit you can buy in\nGerudo Town—it just tastes better here.\nIn this desert heat, it's just the thing to\ncool you down inside and out."
     - utf16_bytes:
         - 14
         - 0
@@ -1012,13 +1004,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "I used to walk around these sands eating\nthem when I was a young vai. "
+    - text: "I used to walk around these sands eating\nthem when I was a young vai. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Oh, how\nmy vaba fussed at me for it!\n"
+    - text: "Oh, how\nmy vaba fussed at me for it!\n"
     - utf16_bytes:
         - 14
         - 3
@@ -1029,14 +1021,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Hah... "
+    - text: "촇Hah... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "But I'm sure when I have vai\nof my own, I'll be the one fussing\nat them."
+    - text: "But I'm sure when I have vai\nof my own, I'll be the one fussing\nat them."
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -1045,25 +1036,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: "Hmm... "
+    - text: "촐Hmm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That was trouble, no mistake."
+    - text: "That was trouble, no mistake."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt's over now, right?"
+    - text: "\nIt's over now, right?"
     - utf16_bytes:
         - 0
   MSG_Gerud_03_1:
@@ -1073,13 +1064,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Kara Kara Bazaar is the best vacation\nspot in all of the desert."
+    - text: "Kara Kara Bazaar is the best vacation\nspot in all of the desert."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I could stay\nhere and relax for days..."
+    - text: " I could stay\nhere and relax for days..."
     - utf16_bytes:
         - 0
   SavedLv1_01:
@@ -1088,25 +1079,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: Sa...
+    - text: 촐Sa...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Sarqso.
+    - text: Sarqso.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That looked like the last of\nthe monsters."
+    - text: " That looked like the last of\nthe monsters."
     - utf16_bytes:
         - 0
   first_04_1:
@@ -1115,31 +1106,31 @@ entries:
         - 3
         - 1
         - 2
-        - 261
+    - text: ą
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Hmm...
+    - text: 촎Hmm...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " My vaba was right about you vai."
+    - text: " My vaba was right about you vai."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "\"Dream girl...\" Nah, I don't have time to\nwaste on you. "
+    - text: "\"Dream girl...\" Nah, I don't have time to\nwaste on you. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Get out of here.
+    - text: Get out of here.
     - utf16_bytes:
         - 0
   MSG_Gerud_00:
@@ -1148,25 +1139,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: "I hate wandering the wastelands.\n"
+    - text: "촐I hate wandering the wastelands.\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Give me the bustling streets of\nGerudo Town any day.\nBut the outside world is where the\nadventure is,"
+    - text: "Give me the bustling streets of\nGerudo Town any day.\nBut the outside world is where the\nadventure is,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " so this is where I have\nto be, too."
+    - text: " so this is where I have\nto be, too."
     - utf16_bytes:
         - 0
   MSG_Gerud_00_1:
@@ -1176,7 +1167,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I hope to someday be able to talk to voe\nwithout a stomach full of butterflies."
+    - text: "I hope to someday be able to talk to voe\nwithout a stomach full of butterflies."
     - utf16_bytes:
         - 0
   MSG_Gerud_01:
@@ -1186,13 +1177,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Dorrah and Merina are always a sight for\nsore eyes. "
+    - text: "Dorrah and Merina are always a sight for\nsore eyes. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "When I catch a glimpse of\nthem, I know I've made it back home.\nThey're pretty tough on voe, and you\nwouldn't want to get on their bad side,\nbut they're nice vai deep down."
+    - text: "When I catch a glimpse of\nthem, I know I've made it back home.\nThey're pretty tough on voe, and you\nwouldn't want to get on their bad side,\nbut they're nice vai deep down."
     - utf16_bytes:
         - 0
   RetMSG_Gerud_04_1:
@@ -1202,13 +1193,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "In the worst of the desert heat, have\nsome hydromelon. "
+    - text: "In the worst of the desert heat, have\nsome hydromelon. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "There's nothing\nbetter for cooling off.\nI would never go outside the town walls\nwithout some when I was a young vai."
+    - text: "There's nothing\nbetter for cooling off.\nI would never go outside the town walls\nwithout some when I was a young vai."
     - utf16_bytes:
         - 0
   first_01_1:
@@ -1217,14 +1208,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "I hate to be rude, but... "
+    - text: "ขI hate to be rude, but... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "What's the point\nin talking to you anymore?"
+    - text: "What's the point\nin talking to you anymore?"
     - utf16_bytes:
         - 0
   MSG_Gerud_02:
@@ -1234,7 +1224,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The desert sands are hard on my feet.\nI'd love to use a sand seal, but..."
+    - text: "The desert sands are hard on my feet.\nI'd love to use a sand seal, but..."
     - utf16_bytes:
         - 14
         - 0
@@ -1244,13 +1234,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI never actually learned the trick to\nsand-seal surfing."
+        - 9
+    - text: "I never actually learned the trick to\nsand-seal surfing."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Maybe one day I'll meet someone who\nreally knows how to do it. Then I can\ncatch a ride and travel with ease!"
+    - text: "Maybe one day I'll meet someone who\nreally knows how to do it. Then I can\ncatch a ride and travel with ease!"
     - utf16_bytes:
         - 0
   MSG_Gerud_03:
@@ -1260,18 +1251,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Kara Kara Bazaar is a sort of resort for\nwe Gerudo. "
+    - text: "Kara Kara Bazaar is a sort of resort for\nwe Gerudo. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I love to come here and\nrelax..."
+    - text: "I love to come here and\nrelax..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's perfect for a vacation, really."
+    - text: " It's perfect for a vacation, really."
     - utf16_bytes:
         - 0

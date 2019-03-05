@@ -1,7 +1,7 @@
 ---
 entries:
   Npc_Goron022_Near00:
-    - ascii: Lord Daruk...
+    - text: Lord Daruk...
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk00:
@@ -11,96 +11,96 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "That's right. I'm followin' the\nGreat "
+    - text: "That's right. I'm followin' the\nGreat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Daruk
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "'s footsteps too!\n\nIn fact, I hear "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lord Daruk
+    - text: Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: "'s footsteps too!\n\nIn fact, I hear "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lord Daruk
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "defeated a\n"
+    - text: "defeated a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: huge monster
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " at "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lake Darman
+    - text: huge monster
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: " at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lake Darman
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: I wonder
+    - text: I wonder
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " what the "
+    - text: " what the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "monster "
+    - text: "monster "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: looked like...
+    - text: looked like...
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk01:
@@ -110,62 +110,62 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "They say "
+    - text: "They say "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " defeated a\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: huge monster
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " somewhere nearby!\n\n"
+    - text: " defeated a\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: huge monster
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " somewhere nearby!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Apparently "
+    - text: "Apparently "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Daruk
+    - text: Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s battle cry was\nso fierce"
+    - text: "'s battle cry was\nso fierce"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: ", no one could tell if it was\nhim or the monster howling!"
+    - text: ", no one could tell if it was\nhim or the monster howling!"
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk02:
@@ -174,8 +174,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hey there!
+    - text: ȀHey there!
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk03:
@@ -184,14 +183,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Hey there. "
+    - text: "ȀHey there. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Nice morning, eh?"
+    - text: "Nice morning, eh?"
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk04:
@@ -200,20 +198,19 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Hey there. "
+    - text: "ȀHey there. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "It's hot today. "
+    - text: "It's hot today. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: How great!
+    - text: How great!
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk10:
@@ -223,26 +220,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Truth is...
+    - text: Truth is...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I've had this strange feelin'\nin my gut since I returned.\n\n"
+    - text: "I've had this strange feelin'\nin my gut since I returned.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "It sounds nuts, but..."
+    - text: "It sounds nuts, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "ever since I've been\nexplorin' the Champ's turf..."
+    - text: "ever since I've been\nexplorin' the Champ's turf..."
     - utf16_bytes:
         - 14
         - 5
@@ -257,40 +254,40 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I feel reinvigorated! Like I could take\non the whole world!"
+    - text: "I feel reinvigorated! Like I could take\non the whole world!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Do ya think maybe "
+    - text: "Do ya think maybe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " shared\nsome of his secret Champion\nmojo with me?\n"
+    - text: " shared\nsome of his secret Champion\nmojo with me?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
-    - ascii: "Oh! Speakin' of gifts..."
+    - text: "Oh! Speakin' of gifts..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I picked this up as\na souvenir of sorts. Go ahead and take it!\nThink of it as a keepsake."
+    - text: " I picked this up as\na souvenir of sorts. Go ahead and take it!\nThink of it as a keepsake."
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk05:
@@ -299,14 +296,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Hey there. "
+    - text: "ȀHey there. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "How are ya handlin' the heat,\nlittle lady? Don't expect it to cool off\neven when the sun sets."
+    - text: "How are ya handlin' the heat,\nlittle lady? Don't expect it to cool off\neven when the sun sets."
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk11:
@@ -316,7 +312,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That souvenir's all yours, little lady.\nMy tastes're too refined to eat that junk.\nMaybe it'll remind you of your travels!"
+    - text: "That souvenir's all yours, little lady.\nMy tastes're too refined to eat that junk.\nMaybe it'll remind you of your travels!"
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk06:
@@ -326,21 +322,21 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I'm thinkin' of leavin' "
+    - text: "I'm thinkin' of leavin' "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion Daruk
+    - text: Champion Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s\nturf for a spell.\n\nMaybe I'll bring home some tasty rocks\nto keep for souvenirs... Mmm..."
+    - text: "'s\nturf for a spell.\n\nMaybe I'll bring home some tasty rocks\nto keep for souvenirs... Mmm..."
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk12:
@@ -349,32 +345,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: Huh.
+    - text: ؆Huh.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Your pouch is full, so I can't give ya\nthis "
+    - text: " Your pouch is full, so I can't give ya\nthis "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: amber
+    - text: amber
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Some other time!"
+    - text: ". Some other time!"
     - utf16_bytes:
         - 0
   Npc_Goron006_Near00:
-    - ascii: "*grumble*"
+    - text: "*grumble*"
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk13:
@@ -384,21 +379,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I found this in the far reaches of\n"
+    - text: "I found this in the far reaches of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion Daruk
+    - text: Champion Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s turf. Take it!\nIt's a foul snack but a nice keepsake."
+    - text: "'s turf. Take it!\nIt's a foul snack but a nice keepsake."
     - utf16_bytes:
         - 0
   Npc_Goron006_Talk00:
@@ -408,13 +403,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So... "
+    - text: "So... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Did ya need somethin'?"
+    - text: "Did ya need somethin'?"
     - utf16_bytes:
         - 14
         - 1
@@ -423,7 +418,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_Goron022_Talk08:
     - utf16_bytes:
@@ -431,54 +427,53 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Hey! "
+    - text: "ȀHey! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You're the little one I met at\n"
+    - text: "You're the little one I met at\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s turf!"
+    - text: "'s turf!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Since then, I've been wanderin' around\na bunch "
+    - text: "Since then, I've been wanderin' around\na bunch "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and thinkin' about how brave\n"
+    - text: "and thinkin' about how brave\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was."
+    - text: " was."
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk14:
@@ -487,42 +482,40 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: By the way...
+    - text: ćBy the way...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You came at\na good time!\n\n"
+    - text: " You came at\na good time!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Ever since that lizard monster lurking on\n"
+    - text: "Ever since that lizard monster lurking on\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Death Mountain "
+    - text: "Death Mountain "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "was tamed, it's safe\nagain. That means you can take it easy!\n"
+    - text: "was tamed, it's safe\nagain. That means you can take it easy!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Then again, it may be safe, but it's still\npretty darn hot..."
+    - text: "ĆThen again, it may be safe, but it's still\npretty darn hot..."
     - utf16_bytes:
         - 0
   Npc_Goron006_Talk01:
@@ -532,109 +525,108 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Ya wanna know about "
+    - text: "Ya wanna know about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Daruk
+    - text: Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHuh. "
+    - text: "\nHuh. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Popular subject these days.\n\nNot too long ago, a Rito bard came by\nwantin' to know all about him. I told him\nabout all kinds of things."
+    - text: "Popular subject these days.\n\nNot too long ago, a Rito bard came by\nwantin' to know all about him. I told him\nabout all kinds of things."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " For example...\n"
+    - text: " For example...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "About the "
+    - text: "ĆAbout the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boulder Breaker
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Daruk
+    - text: Boulder Breaker
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s\nweapon of choice. I told him how heavy\nit is and how its power is unmatched.\nYou know the valley at "
+    - text: ", "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gortram Cliff
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nsouthwest of "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gorko Tunnel
+    - text: Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\nIt was made by "
+    - text: "'s\nweapon of choice. I told him how heavy\nit is and how its power is unmatched.\nYou know the valley at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Daruk "
+    - text: Gortram Cliff
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nsouthwest of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gorko Tunnel
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?\n\nIt was made by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Daruk "
     - utf16_bytes:
         - 14
         - 5
@@ -645,21 +637,21 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "with his\n"
+    - text: "with his\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boulder Breaker
+    - text: Boulder Breaker
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
@@ -675,15 +667,16 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: in one night!
+    - text: in one night!
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 15
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Npc_Goron022_Talk09:
     - utf16_bytes:
@@ -692,35 +685,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I recently spent some time near\n"
+    - text: "I recently spent some time near\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion Daruk
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "'s turf.\n\nApparently it's where "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lord Daruk
+    - text: Champion Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " \ndefeated a huge monster. He's a\nGoron among Gorons!"
+    - text: "'s turf.\n\nApparently it's where "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lord Daruk
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " \ndefeated a huge monster. He's a\nGoron among Gorons!"
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk15:
@@ -730,7 +723,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Anyway...
+    - text: Anyway...
     - utf16_bytes:
         - 14
         - 5
@@ -743,40 +736,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
+    - text: ؆
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Yunobo
+    - text: Yunobo
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I saw him starin' off\ninto the distance on top of the\nentrance gate. Typical.\n"
+    - text: " I saw him starin' off\ninto the distance on top of the\nentrance gate. Typical.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Actually, it seems to me that "
+    - text: "Actually, it seems to me that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Yunobo
+    - text: Yunobo
     - utf16_bytes:
         - 14
         - 0
@@ -787,28 +781,28 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "\nis actin' more accomplished and\nconfident these days.\n"
+    - text: "\nis actin' more accomplished and\nconfident these days.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Maybe he's finally realized what it means\nto be a descendant of the Great "
+    - text: "Maybe he's finally realized what it means\nto be a descendant of the Great "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Daruk
+    - text: Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Npc_Goron022_Talk16:
@@ -818,35 +812,36 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: A Hylian? Here?
+    - text: A Hylian? Here?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Does this mean...\nAre ya goin' to visit "
+    - text: " Does this mean...\nAre ya goin' to visit "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s turf?"
+    - text: "'s turf?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 20
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Npc_Goron006_Talk03:
     - utf16_bytes:
@@ -854,8 +849,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "It's another scorcher today."
+    - text: "ȀIt's another scorcher today."
     - utf16_bytes:
         - 0
   Npc_Goron006_Talk10:
@@ -864,40 +858,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
+    - text: ؆
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Yunobo
+    - text: Yunobo
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I saw him starin' off into the\ndistance on top of the entrance gate\nearlier. He's probably in bed by now.\n"
+    - text: " I saw him starin' off into the\ndistance on top of the entrance gate\nearlier. He's probably in bed by now.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Actually, it seems to me that "
+    - text: "Actually, it seems to me that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Yunobo
+    - text: Yunobo
     - utf16_bytes:
         - 14
         - 0
@@ -908,28 +903,28 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "\nis actin' more accomplished and\nconfident these days.\n"
+    - text: "\nis actin' more accomplished and\nconfident these days.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Maybe he's finally realized what it means\nto be a descendant of the Great "
+    - text: "Maybe he's finally realized what it means\nto be a descendant of the Great "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Daruk
+    - text: Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Npc_Goron006_Talk04:
@@ -939,7 +934,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Was there somethin' else ya needed?"
+    - text: "Was there somethin' else ya needed?"
     - utf16_bytes:
         - 14
         - 1
@@ -948,7 +943,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_Goron006_Talk11:
     - utf16_bytes:
@@ -956,53 +952,52 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: Why?! Why do ya think?
+    - text: ਇWhy?! Why do ya think?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " To make it\neasier for us Gorons to get all that\ntasty rock roast!\n"
+    - text: " To make it\neasier for us Gorons to get all that\ntasty rock roast!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "That Rito fella seemed to like the other\nstory I told him better, though.\n\n"
+    - text: "ĀThat Rito fella seemed to like the other\nstory I told him better, though.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 20
         - 18
-    - ascii: "LaughS_00...I'm not a big fan of that one."
+    - text: "LaughS_00...I'm not a big fan of that one."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThe heroic and exciting stories of\n"
+    - text: "\nThe heroic and exciting stories of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Daruk "
+    - text: "Daruk "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: capture him much better!
+    - text: capture him much better!
     - utf16_bytes:
         - 0
   Npc_Goron006_Talk06:
@@ -1012,12 +1007,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Do ya need somethin'?"
+    - text: "Do ya need somethin'?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -1032,12 +1027,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Was there somethin' else ya needed?"
+    - text: "Was there somethin' else ya needed?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -1051,13 +1046,12 @@ entries:
         - 3
         - 1
         - 2
-        - 518
-    - ascii: What do ya wanna hear about?
+    - text: ȆWhat do ya wanna hear about?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
@@ -1071,18 +1065,19 @@ entries:
         - 3
         - 1
         - 2
-        - 11014
+    - text: ⬆
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PSo sweaty... "
+    - text: "PSo sweaty... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Brother...
+    - text: Brother...
     - utf16_bytes:
         - 14
         - 0
@@ -1092,33 +1087,33 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dEven Gorons can't walk on lava..."
+    - text: "dEven Gorons can't walk on lava..."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I wonder if "
+    - text: "I wonder if "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lord Daruk "
+    - text: "Lord Daruk "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "really\ndid this training... "
+    - text: "really\ndid this training... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Not that I\ndoubt him, sister!"
+    - text: "Not that I\ndoubt him, sister!"
     - utf16_bytes:
         - 0
   Npc_Gaman03_DLC2nd_Talk01:
@@ -1127,24 +1122,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4102
+    - text: ဆ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PSo sweaty... "
+    - text: "PSo sweaty... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Brother...
+    - text: Brother...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_Gaman03_DLC2nd_Talk02:
@@ -1153,24 +1149,25 @@ entries:
         - 3
         - 1
         - 2
-        - 11014
+    - text: ⬆
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PSo sweaty... "
+    - text: "PSo sweaty... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Brother...
+    - text: Brother...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -1181,14 +1178,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: Standing on lava
+    - text: Standing on lava
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is impossible!\nNo one could train THAT intensely..."
+    - text: " is impossible!\nNo one could train THAT intensely..."
     - utf16_bytes:
         - 0
   Npc_Gaman03_DLC2nd_Talk03:
@@ -1197,48 +1194,49 @@ entries:
         - 3
         - 1
         - 2
-        - 11014
+    - text: ⬆
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PSo sweaty... "
+    - text: "PSo sweaty... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Brother...
+    - text: Brother...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: glowing ring
+    - text: glowing ring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is gone. Now I don't\nhave to do that crazy training.\nThank goodness..."
+    - text: " is gone. Now I don't\nhave to do that crazy training.\nThank goodness..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Tell me about Daruk.
+    - text: Tell me about Daruk.
     - utf16_bytes:
         - 0
   Npc_Gaman03_DLC2nd_Talk04:
@@ -1247,18 +1245,19 @@ entries:
         - 3
         - 1
         - 2
-        - 11014
+    - text: ⬆
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PSo sweaty... "
+    - text: "PSo sweaty... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Brother...
+    - text: Brother...
     - utf16_bytes:
         - 14
         - 0
@@ -1268,83 +1267,83 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dI'm OK with how things turned out..."
+    - text: "dI'm OK with how things turned out..."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I'm not quite ready for "
+    - text: "I'm not quite ready for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: lava training
+    - text: lava training
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nBrother..."
+    - text: "...\nBrother..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Where's Yunobo?"
+    - text: "Where's Yunobo?"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: See ya.
+    - text: See ya.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "Tell me somethin'."
+    - text: "Tell me somethin'."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Legendary sword?
+    - text: Legendary sword?
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Umm...
+    - text: Umm...
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Boulder Breaker?
+    - text: Boulder Breaker?
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Rudania?
+    - text: Rudania?
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "Where's Rudania?"
+    - text: "Where's Rudania?"
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: "Daruk's Protection?"
+    - text: "Daruk's Protection?"
     - utf16_bytes:
         - 0
   Npc_Gaman02_DLC2nd_Near00:
-    - ascii: Intense training...
+    - text: Intense training...
     - utf16_bytes:
         - 0
   Npc_Gaman03_DLC2nd_Near00:
-    - ascii: That fire in your eyes...
+    - text: That fire in your eyes...
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Tell me about Daruk.
+    - text: Tell me about Daruk.
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: "Where's Bludo?"
+    - text: "Where's Bludo?"
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: "Daruk's turf?"
+    - text: "Daruk's turf?"
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk00:
@@ -1353,99 +1352,97 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: "Do ya know why "
+    - text: "ĈDo ya know why "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Daruk
+    - text: Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nchose this place to train, sister?\n\n...Neither do we! But us Goron Blood\nBrothers are gonna find out by\ncompleting the training ourselves!\n"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Daruk
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nchose this place to train, sister?\n\n...Neither do we! But us Goron Blood\nBrothers are gonna find out by\ncompleting the training ourselves!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "I'm sure this is some part of "
+    - text: "ĂI'm sure this is some part of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Daruk
+    - text: Lord
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s\nsecret Goron champ training. Intense!\n\nWe're gonna do all we can to be mighty\nGorons just like "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Daruk
+    - text: Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nIt's the only possible path for the\nGoron Blood Brothers!"
+    - text: "'s\nsecret Goron champ training. Intense!\n\nWe're gonna do all we can to be mighty\nGorons just like "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lord
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Daruk
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\n\nIt's the only possible path for the\nGoron Blood Brothers!"
     - utf16_bytes:
         - 0
   Npc_Gaman02_DLC2nd_Talk00:
@@ -1454,26 +1451,27 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}FEEL THE BURN, SISTER!"
+    - text: จ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}FEEL THE BURN, SISTER!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: Training journal?
+    - text: Training journal?
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk01:
@@ -1483,23 +1481,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh! "
+    - text: "Oh! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Did ya need somethin', goro?"
+    - text: "Did ya need somethin', goro?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 7
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 8
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk01:
     - utf16_bytes:
@@ -1507,8 +1505,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: "PUMP IT UP, SISTER!"
+    - text: "จPUMP IT UP, SISTER!"
     - utf16_bytes:
         - 0
   Npc_Gaman02_DLC2nd_Talk01:
@@ -1517,26 +1514,27 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}FEEL THE BURN, SISTER!"
+    - text: จ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}FEEL THE BURN, SISTER!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   "0015":
-    - ascii: "...Why?"
+    - text: "...Why?"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "Tell me somethin'."
+    - text: "Tell me somethin'."
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk02:
@@ -1546,96 +1544,96 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "About "
+    - text: "About "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", goro?"
+    - text: ", goro?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "...Oh!"
+    - text: ጀ...Oh!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That reminds me of somethin'!\nI found "
+    - text: " That reminds me of somethin'!\nI found "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lord Daruk's training journal"
+    - text: "Lord Daruk's training journal"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n"
+    - text: "!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "He must have been a big eater.\nHe sure talks about delicious rocks\na bunch.\nWhat else..."
+    - text: "He must have been a big eater.\nHe sure talks about delicious rocks\na bunch.\nWhat else..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Oh, "
+    - text: " Oh, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " also had a\ngood friend who liked to eat as much\nas he did.\n"
+    - text: " also had a\ngood friend who liked to eat as much\nas he did.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I don't have much of an appetite myself,\nso I'm pretty scrawny, goro...\n\nI'm gonna have to start eatin' lots so\nI can become as strong as those two!"
+    - text: "I don't have much of an appetite myself,\nso I'm pretty scrawny, goro...\n\nI'm gonna have to start eatin' lots so\nI can become as strong as those two!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 14
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk02:
     - utf16_bytes:
@@ -1643,12 +1641,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -1658,42 +1657,41 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Oh! It's the fourth Goron Blood Brother!\nThe one who beat both the "
+    - text: "ĂOh! It's the fourth Goron Blood Brother!\nThe one who beat both the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "contest of\nendurance"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " and our "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Gut Check Challenge
+    - text: "contest of\nendurance"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " and our "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Gut Check Challenge
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   Npc_Gaman02_DLC2nd_Talk02:
@@ -1702,12 +1700,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}FEEL THE BURN, SISTER!"
+    - text: "}FEEL THE BURN, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -1717,26 +1716,27 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dThere's a "
+    - text: "dThere's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: glowing ring
+    - text: glowing ring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in that boiling\nhot lava. Standing there is...intense\ntraining. Only for the hardest of core!"
+    - text: " in that boiling\nhot lava. Standing there is...intense\ntraining. Only for the hardest of core!"
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk03:
@@ -1745,8 +1745,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "See ya later, goro."
+    - text: "ЀSee ya later, goro."
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk03:
@@ -1755,12 +1754,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -1770,28 +1770,27 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Hey there! It's the little man who\nsurvived the "
+    - text: "ĂHey there! It's the little man who\nsurvived the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of endurance
+    - text: contest of endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nWelcome back!"
+    - text: "!\nWelcome back!"
     - utf16_bytes:
         - 0
   Npc_Gaman02_DLC2nd_Talk03:
@@ -1800,14 +1799,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: "FEEL THE BURN, SISTER!"
+    - text: "จFEEL THE BURN, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -1817,71 +1815,71 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dThe "
+    - text: "dThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: glowing ring
+    - text: glowing ring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is gone."
+    - text: " is gone."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Does that\nmean..."
+    - text: " Does that\nmean..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Has someone completed\nthe training?!\n"
+    - text: " Has someone completed\nthe training?!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: N-no...
+    - text: ĂN-no...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Not possible."
+    - text: " Not possible."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "The only one who could complete\ntraining like that is "
+    - text: "The only one who could complete\ntraining like that is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nor one of us sisters!"
+    - text: "...\nor one of us sisters!"
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk10:
@@ -1890,84 +1888,83 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "That's right!"
+    - text: "ЁThat's right!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I found it when I was\ncleanin' out the "
+    - text: " I found it when I was\ncleanin' out the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Abandoned North\nMine "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "where we met.\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lord
+    - text: "Abandoned North\nMine "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: "where we met.\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Daruk's"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: training journal
+    - text: Lord
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is at\n"
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "my house "
+    - text: "Daruk's"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "now, goro."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: training journal
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is at\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "my house "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "now, goro."
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk04:
@@ -1977,16 +1974,16 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "You need somethin', goro?"
+    - text: "You need somethin', goro?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 7
-    - ascii: "\r\t"
-    - utf16_bytes:
+        - 13
+        - 9
         - 8
         - 768
         - 0
@@ -1996,22 +1993,21 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: "Do ya know why Champion "
+    - text: "ĈDo ya know why Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Daruk
+    - text: Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nchose this place to train, sister?"
+    - text: "\nchose this place to train, sister?"
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk04:
@@ -2020,12 +2016,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -2035,28 +2032,27 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Ah! It's the fourth Goron Blood Brother!\nHe who somehow survived our famous\n"
+    - text: "ĂAh! It's the fourth Goron Blood Brother!\nHe who somehow survived our famous\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Gut Check Challenge
+    - text: Gut Check Challenge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Npc_Gaman02_DLC2nd_Talk04:
@@ -2065,12 +2061,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}FEEL THE BURN, SISTER!"
+    - text: "}FEEL THE BURN, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -2080,26 +2077,27 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dHey! The "
+    - text: "dHey! The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: glowing ring
+    - text: glowing ring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is gone!\nI wasn't done trainin' with it..."
+    - text: " is gone!\nI wasn't done trainin' with it..."
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk11:
@@ -2108,56 +2106,55 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "That's right!"
+    - text: "ЁThat's right!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I found it when I was\ncleanin' out the "
+    - text: " I found it when I was\ncleanin' out the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Abandoned North\nMine "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "where we met.\nI left "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Lord Daruk's training journal"
+    - text: "Abandoned North\nMine "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\non the "
+    - text: "where we met.\nI left "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "desk "
+    - text: "Lord Daruk's training journal"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "over there, goro."
+    - text: "\non the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "desk "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "over there, goro."
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk05:
@@ -2167,16 +2164,15 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "What do ya wanna know about, goro?"
+    - text: "What do ya wanna know about, goro?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 11
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 8
         - 768
         - 0
@@ -2186,12 +2182,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -2201,42 +2198,41 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Hm? Aren't you the little man who's\ntraining for the "
+    - text: "ĂHm? Aren't you the little man who's\ntraining for the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of endurance
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nand "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Gut Check Challenge
+    - text: contest of endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "\nand "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Gut Check Challenge
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 0
   Npc_Gaman02_DLC2nd_Talk05:
@@ -2245,75 +2241,77 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dYou see that "
+    - text: "dYou see that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: glowing ring
+    - text: glowing ring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in the lava?"
+    - text: " in the lava?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThink of it as a target, and..."
+    - text: "\nThink of it as a target, and..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "stand on the lava, sister"
+    - text: "stand on the lava, sister"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk06:
@@ -2323,16 +2321,16 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "Anything else you wanna know, goro?"
+    - text: "Anything else you wanna know, goro?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 7
-    - ascii: "\r\t"
-    - utf16_bytes:
+        - 13
+        - 9
         - 8
         - 768
         - 0
@@ -2342,34 +2340,33 @@ entries:
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "No wonder "
+    - text: "ĂNo wonder "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord Daruk
+    - text: Lord Daruk
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " chose\nthis spot. It's hard-core, sister!\n\nThis training is gonna be rough."
+    - text: " chose\nthis spot. It's hard-core, sister!\n\nThis training is gonna be rough."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI can almost taste the gains!"
+    - text: "\nI can almost taste the gains!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Time to strategize, sisters!"
+    - text: "Time to strategize, sisters!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk06:
@@ -2378,13 +2375,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -2394,27 +2391,27 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dHey, you're the little man that gave up in\nthe middle of the "
+    - text: "dHey, you're the little man that gave up in\nthe middle of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of endurance
+    - text: contest of endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDidn't think I'd see YOUR tiny face again."
+    - text: "\nDidn't think I'd see YOUR tiny face again."
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk07:
@@ -2424,52 +2421,52 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I think the "
+    - text: "I think the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Boss "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is at his home, goro.\nJust go down the road down below\nand you'll find it.\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 1
-    - ascii: "The "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Boss "
+    - text: "Boss "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "sure knows a lot about my\nancestors. I'd love to have him tell\nme all about 'em sometime, goro."
+    - text: "is at his home, goro.\nJust go down the road down below\nand you'll find it.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Boss "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "sure knows a lot about my\nancestors. I'd love to have him tell\nme all about 'em sometime, goro."
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk13:
-    - ascii: "...Neither do we! But us Goron Blood\nBrothers are gonna find out by\ncompletin' the training..."
+    - text: "...Neither do we! But us Goron Blood\nBrothers are gonna find out by\ncompletin' the training..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: ourselves...
+    - text: ourselves...
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk07:
@@ -2478,12 +2475,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -2493,28 +2491,27 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Aren't you the little man who's in the\nmiddle of training for our "
+    - text: "ĂAren't you the little man who's in the\nmiddle of training for our "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Gut Check\nChallenge"
+    - text: "Gut Check\nChallenge"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? This an off day, or what?"
+    - text: "? This an off day, or what?"
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Talk08:
@@ -2524,17 +2521,17 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "Do ya need anything, goro?"
+    - text: "Do ya need anything, goro?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 7
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 8
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk08:
     - utf16_bytes:
@@ -2542,12 +2539,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -2557,56 +2555,55 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "Some say "
+    - text: "ĂSome say "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lord
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Daruk "
+    - text: Lord
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "would howl while\n"
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: standing on lava
+        - 2
+    - text: "Daruk "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". It somehow helped\nsharpen his skills."
+    - text: "would howl while\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: standing on lava
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". It somehow helped\nsharpen his skills."
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk14:
@@ -2615,13 +2612,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nWhat happened, sister?!"
+    - text: "\nWhat happened, sister?!"
     - utf16_bytes:
         - 14
         - 0
@@ -2631,21 +2628,21 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dI look away for one blasted second,\nand the "
+    - text: "dI look away for one blasted second,\nand the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: glowing ring
+    - text: glowing ring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " disappears!"
+    - text: " disappears!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Talk09:
@@ -2654,12 +2651,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -2669,41 +2667,40 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: What happened here?!
+    - text: ĂWhat happened here?!
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I look away for one blasted second,\nand the "
+    - text: "I look away for one blasted second,\nand the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: glowing ring
+    - text: glowing ring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " disappears!\n\nNow I can't try that epic training!\nWoe is me, sister."
+    - text: " disappears!\n\nNow I can't try that epic training!\nWoe is me, sister."
     - utf16_bytes:
         - 0
   Npc_Goron020_2_Near00:
-    - ascii: "Beautiful view, goro..."
+    - text: "Beautiful view, goro..."
     - utf16_bytes:
         - 0
   Npc_Gaman01_DLC2nd_Near00:
-    - ascii: Lord Daruk trained here...
+    - text: Lord Daruk trained here...
     - utf16_bytes:
         - 0

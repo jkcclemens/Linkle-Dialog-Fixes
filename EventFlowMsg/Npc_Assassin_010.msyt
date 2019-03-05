@@ -6,7 +6,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tReally? That's unfortunate... I know it's\nin the southwest direction, anyway..."
+        - 9
+    - text: "Really? That's unfortunate... I know it's\nin the southwest direction, anyway..."
     - utf16_bytes:
         - 0
   Talk04:
@@ -16,13 +17,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Oh? Really?
+    - text: Oh? Really?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I was sure I'd seen you\nnear the desert before..."
+    - text: " I was sure I'd seen you\nnear the desert before..."
     - utf16_bytes:
         - 0
   Talk05:
@@ -31,8 +32,7 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "You aren't..."
+    - text: "āYou aren't..."
     - utf16_bytes:
         - 14
         - 5
@@ -42,8 +42,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Linkle, are you?"
+    - text: "촇Linkle, are you?"
     - utf16_bytes:
         - 0
   Talk06:
@@ -52,14 +51,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh, I'm so glad!"
+    - text: "ĀOh, I'm so glad!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I was sure you wouldn't\ntell me."
+    - text: " I was sure you wouldn't\ntell me."
     - utf16_bytes:
         - 0
   Talk07:
@@ -69,7 +67,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: We meet again...Linkle.
+    - text: We meet again...Linkle.
     - utf16_bytes:
         - 0
   Henshin00:
@@ -78,31 +76,32 @@ entries:
         - 3
         - 1
         - 2
-        - 8968
+    - text: ⌈
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Your life is mine!"
+    - text: "}Your life is mine!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -112,7 +111,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tExcuse me... Do you know which way I\nshould go if I wanted to get to the\nGerudo Desert?"
+        - 9
+    - text: "Excuse me... Do you know which way I\nshould go if I wanted to get to the\nGerudo Desert?"
     - utf16_bytes:
         - 14
         - 1
@@ -120,10 +120,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: I know.
+    - text: I know.
     - utf16_bytes:
         - 0
   Henshin01:
@@ -132,36 +133,37 @@ entries:
         - 3
         - 1
         - 2
-        - 8968
+    - text: ⌈
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Begone, enemy of my master!"
+    - text: "}Begone, enemy of my master!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
   "0001":
-    - ascii: "I don't know."
+    - text: "I don't know."
     - utf16_bytes:
         - 0
   Talk01:
@@ -171,7 +173,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh, good. I was fortunate to meet a kind\nsoul like you. Now I can bring back\nsomething valuable from my journey..."
+    - text: "Oh, good. I was fortunate to meet a kind\nsoul like you. Now I can bring back\nsomething valuable from my journey..."
     - utf16_bytes:
         - 0
   Talk02:
@@ -180,8 +182,7 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "It's..."
+    - text: "āIt's..."
     - utf16_bytes:
         - 14
         - 5
@@ -191,8 +192,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: your head!
+    - text: 촇your head!
     - utf16_bytes:
         - 0
   Near00:
@@ -201,7 +201,6 @@ entries:
         - 4
         - 1
         - 2
-        - 52491
-    - ascii: "I'm lost..."
+    - text: "촋I'm lost..."
     - utf16_bytes:
         - 0

@@ -6,18 +6,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52496
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: PDaddy...
+    - text: 촐
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: PDaddy...
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   Talk31:
@@ -26,18 +27,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52496
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: PMommy...
+    - text: 촐
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: PMommy...
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   Talk14:
@@ -47,7 +49,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Mommy's hiding...but I'll find her!"
+    - text: "Mommy's hiding...but I'll find her!"
     - utf16_bytes:
         - 14
         - 1
@@ -55,7 +57,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk15:
     - utf16_bytes:
@@ -64,13 +67,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Mommy's hiding!"
+    - text: "Mommy's hiding!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Hmmm, maybe she's\nover there!"
+    - text: " Hmmm, maybe she's\nover there!"
     - utf16_bytes:
         - 14
         - 1
@@ -78,10 +81,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Wanna play?
+    - text: Wanna play?
     - utf16_bytes:
         - 0
   Talk16:
@@ -95,24 +99,24 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}NO!!"
+    - text: "}NO!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm playing with Mommy right now.\nYou'll just have to wait your turn!"
+    - text: "I'm playing with Mommy right now.\nYou'll just have to wait your turn!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: See ya!
+    - text: See ya!
     - utf16_bytes:
         - 0
   Talk17:
@@ -122,14 +126,14 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "NO!!\n\n\n"
+    - text: "NO!!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm playing with Daddy right now.\nYou'll just have to wait your turn!"
+    - text: "I'm playing with Daddy right now.\nYou'll just have to wait your turn!"
     - utf16_bytes:
         - 0
   Talk00:
@@ -139,7 +143,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Mommy! You're too good at hide-\nand-seek! I can't fiiiind you!"
+    - text: "Mommy! You're too good at hide-\nand-seek! I can't fiiiind you!"
     - utf16_bytes:
         - 0
   Talk19:
@@ -148,20 +152,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Huh? "
+    - text: "ጄHuh? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You don't have enough space?\n\n\n"
+    - text: "You don't have enough space?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut...that means I can't give you my\nsalty cruncher..."
+        - 9
+    - text: "But...that means I can't give you my\nsalty cruncher..."
     - utf16_bytes:
         - 0
   Talk02:
@@ -171,7 +175,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Yay, a race!"
+    - text: "Yay, a race!"
     - utf16_bytes:
         - 0
   Talk03:
@@ -181,7 +185,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I love the rain...but I love my mommy\neven more!"
+    - text: "I love the rain...but I love my mommy\neven more!"
     - utf16_bytes:
         - 0
   Talk04:
@@ -191,7 +195,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I looove the rain!\nYay, a race!"
+    - text: "I looove the rain!\nYay, a race!"
     - utf16_bytes:
         - 0
   Talk21:
@@ -201,7 +205,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Bye-bye!
+    - text: Bye-bye!
     - utf16_bytes:
         - 0
   Talk22:
@@ -211,13 +215,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: I love the rain...
+    - text: I love the rain...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "but I love my mommy\neven more!"
+    - text: "but I love my mommy\neven more!"
     - utf16_bytes:
         - 14
         - 1
@@ -225,7 +229,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk05:
     - utf16_bytes:
@@ -234,7 +239,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Mommy's hiding, but I'll find her!"
+    - text: "Mommy's hiding, but I'll find her!"
     - utf16_bytes:
         - 0
   Talk06:
@@ -244,7 +249,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Daddy! Big Sis! I'm waaaiiiting!"
+    - text: "Daddy! Big Sis! I'm waaaiiiting!"
     - utf16_bytes:
         - 0
   Talk23:
@@ -254,13 +259,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Daddy! Big Sis! "
+    - text: "Daddy! Big Sis! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I'm waaaiiiting!"
+    - text: "I'm waaaiiiting!"
     - utf16_bytes:
         - 14
         - 1
@@ -268,7 +273,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk07:
     - utf16_bytes:
@@ -276,14 +282,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: I wonder...
+    - text: ЀI wonder...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "if they'll be here soon..."
+    - text: "if they'll be here soon..."
     - utf16_bytes:
         - 0
   Talk24:
@@ -292,14 +297,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Dinner!
+    - text: ЀDinner!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " DINNER!"
+    - text: " DINNER!"
     - utf16_bytes:
         - 14
         - 1
@@ -307,7 +311,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk08:
     - utf16_bytes:
@@ -315,8 +320,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: So hungry!
+    - text: ЀSo hungry!
     - utf16_bytes:
         - 0
   Talk25:
@@ -330,26 +334,26 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}NO!!"
+    - text: "}NO!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I've gotta chow down with Big Sis now!"
+    - text: "I've gotta chow down with Big Sis now!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou're just gonna have to wait!"
+    - text: "\nYou're just gonna have to wait!"
     - utf16_bytes:
         - 0
   Talk09:
@@ -358,8 +362,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Dinnertime! Dinnertime!
+    - text: ЀDinnertime! Dinnertime!
     - utf16_bytes:
         - 0
   Talk26:
@@ -368,7 +371,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tDinner..."
+        - 9
+    - text: Dinner...
     - utf16_bytes:
         - 0
   Talk27:
@@ -378,7 +382,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm hooome!"
+    - text: "I'm hooome!"
     - utf16_bytes:
         - 0
   Talk10:
@@ -388,7 +392,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm going home..."
+    - text: "I'm going home..."
     - utf16_bytes:
         - 0
   Talk28:
@@ -398,14 +402,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Did you make space?\n\n\n"
+    - text: "Did you make space?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Yay! That means I can give you\nthis rocky salty thing!"
+    - text: "Yay! That means I can give you\nthis rocky salty thing!"
     - utf16_bytes:
         - 0
   Talk11:
@@ -414,18 +418,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52496
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: PBig Sis...
+    - text: 촐
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: PBig Sis...
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   Talk29:
@@ -435,6 +440,6 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Let's play again sometime!"
+    - text: "Let's play again sometime!"
     - utf16_bytes:
         - 0

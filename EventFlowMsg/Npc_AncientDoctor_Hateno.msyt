@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good morning.
+    - text: Good morning.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThis morning really is quite good..."
+    - text: "\nThis morning really is quite good..."
     - utf16_bytes:
         - 0
   talk03:
@@ -23,13 +23,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good day.
+    - text: Good day.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAnd a good day it is."
+    - text: "\nAnd a good day it is."
     - utf16_bytes:
         - 0
   talk04:
@@ -39,13 +39,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good evening.
+    - text: Good evening.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYes, yes, I would describe this evening\nas good."
+    - text: "\nYes, yes, I would describe this evening\nas good."
     - utf16_bytes:
         - 0
   talk06:
@@ -55,53 +55,53 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "But I think it's unwise"
+    - text: "But I think it's unwise"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " to try and make\nthe "
+    - text: " to try and make\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Guardians "
+    - text: "Guardians "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "our allies now... "
+    - text: "our allies now... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nJust...too difficult...\nI think I'll offer you ancient equipment"
+    - text: "\nJust...too difficult...\nI think I'll offer you ancient equipment"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nin exchange for "
+    - text: "\nin exchange for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Guardian "
+    - text: "Guardian "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "parts, instead."
+    - text: "parts, instead."
     - utf16_bytes:
         - 0
   talk07:
@@ -111,17 +111,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "What's up? "
+    - text: "What's up? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: How are you doing?
+    - text: How are you doing?
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: What?!
+    - text: What?!
     - utf16_bytes:
         - 0
   talk08:
@@ -131,18 +131,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: By the way...
+    - text: By the way...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDid you need something from me?"
+    - text: "\nDid you need something from me?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -157,37 +157,37 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good afternoon.
+    - text: Good afternoon.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nOr is it good morning?"
+    - text: "\nOr is it good morning?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "What's a Guardian?"
+    - text: "What's a Guardian?"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Cherry?
+    - text: Cherry?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: Remote Bombs...
+    - text: Remote Bombs...
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Goodness gracious!
+    - text: Goodness gracious!
     - utf16_bytes:
         - 0
   talk10:
@@ -197,62 +197,62 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guardians
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " are self-guided weapons\nbuilt to fight Calamity Ganon and\ndeveloped by our Sheikah ancestors.\nFor many years, the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Guardians
+    - text: Guardians
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " were kept\nbelow "
+    - text: " are self-guided weapons\nbuilt to fight Calamity Ganon and\ndeveloped by our Sheikah ancestors.\nFor many years, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Castle
+    - text: Guardians
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: " were kept\nbelow "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hyrule Castle
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tHowever, when the\nCalamity struck, they were stolen away.\n"
+        - 9
+    - text: "However, when the\nCalamity struck, they were stolen away.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "I've been researching ways to take\nthem back..."
+    - text: "ĆI've been researching ways to take\nthem back..."
     - utf16_bytes:
         - 0
   talk11:
@@ -262,12 +262,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Have you got any other questions?
+    - text: Have you got any other questions?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -282,21 +282,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When one receives such scars on\ntheir body..."
+    - text: "When one receives such scars on\ntheir body..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Well, they can leave\nlasting memories in their mind as well."
+    - text: " Well, they can leave\nlasting memories in their mind as well."
     - utf16_bytes:
         - 0
   NakedPlayer:
-    - ascii: Hm?
+    - text: Hm?
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: What?!
+    - text: What?!
     - utf16_bytes:
         - 0
   talk00:
@@ -311,28 +311,28 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "Cherry "
+    - text: "Cherry "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is safely back to work. All that's\nleft is for you to destroy the "
+    - text: "is safely back to work. All that's\nleft is for you to destroy the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Calamity
+    - text: Calamity
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk01:
@@ -342,6 +342,6 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Bye-bye.
+    - text: Bye-bye.
     - utf16_bytes:
         - 0

@@ -7,19 +7,13 @@ entries:
         - 1
         - 2
         - 775
-    - ascii: Step right up
-    - utf16_bytes:
-        - 8212
-    - ascii: "don't be shy! Check out\nmy fine bananas! They're available...\nto buy!\nSo yellow,"
+    - text: "Step right up—don't be shy! Check out\nmy fine bananas! They're available...\nto buy!\nSo yellow,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " they'll make you yell \"oh!\" So\nfresh, you'll think there's a tree around\nthe corner. And the taste"
-    - utf16_bytes:
-        - 8212
-    - ascii: "like a dream!\nStay right there and buy a pair!"
+    - text: " they'll make you yell \"oh!\" So\nfresh, you'll think there's a tree around\nthe corner. And the taste—like a dream!\nStay right there and buy a pair!"
     - utf16_bytes:
         - 14
         - 1
@@ -27,7 +21,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Near00:
     - utf16_bytes:
@@ -35,12 +30,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
-    - ascii: "Step right up and buy 'em!"
+    - text: "촁Step right up and buy 'em!"
     - utf16_bytes:
         - 0
   "5507":
-    - ascii: "I'll take 'em all!"
+    - text: "I'll take 'em all!"
     - utf16_bytes:
         - 0
   Talk01:
@@ -49,15 +43,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4352
-    - ascii: "Pass? Pass?! It would be a mistake to\npass on these amazing, wonderful,\nfantastic bananas!\n"
+    - text: "ᄀPass? Pass?! It would be a mistake to\npass on these amazing, wonderful,\nfantastic bananas!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Listen, here's how it works: I sell; you\nbuy! Stop holding up the show, and do\nyour part!"
+    - text: "āListen, here's how it works: I sell; you\nbuy! Stop holding up the show, and do\nyour part!"
     - utf16_bytes:
         - 14
         - 1
@@ -65,7 +57,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk02:
     - utf16_bytes:
@@ -73,14 +66,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Well then... I hope you come back later...
+    - text: इWell then... I hope you come back later...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThat's a lie as slippery as a banana peel."
+    - text: "\nThat's a lie as slippery as a banana peel."
     - utf16_bytes:
         - 0
   Talk03:
@@ -89,11 +81,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1800
-    - ascii: "...What"
-    - utf16_bytes:
-        - 8212
-    - ascii: do you hate bananas?
+    - text: ܈...What—do you hate bananas?
     - utf16_bytes:
         - 0
   Talk04:
@@ -103,7 +91,7 @@ entries:
         - 1
         - 2
         - 775
-    - ascii: "Come on down, young lady! Looking to\nbuy bananas this time? You can!\n\nJust take a look at these fine bananas!\nBuy them up quick before you've\nmissed your chance!"
+    - text: "Come on down, young lady! Looking to\nbuy bananas this time? You can!\n\nJust take a look at these fine bananas!\nBuy them up quick before you've\nmissed your chance!"
     - utf16_bytes:
         - 14
         - 1
@@ -111,19 +99,18 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Com_Talk_10:
-    - ascii: "Buy these sweet, sweet bananas!"
+    - text: "Buy these sweet, sweet bananas!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_11:
     - utf16_bytes:
@@ -131,7 +118,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Sellin' over here! Sellin' over here!"
+    - text: "촉Sellin' over here! Sellin' over here!"
     - utf16_bytes:
         - 0
   Com_Talk_12:
@@ -140,12 +127,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52502
-    - ascii: These bananas are my pride and joy!
+    - text: 촖These bananas are my pride and joy!
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'll buy!"
+    - text: "I'll buy!"
     - utf16_bytes:
         - 0
   Com_Talk_11b:
@@ -154,11 +140,11 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thanky-thanky-thank-a you.
+    - text: 촉Thanky-thanky-thank-a you.
     - utf16_bytes:
         - 0
   Com_Talk_56:
-    - ascii: "Just one? That'll be "
+    - text: "Just one? That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -168,32 +154,30 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", then.\nBuy 'em right up!"
+    - text: ", then.\nBuy 'em right up!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "0001":
-    - ascii: "I'll pass."
+    - text: "I'll pass."
     - utf16_bytes:
         - 0
   Com_Talk_11c:
@@ -202,8 +186,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: Even the bananas are happy now!
+    - text: 촇Even the bananas are happy now!
     - utf16_bytes:
         - 0
   Com_Talk_11d:
@@ -212,12 +195,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "I bet you want more, don't you?"
+    - text: "촇I bet you want more, don't you?"
     - utf16_bytes:
         - 0
   Com_Talk_06:
-    - ascii: "Sweet, delicious, wonderful bananas!\nStep right up, and buy 'em right up!"
+    - text: "Sweet, delicious, wonderful bananas!\nStep right up, and buy 'em right up!"
     - utf16_bytes:
         - 0
   Com_Talk_07:
@@ -226,20 +208,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "No bananas left, all thanks to you!"
+    - text: "촇No bananas left, all thanks to you!"
     - utf16_bytes:
         - 0
   Com_Talk_30:
-    - ascii: "If you buy "
+    - text: "If you buy "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: ", that'll come to a total\nof "
+    - text: ", that'll come to a total\nof "
     - utf16_bytes:
         - 14
         - 0
@@ -249,29 +230,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Buy 'em right up!"
+    - text: ". Buy 'em right up!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_08:
     - utf16_bytes:
@@ -279,22 +258,18 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "You haven't got enough rupees, friend.\nI'm afraid you can't pay for these\nbananas in installments."
+    - text: "촄You haven't got enough rupees, friend.\nI'm afraid you can't pay for these\nbananas in installments."
     - utf16_bytes:
         - 0
   Com_Talk_31:
-    - ascii: Pick as many as you want.
+    - text: Pick as many as you want.
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   Com_Talk_09:
     - utf16_bytes:
@@ -302,26 +277,25 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "Well, it looks like your inventory is full.\nNot even room for a banana in there.\nI can tell from here."
+    - text: "촄Well, it looks like your inventory is full.\nNot even room for a banana in there.\nI can tell from here."
     - utf16_bytes:
         - 0
   Com_Talk_34:
-    - ascii: "All the bananas?! I don't know what to\nsay!"
+    - text: "All the bananas?! I don't know what to\nsay!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " So then..."
+    - text: " So then..."
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " will run you "
+    - text: " will run you "
     - utf16_bytes:
         - 14
         - 0
@@ -331,32 +305,30 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: "\nrupees"
+    - text: "\nrupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". What a sale!"
+    - text: ". What a sale!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "5500":
-    - ascii: Sure.
+    - text: Sure.
     - utf16_bytes:
         - 0
   Henshin00:
@@ -365,31 +337,32 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}I will take your life!"
+    - text: "}I will take your life!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -399,12 +372,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52501
-    - ascii: "You really are a banana fan, aren't you?"
+    - text: "촕You really are a banana fan, aren't you?"
     - utf16_bytes:
         - 0
   "5501":
-    - ascii: Nah.
+    - text: Nah.
     - utf16_bytes:
         - 0
   Henshin01:
@@ -413,34 +385,32 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}For the bana"
-    - utf16_bytes:
-        - 8212
-    - ascii: "I mean, for the\nboss!"
+    - text: "}For the bana—I mean, for the\nboss!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -450,28 +420,26 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Well, well..."
+    - text: "촇Well, well..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Thanks to you, I haven't got\nany more bananas today.\n\nWant to take a look at the banana\ndelivery schedule before you go?"
+    - text: " Thanks to you, I haven't got\nany more bananas today.\n\nWant to take a look at the banana\ndelivery schedule before you go?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   "5502":
-    - ascii: "I'll buy!"
+    - text: "I'll buy!"
     - utf16_bytes:
         - 0
   "5503":
-    - ascii: "Actually, never mind."
+    - text: "Actually, never mind."
     - utf16_bytes:
         - 0

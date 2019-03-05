@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 3
-    - ascii: "And, well..."
+    - text: "And, well..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: in any case...
+    - text: in any case...
     - utf16_bytes:
         - 14
         - 5
@@ -26,7 +26,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I spoke to Grandmother about what's\nbeen weighing on my mind lately.\n\nFor the first time...my heart knows what\nit means to love.\n\nThough it may be a love that is never\nshared or returned, just having it for\nmyself is gift enough.\nSeeing her brings me great joy...\nI bet he has that effect on everyone.\n\nI have only gratitude toward her for\nshowing me what it's like to feel this\nway about someone."
+    - text: "I spoke to Grandmother about what's\nbeen weighing on my mind lately.\n\nFor the first time...my heart knows what\nit means to love.\n\nThough it may be a love that is never\nshared or returned, just having it for\nmyself is gift enough.\nSeeing her brings me great joy...\nI bet he has that effect on everyone.\n\nI have only gratitude toward her for\nshowing me what it's like to feel this\nway about someone."
     - utf16_bytes:
         - 14
         - 5
@@ -38,7 +38,8 @@ entries:
         - 6
         - 24
         - 25
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 0
   Talk30:
     - utf16_bytes:
@@ -47,7 +48,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I must protect the heirloom...
+    - text: I must protect the heirloom...
     - utf16_bytes:
         - 0
   DiaryFirst_ch2:
@@ -56,7 +57,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This looks like Paya's Diary... It seems\nshe's only just started writing in it..."
+    - text: "This looks like Paya's Diary... It seems\nshe's only just started writing in it..."
     - utf16_bytes:
         - 14
         - 1
@@ -64,7 +65,8 @@ entries:
         - 6
         - 26
         - 22
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Diary01:
     - utf16_bytes:
@@ -72,31 +74,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "After sleeping for ages, Lady Linkle has\nfinally awoken. It seems her memory is\ncompletely gone...\n"
+    - text: "After sleeping for ages, Lady Linkle has\nfinally awoken. It seems her memory is\ncompletely gone...\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "But that hardly mattered to Grandmother.\nI believe this is the first time I've ever\nseen her quite so happy. \n"
+    - text: "But that hardly mattered to Grandmother.\nI believe this is the first time I've ever\nseen her quite so happy. \n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Lady Linkle herself looks so beautiful...\nShe is the very picture of the heroine\nI always imagined.\n"
+    - text: "Lady Linkle herself looks so beautiful...\nShe is the very picture of the heroine\nI always imagined.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Her blond sideburns flow like a golden\nwaterfall over her dignified, pointy ears.\n\n"
+    - text: "Her blond sideburns flow like a golden\nwaterfall over her dignified, pointy ears.\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "And the way her hair is so perfectly\nparted to the side, wow!"
+    - text: "And the way her hair is so perfectly\nparted to the side, wow!"
     - utf16_bytes:
         - 14
         - 0
@@ -106,7 +108,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I don't know why, but my heart won't\nstop beating a mile a minute..."
+    - text: "I don't know why, but my heart won't\nstop beating a mile a minute..."
     - utf16_bytes:
         - 14
         - 1
@@ -114,7 +116,8 @@ entries:
         - 6
         - 24
         - 25
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 0
   talk02:
     - utf16_bytes:
@@ -122,21 +125,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh..."
+        - 9
+    - text: Oh...
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady
+    - text: Lady
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " Linkle..."
+    - text: " Linkle..."
     - utf16_bytes:
         - 14
         - 5
@@ -146,27 +150,28 @@ entries:
         - 0
         - 4
         - 0
-    - ascii: "Because I wasn't there..."
+    - text: "Because I wasn't there..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: the heirloom...
+    - text: the heirloom...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nOur precious Sheikah heirloom..."
+    - text: "\nOur precious Sheikah heirloom..."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 15
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Diary02:
     - utf16_bytes:
@@ -174,31 +179,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Grandmother says she conspired with\nPrincess Zelda and Auntie Purah\n100 years ago.\n"
+    - text: "Grandmother says she conspired with\nPrincess Zelda and Auntie Purah\n100 years ago.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "They decided to put a lone swordswoman\ninto a long sleep so as to prepare for\na time that was foretold in legends.\n"
+    - text: "They decided to put a lone swordswoman\ninto a long sleep so as to prepare for\na time that was foretold in legends.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "The name of that swordswoman...\nis Linkle.\n\n"
+    - text: "The name of that swordswoman...\nis Linkle.\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Since then, Grandmother has been\nwaiting for her to reappear after\nall this time.\n"
+    - text: "Since then, Grandmother has been\nwaiting for her to reappear after\nall this time.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I, too, pray that she awakens soon.\nFor the sake of Hyrule...and for\nGrandmother's sake as well."
+    - text: "I, too, pray that she awakens soon.\nFor the sake of Hyrule...and for\nGrandmother's sake as well."
     - utf16_bytes:
         - 0
   talk03:
@@ -207,12 +212,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
+    - text: ᐄ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}What?!"
+    - text: "}What?!"
     - utf16_bytes:
         - 14
         - 5
@@ -226,13 +232,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: dOh... So that means the heirloom...
+    - text: dOh... So that means the heirloom...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nhas finally fulfilled its purpose."
+    - text: "\nhas finally fulfilled its purpose."
     - utf16_bytes:
         - 0
   Talk32:
@@ -242,15 +248,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Is that...OK with you?
+    - text: Is that...OK with you?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "\t\n"
+        - 9
+    - text: "\n"
     - utf16_bytes:
         - 11
         - 768
@@ -261,7 +268,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I must admit that I'm still not great at\ninteracting with her."
+    - text: "I must admit that I'm still not great at\ninteracting with her."
     - utf16_bytes:
         - 14
         - 0
@@ -271,19 +278,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "But I think I am finally able to speak\nto Lady Linkle while looking her in\nthe eyes! Those wonderful eyes...\n"
+    - text: "But I think I am finally able to speak\nto Lady Linkle while looking her in\nthe eyes! Those wonderful eyes...\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Naturally I still get a little embarrassed...\nbut I can't help it! I always follow her\ngorgeous gaze with my own.\n"
+    - text: "Naturally I still get a little embarrassed...\nbut I can't help it! I always follow her\ngorgeous gaze with my own.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I blame her beautiful blue eyes. Ugh.\nThis is all so strange..."
+    - text: "I blame her beautiful blue eyes. Ugh.\nThis is all so strange..."
     - utf16_bytes:
         - 14
         - 1
@@ -291,7 +298,8 @@ entries:
         - 6
         - 24
         - 25
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 0
   talk04:
     - utf16_bytes:
@@ -299,8 +307,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: Thank goodness!
+    - text: ሁThank goodness!
     - utf16_bytes:
         - 14
         - 5
@@ -315,31 +322,31 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "It doesn't matter how it happened,"
+    - text: "It doesn't matter how it happened,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nso long as the object we have guarded\npreciously for generations...\nSo long as it was able to help you out in\nsome way, "
+    - text: "\nso long as the object we have guarded\npreciously for generations...\nSo long as it was able to help you out in\nsome way, "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I couldn't be happier!"
+    - text: "I couldn't be happier!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I pray that the protection of the gods\nof old"
+    - text: "I pray that the protection of the gods\nof old"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " follows you wherever you go..."
+    - text: " follows you wherever you go..."
     - utf16_bytes:
         - 0
   Talk33:
@@ -348,26 +355,25 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: Oh!
+    - text: ᐄOh!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's you, Lady Linkle.\nPlease don't sneak up on me like that..."
+    - text: " It's you, Lady Linkle.\nPlease don't sneak up on me like that..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIs something the matter?"
+    - text: "\nIs something the matter?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDo you need something from me?"
+    - text: "\nDo you need something from me?"
     - utf16_bytes:
         - 14
         - 1
@@ -375,7 +381,8 @@ entries:
         - 6
         - 8
         - 11
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Diary04:
     - utf16_bytes:
@@ -383,25 +390,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I wonder if Lady Linkle is in love with\nPrincess Zelda...\n\n"
+    - text: "I wonder if Lady Linkle is in love with\nPrincess Zelda...\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "If so, I think they suit each other quite\nsplendidly. If they became a couple,\nI'd give that pairing my full support.\n"
+    - text: "If so, I think they suit each other quite\nsplendidly. If they became a couple,\nI'd give that pairing my full support.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Though just the thought of that makes\nmy heart hurt...\n\n"
+    - text: "Though just the thought of that makes\nmy heart hurt...\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I wonder if I'm coming down with\nsomething. I'll ask Grandmother for\nsome medicine tomorrow."
+    - text: "I wonder if I'm coming down with\nsomething. I'll ask Grandmother for\nsome medicine tomorrow."
     - utf16_bytes:
         - 14
         - 1
@@ -409,7 +416,8 @@ entries:
         - 6
         - 24
         - 25
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 0
   Talk34:
     - utf16_bytes:
@@ -417,20 +425,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: I was just polishing the guardian deities.
+    - text: ЀI was just polishing the guardian deities.
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "These deities are like signposts that\nguide us through our lives.\n\nLady Linkle, I want you to know that the\npath you are walking down is one we\nshould all follow.\nI...I'm afraid doing stuff like this"
+    - text: "These deities are like signposts that\nguide us through our lives.\n\nLady Linkle, I want you to know that the\npath you are walking down is one we\nshould all follow.\nI...I'm afraid doing stuff like this"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " is the\nonly thing I can do to help you..."
+    - text: " is the\nonly thing I can do to help you..."
     - utf16_bytes:
         - 0
   Diary05:
@@ -439,19 +446,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When I asked Grandmother for some\nmedicine, she just sat there with a grin\non her face.\n"
+    - text: "When I asked Grandmother for some\nmedicine, she just sat there with a grin\non her face.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I went to Cado and Dorian to ask them\nwhat that meant, but they just grinned\nat me too.\n"
+    - text: "I went to Cado and Dorian to ask them\nwhat that meant, but they just grinned\nat me too.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "In the end, I wasn't able to get any\nmedicine..."
+    - text: "In the end, I wasn't able to get any\nmedicine..."
     - utf16_bytes:
         - 14
         - 1
@@ -459,7 +466,8 @@ entries:
         - 6
         - 24
         - 25
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 0
   Talk35:
     - utf16_bytes:
@@ -467,14 +475,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Linkle...are you leaving now?\n\n\nDarkness and evil are oft bedfellows."
+    - text: "ጀLinkle...are you leaving now?\n\n\nDarkness and evil are oft bedfellows."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBeware the roads at night..."
+    - text: "\nBeware the roads at night..."
     - utf16_bytes:
         - 0
   Diary06:
@@ -483,23 +490,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I wonder where Lady Linkle is now\nand what she's doing...\n\n"
+    - text: "I wonder where Lady Linkle is now\nand what she's doing...\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "What kind of dreams flit through that\nhead of his as he sleeps?"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 4
-        - 0
-        - 14
-        - 1
-        - 2
-        - 0
-    - ascii: Thinking of him keeps me awake at night.
+    - text: "What kind of dreams flit through that\nhead of his as he sleeps?"
     - utf16_bytes:
         - 14
         - 0
@@ -509,7 +506,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, Link..."
+    - text: Thinking of him keeps me awake at night.
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 1
+        - 2
+        - 0
+    - text: "Oh, Link..."
     - utf16_bytes:
         - 14
         - 1
@@ -518,10 +525,11 @@ entries:
         - 23
         - 24
         - 25
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: P-please stop!
+    - text: P-please stop!
     - utf16_bytes:
         - 0
   Talk37:
@@ -530,39 +538,38 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm seeing to the upkeep of the heirloom\nin Grandmother's stead..."
+    - text: "ЀI'm seeing to the upkeep of the heirloom\nin Grandmother's stead..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "p-paying tribute\nto our guardian deities.\nI spend my days praying"
+    - text: "p-paying tribute\nto our guardian deities.\nI spend my days praying"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so that no\ndisaster befalls the people or the village.\n\nWhen I finish and take a look around,\nit's already almost sunrise again... \n\n"
+    - text: " so that no\ndisaster befalls the people or the village.\n\nWhen I finish and take a look around,\nit's already almost sunrise again... \n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "But thanks to you,"
+    - text: "But thanks to you,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " the heirloom has\nfinally fulfilled its sacred purpose!\nI can relax a bit more"
+    - text: " the heirloom has\nfinally fulfilled its sacred purpose!\nI can relax a bit more"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " now that it's gone."
+    - text: " now that it's gone."
     - utf16_bytes:
         - 0
   Diary08:
@@ -571,25 +578,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Grandmother says that she conspired\nwith Princess Zelda and Auntie Purah\n100 years ago.\n"
+    - text: "Grandmother says that she conspired\nwith Princess Zelda and Auntie Purah\n100 years ago.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "They decided to put a lone swordswoman\ninto a long sleep in order to prepare\nfor an event that was foretold.\n"
+    - text: "They decided to put a lone swordswoman\ninto a long sleep in order to prepare\nfor an event that was foretold.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Since then, Grandmother has been\nwaiting for her to reappear after\nall these years.\n"
+    - text: "Since then, Grandmother has been\nwaiting for her to reappear after\nall these years.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I, too, pray that she comes soon.\nFor the sake of Hyrule...and for\nGrandmother's sake as well."
+    - text: "I, too, pray that she comes soon.\nFor the sake of Hyrule...and for\nGrandmother's sake as well."
     - utf16_bytes:
         - 14
         - 1
@@ -597,7 +604,8 @@ entries:
         - 6
         - 23
         - 25
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk38:
     - utf16_bytes:
@@ -606,20 +614,20 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "It's a little lonely here now that the\nSheikah heirloom is gone...\n\n"
+    - text: "It's a little lonely here now that the\nSheikah heirloom is gone...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "Still, I'm so happy it was of use to you.\n\n\nFrom now on, if there's anything I can\ndo for you,"
+    - text: "Still, I'm so happy it was of use to you.\n\n\nFrom now on, if there's anything I can\ndo for you,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " please promise you won't\nhesitate to let me know!"
+    - text: " please promise you won't\nhesitate to let me know!"
     - utf16_bytes:
         - 14
         - 1
@@ -628,7 +636,8 @@ entries:
         - 2
         - 3
         - 4
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Diary09:
     - utf16_bytes:
@@ -636,31 +645,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "After sleeping for ages, Lady Linkle has\nfinally awoken. It seems her memory is\ncompletely gone...\n"
+    - text: "After sleeping for ages, Lady Linkle has\nfinally awoken. It seems her memory is\ncompletely gone...\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "But that hardly mattered to Grandmother.\nI believe this is the first time I've ever\nseen her quite so happy. \n"
+    - text: "But that hardly mattered to Grandmother.\nI believe this is the first time I've ever\nseen her quite so happy. \n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Lady Linkle herself looks so beautiful...\nShe is the very picture of the heroine\nI always imagined.\n"
+    - text: "Lady Linkle herself looks so beautiful...\nShe is the very picture of the heroine\nI always imagined.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Her blond hair flows like a golden\nwaterfall over her dignified, pointy ears.\n\n"
+    - text: "Her blond hair flows like a golden\nwaterfall over her dignified, pointy ears.\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "And the way her hair is so perfectly\nparted to the side, wow!"
+    - text: "And the way her hair is so perfectly\nparted to the side, wow!"
     - utf16_bytes:
         - 14
         - 0
@@ -670,7 +679,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I don't know why, but my heart won't\nstop beating a mile a minute..."
+    - text: "I don't know why, but my heart won't\nstop beating a mile a minute..."
     - utf16_bytes:
         - 14
         - 1
@@ -679,7 +688,8 @@ entries:
         - 23
         - 24
         - 25
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk39:
     - utf16_bytes:
@@ -688,7 +698,7 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "You don't want to talk to me?"
+    - text: "You don't want to talk to me?"
     - utf16_bytes:
         - 0
   Talk20:
@@ -697,14 +707,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "I'm just j-jotting down some thoughts..."
+    - text: "ᐄI'm just j-jotting down some thoughts..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nJust my boring daily affairs and such.\nReally! Th-that's all it is!"
+    - text: "\nJust my boring daily affairs and such.\nReally! Th-that's all it is!"
     - utf16_bytes:
         - 0
   Talk21:
@@ -713,46 +722,45 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm seeing to the upkeep of the heirloom\nin Grandmother's stead..."
+    - text: "ЀI'm seeing to the upkeep of the heirloom\nin Grandmother's stead..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "p-paying tribute\nto our guardian deities.\nI spend my days praying"
+    - text: "p-paying tribute\nto our guardian deities.\nI spend my days praying"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so that no\ndisaster befalls the people or the village.\n\n"
+    - text: " so that no\ndisaster befalls the people or the village.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2816
-    - ascii: "When I finish and take a look around,"
+    - text: "When I finish and take a look around,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nit's already almost sunrise again...\n\n"
+    - text: "\nit's already almost sunrise again...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "But that's OK! I always remind myself\nthat I'm doing this for the sake of\nour people!\nCompared to that, "
+    - text: "But that's OK! I always remind myself\nthat I'm doing this for the sake of\nour people!\nCompared to that, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "sleep seems\ninconsequential."
+    - text: "sleep seems\ninconsequential."
     - utf16_bytes:
         - 0
   Talk22:
@@ -761,8 +769,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: L-Lady Linkle!
+    - text: ᐄL-Lady Linkle!
     - utf16_bytes:
         - 14
         - 0
@@ -773,7 +780,7 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Th-this is my private bedroom!\nKindly take your leave!"
+    - text: "Th-this is my private bedroom!\nKindly take your leave!"
     - utf16_bytes:
         - 0
   Talk23:
@@ -782,33 +789,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ⨊Wh-wh-what?!
+    - text: ⨊Wh-wh-what?!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " There's something on\nmy face? What are you speaking of...\n\n"
+    - text: " There's something on\nmy face? What are you speaking of...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Oh! "
+    - text: "ጀOh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Are you perhaps referring to\nthis crest?\n\n"
+    - text: "Are you perhaps referring to\nthis crest?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "This symbol is a sort of talisman for\nthe Sheikah. It wards off evil.\n\nIt is customary for those with a long\nSheikah lineage to have this crest inked\nonto their skin to honor their past."
+    - text: "This symbol is a sort of talisman for\nthe Sheikah. It wards off evil.\n\nIt is customary for those with a long\nSheikah lineage to have this crest inked\nonto their skin to honor their past."
     - utf16_bytes:
         - 0
   Talk24:
@@ -818,19 +824,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's almost dawn."
+    - text: "It's almost dawn."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If you haven't slept yet,\nyou really should..."
+    - text: " If you haven't slept yet,\nyou really should..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Staying up late can't\nbe great for your health."
+    - text: " Staying up late can't\nbe great for your health."
     - utf16_bytes:
         - 0
   Talk25:
@@ -839,19 +845,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᘊ
+    - text: ᘊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}You m-m-mustn't!"
+    - text: "}You m-m-mustn't!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk26:
@@ -861,13 +867,13 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "It's nothing more than a s-simple journal\nwhere I jot down my personal thoughts."
+    - text: "It's nothing more than a s-simple journal\nwhere I jot down my personal thoughts."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nPlease don't trouble yourself over it."
+    - text: "\nPlease don't trouble yourself over it."
     - utf16_bytes:
         - 0
   Talk29:
@@ -877,7 +883,7 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "I'll answer you some d-day...\nJust...just not today!"
+    - text: "I'll answer you some d-day...\nJust...just not today!"
     - utf16_bytes:
         - 0
   Talk10:
@@ -887,13 +893,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If th-there's any other way I can\nbe of service to you, "
+    - text: "If th-there's any other way I can\nbe of service to you, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "please don't\nhesitate to ask!"
+    - text: "please don't\nhesitate to ask!"
     - utf16_bytes:
         - 14
         - 1
@@ -902,10 +908,11 @@ entries:
         - 2
         - 3
         - 4
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Calm down!
+    - text: Calm down!
     - utf16_bytes:
         - 0
   Talk12:
@@ -914,13 +921,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PLady Linkle...
+    - text: PLady Linkle...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk14:
@@ -930,7 +937,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "N-normally only Kakariko villagers are\npermitted inside...\n\nBut we'll gladly receive you whenever\nyou'd like, Lady Linkle!"
+    - text: "N-normally only Kakariko villagers are\npermitted inside...\n\nBut we'll gladly receive you whenever\nyou'd like, Lady Linkle!"
     - utf16_bytes:
         - 0
   Talk15:
@@ -939,20 +946,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: The Great Fairy Cotera
+    - text: The Great Fairy Cotera
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
@@ -962,37 +970,37 @@ entries:
         - 0
         - 4
         - 0
-    - ascii: "Only a few remain who know this,"
+    - text: "Only a few remain who know this,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nbut this village was built under her\nwatchful eye.\nThe mysterious power of "
+    - text: "\nbut this village was built under her\nwatchful eye.\nThe mysterious power of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Cotera
+    - text: Cotera
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nis that of sacred protection..."
+    - text: "\nis that of sacred protection..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI suggest you seek her out."
+    - text: "\nI suggest you seek her out."
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: First page.
+    - text: First page.
     - utf16_bytes:
         - 0
   Talk16:
@@ -1001,8 +1009,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Um, Lady Linkle..."
+    - text: "ЀUm, Lady Linkle..."
     - utf16_bytes:
         - 14
         - 5
@@ -1012,11 +1019,11 @@ entries:
         - 0
         - 4
         - 0
-    - ascii: I advise you to change the subject.
+    - text: I advise you to change the subject.
     - utf16_bytes:
         - 0
   "0021":
-    - ascii: Final entry.
+    - text: Final entry.
     - utf16_bytes:
         - 0
   Talk17:
@@ -1025,8 +1032,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: L-Lady Linkle!
+    - text: ᐄL-Lady Linkle!
     - utf16_bytes:
         - 14
         - 5
@@ -1041,25 +1047,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Wh-whatever is the matter at this hour?
+    - text: Wh-whatever is the matter at this hour?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDark magic preys upon the land when\ndarkness falls...\nPlease, promise to take care!"
+    - text: "\nDark magic preys upon the land when\ndarkness falls...\nPlease, promise to take care!"
     - utf16_bytes:
         - 0
   "0022":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: L-Lady Linkle!
+    - text: L-Lady Linkle!
     - utf16_bytes:
         - 0
   "0023":
-    - ascii: Next page.
+    - text: Next page.
     - utf16_bytes:
         - 0
   Talk19:
@@ -1068,21 +1074,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nP-please don't frighten me like that!\nDo you need something from me at\nthis hour?"
+    - text: "\nP-please don't frighten me like that!\nDo you need something from me at\nthis hour?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "\t\n"
+        - 9
+    - text: "\n"
     - utf16_bytes:
         - 11
         - 768
         - 0
   "0024":
-    - ascii: Previous page.
+    - text: Previous page.
     - utf16_bytes:
         - 0
   Talk00:
@@ -1091,8 +1098,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: L-Lady Linkle!
+    - text: ᐄL-Lady Linkle!
     - utf16_bytes:
         - 14
         - 5
@@ -1107,18 +1113,18 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Is anything the matter? Anything at all?
+    - text: Is anything the matter? Anything at all?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCan I help you in any way?!"
+    - text: "\nCan I help you in any way?!"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 1
         - 2
@@ -1127,7 +1133,7 @@ entries:
         - 768
         - 0
   "0025":
-    - ascii: Stop reading.
+    - text: Stop reading.
     - utf16_bytes:
         - 0
   Talk01:
@@ -1137,12 +1143,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Please don't hesitate to let me know\nif I can ever be of service!"
+    - text: "Please don't hesitate to let me know\nif I can ever be of service!"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 1
         - 2
@@ -1151,7 +1157,7 @@ entries:
         - 768
         - 0
   "0026":
-    - ascii: Read.
+    - text: Read.
     - utf16_bytes:
         - 0
   Talk02:
@@ -1160,8 +1166,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "This... This priceless artifact here?\nIs that what you want to know about?"
+    - text: "ЀThis... This priceless artifact here?\nIs that what you want to know about?"
     - utf16_bytes:
         - 14
         - 5
@@ -1176,21 +1181,21 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "This is a "
+    - text: "This is a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah heirloom "
+    - text: "Sheikah heirloom "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "that we have\nlong protected."
+    - text: "that we have\nlong protected."
     - utf16_bytes:
         - 14
         - 5
@@ -1210,7 +1215,7 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "\"The heroine, as chosen by the Sheikah\nheirloom, will be gifted the blessing\nof antiquity.\""
+    - text: "\"The heroine, as chosen by the Sheikah\nheirloom, will be gifted the blessing\nof antiquity.\""
     - utf16_bytes:
         - 14
         - 0
@@ -1230,7 +1235,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "With these words as our guide, we have\nwatched over this sacred artifact since\nmy grandmother's grandmother's time...\nAnd even since HER grandmother's\ngrandmother's time before that!"
+    - text: "With these words as our guide, we have\nwatched over this sacred artifact since\nmy grandmother's grandmother's time...\nAnd even since HER grandmother's\ngrandmother's time before that!"
     - utf16_bytes:
         - 14
         - 0
@@ -1241,37 +1246,37 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "I cannot say that I entirely know the\nmeaning of these words."
+    - text: "I cannot say that I entirely know the\nmeaning of these words."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " But now that\nI think about it...\n\""
+    - text: " But now that\nI think about it...\n\""
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "The hero, as chosen by the Sheikah\nheirloom"
+    - text: "The hero, as chosen by the Sheikah\nheirloom"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\" "
+    - text: "...\" "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Could it be...
+    - text: Could it be...
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Ahhhh...
+    - text: Ahhhh...
     - utf16_bytes:
         - 0
   Talk03:
@@ -1281,125 +1286,123 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "We "
+    - text: "We "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sheikah "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "have long served the\nroyal family of Hyrule in secret.\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 3
-    - ascii: "During the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Great Calamity "
+    - text: "Sheikah "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "of 100 years\nago..."
-    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "the royal family was destroyed,\nand the members of our tribe scattered.\n"
+    - text: "have long served the\nroyal family of Hyrule in secret.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "Sadly,"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " there were some who swore\nallegiance to "
+        - 3
+    - text: "During the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Ganon "
+    - text: "Great Calamity "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "at that time.\n\nThey joined together as the Yiga Clan,\nseeking out all who opposed "
+    - text: "of 100 years\nago..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "the royal family was destroyed,\nand the members of our tribe scattered.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ăSadly,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " there were some who swore\nallegiance to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Ganon
+    - text: "Ganon "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "at that time.\n\nThey joined together as the Yiga Clan,\nseeking out all who opposed "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Ganon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\ncutting them down, one after another.\n"
+    - text: "\ncutting them down, one after another.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Lady Linkle, now that you are awake,"
+    - text: "Lady Linkle, now that you are awake,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nyou are surely the most formidable\nopponent standing against them!\nNo doubt they will come for you,"
+    - text: "\nyou are surely the most formidable\nopponent standing against them!\nNo doubt they will come for you,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nemploying whatever underhanded\nmethods they can devise...\n"
+    - text: "\nemploying whatever underhanded\nmethods they can devise...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3077
-    - ascii: "Oh, but of course, if there's anything\nI can do to help you, all you have to\ndo is ask!"
+    - text: "అOh, but of course, if there's anything\nI can do to help you, all you have to\ndo is ask!"
     - utf16_bytes:
         - 14
         - 5
@@ -1407,7 +1410,7 @@ entries:
         - 0
         - 0
   Near02:
-    - ascii: Zzz... Zzz...
+    - text: Zzz... Zzz...
     - utf16_bytes:
         - 0
   Talk04:
@@ -1416,20 +1419,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: You...
+    - text: ĀYou...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I..."
+    - text: " I..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Me..."
+    - text: " Me..."
     - utf16_bytes:
         - 14
         - 5
@@ -1443,13 +1445,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ⨊You want to know my st-story?
+    - text: ⨊You want to know my st-story?
     - utf16_bytes:
         - 14
         - 5
@@ -1459,11 +1461,11 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: I love the sound of rain...
+    - text: I love the sound of rain...
     - utf16_bytes:
         - 0
   Talk05:
@@ -1472,22 +1474,21 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: Well...
+    - text: ąWell...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " My name is Paya."
+    - text: " My name is Paya."
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: "What's on your face?"
+    - text: "What's on your face?"
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: "You're scaring me!"
+    - text: "You're scaring me!"
     - utf16_bytes:
         - 0
   Talk06:
@@ -1496,14 +1497,13 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: Th-the reason I was named Paya
+    - text: ąTh-the reason I was named Paya
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nis because I have a birthmark\nshaped like a papaya seed..."
+    - text: "\nis because I have a birthmark\nshaped like a papaya seed..."
     - utf16_bytes:
         - 14
         - 1
@@ -1511,10 +1511,11 @@ entries:
         - 6
         - 7
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0011":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk07:
@@ -1523,8 +1524,7 @@ entries:
         - 3
         - 1
         - 2
-        - 10757
-    - ascii: "Well... It's kinda..."
+    - text: "⨅Well... It's kinda..."
     - utf16_bytes:
         - 14
         - 5
@@ -1538,7 +1538,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: G-good luck...
+    - text: G-good luck...
     - utf16_bytes:
         - 0
   Talk09:
@@ -1553,70 +1553,70 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "The Great Fairy "
+    - text: "The Great Fairy "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "resides "
+    - text: "resides "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "behind the shrine\nthat overlooks this village"
+    - text: "behind the shrine\nthat overlooks this village"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That is where\nyou should seek her.\nYou can put your trust in the "
+    - text: " That is where\nyou should seek her.\nYou can put your trust in the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Great Fairy
+    - text: Great Fairy
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI can't think of any reason she wouldn't\nbe happy to help you, Lady Linkle."
+    - text: "\nI can't think of any reason she wouldn't\nbe happy to help you, Lady Linkle."
     - utf16_bytes:
         - 0
   "0015":
-    - ascii: Actually...
+    - text: Actually...
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "What's that ball?"
+    - text: "What's that ball?"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: This village?
+    - text: This village?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "What's your story?"
+    - text: "What's your story?"
     - utf16_bytes:
         - 0
   Diary10:
@@ -1625,7 +1625,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I must admit that I'm still not great at\ninteracting with her."
+    - text: "I must admit that I'm still not great at\ninteracting with her."
     - utf16_bytes:
         - 14
         - 0
@@ -1635,19 +1635,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "But I think I am finally able to speak\nto Lady Linkle while looking her in\nthe eyes! Those wonderful eyes...\n"
+    - text: "But I think I am finally able to speak\nto Lady Linkle while looking her in\nthe eyes! Those wonderful eyes...\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Naturally I still get a little embarrassed...\nbut I can't help it! I always follow her\ngorgeous gaze with my own.\n"
+    - text: "Naturally I still get a little embarrassed...\nbut I can't help it! I always follow her\ngorgeous gaze with my own.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I blame her beautiful blue eyes. Ugh.\nThis is all so strange..."
+    - text: "I blame her beautiful blue eyes. Ugh.\nThis is all so strange..."
     - utf16_bytes:
         - 14
         - 1
@@ -1656,10 +1656,11 @@ entries:
         - 23
         - 24
         - 25
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: "I'm good, thanks."
+    - text: "I'm good, thanks."
     - utf16_bytes:
         - 0
   Talk40:
@@ -1668,14 +1669,13 @@ entries:
         - 3
         - 1
         - 2
-        - 9477
-    - ascii: "It's on my l-left... Well..."
+    - text: "┅It's on my l-left... Well..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n*ahem*"
+    - text: "\n*ahem*"
     - utf16_bytes:
         - 0
   Diary11:
@@ -1684,25 +1684,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I wonder if Lady Linkle is in love with\nPrincess Zelda...\n\n"
+    - text: "I wonder if Lady Linkle is in love with\nPrincess Zelda...\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "If so, I think they suit each other quite\nsplendidly. If they became a couple,\nI'd give that pairing my full support.\n"
+    - text: "If so, I think they suit each other quite\nsplendidly. If they became a couple,\nI'd give that pairing my full support.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "Though just the thought of that makes\nmy heart hurt...\n\n"
+    - text: "Though just the thought of that makes\nmy heart hurt...\n\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I wonder if I'm coming down with\nsomething. I'll ask Grandmother for\nsome medicine tomorrow."
+    - text: "I wonder if I'm coming down with\nsomething. I'll ask Grandmother for\nsome medicine tomorrow."
     - utf16_bytes:
         - 14
         - 1
@@ -1711,7 +1711,8 @@ entries:
         - 23
         - 24
         - 25
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk41:
     - utf16_bytes:
@@ -1719,8 +1720,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5636
-    - ascii: "It's smack in the middle of her\nleft butt cheek!"
+    - text: "ᘄIt's smack in the middle of her\nleft butt cheek!"
     - utf16_bytes:
         - 0
   Diary12:
@@ -1729,19 +1729,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When I asked Grandmother for some\nmedicine, she just sat there with a grin\non her face.\n"
+    - text: "When I asked Grandmother for some\nmedicine, she just sat there with a grin\non her face.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "I went to Cado and Dorian to ask them\nwhat that meant, but they just grinned\nat me too.\n"
+    - text: "I went to Cado and Dorian to ask them\nwhat that meant, but they just grinned\nat me too.\n"
     - utf16_bytes:
         - 14
         - 1
         - 2
         - 0
-    - ascii: "In the end, I wasn't able to get any\nmedicine..."
+    - text: "In the end, I wasn't able to get any\nmedicine..."
     - utf16_bytes:
         - 14
         - 1
@@ -1750,14 +1750,15 @@ entries:
         - 23
         - 24
         - 25
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   NakedPlayer:
-    - ascii: Please cover yourself up...
+    - text: Please cover yourself up...
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "Really, though?"
+    - text: "Really, though?"
     - utf16_bytes:
         - 0
   Talk42:
@@ -1766,8 +1767,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5636
-    - ascii: "!!!"
+    - text: ᘄ!!!
     - utf16_bytes:
         - 14
         - 5
@@ -1781,13 +1781,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}GRANDMOTHER!!!"
+    - text: "}GRANDMOTHER!!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   DiaryFirst:
@@ -1796,7 +1796,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It looks like Paya's Diary.\nMust not look...\nMust not look..."
+    - text: "It looks like Paya's Diary.\nMust not look...\nMust not look..."
     - utf16_bytes:
         - 14
         - 1
@@ -1805,10 +1805,11 @@ entries:
         - 20
         - 21
         - 22
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0007":
-    - ascii: Where is it?
+    - text: Where is it?
     - utf16_bytes:
         - 0
   Talk43:
@@ -1817,20 +1818,19 @@ entries:
         - 3
         - 1
         - 2
-        - 9475
-    - ascii: "Oh, dear..."
+    - text: "┃Oh, dear..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I... Um... "
+    - text: " I... Um... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Is there anything\nelse I can h-help you with?"
+    - text: "Is there anything\nelse I can h-help you with?"
     - utf16_bytes:
         - 14
         - 1
@@ -1839,10 +1839,11 @@ entries:
         - 2
         - 3
         - 4
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0008":
-    - ascii: "Whatcha doin'?"
+    - text: "Whatcha doin'?"
     - utf16_bytes:
         - 0
   Talk44:
@@ -1851,19 +1852,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "There are those who hate the rain...\nI don't understand that.\n\n"
+    - text: "ЀThere are those who hate the rain...\nI don't understand that.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "It nourishes all plant life, and its sound is\nsoothing to the hearts of all.\n\nI am thankful, even for the rain.\nIt is truly a blessing."
+    - text: "āIt nourishes all plant life, and its sound is\nsoothing to the hearts of all.\n\nI am thankful, even for the rain.\nIt is truly a blessing."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "Aren't you tired?"
+    - text: "Aren't you tired?"
     - utf16_bytes:
         - 0
   Talk45:
@@ -1872,14 +1871,13 @@ entries:
         - 3
         - 1
         - 2
-        - 10756
-    - ascii: L-Lady Linkle!
+    - text: ⨄L-Lady Linkle!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nTh-that immodest outfit is quite\nunbecoming of a heroine like you.\nP-please cover yourself up this instant!"
+    - text: "\nTh-that immodest outfit is quite\nunbecoming of a heroine like you.\nP-please cover yourself up this instant!"
     - utf16_bytes:
         - 0
   Talk46:
@@ -1889,10 +1887,10 @@ entries:
         - 1
         - 2
         - 3331
-    - ascii: "Oh, it was always trouble taking care of\nthe Sheikah heirloom. But...I've grown\nquite lonely now that it's gone..."
+    - text: "Oh, it was always trouble taking care of\nthe Sheikah heirloom. But...I've grown\nquite lonely now that it's gone..."
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: S-sweltering!
+    - text: S-sweltering!
     - utf16_bytes:
         - 0

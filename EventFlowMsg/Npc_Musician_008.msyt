@@ -6,12 +6,11 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: I know a song about this place.
+    - text: āI know a song about this place.
     - utf16_bytes:
         - 0
   TerrorHorse:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   Talk11:
@@ -20,8 +19,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Would you like to hear the ancient verse\npassed down in this region?"
+    - text: "ĀWould you like to hear the ancient verse\npassed down in this region?"
     - utf16_bytes:
         - 14
         - 1
@@ -29,7 +27,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk12:
     - utf16_bytes:
@@ -38,13 +37,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: We meet again!
+    - text: We meet again!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt's good to see you well."
+    - text: "\nIt's good to see you well."
     - utf16_bytes:
         - 0
   Talk00:
@@ -53,14 +52,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4875
-    - ascii: Hmm?
+    - text: ጋHmm?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Oh, did you want to hear my\nsong?"
+    - text: " Oh, did you want to hear my\nsong?"
     - utf16_bytes:
         - 14
         - 1
@@ -68,7 +66,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk13:
     - utf16_bytes:
@@ -76,14 +75,13 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: "Greetings, traveler. "
+    - text: "ȇGreetings, traveler. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: How about a song?
+    - text: How about a song?
     - utf16_bytes:
         - 0
   Talk01:
@@ -93,13 +91,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Excellent!
+    - text: Excellent!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWithout further ado..."
+    - text: "\nWithout further ado..."
     - utf16_bytes:
         - 0
   Talk14:
@@ -108,22 +106,21 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "Have you heard of the "
+    - text: "ąHave you heard of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: ancient songs
+    - text: ancient songs
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nof Hyrule?"
+    - text: "\nof Hyrule?"
     - utf16_bytes:
         - 14
         - 1
@@ -131,10 +128,11 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: Stop it!
+    - text: Stop it!
     - utf16_bytes:
         - 0
   Talk02:
@@ -144,13 +142,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Thank you for listening.
+    - text: Thank you for listening.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nPlease come back and hear it again\nsometime."
+    - text: "\nPlease come back and hear it again\nsometime."
     - utf16_bytes:
         - 0
   Talk15:
@@ -159,19 +157,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ࠊTh-
+    - text: ࠊTh-
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: that there...
+    - text: that there...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: on your hip!
+    - text: on your hip!
     - utf16_bytes:
         - 14
         - 5
@@ -186,26 +184,25 @@ entries:
         - 1
         - 2
         - 3
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "No, I'm sorry"
+    - text: "No, I'm sorry—"
     - utf16_bytes:
-        - 8212
         - 14
         - 5
         - 1
         - 0
-    - ascii: "it's nothing."
+    - text: "it's nothing."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI didn't mean to pry."
+    - text: "\nI didn't mean to pry."
     - utf16_bytes:
         - 14
         - 1
@@ -213,7 +210,8 @@ entries:
         - 6
         - 5
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   TerrorFire:
     - utf16_bytes:
@@ -221,8 +219,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52500
-    - ascii: Ack!
+    - text: 촔Ack!
     - utf16_bytes:
         - 0
   Talk03:
@@ -231,13 +228,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI see..."
+        - 9
+    - text: I see...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Well, do let me know if you\nchange your mind."
+    - text: " Well, do let me know if you\nchange your mind."
     - utf16_bytes:
         - 0
   Talk16:
@@ -246,24 +244,23 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Allow me to introduce myself.
+    - text: ĀAllow me to introduce myself.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nMy name is Kass."
+    - text: "\nMy name is Kass."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm a bard traveling\nthis land in search of ancient songs."
+    - text: " I'm a bard traveling\nthis land in search of ancient songs."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Let's hear it."
+    - text: "Let's hear it."
     - utf16_bytes:
         - 0
   Talk04:
@@ -272,20 +269,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Have you...
+    - text: ؋Have you...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: never met a Rito before?
+    - text: never met a Rito before?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Odd."
+    - text: " Odd."
     - utf16_bytes:
         - 14
         - 0
@@ -295,18 +291,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: My name is Kass.
+    - text: ĀMy name is Kass.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " As a bard, I spend my\ndays traveling this land in search of\nancient songs."
+    - text: " As a bard, I spend my\ndays traveling this land in search of\nancient songs."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Not right now.
+    - text: Not right now.
     - utf16_bytes:
         - 0
   Talk05:
@@ -315,15 +310,13 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: Ancient songs
+    - text: ᠀Ancient songs—
     - utf16_bytes:
-        - 8212
         - 14
         - 5
         - 1
         - 0
-    - ascii: "songs that sing the \npraises of a heroine who beat back the\nCalamity in an age past."
+    - text: "songs that sing the \npraises of a heroine who beat back the\nCalamity in an age past."
     - utf16_bytes:
         - 0
   Talk06:
@@ -333,13 +326,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I happen to know a song about the\nancient heroine. It was passed down to me\nby my teacher."
+    - text: "I happen to know a song about the\nancient heroine. It was passed down to me\nby my teacher."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Do you care to hear it?"
+    - text: " Do you care to hear it?"
     - utf16_bytes:
         - 14
         - 1
@@ -347,18 +340,19 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: Ancient songs?
+    - text: Ancient songs?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: No...
+    - text: No...
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: WAAAAAA!
+    - text: WAAAAAA!
     - utf16_bytes:
         - 0
   Talk08:
@@ -367,95 +361,89 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "Ah, we meet again!"
+    - text: "ଇAh, we meet again!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm glad to see you in one piece.\n\n"
+    - text: "\nI'm glad to see you in one piece.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 260
-    - ascii: "We're actually very close to my\nhometown of Rito Village, and I must\nadmit I'm feeling incredibly homesick."
+    - text: "ĄWe're actually very close to my\nhometown of Rito Village, and I must\nadmit I'm feeling incredibly homesick."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ഉI had to leave my wife and children back\nin the village. I'm sure they're doing\njust fine..."
+    - text: "ഉI had to leave my wife and children back\nin the village. I'm sure they're doing\njust fine..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "But you see, I cannot go home until\nI fulfill my promise to my teacher."
+    - text: "ĀBut you see, I cannot go home until\nI fulfill my promise to my teacher."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 4
-        - 52481
-    - ascii: "\n\n"
+    - text: "촁\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3339
-    - ascii: My promise to...
+    - text: ഋMy promise to...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nOn second thought, now is not the time.\n\nBut if I'm able to learn all of the ancient\nsongs..."
+    - text: "\nOn second thought, now is not the time.\n\nBut if I'm able to learn all of the ancient\nsongs..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I will tell you of my promise,\nback in my hometown.\n"
+    - text: "I will tell you of my promise,\nback in my hometown.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: But listen to me blathering on.
+    - text: ጀBut listen to me blathering on.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI need to focus on my craft."
+    - text: "\nI need to focus on my craft."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Promise?
+    - text: Promise?
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Are you a...bird?
+    - text: Are you a...bird?
     - utf16_bytes:
         - 0
   Talk09:
@@ -464,15 +452,14 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "One of the more famous among them\nrecounts the events of 10,000 years ago."
+    - text: "ċOne of the more famous among them\nrecounts the events of 10,000 years ago."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: No worries.
+    - text: No worries.
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Knock it off!
+    - text: Knock it off!
     - utf16_bytes:
         - 0

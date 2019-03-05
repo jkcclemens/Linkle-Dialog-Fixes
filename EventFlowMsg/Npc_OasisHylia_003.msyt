@@ -6,67 +6,62 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ࠊHuh? Wait, did you already...\nBut why? How?!"
+    - text: "ࠊHuh? Wait, did you already...\nBut why? How?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1800
-    - ascii: "I've been here forever"
-    - utf16_bytes:
-        - 8212
-    - ascii: "she's not taking\npeople in the order that they arrived!"
+    - text: "܈I've been here forever—she's not taking\npeople in the order that they arrived!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "Wait! I can't get angry... I won't\nget angry..."
+    - text: "ሀWait! I can't get angry... I won't\nget angry..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n..."
+    - text: "\n\n..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nOK,"
+    - text: "\nOK,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm fine now.\n\nYou know, your skin looks super shiny,\nand you look like you haven't got a\nworry in the world...\n"
+    - text: " I'm fine now.\n\nYou know, your skin looks super shiny,\nand you look like you haven't got a\nworry in the world...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Yeah, yeah. I should just patiently wait\nmy turn. "
+    - text: "Yeah, yeah. I should just patiently wait\nmy turn. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "It'll be worth it."
+    - text: "It'll be worth it."
     - utf16_bytes:
         - 0
   Talk_03:
@@ -75,7 +70,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tArgh... I let myself get annoyed again...\nI'm gonna get even more wrinkles..."
+        - 9
+    - text: "Argh... I let myself get annoyed again...\nI'm gonna get even more wrinkles..."
     - utf16_bytes:
         - 0
   Talk_04:
@@ -84,8 +80,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4098
-    - ascii: "Seriously...how long am I gonna have\nto wait?\n\nI've read this book so many times, I bet I\ncould recite the dialogue from memory\nat this point!\nComing here was going to help me\nreclaim my youth, but I feel like I've lost\neven more of it while waiting..."
+    - text: "ဂSeriously...how long am I gonna have\nto wait?\n\nI've read this book so many times, I bet I\ncould recite the dialogue from memory\nat this point!\nComing here was going to help me\nreclaim my youth, but I feel like I've lost\neven more of it while waiting..."
     - utf16_bytes:
         - 14
         - 1
@@ -93,7 +88,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_05:
     - utf16_bytes:
@@ -101,56 +97,52 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I'd heard about her special technique...\nOne that makes you feel "
+    - text: "စI'd heard about her special technique...\nOne that makes you feel "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "more relaxed\nthan you've ever felt in your life"
+    - text: "more relaxed\nthan you've ever felt in your life"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n"
+    - text: "!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1288
-    - ascii: "But they didn't mention anything about\nthis wait!!\n\n"
+    - text: "ԈBut they didn't mention anything about\nthis wait!!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: PSo...so mad...
+    - text: ċ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: PSo...so mad...
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Wait a minute
-    - utf16_bytes:
-        - 8212
-    - ascii: "did you already get to\nexperience the special technique?"
+    - text: "Wait a minute—did you already get to\nexperience the special technique?"
     - utf16_bytes:
         - 14
         - 1
@@ -158,7 +150,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_00:
     - utf16_bytes:
@@ -167,52 +160,52 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, are you here because you heard the\nrumors about Romah, too?\n\nI heard that she has a special technique\nthat will make you feel "
+    - text: "Oh, are you here because you heard the\nrumors about Romah, too?\n\nI heard that she has a special technique\nthat will make you feel "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "more relaxed\nthan you have ever felt in your life"
+    - text: "more relaxed\nthan you have ever felt in your life"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1288
-    - ascii: "But nobody said the wait was going\nto be this long! I feel like I'll never know\nwhat relaxation is ever again!\n"
+    - text: "ԈBut nobody said the wait was going\nto be this long! I feel like I'll never know\nwhat relaxation is ever again!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "PGrrrrr, I'm so annoyed..."
+    - text: ċ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "PGrrrrr, I'm so annoyed..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Well? Are you just gonna stand there, or\nare you getting in line?"
+    - text: "Well? Are you just gonna stand there, or\nare you getting in line?"
     - utf16_bytes:
         - 14
         - 1
@@ -220,14 +213,15 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: It was great!
+    - text: It was great!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk_01:
@@ -236,80 +230,78 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "..."
+    - text: Ā...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You're lying...\n\n"
+    - text: "You're lying...\n\n"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1288
-    - ascii: "The desert's dry heat and all the sun\nyou've gotten has completely dried out\nyour skin!\nRumors say that part of Romah's special\nskills will leave people feeling\nmoisturized to perfection!\nI can't stand when people lie! Grrr..."
+    - text: "ԈThe desert's dry heat and all the sun\nyou've gotten has completely dried out\nyour skin!\nRumors say that part of Romah's special\nskills will leave people feeling\nmoisturized to perfection!\nI can't stand when people lie! Grrr..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3328
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Hrmph. "
+    - text: "Hrmph. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "OK,"
+    - text: "OK,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm fine now.\n\n\nIf I get angry, I'll create wrinkles between\nmy eyebrows.\n\n"
+    - text: " I'm fine now.\n\n\nIf I get angry, I'll create wrinkles between\nmy eyebrows.\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "Don't make me angry!"
+    - text: "Don't make me angry!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Near_00:
-    - ascii: Is it my turn yet?
+    - text: Is it my turn yet?
     - utf16_bytes:
         - 0

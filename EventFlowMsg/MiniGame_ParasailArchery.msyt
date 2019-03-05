@@ -7,17 +7,17 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Oooooh!
+    - text: Oooooh!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That's really cool!"
+    - text: " That's really cool!"
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: "Hey, Tulin!"
+    - text: "Hey, Tulin!"
     - utf16_bytes:
         - 0
   talk10:
@@ -26,8 +26,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Yeah, it's just like I said!"
+    - text: "ЀYeah, it's just like I said!"
     - utf16_bytes:
         - 0
   talk12:
@@ -36,7 +35,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ဉIs that really all you got?
+    - text: ဉIs that really all you got?
     - utf16_bytes:
         - 0
   talk13:
@@ -45,40 +44,39 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: Huh?
+    - text: ጆHuh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You don't have a bow, Linkle?"
+    - text: " You don't have a bow, Linkle?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "You should go find a "
+    - text: "You should go find a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bow
+    - text: bow
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " somewhere!"
+    - text: " somewhere!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThen you can come back and show me\nyour neat bow tricks!"
+    - text: "\nThen you can come back and show me\nyour neat bow tricks!"
     - utf16_bytes:
         - 0
   talk14:
@@ -88,31 +86,31 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "Your "
+    - text: "Your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bow
+    - text: bow
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is gone?!"
+    - text: " is gone?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Wait, come back\nreal quick!"
+    - text: " Wait, come back\nreal quick!"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Yaaay!
+    - text: Yaaay!
     - utf16_bytes:
         - 0
   talk15:
@@ -122,31 +120,31 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "You're out of "
+    - text: "You're out of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: arrows
+    - text: arrows
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Wait, come back\nreal quick!"
+    - text: " Wait, come back\nreal quick!"
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Good luck!
+    - text: Good luck!
     - utf16_bytes:
         - 0
   talk16:
@@ -156,13 +154,13 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "Time's up!"
+    - text: "Time's up!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Come back!"
+    - text: " Come back!"
     - utf16_bytes:
         - 0
   talk17:
@@ -172,13 +170,13 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "Uh-oh, you went too far! "
+    - text: "Uh-oh, you went too far! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Come back\nreal quick!"
+    - text: "Come back\nreal quick!"
     - utf16_bytes:
         - 0
   talk18:
@@ -187,48 +185,47 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: Huh?
+    - text: ጆHuh?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " But...you're not carrying any\n"
+    - text: " But...you're not carrying any\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: arrows
+    - text: arrows
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " at all!"
+    - text: " at all!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Go get some "
+    - text: "Go get some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "arrows "
+    - text: "arrows "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "somewhere so you\ncan show me your neat bow tricks!"
+    - text: "somewhere so you\ncan show me your neat bow tricks!"
     - utf16_bytes:
         - 0
   talk19:
@@ -237,23 +234,22 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "What's wrong?"
+    - text: "؆What's wrong?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Are you quitting?!"
+    - text: " Are you quitting?!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 7
-    - ascii: "\t"
+        - 9
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   talk30:
     - utf16_bytes:
@@ -262,33 +258,33 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Wooooow!
+    - text: Wooooow!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You're amazing!"
+    - text: " You're amazing!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Of course!
+    - text: Of course!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'm all right."
+    - text: "I'm all right."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Sure!
+    - text: Sure!
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Is that all the rules?
+    - text: Is that all the rules?
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Maybe next time.
+    - text: Maybe next time.
     - utf16_bytes:
         - 0
   talk00:
@@ -297,23 +293,21 @@ entries:
         - 3
         - 1
         - 2
-        - 519
-    - ascii: "Hey! "
+    - text: "ȇHey! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Hey, Linkle!"
+    - text: "Hey, Linkle!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: "\n"
+    - text: "\n촁"
     - utf16_bytes:
-        - 52481
         - 14
         - 0
         - 4
@@ -322,20 +316,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "You're Linkle, right?"
+    - text: "؋You're Linkle, right?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " My dad told me\nabout you! "
+    - text: " My dad told me\nabout you! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Also, he said you're REAL\ngood with a bow! Is that true?"
+    - text: "Also, he said you're REAL\ngood with a bow! Is that true?"
     - utf16_bytes:
         - 14
         - 1
@@ -343,7 +336,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk02:
     - utf16_bytes:
@@ -351,7 +345,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ଊWow! That's so neat!"
+    - text: "ଊWow! That's so neat!"
     - utf16_bytes:
         - 14
         - 0
@@ -362,11 +356,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You gotta show me!
+    - text: You gotta show me!
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk03:
@@ -376,13 +370,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: Nuh-uh!
+    - text: Nuh-uh!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Dad said you were great, and\nDad never lies, so it must be true!"
+    - text: " Dad said you were great, and\nDad never lies, so it must be true!"
     - utf16_bytes:
         - 14
         - 0
@@ -393,7 +387,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Come on, show me!"
+    - text: "Come on, show me!"
     - utf16_bytes:
         - 0
   talk100:
@@ -402,52 +396,51 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "It's you..."
+    - text: "ȀIt's you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Haven't seen you in a while."
+    - text: " Haven't seen you in a while."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nNow that "
+    - text: "\nNow that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s calmed down,"
+    - text: "'s calmed down,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
+    - text: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
+    - text: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Don't let\nwhatever he says get to you."
+    - text: " Don't let\nwhatever he says get to you."
     - utf16_bytes:
         - 0
   talk101:
@@ -457,17 +450,17 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Would you mind showing Tulin how you\nhandle a bow?"
+    - text: "Would you mind showing Tulin how you\nhandle a bow?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
+    - text: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk05:
@@ -476,28 +469,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'll count down, and you'll break all the\n"
+    - text: "ĀI'll count down, and you'll break all the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "targets "
+    - text: "targets "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "before time's up!"
+    - text: "before time's up!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "When you break a bunch, I'll give you\na prize!"
+    - text: "When you break a bunch, I'll give you\na prize!"
     - utf16_bytes:
         - 14
         - 0
@@ -507,8 +499,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: Are you ready yet?!
+    - text: ІAre you ready yet?!
     - utf16_bytes:
         - 14
         - 1
@@ -517,7 +508,8 @@ entries:
         - 2
         - 3
         - 4
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk102:
     - utf16_bytes:
@@ -526,13 +518,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Show Tulin how you handle a bow.
+    - text: Show Tulin how you handle a bow.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It\ncould set a good example for him."
+    - text: " It\ncould set a good example for him."
     - utf16_bytes:
         - 0
   talk06:
@@ -541,14 +533,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Ooh! "
+    - text: "ĀOoh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: On your mark...
+    - text: On your mark...
     - utf16_bytes:
         - 0
   talk103:
@@ -558,13 +549,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Is something wrong?
+    - text: Is something wrong?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " If you want to stop,\nthen take it up with Tulin."
+    - text: " If you want to stop,\nthen take it up with Tulin."
     - utf16_bytes:
         - 0
   talk07:
@@ -573,14 +564,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Aww...
+    - text: ĀAww...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You don't wanna?"
+    - text: " You don't wanna?"
     - utf16_bytes:
         - 0
   talk09:
@@ -589,28 +579,27 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: Linkle!
+    - text: ਇLinkle!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Will you show me what you can do\nwith a "
+    - text: " Will you show me what you can do\nwith a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bow
+    - text: bow
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   talk20:
@@ -619,28 +608,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: OK!
+    - text: ĀOK!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Go break those "
+    - text: " Go break those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: targets
+    - text: targets
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   talk22:
@@ -649,48 +637,47 @@ entries:
         - 3
         - 1
         - 2
-        - 5127
-    - ascii: "You're amazing, Linkle!"
+    - text: "ᐇYou're amazing, Linkle!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " When you fired\nyour bow, it was like time stopped!"
+    - text: " When you fired\nyour bow, it was like time stopped!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Oh, "
+    - text: "Oh, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dad
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " told me to give you "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "this "
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to \nthank you."
+    - text: " told me to give you "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "this "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "to \nthank you."
     - utf16_bytes:
         - 0
   talk23:
@@ -699,42 +686,41 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "Yaaay! I knew you could do it, Linkle!\nI'll remember the way you shoot when\nI practice!\nOh, "
+    - text: "ਇYaaay! I knew you could do it, Linkle!\nI'll remember the way you shoot when\nI practice!\nOh, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dad
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " told me to give you "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: this
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to\nthank you."
+    - text: " told me to give you "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: this
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " to\nthank you."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Come back to show me\nyour neat tricks again anytime!"
+    - text: " Come back to show me\nyour neat tricks again anytime!"
     - utf16_bytes:
         - 0
   talk24:
@@ -743,48 +729,47 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "That was nifty, Linkle!"
+    - text: "इThat was nifty, Linkle!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Oh, "
+    - text: "Oh, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dad
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " told me to give you "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: this
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to\nthank you."
+    - text: " told me to give you "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: this
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " to\nthank you."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Come back and try again\nanytime!"
+    - text: " Come back and try again\nanytime!"
     - utf16_bytes:
         - 0
   talk25:
@@ -793,48 +778,47 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "You had some trouble, but that's OK.\nI have trouble too sometimes. "
+    - text: "ЁYou had some trouble, but that's OK.\nI have trouble too sometimes. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I still\nlearned a lot watching you!\nOh, "
+    - text: "I still\nlearned a lot watching you!\nOh, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Dad
+    - text: Dad
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " told me to give you "
+    - text: " told me to give you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: this
+    - text: this
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to\nthank you."
+    - text: " to\nthank you."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Come back and show me\nmore anytime!"
+    - text: " Come back and show me\nmore anytime!"
     - utf16_bytes:
         - 0
   talk26:
@@ -844,19 +828,19 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: Huh?
+    - text: Huh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Um..."
+    - text: " Um..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "what was such a big deal\nabout that?"
+    - text: "what was such a big deal\nabout that?"
     - utf16_bytes:
         - 14
         - 0
@@ -866,8 +850,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Next time, make sure you show me\nsomething a lot cooler, OK?"
+    - text: "ĀNext time, make sure you show me\nsomething a lot cooler, OK?"
     - utf16_bytes:
         - 0
   talk27:
@@ -877,13 +860,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Whooooooa!
+    - text: Whooooooa!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Awesome!"
+    - text: " Awesome!"
     - utf16_bytes:
         - 0
   talk28:
@@ -893,12 +876,12 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Oooooh!
+    - text: Oooooh!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Look at that!"
+    - text: " Look at that!"
     - utf16_bytes:
         - 0

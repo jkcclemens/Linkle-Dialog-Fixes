@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "There aren't many heroes in the world\nlike you anymore. I think Sorelia and I\ncan part with this as a thank-you gift."
+    - text: "There aren't many heroes in the world\nlike you anymore. I think Sorelia and I\ncan part with this as a thank-you gift."
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -16,14 +16,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: "You saved not just me but my wife, as\nwell. "
+    - text: "ሁYou saved not just me but my wife, as\nwell. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "We can't spare much, but we owe\nyou this, at least."
+    - text: "We can't spare much, but we owe\nyou this, at least."
     - utf16_bytes:
         - 0
   SavedLv1_01:
@@ -32,20 +31,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: "Is my wife safe, as well? "
+    - text: "ሁIs my wife safe, as well? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Oh, thank\nheavens. "
+    - text: "Oh, thank\nheavens. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I don't know how I'd go on\nliving without her."
+    - text: "I don't know how I'd go on\nliving without her."
     - utf16_bytes:
         - 0
   Atacked00:
@@ -54,8 +52,7 @@ entries:
         - 3
         - 1
         - 2
-        - 11266
-    - ascii: "Sorelia! Run, quickly!"
+    - text: "ⰂSorelia! Run, quickly!"
     - utf16_bytes:
         - 0
   Atacked01:
@@ -64,8 +61,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "I can't stand constantly being driven\noff this way!"
+    - text: "ขI can't stand constantly being driven\noff this way!"
     - utf16_bytes:
         - 0
   Near00:
@@ -74,12 +70,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: "I'm saved..."
+    - text: "촐I'm saved..."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Sorelia...
+    - text: Sorelia...
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -89,7 +84,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "You've done what neither my wife nor\nI could have, and we're alive as a result.\nThank you."
+    - text: "You've done what neither my wife nor\nI could have, and we're alive as a result.\nThank you."
     - utf16_bytes:
         - 0
   Failed00:
@@ -98,13 +93,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "⬉Heavens... "
+    - text: "⬉Heavens... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: That was a narrow escape.
+    - text: That was a narrow escape.
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -114,19 +109,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Do you wander Hyrule keeping everyone\nsafe? "
+    - text: "Do you wander Hyrule keeping everyone\nsafe? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You're doing good work. "
+    - text: "You're doing good work. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Here,\nthis is to show my appreciation."
+    - text: "Here,\nthis is to show my appreciation."
     - utf16_bytes:
         - 0
   Failed01:
@@ -135,7 +130,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "⬉Curse my weakness for letting that thing\nget the better of me..."
+    - text: "⬉Curse my weakness for letting that thing\nget the better of me..."
     - utf16_bytes:
         - 0
   After00:
@@ -144,34 +139,34 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "We've traveled for months in search of\na flower called the "
+    - text: "ЀWe've traveled for months in search of\na flower called the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: silent princess
+    - text: silent princess
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Legend has it that if you swear your love\nbefore its freshly plucked blossom, you\nand your partner will live a charmed life.\n"
+    - text: "Legend has it that if you swear your love\nbefore its freshly plucked blossom, you\nand your partner will live a charmed life.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tAlas, all our searching so far has been\nfor naught."
+        - 9
+    - text: "Alas, all our searching so far has been\nfor naught."
     - utf16_bytes:
         - 0
   Meeting00:
@@ -180,34 +175,33 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I wanted to find a still-living\n"
+    - text: "ЀI wanted to find a still-living\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: silent princess
+    - text: silent princess
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", which we know\nonly through the tales."
+    - text: ", which we know\nonly through the tales."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I intended to set out on my own, but\nSorelia would have none of it and\ninsisted on coming along.\n"
+    - text: "I intended to set out on my own, but\nSorelia would have none of it and\ninsisted on coming along.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ĉI felt confident enough in my skill with\na blade to protect myself, but I need to\nreconsider that to keep my beloved safe."
+    - text: "ĉI felt confident enough in my skill with\na blade to protect myself, but I need to\nreconsider that to keep my beloved safe."
     - utf16_bytes:
         - 0
   Meeting02:
@@ -216,8 +210,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I'm happy just to be together with you."
+    - text: "इI'm happy just to be together with you."
     - utf16_bytes:
         - 0
   Meeting03:
@@ -227,7 +220,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Sorelia... I won't allow any misfortune to\nbefall you! I swear it!"
+    - text: "Sorelia... I won't allow any misfortune to\nbefall you! I swear it!"
     - utf16_bytes:
         - 0
   PairFailed00:
@@ -236,8 +229,7 @@ entries:
         - 3
         - 1
         - 2
-        - 11267
-    - ascii: Sorelia... Please be all right...
+    - text: ⰃSorelia... Please be all right...
     - utf16_bytes:
         - 0
   PairAtacked00:
@@ -246,8 +238,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "Sorelia! Stand fast! I'm coming to\nsave you!"
+    - text: "ขSorelia! Stand fast! I'm coming to\nsave you!"
     - utf16_bytes:
         - 0
   PairFailed01:
@@ -256,8 +247,7 @@ entries:
         - 3
         - 1
         - 2
-        - 11267
-    - ascii: "No... This can't be happening!"
+    - text: "ⰃNo... This can't be happening!"
     - utf16_bytes:
         - 0
   PairAtacked01:
@@ -266,8 +256,7 @@ entries:
         - 3
         - 1
         - 2
-        - 11267
-    - ascii: "Please help my wife! She's still in danger\nfrom those monsters!"
+    - text: "ⰃPlease help my wife! She's still in danger\nfrom those monsters!"
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -277,13 +266,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "I suppose no place in Hyrule is safe\nanymore."
+    - text: "I suppose no place in Hyrule is safe\nanymore."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Not even the settlements."
+    - text: " Not even the settlements."
     - utf16_bytes:
         - 14
         - 0
@@ -293,8 +282,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "All the more reason for me to redouble\nmy training in order to help my beloved\nSorelia!"
+    - text: "ĀAll the more reason for me to redouble\nmy training in order to help my beloved\nSorelia!"
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -304,13 +292,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "It's a miracle that you stepped in to\nsave us. "
+    - text: "It's a miracle that you stepped in to\nsave us. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Let me do this much for you.
+    - text: Let me do this much for you.
     - utf16_bytes:
         - 0
   Guardian00:
@@ -319,7 +307,6 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Run away! The Guardian is coming!
+    - text: ขRun away! The Guardian is coming!
     - utf16_bytes:
         - 0

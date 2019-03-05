@@ -1,7 +1,7 @@
 ---
 entries:
   near03:
-    - ascii: Yah!
+    - text: Yah!
     - utf16_bytes:
         - 0
   talk19:
@@ -11,7 +11,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "For the first time since then, we're finally\ngetting back on our feet."
+    - text: "For the first time since then, we're finally\ngetting back on our feet."
     - utf16_bytes:
         - 14
         - 1
@@ -19,7 +19,8 @@ entries:
         - 6
         - 11
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk36:
     - utf16_bytes:
@@ -28,19 +29,20 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "You're pretty studly, aren't you?"
+    - text: "You're pretty studly, aren't you?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near04:
-    - ascii: Hahhhh...
+    - text: Hahhhh...
     - utf16_bytes:
         - 0
   talk37:
@@ -50,13 +52,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You'd be a great hire for our company..."
+    - text: "You'd be a great hire for our company..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWhat's your name?"
+    - text: "\nWhat's your name?"
     - utf16_bytes:
         - 14
         - 1
@@ -64,7 +66,8 @@ entries:
         - 6
         - 21
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk38:
     - utf16_bytes:
@@ -73,13 +76,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh... "
+    - text: "Oh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Well, too bad. Can't hire you."
+    - text: "Well, too bad. Can't hire you."
     - utf16_bytes:
         - 14
         - 1
@@ -87,7 +90,8 @@ entries:
         - 6
         - 6
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk39:
     - utf16_bytes:
@@ -96,21 +100,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "'Cause your name doesn't end in \""
+    - text: "'Cause your name doesn't end in \""
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: son
+    - text: son
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\""
+    - text: ".\""
     - utf16_bytes:
         - 14
         - 1
@@ -118,22 +122,23 @@ entries:
         - 6
         - 22
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: What are you doing?
+    - text: What are you doing?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Why?
+    - text: Why?
     - utf16_bytes:
         - 0
   talk00:
@@ -142,8 +147,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Hey.
+    - text: ЀHey.
     - utf16_bytes:
         - 14
         - 1
@@ -152,14 +156,15 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: "I'll buy this place!"
+    - text: "I'll buy this place!"
     - utf16_bytes:
         - 0
   "0021":
-    - ascii: "I'm Linkle."
+    - text: "I'm Linkle."
     - utf16_bytes:
         - 0
   talk01:
@@ -168,8 +173,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: Yeah?
+    - text: ጀYeah?
     - utf16_bytes:
         - 14
         - 1
@@ -178,14 +182,15 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: That sounds tough.
+    - text: That sounds tough.
     - utf16_bytes:
         - 0
   "0022":
-    - ascii: Son?
+    - text: Son?
     - utf16_bytes:
         - 0
   talk02:
@@ -195,7 +200,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hahhh...
+    - text: Hahhh...
     - utf16_bytes:
         - 14
         - 1
@@ -204,14 +209,15 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Why?
+    - text: Why?
     - utf16_bytes:
         - 0
   "0023":
-    - ascii: "That's too bad."
+    - text: "That's too bad."
     - utf16_bytes:
         - 0
   talk03:
@@ -220,8 +226,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "...Hahhh..."
+    - text: ሀ...Hahhh...
     - utf16_bytes:
         - 14
         - 1
@@ -230,7 +235,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk20:
     - utf16_bytes:
@@ -239,19 +245,19 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: So best of luck to both of us.
+    - text: So best of luck to both of us.
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0007":
-    - ascii: Why?
+    - text: Why?
     - utf16_bytes:
         - 0
   talk04:
@@ -261,30 +267,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", huh?"
+    - text: ", huh?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk21:
     - utf16_bytes:
@@ -293,11 +299,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Yeah.
+    - text: Yeah.
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Oh.
+    - text: Oh.
     - utf16_bytes:
         - 0
   talk22:
@@ -307,11 +313,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Taking a break.
+    - text: Taking a break.
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk06:
@@ -321,7 +327,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Farewell then.
+    - text: Farewell then.
     - utf16_bytes:
         - 0
   talk23:
@@ -331,59 +337,59 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: By the way...
+    - text: By the way...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Did you"
+    - text: " Did you"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " buy that house?"
+    - text: " buy that house?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk40:
-    - ascii: "The boss, Bolson, has a strict hiring\nrule: "
+    - text: "The boss, Bolson, has a strict hiring\nrule: "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "need a name ending in \"son"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "."
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "\""
+    - text: "need a name ending in \"son"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nNo exceptions."
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "\""
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nNo exceptions."
     - utf16_bytes:
         - 14
         - 1
@@ -391,7 +397,8 @@ entries:
         - 6
         - 23
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk07:
     - utf16_bytes:
@@ -400,7 +407,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Oh.
+    - text: Oh.
     - utf16_bytes:
         - 14
         - 1
@@ -409,7 +416,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk24:
     - utf16_bytes:
@@ -418,16 +426,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Impressive. You're just a pup."
+    - text: "Impressive. You're just a pup."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk41:
     - utf16_bytes:
@@ -436,13 +445,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "\"Builds team unity,\" he says.\n\n\nAnyway...\n\n\nYou got some stuff to do, right?"
+    - text: "\"Builds team unity,\" he says.\n\n\nAnyway...\n\n\nYou got some stuff to do, right?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nShould get going, then."
+    - text: "\nShould get going, then."
     - utf16_bytes:
         - 0
   talk08:
@@ -452,7 +461,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hello.
+    - text: Hello.
     - utf16_bytes:
         - 14
         - 1
@@ -461,7 +470,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk25:
     - utf16_bytes:
@@ -470,22 +480,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Don't worry about it."
+    - text: "Don't worry about it."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Anyway..."
+    - text: " Anyway..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk42:
     - utf16_bytes:
@@ -494,20 +504,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well... "
+    - text: "Well... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "No time like the present, right?\nI should be getting on my way...\n\nIf you'd like, you should come to the\n"
+    - text: "No time like the present, right?\nI should be getting on my way...\n\nIf you'd like, you should come to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Akkala region
+    - text: Akkala region
     - utf16_bytes:
         - 14
         - 0
@@ -518,13 +528,13 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " and say hello.\n\nWell... "
+    - text: " and say hello.\n\nWell... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Take care of yourself.
+    - text: Take care of yourself.
     - utf16_bytes:
         - 0
   talk09:
@@ -534,13 +544,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm in the middle of moving here."
+    - text: "I'm in the middle of moving here."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " \nCome talk when the work dies down."
+    - text: " \nCome talk when the work dies down."
     - utf16_bytes:
         - 0
   talk26:
@@ -550,7 +560,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Looks like I've gotta head out and leave\nthis place soon."
+    - text: "Looks like I've gotta head out and leave\nthis place soon."
     - utf16_bytes:
         - 14
         - 1
@@ -558,7 +568,8 @@ entries:
         - 6
         - 3
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk43:
     - utf16_bytes:
@@ -567,7 +578,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm off to my usual night spot."
+    - text: "I'm off to my usual night spot."
     - utf16_bytes:
         - 0
   talk27:
@@ -577,7 +588,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I've been transferred."
+    - text: "I've been transferred."
     - utf16_bytes:
         - 14
         - 1
@@ -585,7 +596,8 @@ entries:
         - 6
         - 14
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk44:
     - utf16_bytes:
@@ -594,7 +606,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm on lookout."
+    - text: "I'm on lookout."
     - utf16_bytes:
         - 0
   talk28:
@@ -604,7 +616,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Mighta heard, but Bolson Construction\nis planning to expand big-time."
+    - text: "Mighta heard, but Bolson Construction\nis planning to expand big-time."
     - utf16_bytes:
         - 14
         - 1
@@ -612,7 +624,8 @@ entries:
         - 6
         - 15
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk45:
     - utf16_bytes:
@@ -621,27 +634,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: How goes it?
+    - text: How goes it?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " How's the "
+    - text: " How's the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: boss
+    - text: boss
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nDoing well, I hope?"
+    - text: "?\nDoing well, I hope?"
     - utf16_bytes:
         - 0
   talk29:
@@ -651,7 +664,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yeah, big expansion."
+    - text: "Yeah, big expansion."
     - utf16_bytes:
         - 14
         - 1
@@ -659,7 +672,8 @@ entries:
         - 6
         - 16
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk46:
     - utf16_bytes:
@@ -668,43 +682,43 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Pretty sure that belongs to the\n"
+    - text: "Pretty sure that belongs to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hateno Ancient Tech Lab
+    - text: Hateno Ancient Tech Lab
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nBetter hurry up and take it back there."
+    - text: "\nBetter hurry up and take it back there."
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Uh...come again?
+    - text: Uh...come again?
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Good.
+    - text: Good.
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: Yeah.
+    - text: Yeah.
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: What?
+    - text: What?
     - utf16_bytes:
         - 0
   talk10:
@@ -714,27 +728,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm a carpenter for "
+    - text: "I'm a carpenter for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Bolson Construction
+    - text: Bolson Construction
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Name's Hudson."
+    - text: "Name's Hudson."
     - utf16_bytes:
         - 14
         - 1
@@ -742,10 +756,11 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0014":
-    - ascii: Transferred...
+    - text: Transferred...
     - utf16_bytes:
         - 0
   talk11:
@@ -755,12 +770,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm knocking this place down."
+    - text: "I'm knocking this place down."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 3
         - 4
@@ -769,7 +784,7 @@ entries:
         - 768
         - 0
   "0015":
-    - ascii: "That's great!"
+    - text: "That's great!"
     - utf16_bytes:
         - 0
   talk12:
@@ -779,11 +794,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That's right. It's tough."
+    - text: "That's right. It's tough."
     - utf16_bytes:
         - 0
   "0016":
-    - ascii: Where will you go?
+    - text: Where will you go?
     - utf16_bytes:
         - 0
   talk13:
@@ -793,7 +808,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "'Cause no one's living here."
+    - text: "'Cause no one's living here."
     - utf16_bytes:
         - 14
         - 1
@@ -801,7 +816,8 @@ entries:
         - 6
         - 6
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk30:
     - utf16_bytes:
@@ -810,27 +826,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Zora's Domain is north of here."
+    - text: "Zora's Domain is north of here."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWe're going north of that, though.\nAn area called the "
+    - text: "\nWe're going north of that, though.\nAn area called the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Akkala region
+    - text: Akkala region
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -838,10 +854,11 @@ entries:
         - 6
         - 17
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0017":
-    - ascii: "That's pretty far."
+    - text: "That's pretty far."
     - utf16_bytes:
         - 0
   talk14:
@@ -851,21 +868,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Can't help you. Ask the "
+    - text: "Can't help you. Ask the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: boss
+    - text: boss
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk31:
@@ -875,13 +892,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Yeah...
+    - text: Yeah...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: well.
+    - text: well.
     - utf16_bytes:
         - 14
         - 1
@@ -889,10 +906,11 @@ entries:
         - 6
         - 18
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0018":
-    - ascii: Good luck!
+    - text: Good luck!
     - utf16_bytes:
         - 0
   talk15:
@@ -902,7 +920,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: The owner of this house took off.
+    - text: The owner of this house took off.
     - utf16_bytes:
         - 14
         - 1
@@ -910,7 +928,8 @@ entries:
         - 6
         - 7
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk32:
     - utf16_bytes:
@@ -919,15 +938,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: OK then.
+    - text: OK then.
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Yo!
+    - text: Yo!
     - utf16_bytes:
         - 0
   "0019":
-    - ascii: Right.
+    - text: Right.
     - utf16_bytes:
         - 0
   talk16:
@@ -936,14 +955,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Don't know."
+    - text: "ကDon't know."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Maybe skipped town without\npaying the bills?"
+    - text: " Maybe skipped town without\npaying the bills?"
     - utf16_bytes:
         - 14
         - 1
@@ -951,10 +969,11 @@ entries:
         - 6
         - 8
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near01:
-    - ascii: Ho!
+    - text: Ho!
     - utf16_bytes:
         - 0
   talk17:
@@ -964,16 +983,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Answered all your questions?
+    - text: Answered all your questions?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk34:
     - utf16_bytes:
@@ -981,20 +1000,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: By the way...
+    - text: ĀBy the way...
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near02:
-    - ascii: Hmph!
+    - text: Hmph!
     - utf16_bytes:
         - 0
   talk18:
@@ -1004,33 +1022,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good.
+    - text: Good.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " A lot has happened since the\n"
+    - text: " A lot has happened since the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Great Calamity
+    - text: Great Calamity
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Tough to keep track of\nit all."
+    - text: " Tough to keep track of\nit all."
     - utf16_bytes:
         - 14
         - 1
@@ -1038,7 +1056,8 @@ entries:
         - 6
         - 19
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk35:
     - utf16_bytes:
@@ -1047,14 +1066,14 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Are you gonna buy that house?
+    - text: Are you gonna buy that house?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

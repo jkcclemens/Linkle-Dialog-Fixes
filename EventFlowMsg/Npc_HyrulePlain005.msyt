@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Ho ho... "
+    - text: "Ho ho... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "If you're willing to interrupt an\nold man looking over his grandchild,\nyou must be in need of something."
+    - text: "If you're willing to interrupt an\nold man looking over his grandchild,\nyou must be in need of something."
     - utf16_bytes:
         - 0
   talk03:
@@ -23,34 +23,33 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "You aren't from around here, are ya?\n\n\n"
+    - text: "You aren't from around here, are ya?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: Hwa ha ha!
+    - text: Hwa ha ha!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " When you get to my age,\nyou can tell just by lookin' at people's \nfaces.\n"
+    - text: " When you get to my age,\nyou can tell just by lookin' at people's \nfaces.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "This here "
+    - text: "ĀThis here "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Woodland Stable "
+    - text: "Woodland Stable "
     - utf16_bytes:
         - 14
         - 0
@@ -61,55 +60,55 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "borders the\n"
+    - text: "borders the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Eldin region "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hyrule Field
+    - text: "Eldin region "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". It's a\ncentral fixture for travelers.\nAlso the "
+    - text: "and "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Great Hyrule Forest
+    - text: Hyrule Field
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ". It's a\ncentral fixture for travelers.\nAlso the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Great Hyrule Forest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " which is\nwhere the stable got its name, is right\nover yonder."
+    - text: " which is\nwhere the stable got its name, is right\nover yonder."
     - utf16_bytes:
         - 0
   talk04:
@@ -118,13 +117,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Do you want me to tell you about the\nsurrounding areas?"
+    - text: "ĀDo you want me to tell you about the\nsurrounding areas?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -138,14 +136,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: I see...
+    - text: ЀI see...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWell, safe travels."
+    - text: "\nWell, safe travels."
     - utf16_bytes:
         - 0
   talk06:
@@ -154,74 +151,75 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Eldin "
+    - text: "Eldin "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is northeast of here.
+    - text: is northeast of here.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's a\nmountainous region with "
+    - text: " It's a\nmountainous region with "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Death Mountain
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nat its center.\nYou can see "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Death Mountain "
+    - text: Death Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "from here,\nin fact,"
+    - text: "\nat its center.\nYou can see "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Death Mountain "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "from here,\nin fact,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but only the backside of it.\n\nI don't know why anyone would want to\nclimb it, but if you're so inclined, the\nbest approach is from "
+    - text: " but only the backside of it.\n\nI don't know why anyone would want to\nclimb it, but if you're so inclined, the\nbest approach is from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Akkala "
+    - text: "Akkala "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to the east.\nIf you see "
+    - text: "to the east.\nIf you see "
     - utf16_bytes:
         - 14
         - 0
@@ -232,65 +230,60 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: Foothill Stable
+    - text: Foothill Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you're on the\nright path"
-    - utf16_bytes:
-        - 8212
-    - ascii: "the Maw of Death Mountain\nis near the stable.\n"
+    - text: ", you're on the\nright path—the Maw of Death Mountain\nis near the stable.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "But "
+    - text: "စBut "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Death Mountain "
+    - text: "Death Mountain "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is an active volcano.
+    - text: is an active volcano.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt's blazing hot up there. If you go\nunprepared, you're as good as dead.\n"
+    - text: "\nIt's blazing hot up there. If you go\nunprepared, you're as good as dead.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Although I'm sure there's someone at \n"
+    - text: "ĀAlthough I'm sure there's someone at \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Foothill Stable "
+    - text: "Foothill Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "who knows how to deal\nwith the heat."
+    - text: "who knows how to deal\nwith the heat."
     - utf16_bytes:
         - 0
   talk07:
@@ -304,90 +297,87 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Hyrule Field "
+    - text: "ЀHyrule Field "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is south of here. It's the\nhuge field past the "
+    - text: "is south of here. It's the\nhuge field past the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Crenel Hills
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nThere's no shortage of nature in these\nparts. It's a beautiful place to live.\n\nAnd just north of the field, you'll find\nthe ruins of Hyrule Castle Town and\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hyrule Castle
+    - text: Crenel Hills
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThey used to be the center of Hyrule's\nculture and commerce,"
+    - text: ".\n\nThere's no shortage of nature in these\nparts. It's a beautiful place to live.\n\nAnd just north of the field, you'll find\nthe ruins of Hyrule Castle Town and\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hyrule Castle
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nThey used to be the center of Hyrule's\nculture and commerce,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " but now...\n\n"
+    - text: " but now...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 11528
-    - ascii: "I'm telling you...stay far away from the\ncastle!"
+    - text: "ⴈI'm telling you...stay far away from the\ncastle!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The field isn't safe either.\n\n"
+    - text: " The field isn't safe either.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm sure you have family that cares about\nyou, so please don't dismiss this warning\nas an old man's rambling.\n"
+    - text: "ĀI'm sure you have family that cares about\nyou, so please don't dismiss this warning\nas an old man's rambling.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3075
-    - ascii: "I've seen too many young'uns head off\nto "
+    - text: "I've seen too many young'uns head off\nto "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hyrule Field
+    - text: Hyrule Field
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...only to never come\nback."
+    - text: "...only to never come\nback."
     - utf16_bytes:
         - 0
   talk08:
@@ -396,8 +386,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Yes, yes.\nGood morning."
+    - text: "ȀYes, yes.\nGood morning."
     - utf16_bytes:
         - 0
   talk09:
@@ -406,16 +395,15 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Yes, yes. Hello."
+    - text: "ȀYes, yes. Hello."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Eldin?
+    - text: Eldin?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Hyrule Field?
+    - text: Hyrule Field?
     - utf16_bytes:
         - 0
   talk10:
@@ -425,11 +413,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, yes. Good evening."
+    - text: "Yes, yes. Good evening."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: No thank you.
+    - text: No thank you.
     - utf16_bytes:
         - 0
   talk11:
@@ -438,19 +426,18 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Yes, yes."
+    - text: "ȀYes, yes."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Is there something I can help\nyou with?"
+    - text: " Is there something I can help\nyou with?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -459,7 +446,7 @@ entries:
         - 768
         - 0
   "0005":
-    - ascii: Hyrule Forest?
+    - text: Hyrule Forest?
     - utf16_bytes:
         - 0
   talk12:
@@ -468,122 +455,117 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Great Hyrule Forest "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is north of here.\nIt's the largest forest in Hyrule..."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 267
-    - ascii: "In the heart of the forest sits a terrifying\ngroup of enchanted trees called the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lost Woods
+    - text: "Great Hyrule Forest "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: "is north of here.\nIt's the largest forest in Hyrule..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I once got lost there while collecting \nfirewood when I was but a boy.\n\nAs I went deeper into the forest, the\n"
+    - text: "ċIn the heart of the forest sits a terrifying\ngroup of enchanted trees called the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: wind was blowing this way and that
+        - 2
+    - text: Lost Woods
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\nChilled me to the bone."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\nI got scared and ran as fast as I could,\ntrying to get away from the howling\nwind.\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3077
-    - ascii: "Then all of a sudden, the fog lifted,\nand I was standing outside the forest..."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 256
-    - ascii: "There's something dangerous hiding in\nthose "
+    - text: "ĀI once got lost there while collecting \nfirewood when I was but a boy.\n\nAs I went deeper into the forest, the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: Lost Woods
+        - 0
+    - text: wind was blowing this way and that
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Don't go wandering\nin there."
+    - text: "\nChilled me to the bone."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI got scared and ran as fast as I could,\ntrying to get away from the howling\nwind.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "అThen all of a sudden, the fog lifted,\nand I was standing outside the forest..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀThere's something dangerous hiding in\nthose "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lost Woods
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Don't go wandering\nin there."
     - utf16_bytes:
         - 0
   talk00:
@@ -592,8 +574,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Some weather we're having."
+    - text: "ȀSome weather we're having."
     - utf16_bytes:
         - 0
   talk01:
@@ -602,13 +583,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Heh... If you're making time to talk to \nan old man like me,"
+    - text: "ĀHeh... If you're making time to talk to \nan old man like me,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " you must be in need \nof something."
+    - text: " you must be in need \nof something."
     - utf16_bytes:
         - 0

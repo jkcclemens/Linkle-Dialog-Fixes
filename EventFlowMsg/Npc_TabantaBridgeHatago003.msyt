@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Car-go! Car-go! Helping out!\n\n\nHey, miss. Do you put your cargo in\nyour pouch?\n\nDidja hear the rumor about how the\nforest people can give you a bigger\ninventory? Didja?"
+    - text: "Car-go! Car-go! Helping out!\n\n\nHey, miss. Do you put your cargo in\nyour pouch?\n\nDidja hear the rumor about how the\nforest people can give you a bigger\ninventory? Didja?"
     - utf16_bytes:
         - 14
         - 1
@@ -15,7 +15,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk011:
     - utf16_bytes:
@@ -24,7 +25,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "You heard?! Yaaaay!\nNow we're friends!\nNow we're friends!\nI hear you can collect things the forest\nchildren drop! What do you think their\ndroppings look like?"
+    - text: "You heard?! Yaaaay!\nNow we're friends!\nNow we're friends!\nI hear you can collect things the forest\nchildren drop! What do you think their\ndroppings look like?"
     - utf16_bytes:
         - 0
   talk100:
@@ -34,7 +35,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rain, rain, drippity drip...\nI should bring Mr. Goat inside too."
+    - text: "Rain, rain, drippity drip...\nI should bring Mr. Goat inside too."
     - utf16_bytes:
         - 0
   talk012:
@@ -43,14 +44,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nYou haven't heard?! I heard about it from\na fairy!\n\n"
+    - text: "\nYou haven't heard?! I heard about it from\na fairy!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "He said, \"If you're nice to a really big\nforest kid, he'll make your inventory\nbigger!\"\nI don't know what an inventory is, but\nbigger is always better if you ask me!"
+    - text: "He said, \"If you're nice to a really big\nforest kid, he'll make your inventory\nbigger!\"\nI don't know what an inventory is, but\nbigger is always better if you ask me!"
     - utf16_bytes:
         - 0
   talk013:
@@ -60,7 +61,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Car-go! Car-go! Helping out!\n\n\nI wonder if the big forest kid ever leaves\nthe forest..."
+    - text: "Car-go! Car-go! Helping out!\n\n\nI wonder if the big forest kid ever leaves\nthe forest..."
     - utf16_bytes:
         - 0
   talk020:
@@ -70,60 +71,50 @@ entries:
         - 1
         - 2
         - 1
-        - 9834
-    - ascii: Horsey!
+    - text: ♪Horsey!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Horsey!"
+    - text: " Horsey!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'll make you a BED!"
+    - text: " I'll make you a BED!♪"
     - utf16_bytes:
-        - 9834
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
-    - utf16_bytes:
-        - 9834
-    - ascii: Horsey!
+    - text: "\n♪Horsey!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Horsey!"
+    - text: " Horsey!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Rest your head!"
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n\nI heard that song from some guy who\ncame by here riding a REALLY \ncool-looking horse!"
+    - text: " Rest your head!♪\n\nI heard that song from some guy who\ncame by here riding a REALLY \ncool-looking horse!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   near001:
+    - text: ♪Poopy poop pooooop!♪
     - utf16_bytes:
-        - 9834
-    - ascii: Poopy poop pooooop!
-    - utf16_bytes:
-        - 9834
         - 0
   talk021:
     - utf16_bytes:
@@ -132,24 +123,23 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "He also said that there's a small secret\ntunnel just west of the castle entrance.\n\n"
+    - text: "He also said that there's a small secret\ntunnel just west of the castle entrance.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "And that if you go through that tunnel,\nyou can get INSIDE the castle!"
+    - text: "ĀAnd that if you go through that tunnel,\nyou can get INSIDE the castle!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\nBut the man also said not to go near\nthe castle because it's dangerous.\n\nThat goes for you too, miss!"
+    - text: "\n\nBut the man also said not to go near\nthe castle because it's dangerous.\n\nThat goes for you too, miss!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I did hear that.
+    - text: I did hear that.
     - utf16_bytes:
         - 0
   talk022:
@@ -159,58 +149,50 @@ entries:
         - 1
         - 2
         - 1
-        - 9834
-    - ascii: Horsey!
+    - text: ♪Horsey!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Horsey!"
+    - text: " Horsey!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'll make you a BED!"
+    - text: " I'll make you a BED!♪"
     - utf16_bytes:
-        - 9834
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
-    - utf16_bytes:
-        - 9834
-    - ascii: Horsey!
+    - text: "\n♪Horsey!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Horsey!"
+    - text: " Horsey!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Rest your head!"
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n\n"
+    - text: " Rest your head!♪\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I heard there's a small tunnel west of the\ncastle entrance."
+    - text: "I heard there's a small tunnel west of the\ncastle entrance."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\nBut no matter how fast your horse is,\nyou shouldn't go there because it's too\ndangerous!"
+    - text: "\n\nBut no matter how fast your horse is,\nyou shouldn't go there because it's too\ndangerous!"
     - utf16_bytes:
         - 0
   talk200:
@@ -219,22 +201,23 @@ entries:
         - 4
         - 1
         - 2
-        - 52511
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: PMmm... Mmm...
+    - text: 촟
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: PMmm... Mmm...
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I hadn't heard that."
+    - text: "I hadn't heard that."
     - utf16_bytes:
         - 0
   talk201:
@@ -243,20 +226,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I helped out...\nI...I'm sleepy..."
+    - text: "I helped out...\nI...I'm sleepy..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk001:
@@ -266,10 +249,10 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Mr. Goat, Mr. Goat! \nEat that grass, eat that grass!\n\nFill up on that go-go grass,\nand then dash super go-go fast!\n\nGet it in your guts! And run like nuts!\nWith a healthy! Heaping! Helping!"
+    - text: "Mr. Goat, Mr. Goat! \nEat that grass, eat that grass!\n\nFill up on that go-go grass,\nand then dash super go-go fast!\n\nGet it in your guts! And run like nuts!\nWith a healthy! Heaping! Helping!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "That's nice."
+    - text: "That's nice."
     - utf16_bytes:
         - 0

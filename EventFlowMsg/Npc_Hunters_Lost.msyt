@@ -6,19 +6,18 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Soooo, what do you wanna know?\n\n\nI have info on the pitch-black ruins\nand on what's at the far edge of the\nHebra Mountains."
+    - text: "ĀSoooo, what do you wanna know?\n\n\nI have info on the pitch-black ruins\nand on what's at the far edge of the\nHebra Mountains."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-    - ascii: 
+        - 12
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   Talk_301:
     - utf16_bytes:
@@ -27,58 +26,57 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Light is unable to enter these ruins for\nsome reason. It's said that you can't see\nan inch ahead, even during the day!\nThere must be some mysterious power\nbehind this phenomenon, don't\nyou think?\nI can only wonder at what's hiding within\nthose ruins... "
+    - text: "Light is unable to enter these ruins for\nsome reason. It's said that you can't see\nan inch ahead, even during the day!\nThere must be some mysterious power\nbehind this phenomenon, don't\nyou think?\nI can only wonder at what's hiding within\nthose ruins... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "But finding whatever it is\nwould certainly make you famous!\n"
+    - text: "But finding whatever it is\nwould certainly make you famous!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: Where is it?
+    - text: ІWhere is it?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It should be past\n"
+    - text: " It should be past\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Mount Drena
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " if you're heading toward\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Eldin Mountains
+    - text: Mount Drena
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " if you're heading toward\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Eldin Mountains
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Tell me about the ruins.
+    - text: Tell me about the ruins.
     - utf16_bytes:
         - 0
   Talk_000:
@@ -87,32 +85,31 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I wonder if "
+    - text: "စI wonder if "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bone horses
+    - text: bone horses
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " are a real\nthing..."
+    - text: " are a real\nthing..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'd have to see it to believe it,\nbut I really don't like cold places, so..."
+    - text: " I'd have to see it to believe it,\nbut I really don't like cold places, so..."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: "The far edge, eh?"
+    - text: "The far edge, eh?"
     - utf16_bytes:
         - 0
   Talk_001:
@@ -122,21 +119,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you're seeking the best information in\nHyrule, I, "
+    - text: "If you're seeking the best information in\nHyrule, I, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Juannelle
+    - text: Juannelle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", know everything\nthere is to know! You're...Linkle, right?"
+    - text: ", know everything\nthere is to know! You're...Linkle, right?"
     - utf16_bytes:
         - 14
         - 1
@@ -145,7 +142,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_200:
     - utf16_bytes:
@@ -153,18 +151,17 @@ entries:
         - 3
         - 1
         - 2
-        - 8704
-    - ascii: "I'm so sleepy."
+    - text: "∀I'm so sleepy."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n*yawn*"
+    - text: "\n*yawn*"
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   Talk_000_slp:
@@ -173,26 +170,25 @@ entries:
         - 3
         - 1
         - 2
-        - 8709
-    - ascii: "I'm so tired... I've been thinking about\n"
+    - text: "∅I'm so tired... I've been thinking about\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bone horses
+    - text: bone horses
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " all day.\n\nI've got the info, but I'm all done for\ntoday, I think..."
+    - text: " all day.\n\nI've got the info, but I'm all done for\ntoday, I think..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "That's me!"
+    - text: "That's me!"
     - utf16_bytes:
         - 0
   Talk_002:
@@ -202,7 +198,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I love when I get a straightforward,\nhonest answer!"
+    - text: "I love when I get a straightforward,\nhonest answer!"
     - utf16_bytes:
         - 0
   Talk_201:
@@ -212,11 +208,11 @@ entries:
         - 1
         - 2
         - 3330
-    - ascii: "I hope you realize how rude it is to wake\nme up when I'm trying to sleep...\n\nI'll forgive you, though. You clearly are\ndesperate for the kind of info only\nI can provide!"
+    - text: "I hope you realize how rude it is to wake\nme up when I'm trying to sleep...\n\nI'll forgive you, though. You clearly are\ndesperate for the kind of info only\nI can provide!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "That's Ms. Linkle to you."
+    - text: "That's Ms. Linkle to you."
     - utf16_bytes:
         - 0
   Talk_003:
@@ -226,11 +222,11 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Cute...
+    - text: Cute...
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Never heard of him.
+    - text: Never heard of him.
     - utf16_bytes:
         - 0
   Talk_004:
@@ -240,25 +236,25 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Don't try to act coy with "
+    - text: "Don't try to act coy with "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Juannelle
+    - text: Juannelle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Talk_320:
-    - ascii: See ya.
+    - text: See ya.
     - utf16_bytes:
         - 0
   Talk_005:
@@ -268,7 +264,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Hmm... Sorry, guess I was mistaken."
+    - text: "Hmm... Sorry, guess I was mistaken."
     - utf16_bytes:
         - 0
   Talk_310:
@@ -277,36 +273,33 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "There was an adventurer who pledged\nto journey to the northwesternmost\npart of Hyrule...\nTo the very edge of the \nHebra Mountains.\n\nThis adventurer went north of the\nmountain range as far as possible and\nthen west...\nHowever, steep cliffs and "
+    - text: "ЀThere was an adventurer who pledged\nto journey to the northwesternmost\npart of Hyrule...\nTo the very edge of the \nHebra Mountains.\n\nThis adventurer went north of the\nmountain range as far as possible and\nthen west...\nHowever, steep cliffs and "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: raging winds
+    - text: raging winds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nstood in the way. The adventurer was\nforced to turn back.\nUpon returning, I posed a question to\nthe adventurer. I said, \"Why go so\nfar out there?\"\n"
+    - text: "\nstood in the way. The adventurer was\nforced to turn back.\nUpon returning, I posed a question to\nthe adventurer. I said, \"Why go so\nfar out there?\"\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 5892
-    - ascii: "\"Because I wanted to know what was\nthere!\" was the adventurer's reply.\n\n"
+    - text: "ᜄ\"Because I wanted to know what was\nthere!\" was the adventurer's reply.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I must admit, I don't think that'd be\nenough for me. I can't believe someone\nwould want to go into the cold unknown."
+    - text: "ĀI must admit, I don't think that'd be\nenough for me. I can't believe someone\nwould want to go into the cold unknown."
     - utf16_bytes:
         - 0
   LookPicture:
@@ -315,63 +308,60 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ܊Wha
-    - utf16_bytes:
-        - 8212
-    - ascii: "? "
+    - text: "܊Wha—? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "This is the "
+    - text: "This is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: bony horse
+    - text: bony horse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nThat "
+    - text: "?\nThat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Stalhorse
+    - text: Stalhorse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's a monster!\n\n"
+    - text: "It's a monster!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The sight of this is going to haunt my\ndreams for weeks..."
+    - text: "The sight of this is going to haunt my\ndreams for weeks..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " But the picture is\nstill amazing!"
+    - text: " But the picture is\nstill amazing!"
     - utf16_bytes:
         - 0
   Talk_100:
@@ -381,6 +371,6 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Beedle is so very timid...
+    - text: Beedle is so very timid...
     - utf16_bytes:
         - 0

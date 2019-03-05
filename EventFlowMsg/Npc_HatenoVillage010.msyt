@@ -6,14 +6,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I haven't seen Purah lately..."
+    - text: "ĀI haven't seen Purah lately..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I wonder\nif those rumors are true..."
+    - text: " I wonder\nif those rumors are true..."
     - utf16_bytes:
         - 14
         - 1
@@ -22,7 +21,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk15:
     - utf16_bytes:
@@ -30,15 +30,11 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Mr. Traveler, don't give it a second\nthought"
-    - utf16_bytes:
-        - 8212
-    - ascii: just take a load off at the inn.
+    - text: "ȀMr. Traveler, don't give it a second\nthought—just take a load off at the inn."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Come on in!
+    - text: Come on in!
     - utf16_bytes:
         - 0
   talk03:
@@ -48,13 +44,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Well, that's a relief to hear. "
+    - text: "Well, that's a relief to hear. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Us village\nfolk get worried so easily, y'know?"
+    - text: "Us village\nfolk get worried so easily, y'know?"
     - utf16_bytes:
         - 0
   talk16:
@@ -64,11 +60,11 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: Starting to rain...
+    - text: Starting to rain...
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Haah...
+    - text: Haah...
     - utf16_bytes:
         - 0
   talk04:
@@ -77,8 +73,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Yes, indeed..."
+    - text: "ĀYes, indeed..."
     - utf16_bytes:
         - 0
   talk17:
@@ -87,26 +82,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you plan to stay, just talk to the clerk\n"
+    - text: "ĀIf you plan to stay, just talk to the clerk\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: across the counter
+    - text: across the counter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   near02:
-    - ascii: Whew...
+    - text: Whew...
     - utf16_bytes:
         - 0
   talk18:
@@ -115,26 +109,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you plan to stay, just talk to the clerk\n"
+    - text: "ĀIf you plan to stay, just talk to the clerk\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: across the counter
+    - text: across the counter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   near03:
-    - ascii: Now then...
+    - text: Now then...
     - utf16_bytes:
         - 0
   talk06:
@@ -143,22 +136,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Best place to rest up in all of\nHateno Village is "
+    - text: "ĀBest place to rest up in all of\nHateno Village is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ton Pu Inn
+    - text: Ton Pu Inn
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   talk19:
@@ -167,15 +159,14 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "A kid...\n\n\n"
+    - text: "؋A kid...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2820
-    - ascii: Ahh!
+    - text: Ahh!
     - utf16_bytes:
         - 0
   talk07:
@@ -185,7 +176,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Fancy seeing ya so early in the morn.
+    - text: Fancy seeing ya so early in the morn.
     - utf16_bytes:
         - 0
   talk08:
@@ -195,7 +186,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good day.
+    - text: Good day.
     - utf16_bytes:
         - 0
   talk09:
@@ -205,11 +196,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Good to see ya, even at this hour."
+    - text: "Good to see ya, even at this hour."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "She's doing great!"
+    - text: "She's doing great!"
     - utf16_bytes:
         - 0
   talk20:
@@ -218,44 +209,43 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Aha! You gave it away! So the rumor\nabout Purah's grandkid visiting her is\ntrue after all?!\nI can't think of any other reason why\n"
+    - text: "ĀAha! You gave it away! So the rumor\nabout Purah's grandkid visiting her is\ntrue after all?!\nI can't think of any other reason why\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: a young girl
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " would be hanging around\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: research lab
+    - text: a young girl
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " would be hanging around\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: research lab
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk10:
@@ -265,7 +255,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Good to see ya, even in this bad weather."
+    - text: "Good to see ya, even in this bad weather."
     - utf16_bytes:
         - 0
   talk11:
@@ -275,21 +265,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If ya need to rest those bones, go\ncheck out "
+    - text: "If ya need to rest those bones, go\ncheck out "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ton Pu Inn
+    - text: Ton Pu Inn
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk12:
@@ -298,42 +288,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "That "
+    - text: "؋That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Isn't it from the\n"
+    - text: " Isn't it from the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hateno Ancient Tech Lab
+    - text: Hateno Ancient Tech Lab
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   talk00:
@@ -342,28 +331,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Hoo, that "
+    - text: "؋Hoo, that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Doesn't it belong\nto old woman Purah?"
+    - text: " Doesn't it belong\nto old woman Purah?"
     - utf16_bytes:
         - 0
   talk13:
@@ -373,7 +361,7 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "Is the director having trouble getting\naround these days?"
+    - text: "Is the director having trouble getting\naround these days?"
     - utf16_bytes:
         - 0
   talk01:
@@ -383,19 +371,19 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: Can old-woman Purah
+    - text: Can old-woman Purah
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " not get around on\nher own anymore?"
+    - text: " not get around on\nher own anymore?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Is she making\nthe youth carry things around for her?"
+    - text: " Is she making\nthe youth carry things around for her?"
     - utf16_bytes:
         - 0
   talk14:
@@ -404,7 +392,6 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "The weather isn't going to get any\nbetter anytime soon. How's a roof over\nyour head sound?"
+    - text: "ȀThe weather isn't going to get any\nbetter anytime soon. How's a roof over\nyour head sound?"
     - utf16_bytes:
         - 0

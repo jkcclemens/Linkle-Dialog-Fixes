@@ -1,7 +1,7 @@
 ---
 entries:
   "0002":
-    - ascii: Shield stash.
+    - text: Shield stash.
     - utf16_bytes:
         - 0
   talk03:
@@ -10,78 +10,76 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "According to the folks at the stable,"
+    - text: "ċAccording to the folks at the stable,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nthis area is the "
+    - text: "\nthis area is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lanayru
+    - text: Lanayru
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " region.\n\n"
+    - text: " region.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tSha-shaka!"
+        - 9
+    - text: Sha-shaka!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " That means Korok Forest\nis still "
+    - text: " That means Korok Forest\nis still "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: north
+    - text: north
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of here...\n\n"
+    - text: " of here...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Well, since I'm already here,"
+    - text: "ĆWell, since I'm already here,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I may as\nwell stay awhile and relax.\n\n"
+    - text: " I may as\nwell stay awhile and relax.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: "Oh, wait a minute..."
+    - text: "ጆOh, wait a minute..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Nothing right now.
+    - text: Nothing right now.
     - utf16_bytes:
         - 0
   talk04:
@@ -91,26 +89,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ohhh, I think I remember"
+    - text: "Ohhh, I think I remember"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " the way back\nto Korok Forest!\n\n"
+    - text: " the way back\nto Korok Forest!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "And it's all thanks to you!"
+    - text: "And it's all thanks to you!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I'll definitely\nmake it home to Korok Forest this time!\n\nI'll see you there. In Korok Forest!"
+    - text: " I'll definitely\nmake it home to Korok Forest this time!\n\nI'll see you there. In Korok Forest!"
     - utf16_bytes:
         - 0
   talk00:
@@ -124,28 +122,30 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Shalaka?!\n\n\n"
+    - text: "}Shalaka?!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dWe meet again!\n\n\n"
+    - text: "dWe meet again!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tI want to go home to Korok Forest,\nbut I've lost my way..."
+        - 9
+    - text: "I want to go home to Korok Forest,\nbut I've lost my way..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Weapon stash.
+    - text: Weapon stash.
     - utf16_bytes:
         - 0
   talk01:
@@ -154,14 +154,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4875
-    - ascii: "*sniff sniff*"
+    - text: ጋ*sniff sniff*
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI detect the scent of..."
+    - text: "\nI detect the scent of..."
     - utf16_bytes:
         - 14
         - 5
@@ -172,92 +171,92 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Korok seeds
+    - text: Korok seeds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n"
+    - text: "!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "You've"
+    - text: "You've"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " received"
+    - text: " received"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " a "
+    - text: " a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Korok seed
+    - text: Korok seed
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " from the\nforest children, haven't you?!\n\nIf you give me "
+    - text: " from the\nforest children, haven't you?!\n\nIf you give me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Korok seeds
+    - text: Korok seeds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll make one\nof your "
+    - text: " I'll make one\nof your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: stashes
+    - text: stashes
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " bigger! "
+    - text: " bigger! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Which one will it\nbeeeeeeeeeeee?!"
+    - text: "Which one will it\nbeeeeeeeeeeee?!"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -266,7 +265,7 @@ entries:
         - 768
         - 0
   "0001":
-    - ascii: Bow stash.
+    - text: Bow stash.
     - utf16_bytes:
         - 0
   talk02:
@@ -275,86 +274,83 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "*sniff sniff*"
+    - text: Ā*sniff sniff*
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 14
         - 5
         - 2
         - 0
-    - ascii: Aww...
+    - text: Aww...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You didn't bring me any\n"
+    - text: " You didn't bring me any\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Korok seeds
+    - text: Korok seeds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", did you?\n\n"
+    - text: ", did you?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: If you get any
+    - text: ĀIf you get any
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Korok seeds
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " from the\nforest children...\n\nI'll make one of your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: stashes
+    - text: Korok seeds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " bigger\njust like last time! Remember how fun\nthat was?!"
+    - text: " from the\nforest children...\n\nI'll make one of your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: stashes
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " bigger\njust like last time! Remember how fun\nthat was?!"
     - utf16_bytes:
         - 0

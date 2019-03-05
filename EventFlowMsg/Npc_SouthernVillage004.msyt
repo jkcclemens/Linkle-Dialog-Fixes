@@ -1,15 +1,15 @@
 ---
 entries:
   talk09:
-    - ascii: "Those grilled fish look really good.\nI wonder if they were caught locally..."
+    - text: "Those grilled fish look really good.\nI wonder if they were caught locally..."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "It's pouring!"
+    - text: "It's pouring!"
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Time for sleep!
+    - text: Time for sleep!
     - utf16_bytes:
         - 0
   talk10:
@@ -19,7 +19,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Do you like fish?
+    - text: Do you like fish?
     - utf16_bytes:
         - 14
         - 1
@@ -27,10 +27,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Near02:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk11:
@@ -40,20 +41,17 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: The fish around here are really good!
+    - text: The fish around here are really good!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAll it takes is a little taste to fall in love\nwith the local flavor!\nTake as many as you like"
-    - utf16_bytes:
-        - 8212
-    - ascii: "just give it\na try!"
+    - text: "\nAll it takes is a little taste to fall in love\nwith the local flavor!\nTake as many as you like—just give it\na try!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Nope.
+    - text: Nope.
     - utf16_bytes:
         - 0
   talk12:
@@ -63,13 +61,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: How about it? Did you try the fish?
+    - text: How about it? Did you try the fish?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWasn't it delicious?"
+    - text: "\nWasn't it delicious?"
     - utf16_bytes:
         - 14
         - 1
@@ -77,10 +75,11 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: I have!
+    - text: I have!
     - utf16_bytes:
         - 0
   talk13:
@@ -90,11 +89,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You should hurry up and eat it!
+    - text: You should hurry up and eat it!
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "Oh, yeah, I like fish."
+    - text: "Oh, yeah, I like fish."
     - utf16_bytes:
         - 0
   talk14:
@@ -104,11 +103,11 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Really delicious, wasn't it? These fish\nare the pride of our village!"
+    - text: "Really delicious, wasn't it? These fish\nare the pride of our village!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "No way, I hate fish."
+    - text: "No way, I hate fish."
     - utf16_bytes:
         - 0
   talk15:
@@ -117,18 +116,17 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Don't these fish look delicious?!"
+    - text: "ȁDon't these fish look delicious?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI caught them myself!"
+    - text: "\nI caught them myself!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: I ate it.
+    - text: I ate it.
     - utf16_bytes:
         - 0
   talk16:
@@ -138,13 +136,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Rain, huh..."
+    - text: "Rain, huh..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nOn days like this, the only thing I can do\nis gamble at Cloyne's shop."
+    - text: "\nOn days like this, the only thing I can do\nis gamble at Cloyne's shop."
     - utf16_bytes:
         - 14
         - 1
@@ -152,10 +150,11 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: Not yet.
+    - text: Not yet.
     - utf16_bytes:
         - 0
   talk17:
@@ -165,7 +164,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Yup, that's right. Head over to Cloyne's\nplace next door and you can, too!"
+    - text: "Yup, that's right. Head over to Cloyne's\nplace next door and you can, too!"
     - utf16_bytes:
         - 14
         - 1
@@ -173,10 +172,11 @@ entries:
         - 6
         - 8
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Gamble?
+    - text: Gamble?
     - utf16_bytes:
         - 0
   talk00:
@@ -186,7 +186,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey, you!"
+    - text: "Hey, you!"
     - utf16_bytes:
         - 0
   talk18:
@@ -196,11 +196,11 @@ entries:
         - 1
         - 2
         - 3331
-    - ascii: "I'm a fisherman by trade. But I can't go\nout fishing when it's raining, so each\nraindrop cuts into my bottom line."
+    - text: "I'm a fisherman by trade. But I can't go\nout fishing when it's raining, so each\nraindrop cuts into my bottom line."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: What do you do?
+    - text: What do you do?
     - utf16_bytes:
         - 0
   talk01:
@@ -210,21 +210,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Have you gone sailing with a
+    - text: Have you gone sailing with a
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " raft"
+    - text: " raft"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -232,7 +232,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk19:
     - utf16_bytes:
@@ -241,11 +242,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Depends on your luck, for sure."
+    - text: "Depends on your luck, for sure."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Is it profitable?
+    - text: Is it profitable?
     - utf16_bytes:
         - 0
   talk02:
@@ -254,14 +255,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8704
-    - ascii: "I've got an early morning, so I'm going\nto sleep."
+    - text: "∀I've got an early morning, so I'm going\nto sleep."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You should get some sleep, too!"
+    - text: " You should get some sleep, too!"
     - utf16_bytes:
         - 0
   talk03:
@@ -271,52 +271,51 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well then, let me tell you a bit about it..."
+    - text: "Well then, let me tell you a bit about it..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nMost importantly, the wind is critical\nto getting around at sea.\nFishermen like us have learned, "
+    - text: "\nMost importantly, the wind is critical\nto getting around at sea.\nFishermen like us have learned, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "after\nyears of experience,"
+    - text: "after\nyears of experience,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " to predict and use\nthe wind to control our ships.\n"
+    - text: " to predict and use\nthe wind to control our ships.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: However...
+    - text: ᠀However...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I've heard there is an object\ncalled a "
+    - text: " I've heard there is an object\ncalled a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Korok leaf "
+    - text: "Korok leaf "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "that will help you\ncontrol the wind yourself!"
+    - text: "that will help you\ncontrol the wind yourself!"
     - utf16_bytes:
         - 0
   talk20:
@@ -325,8 +324,7 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Zzz...
+    - text: ℀Zzz...
     - utf16_bytes:
         - 0
   talk04:
@@ -335,14 +333,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5892
-    - ascii: "Huh, never would have guessed that just\nfrom looking at ya.\n\nJust remember...going out to sea isn't\nsomething you should take lightly!"
+    - text: "ᜄHuh, never would have guessed that just\nfrom looking at ya.\n\nJust remember...going out to sea isn't\nsomething you should take lightly!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The\nwind can quickly strand you out there!"
+    - text: " The\nwind can quickly strand you out there!"
     - utf16_bytes:
         - 0
   talk05:
@@ -351,14 +348,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4357
-    - ascii: "Going out to sea on a rainy day is\ndangerous!"
+    - text: "ᄅGoing out to sea on a rainy day is\ndangerous!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nThe wind is really strong, making it tough\nto control your boat. There's no way to\nbe sure you'll even come back alive!"
+    - text: "\n\nThe wind is really strong, making it tough\nto control your boat. There's no way to\nbe sure you'll even come back alive!"
     - utf16_bytes:
         - 0
   talk08:
@@ -368,12 +364,12 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Doesn't that fish look delicious?"
+    - text: "Doesn't that fish look delicious?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I caught\nit myself, too!\n\nYou're welcome to help yourself.\nI cooked way too much for just myself\nalone."
+    - text: " I caught\nit myself, too!\n\nYou're welcome to help yourself.\nI cooked way too much for just myself\nalone."
     - utf16_bytes:
         - 0

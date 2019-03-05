@@ -6,61 +6,60 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Yes! It's a giant monster made of\nenchanted ice!"
+    - text: "ĀYes! It's a giant monster made of\nenchanted ice!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nI was out running an errand when I saw\nit..."
+    - text: "\n\nI was out running an errand when I saw\nit..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It was incredible..."
+    - text: " It was incredible..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "and terrifying.\nIt was incredibly terrifying.\nI believe I saw it over in "
+    - text: "and terrifying.\nIt was incredibly terrifying.\nI believe I saw it over in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Coldsnap Hollow
+    - text: Coldsnap Hollow
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nbefore my adrenaline kicked in and I fled\nlike the wind.\n"
+    - text: "\nbefore my adrenaline kicked in and I fled\nlike the wind.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "In any case, it was enormous. But I bet a\n"
+    - text: "In any case, it was enormous. But I bet a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Champion "
+    - text: "Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "could have taken it down\nno problem."
+    - text: "could have taken it down\nno problem."
     - utf16_bytes:
         - 0
   talk40:
@@ -70,15 +69,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Yes...
+    - text: Yes...
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: "What's this big lake?"
+    - text: "What's this big lake?"
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Frost Talus?
+    - text: Frost Talus?
     - utf16_bytes:
         - 0
   talk42:
@@ -87,19 +86,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Did you need something?
+    - text: ĀDid you need something?
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0012":
-    - ascii: Not interested.
+    - text: Not interested.
     - utf16_bytes:
         - 0
   talk43:
@@ -109,22 +108,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Did you have any more questions?
+    - text: Did you have any more questions?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 5
         - 768
         - 0
   "0013":
-    - ascii: Frost Talus?
+    - text: Frost Talus?
     - utf16_bytes:
         - 0
   talk44:
@@ -133,28 +132,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "\"The Rito of "
+    - text: "Ā\"The Rito of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lake Totori
+    - text: Lake Totori
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Where the men\nare fine archers "
+    - text: ". Where the men\nare fine archers "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and the women better\nsingers.\""
+    - text: "and the women better\nsingers.\""
     - utf16_bytes:
         - 0
   talk10:
@@ -164,77 +162,75 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "He stormed off to the "
+    - text: "He stormed off to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwith an angry look on his face.\n\n"
+    - text: "\nwith an angry look on his face.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Bit of a loose cannon that one. I'm\nguessing he went to get revenge for\nHarth by himself.\n"
+    - text: "ကBit of a loose cannon that one. I'm\nguessing he went to get revenge for\nHarth by himself.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The "
+    - text: "ĀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Flight Range "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is where Rito warriors\ntrain for battle.\n\nHe probably went there to stock up on\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: bows
+    - text: "Flight Range "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and "
+    - text: "is where Rito warriors\ntrain for battle.\n\nHe probably went there to stock up on\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bomb arrows
+    - text: bows
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: bomb arrows
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk45:
@@ -243,15 +239,14 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "You being a "
+    - text: "ċYou being a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian
+    - text: Hylian
     - utf16_bytes:
         - 14
         - 0
@@ -262,28 +257,28 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: ", I'm surprised you\nhaven't heard that before.\n\n"
+    - text: ", I'm surprised you\nhaven't heard that before.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "You should visit the "
+    - text: "You should visit the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "village "
+    - text: "village "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "if you get\na chance."
+    - text: "if you get\na chance."
     - utf16_bytes:
         - 0
   talk11:
@@ -292,91 +287,89 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The "
+    - text: "ĀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is beyond\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Dronoc's Pass"
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " on the other side of\n"
+    - text: " is beyond\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lake Totori
+    - text: "Dronoc's Pass"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: " on the other side of\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lake Totori
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "If you're going to go around "
+    - text: "ጀIf you're going to go around "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lake Totori
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nto get there, there's a big difference\nbetween the east and the west sides.\nFor a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hylian
+    - text: Lake Totori
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " like yourself..."
+    - text: "\nto get there, there's a big difference\nbetween the east and the west sides.\nFor a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hylian
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " like yourself..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'd suggest the west side. It's flatter."
+    - text: "\nI'd suggest the west side. It's flatter."
     - utf16_bytes:
         - 0
   talk46:
@@ -385,8 +378,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Now then...
+    - text: ĀNow then...
     - utf16_bytes:
         - 0
   talk12:
@@ -396,13 +388,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I imagine you've traveled a long way to\nget here."
+    - text: "I imagine you've traveled a long way to\nget here."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Do you need something?"
+    - text: " Do you need something?"
     - utf16_bytes:
         - 14
         - 1
@@ -411,7 +403,8 @@ entries:
         - 6
         - 7
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk13:
     - utf16_bytes:
@@ -420,7 +413,7 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: "I'm impressed you're walking around like\nthat in this weather."
+    - text: "I'm impressed you're walking around like\nthat in this weather."
     - utf16_bytes:
         - 0
   talk14:
@@ -429,12 +422,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Farewell.
+    - text: ĀFarewell.
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Phew...
+    - text: Phew...
     - utf16_bytes:
         - 0
   talk15:
@@ -444,13 +436,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ah, "
+    - text: "Ah, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: hello again.
+    - text: hello again.
     - utf16_bytes:
         - 14
         - 1
@@ -459,7 +451,8 @@ entries:
         - 6
         - 7
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk17:
     - utf16_bytes:
@@ -468,7 +461,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk18:
@@ -477,17 +470,16 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Did you need something?
+    - text: ĀDid you need something?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 5
         - 768
@@ -498,20 +490,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "was kicking\nup a storm just a while ago, but he's\ncalmed down now."
+    - text: "was kicking\nup a storm just a while ago, but he's\ncalmed down now."
     - utf16_bytes:
         - 0
   talk30:
@@ -520,47 +513,46 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "A "
+    - text: "ĀA "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Frost Talus "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is a giant made entirely of\nenchanted ice. \n\nI saw one over by "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Coldsnap Hollow
+    - text: "Frost Talus "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIf you want to keep breathing, I suggest\nyou stay far away from there.\n"
+    - text: "is a giant made entirely of\nenchanted ice. \n\nI saw one over by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Coldsnap Hollow
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nIf you want to keep breathing, I suggest\nyou stay far away from there.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I'm pretty good in a fight, but I wouldn't\nwant to bump into that thing in a dark\nvalley."
+    - text: "I'm pretty good in a fight, but I wouldn't\nwant to bump into that thing in a dark\nvalley."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   talk31:
@@ -569,91 +561,89 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWHAT?!"
+    - text: "\nWHAT?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You defeated the "
+    - text: " You defeated the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Frost Talus
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " in\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Coldsnap Hollow
+    - text: Frost Talus
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!\n\n"
+    - text: " in\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Coldsnap Hollow
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I never would have thought a "
+    - text: "ĀI never would have thought a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian
+    - text: Hylian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\ncould take down something that big."
+    - text: "\ncould take down something that big."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nNo offense.\n"
+    - text: "\nNo offense.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "Well, that's a relief."
+    - text: "ሀWell, that's a relief."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " If that thing had\nwandered this way,"
+    - text: " If that thing had\nwandered this way,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " the entire village\nwould've been in danger!"
+    - text: " the entire village\nwould've been in danger!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Um...
+    - text: Um...
     - utf16_bytes:
         - 0
   talk32:
@@ -662,12 +652,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "It's not much, but I'd like to reward you\nfor your trouble."
+    - text: "ĀIt's not much, but I'd like to reward you\nfor your trouble."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Village?
+    - text: Village?
     - utf16_bytes:
         - 0
   talk33:
@@ -676,18 +665,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: How am I?
+    - text: ĀHow am I?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Can't complain, I suppose..."
+    - text: " Can't complain, I suppose..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: The Rito?
+    - text: The Rito?
     - utf16_bytes:
         - 0
   talk34:
@@ -697,14 +685,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Like I said
-    - utf16_bytes:
-        - 8212
-    - ascii: "can't complain."
+    - text: "Like I said—can't complain."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: I defeated it.
+    - text: I defeated it.
     - utf16_bytes:
         - 0
   talk00:
@@ -714,7 +699,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good morning.
+    - text: Good morning.
     - utf16_bytes:
         - 0
   talk35:
@@ -723,8 +708,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Do you need something?
+    - text: ĀDo you need something?
     - utf16_bytes:
         - 14
         - 1
@@ -732,10 +716,11 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk01:
@@ -745,7 +730,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good day.
+    - text: Good day.
     - utf16_bytes:
         - 0
   talk36:
@@ -755,39 +740,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "To think you felled the "
+    - text: "To think you felled the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Frost Talus
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " in\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Coldsnap Hollow
+    - text: Frost Talus
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". It boggles the mind."
+    - text: " in\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Coldsnap Hollow
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". It boggles the mind."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "Where's Teba?"
+    - text: "Where's Teba?"
     - utf16_bytes:
         - 0
   talk02:
@@ -797,7 +782,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good evening.
+    - text: Good evening.
     - utf16_bytes:
         - 0
   talk37:
@@ -811,19 +796,18 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Medoh "
+    - text: "ĀMedoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is calm now, so Rito Village\nshould be at peace."
+    - text: "is calm now, so Rito Village\nshould be at peace."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Flight Range?
+    - text: Flight Range?
     - utf16_bytes:
         - 0
   talk03:
@@ -833,7 +817,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hello.
+    - text: Hello.
     - utf16_bytes:
         - 0
   talk38:
@@ -842,12 +826,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "But this world's chock-full of savage\nmonsters and terrifying beasts. I must\nremain ever vigilant."
+    - text: "ĀBut this world's chock-full of savage\nmonsters and terrifying beasts. I must\nremain ever vigilant."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: How are you?
+    - text: How are you?
     - utf16_bytes:
         - 0
   talk04:
@@ -856,16 +839,16 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: I am Gesane of the Rito.
+    - text: ĀI am Gesane of the Rito.
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk39:
     - utf16_bytes:
@@ -874,7 +857,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Do you have any more questions?
+    - text: Do you have any more questions?
     - utf16_bytes:
         - 14
         - 1
@@ -883,7 +866,8 @@ entries:
         - 6
         - 7
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk05:
     - utf16_bytes:
@@ -891,20 +875,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Rito Village is just across these bridges.\n\n\nWe're all a bit..."
+    - text: "ЀRito Village is just across these bridges.\n\n\nWe're all a bit..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "preoccupied right\nnow,"
+    - text: "preoccupied right\nnow,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I'm sure the shops would\nappreciate your business."
+    - text: " but I'm sure the shops would\nappreciate your business."
     - utf16_bytes:
         - 0
   talk09:
@@ -914,7 +897,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Teba? You mean...our Teba?
+    - text: Teba? You mean...our Teba?
     - utf16_bytes:
         - 0
   talk20:
@@ -924,7 +907,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Are you a Hylian?
+    - text: Are you a Hylian?
     - utf16_bytes:
         - 0
   talk21:
@@ -934,7 +917,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You've come at a good time..."
+    - text: "You've come at a good time..."
     - utf16_bytes:
         - 0
   talk22:
@@ -944,13 +927,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You're Hylian, aren't you?"
+    - text: "You're Hylian, aren't you?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWell done making it here in this weather."
+    - text: "\nWell done making it here in this weather."
     - utf16_bytes:
         - 0
   talk23:
@@ -959,26 +942,26 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Hmm? "
+    - text: "ጀHmm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Did you need something?
+    - text: Did you need something?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: f
+    - text: f
     - utf16_bytes:
         - 65535
         - 0
-    - ascii: "\r*Rito_NPC037_GachiRock"
+        - 13
+    - text: "*Rito_NPC037_GachiRock"
     - utf16_bytes:
         - 8
-    - ascii: "*Rito_NPC037_HowAreYou"
+    - text: "*Rito_NPC037_HowAreYou"
     - utf16_bytes:
         - 5
         - 0
@@ -990,27 +973,26 @@ entries:
         - 3
         - 1
         - 2
-        - 260
-    - ascii: Never mind that. Please listen to this!
+    - text: ĄNever mind that. Please listen to this!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI was out for a walk earlier, and I saw..."
+    - text: "\nI was out for a walk earlier, and I saw..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\na "
+    - text: "\na "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Frost Talus
+    - text: Frost Talus
     - utf16_bytes:
         - 14
         - 0
@@ -1022,10 +1004,8 @@ entries:
         - 4
         - 6
         - 11
-    - ascii: 
-    - utf16_bytes:
-        - 256
-    - ascii: "!"
+        - 12
+    - text: Ā!
     - utf16_bytes:
         - 0
   talk25:
@@ -1034,14 +1014,13 @@ entries:
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "You ever heard of a \"cold shoulder\"?"
+    - text: "ăYou ever heard of a \"cold shoulder\"?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThat's nothing compared to a soggy,\nfrozen shoulder. Brrrrrr!"
+    - text: "\nThat's nothing compared to a soggy,\nfrozen shoulder. Brrrrrr!"
     - utf16_bytes:
         - 0
   talk27:
@@ -1055,27 +1034,28 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "This is "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lake Totori
+    - text: Ѐ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\nAs you can see, it's surrounded by steep\ncliffs with no way up, so don't go falling\nin."
+    - text: "This is "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lake Totori
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n\nAs you can see, it's surrounded by steep\ncliffs with no way up, so don't go falling\nin."
     - utf16_bytes:
         - 0
   talk28:
@@ -1084,33 +1064,32 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "A "
+    - text: "ĀA "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian
+    - text: Hylian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " like yourself should tread\nespecially carefully. Falling in would\nmean certain death.\nUnless you could magically travel to\nsafety,"
+    - text: " like yourself should tread\nespecially carefully. Falling in would\nmean certain death.\nUnless you could magically travel to\nsafety,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " of course,"
+    - text: " of course,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " but let's be real."
+    - text: " but let's be real."
     - utf16_bytes:
         - 0

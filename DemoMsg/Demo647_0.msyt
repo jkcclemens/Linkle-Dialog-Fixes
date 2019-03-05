@@ -1,43 +1,43 @@
 ---
 entries:
   Demo647_0_Text002:
-    - ascii: "This seems like a good spot for the\n"
+    - text: "This seems like a good spot for the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: picture
+    - text: picture
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " you got from Kass..."
+    - text: " you got from Kass..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   Demo647_0_Text001:
-    - ascii: "Would you like to display the "
+    - text: "Would you like to display the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: picture
+    - text: picture
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -45,9 +45,10 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0

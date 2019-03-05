@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: "Your time was "
+    - text: "ဃYour time was "
     - utf16_bytes:
         - 14
         - 0
@@ -17,23 +16,23 @@ entries:
         - 14
         - 2
         - 19
-    - ascii: NJMiniGame_Crosscountry_Current_Minutes
+    - text: NJMiniGame_Crosscountry_Current_Minutes
     - utf16_bytes:
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 2
         - 19
-    - ascii: NJMiniGame_Crosscountry_Current_Seconds
+    - text: NJMiniGame_Crosscountry_Current_Seconds
     - utf16_bytes:
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 2
         - 19
-    - ascii: XTMiniGame_Crosscountry_Current_MilliSeconds
+    - text: XTMiniGame_Crosscountry_Current_MilliSeconds
     - utf16_bytes:
         - 0
         - 14
@@ -41,39 +40,39 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I wasn't REALLY trying my best..."
+    - text: "I wasn't REALLY trying my best..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but a \nbet is a bet!"
+    - text: "but a \nbet is a bet!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Here's your "
+    - text: " Here's your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: reward
+    - text: reward
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for a\nrace well run!"
+    - text: " for a\nrace well run!"
     - utf16_bytes:
         - 0
   AtGoal_00_00:
@@ -82,54 +81,55 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Done!"
+    - text: "}Done!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: dWait...
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " You're done too?\nYou were done...first? "
+    - text: dWait...
     - utf16_bytes:
         - 14
         - 5
-        - 1
         - 0
-    - ascii: Hrm...
-    - utf16_bytes:
-        - 14
         - 0
-        - 2
-        - 2
-    - ascii: P
+    - text: " You're done too?\nYou were done...first? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThat means I lose..."
+    - text: Hrm...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: P
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nThat means I lose..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   AtGoal_01_04:
@@ -143,19 +143,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Nice!"
+    - text: "}Nice!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " My time was "
+    - text: " My time was "
     - utf16_bytes:
         - 14
         - 0
@@ -165,23 +165,23 @@ entries:
         - 14
         - 2
         - 19
-    - ascii: NJMiniGame_Crosscountry_Current_Minutes
+    - text: NJMiniGame_Crosscountry_Current_Minutes
     - utf16_bytes:
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 2
         - 19
-    - ascii: NJMiniGame_Crosscountry_Current_Seconds
+    - text: NJMiniGame_Crosscountry_Current_Seconds
     - utf16_bytes:
         - 0
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 2
         - 19
-    - ascii: XTMiniGame_Crosscountry_Current_MilliSeconds
+    - text: XTMiniGame_Crosscountry_Current_MilliSeconds
     - utf16_bytes:
         - 0
         - 14
@@ -189,17 +189,17 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "You did OK, but if you're ever gonna beat\nme, you've gotta try harder than that!"
+    - text: "You did OK, but if you're ever gonna beat\nme, you've gotta try harder than that!"
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: "Then I'll continue."
+    - text: "Then I'll continue."
     - utf16_bytes:
         - 0
   0005_00:
@@ -208,12 +208,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Yesss!"
+    - text: "}Yesss!"
     - utf16_bytes:
         - 14
         - 5
@@ -223,13 +224,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d Now you're getting into the\nspirit of things!"
+    - text: "d Now you're getting into the\nspirit of things!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'll go set things up.\nDon't go anywhere!"
+    - text: " I'll go set things up.\nDon't go anywhere!"
     - utf16_bytes:
         - 0
   0002_00:
@@ -238,12 +239,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
+    - text: ଇ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Yahoo!"
+    - text: "}Yahoo!"
     - utf16_bytes:
         - 14
         - 5
@@ -253,26 +255,26 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d Now we're talking! "
+    - text: "d Now we're talking! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "This is\nfantastic!"
+    - text: "This is\nfantastic!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " But every challenge has to\nhave some stakes.\nI'll bet you "
+    - text: " But every challenge has to\nhave some stakes.\nI'll bet you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
@@ -283,21 +285,21 @@ entries:
         - 5
         - 1
         - 0
-    - ascii: " I can beat you in\na "
+    - text: " I can beat you in\na "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: race
+    - text: race
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". You have to pay first, though!"
+    - text: ". You have to pay first, though!"
     - utf16_bytes:
         - 14
         - 1
@@ -305,7 +307,8 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   0005_01:
     - utf16_bytes:
@@ -313,12 +316,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}OK!"
+    - text: "}OK!"
     - utf16_bytes:
         - 14
         - 5
@@ -328,33 +332,33 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d Thanks for waiting!
+    - text: d Thanks for waiting!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm so ready\nI could burst, and I bet you are too!\nSo let's begin..."
+    - text: " I'm so ready\nI could burst, and I bet you are too!\nSo let's begin..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "the "
+    - text: "the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: race
+    - text: race
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   0002_01:
@@ -368,7 +372,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Yahoo!"
+    - text: "}Yahoo!"
     - utf16_bytes:
         - 14
         - 5
@@ -378,47 +382,47 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d Now we're talking!"
+    - text: "d Now we're talking!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " This is\nfantastic! "
+    - text: " This is\nfantastic! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Why don't you put down\nanother "
+    - text: "Why don't you put down\nanother "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and "
+    - text: " and "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: race
+    - text: race
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " me again?"
+    - text: " me again?"
     - utf16_bytes:
         - 14
         - 1
@@ -426,38 +430,39 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   0005_03:
-    - ascii: "The goal is the "
+    - text: "The goal is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "flags on top of the \nmountain"
+    - text: "flags on top of the \nmountain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " There's only two of us, so the\nrace ends once someone reaches them!"
+    - text: " There's only two of us, so the\nrace ends once someone reaches them!"
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: One more time!
+    - text: One more time!
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "You're on."
+    - text: "You're on."
     - utf16_bytes:
         - 0
   0004_00:
@@ -466,25 +471,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ఉ
+    - text: ఉ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Noooo!"
+    - text: "}Noooo!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What a letdown..."
+    - text: " What a letdown..."
     - utf16_bytes:
         - 14
         - 5
@@ -495,7 +500,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: " I thought I'd\nfinally met a tough girl with some real\npotential. "
+    - text: " I thought I'd\nfinally met a tough girl with some real\npotential. "
     - utf16_bytes:
         - 14
         - 5
@@ -505,13 +510,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PGuess I thought wrong.
+    - text: PGuess I thought wrong.
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   0005_04:
@@ -520,65 +525,65 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}One more thing!"
+    - text: "}One more thing!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You could probably\nguess this already, but this is a "
+    - text: " You could probably\nguess this already, but this is a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: foot race
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nnot a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: hoof race
+    - text: foot race
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIf you ride your horse or run away from\nthe goal instead of toward it, you'll\nbe "
+    - text: ",\nnot a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: disqualified
+    - text: hoof race
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: ".\nIf you ride your horse or run away from\nthe goal instead of toward it, you'll\nbe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: disqualified
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   "0015":
-    - ascii: "I've had enough."
+    - text: "I've had enough."
     - utf16_bytes:
         - 0
   0014_00:
@@ -587,40 +592,41 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
+    - text: ଇ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Woooo-hooo!"
+    - text: "}Woooo-hooo!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I love this guy!"
+    - text: " I love this guy!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " \nAll right!"
+    - text: " \nAll right!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n"
+    - text: "d\n\n"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Same rules as before. Whoever reaches\nthe goal first wins!"
+    - text: "Same rules as before. Whoever reaches\nthe goal first wins!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "I don't feel like it."
+    - text: "I don't feel like it."
     - utf16_bytes:
         - 0
   0005_NotEnoughMoney:
@@ -629,48 +635,49 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}Oops!"
+    - text: ဋ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}Oops!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I don't race without those "
+    - text: " I don't race without those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "20\nrupees"
+    - text: "20\nrupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " on the line. Why don't you go\nget some so we can finally race?"
+    - text: " on the line. Why don't you go\nget some so we can finally race?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'll be waiting!"
+    - text: "\nI'll be waiting!"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "Let's get started."
+    - text: "Let's get started."
     - utf16_bytes:
         - 0
   0005_07:
@@ -679,30 +686,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}And now..."
+    - text: "}And now..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "it's time!"
+    - text: "it's time!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Get ready..."
+    - text: " Get ready..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   0006_00:
@@ -716,43 +724,43 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}What?!"
+    - text: "}What?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " You're giving up before we\neven start?"
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " You're giving up before we\neven start?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PYikes...
+    - text: PYikes...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dYou'll never get\nanywhere in life with that attitude!"
+    - text: "dYou'll never get\nanywhere in life with that attitude!"
     - utf16_bytes:
         - 0
   0009_01:
@@ -761,30 +769,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Whew!"
+    - text: "}Whew!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dIf you ever want to go again,\nI'd jump at the chance!"
+    - text: "dIf you ever want to go again,\nI'd jump at the chance!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " See you around!"
+    - text: " See you around!"
     - utf16_bytes:
         - 0
   0005_08:
@@ -797,13 +806,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Go!"
+    - text: "}Go!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
@@ -813,7 +822,7 @@ entries:
         - 0
         - 0
   "0006":
-    - ascii: You lost me.
+    - text: You lost me.
     - utf16_bytes:
         - 0
   Halt_00:
@@ -827,33 +836,33 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Whoa, whoa, whoa!"
+    - text: "}Whoa, whoa, whoa!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dThis is a "
+    - text: "dThis is a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "foot\nrace"
+    - text: "foot\nrace"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", not a hoof race!"
+    - text: ", not a hoof race!"
     - utf16_bytes:
         - 14
         - 5
@@ -864,21 +873,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "No horses\nallowed"
+    - text: "No horses\nallowed"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! "
+    - text: "! "
     - utf16_bytes:
         - 14
         - 5
@@ -888,13 +897,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PHey... That means I win by default!
+    - text: PHey... That means I win by default!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Halt_01:
@@ -903,79 +912,80 @@ entries:
         - 3
         - 1
         - 2
-        - 4098
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}One more time!"
+    - text: ဂ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}One more time!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Maybe I wasn't clear\nenough before, but a race is all about\n"
+    - text: " Maybe I wasn't clear\nenough before, but a race is all about\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: reaching the goal
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " on "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: your own two feet
+    - text: reaching the goal
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n"
+    - text: " on "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: your own two feet
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "In other words,"
+    - text: "In other words,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " running the wrong way\nor getting on your horse means you're\n"
+    - text: " running the wrong way\nor getting on your horse means you're\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: disqualified
+    - text: disqualified
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Initial_00:
@@ -984,38 +994,39 @@ entries:
         - 3
         - 1
         - 2
-        - 513
+    - text: ȁ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Hey, friend!"
+    - text: "}Hey, friend!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dYou look like a tough girl.\nBut how tough are you? Tough enough\nto challenge me to a "
+    - text: "dYou look like a tough girl.\nBut how tough are you? Tough enough\nto challenge me to a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: race
+    - text: race
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -1023,7 +1034,8 @@ entries:
         - 6
         - 2
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Halt_02:
     - utf16_bytes:
@@ -1036,58 +1048,58 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}What the heck?!"
+    - text: "}What the heck?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dWhere do you think \nyou're going?"
+    - text: "dWhere do you think \nyou're going?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you're not racing\ntoward the goal, you're just running!\n"
+    - text: " If you're not racing\ntoward the goal, you're just running!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "And that doesn't do anyone any good..."
+    - text: "And that doesn't do anyone any good..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThe "
+    - text: "\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: race is off
+    - text: race is off
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Why don't you come back\nso I can explain the rules again?"
+    - text: " Why don't you come back\nso I can explain the rules again?"
     - utf16_bytes:
         - 0
   Initial_01:
@@ -1096,38 +1108,39 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}Hey, friend!"
+    - text: Ȁ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}Hey, friend!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Sure, horses are\nconvenient and fast, but what about\n"
+    - text: " Sure, horses are\nconvenient and fast, but what about\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: standing on your own two feet
+    - text: standing on your own two feet
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nDon't you think it's important to exercise\nyour legs too?"
+    - text: "?\nDon't you think it's important to exercise\nyour legs too?"
     - utf16_bytes:
         - 0
   AtGoal_00:
@@ -1136,36 +1149,37 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
+    - text: ଇ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Wheeee!"
+    - text: "}Wheeee!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I did it!"
+    - text: " I did it!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I won!"
+    - text: " I won!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You gotta\ngive those flat feet some exercise if you\never wanna beat me, friend!"
+    - text: " You gotta\ngive those flat feet some exercise if you\never wanna beat me, friend!"
     - utf16_bytes:
         - 0
   Initial_02:
@@ -1175,33 +1189,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm itching to challenge you to\n"
+    - text: "I'm itching to challenge you to\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: a foot race
+    - text: a foot race
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", but you need to get off\nyour high horse first! "
+    - text: ", but you need to get off\nyour high horse first! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Please? "
+    - text: "Please? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: For me?
+    - text: For me?
     - utf16_bytes:
         - 0
   0015_00:
@@ -1210,41 +1224,40 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Aww."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "dThat's..."
+    - text: "}Aww."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: Pnot the answer I hoped for...
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "dThat's..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: Pnot the answer I hoped for...
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   AtGoal_02:
@@ -1253,12 +1266,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Whew! "
+    - text: "}Whew! "
     - utf16_bytes:
         - 14
         - 5
@@ -1268,7 +1282,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dSo...wanna race again? "
+    - text: "dSo...wanna race again? "
     - utf16_bytes:
         - 14
         - 1
@@ -1276,7 +1290,8 @@ entries:
         - 6
         - 14
         - 15
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   0015_01:
     - utf16_bytes:
@@ -1285,7 +1300,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Use all that traveling you do as a\nchance to build up your leg muscles!"
+    - text: "Use all that traveling you do as a\nchance to build up your leg muscles!"
     - utf16_bytes:
         - 0
   0014_NotEnoughMoney:
@@ -1294,51 +1309,52 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
+    - text: က
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Whoops!"
+    - text: "}Whoops!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dYou need "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 20 rupees
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " if you\nwanna "
+    - text: "dYou need "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: race
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " if you\nwanna "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: race
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0

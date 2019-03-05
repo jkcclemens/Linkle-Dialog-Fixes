@@ -7,36 +7,36 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "\"My cache?\""
+    - text: "\"My cache?\""
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Could it be a hidden stash\nof money?"
+    - text: " Could it be a hidden stash\nof money?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "If it was left by the ancient hero that\ndefeated the Calamity 10,000 years ago,"
+    - text: "If it was left by the ancient hero that\ndefeated the Calamity 10,000 years ago,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nit must be a big amount!\n"
+    - text: "\nit must be a big amount!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Good luck figuring it out.\nMay the light illuminate your path."
+    - text: "Good luck figuring it out.\nMay the light illuminate your path."
     - utf16_bytes:
         - 0
   talk04:
-    - ascii: "Would you like to hear the ancient song \nabout this rock pillar?"
+    - text: "Would you like to hear the ancient song \nabout this rock pillar?"
     - utf16_bytes:
         - 14
         - 1
@@ -44,7 +44,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk05:
     - utf16_bytes:
@@ -53,13 +54,13 @@ entries:
         - 1
         - 2
         - 3331
-    - ascii: "Maybe some other time, then."
+    - text: "Maybe some other time, then."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nMay the light illuminate your path."
+    - text: "\nMay the light illuminate your path."
     - utf16_bytes:
         - 0
   talk06:
@@ -68,13 +69,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᐊAh!
+    - text: ᐊAh!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You already found it?"
+    - text: " You already found it?"
     - utf16_bytes:
         - 14
         - 0
@@ -84,8 +85,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "A...single "
+    - text: "ဋA...single "
     - utf16_bytes:
         - 14
         - 0
@@ -96,20 +96,20 @@ entries:
         - 5
         - 1
         - 0
-    - ascii: gold rupee
+    - text: gold rupee
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I guess all heroines\naren't made of money."
+    - text: " I guess all heroines\naren't made of money."
     - utf16_bytes:
         - 14
         - 5
@@ -117,7 +117,7 @@ entries:
         - 0
         - 0
   talk00:
-    - ascii: "This oddly shaped rock pillar we're\nstanding on is the subject of a song.\nWould you like to hear it?"
+    - text: "This oddly shaped rock pillar we're\nstanding on is the subject of a song.\nWould you like to hear it?"
     - utf16_bytes:
         - 14
         - 1
@@ -125,7 +125,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk07:
     - utf16_bytes:
@@ -133,13 +134,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ጊWhy, hello!"
+    - text: "ጊWhy, hello!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I certainly didn't expect to\nsee anyone else up here."
+    - text: " I certainly didn't expect to\nsee anyone else up here."
     - utf16_bytes:
         - 14
         - 5
@@ -153,13 +154,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: As you wish!
+    - text: As you wish!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n*ahem*"
+    - text: "\n*ahem*"
     - utf16_bytes:
         - 14
         - 5
@@ -172,43 +173,42 @@ entries:
         - 1
         - 3
         - 4
-        - 230
+    - text: æ
+    - utf16_bytes:
         - 0
         - 14
         - 1
         - 1
         - 4
-        - 52429
-        - 16076
-    - ascii: "\"My cache is at "
+    - text: "쳍㻌\"My cache is at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 17 of 24
+    - text: 17 of 24
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThis rock will point toward its retrieval.\""
+    - text: "\nThis rock will point toward its retrieval.\""
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Yes, please."
+    - text: "Yes, please."
     - utf16_bytes:
         - 0
   Near000:
-    - ascii: "Ah, the smell of the sea."
+    - text: "Ah, the smell of the sea."
     - utf16_bytes:
         - 0
   talk02:
@@ -217,22 +217,23 @@ entries:
         - 1
         - 3
         - 4
-        - 210
+    - text: Ò
+    - utf16_bytes:
         - 0
         - 14
         - 1
         - 1
         - 4
-        - 52429
-        - 16076
+    - text: 쳍㻌
+    - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "An ancient heroine spoke these words:\n\"One day I'll return to fight evil.\""
+    - text: "An ancient heroine spoke these words:\n\"One day I'll return to fight evil.\""
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Not now.
+    - text: Not now.
     - utf16_bytes:
         - 0

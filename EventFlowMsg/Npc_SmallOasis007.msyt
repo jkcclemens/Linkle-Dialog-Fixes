@@ -12,21 +12,20 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: A man that snuck into Gerudo Town
+    - text: A man that snuck into Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\n"
+    - text: "?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "Sorry, that's not me. I've only got eyes\nfor that sandstorm that has stopped..."
+    - text: "ċSorry, that's not me. I've only got eyes\nfor that sandstorm that has stopped..."
     - utf16_bytes:
         - 0
   Talk_001:
@@ -35,7 +34,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThe sandstorm never seems to let up..."
+        - 9
+    - text: The sandstorm never seems to let up...
     - utf16_bytes:
         - 0
   Talk_002:
@@ -44,13 +44,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "PNot sleeping...\nNot...sleeping..."
+    - text: "PNot sleeping...\nNot...sleeping..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_003:
@@ -65,21 +65,20 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: The man that snuck into Gerudo Town
+    - text: The man that snuck into Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\n"
+    - text: "?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "Sorry, that's not me. I'm just interested\nin the sandstorms."
+    - text: "ċSorry, that's not me. I'm just interested\nin the sandstorms."
     - utf16_bytes:
         - 0
   Talk_004:
@@ -88,7 +87,6 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: The sandstorm stopped!
+    - text: ጄThe sandstorm stopped!
     - utf16_bytes:
         - 0

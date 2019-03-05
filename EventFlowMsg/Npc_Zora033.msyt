@@ -6,36 +6,35 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "You do not have a "
+    - text: "ąYou do not have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora spear
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", nor do you\nhave a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: diamond
+    - text: Zora spear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: ", nor do you\nhave a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: diamond
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   talk16:
@@ -44,36 +43,35 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "You do not have a "
+    - text: "ąYou do not have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: diamond
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", nor do you\nhave enough "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: flint
+    - text: diamond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: ", nor do you\nhave enough "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   talk17:
@@ -82,14 +80,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "I will make a new one for you when you\nbring me all of the necessary materials."
+    - text: "ขI will make a new one for you when you\nbring me all of the necessary materials."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCome see me again once you have them."
+    - text: "\nCome see me again once you have them."
     - utf16_bytes:
         - 0
   talk18:
@@ -98,14 +95,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Ah... I see you have brought me the\nmaterials I require."
+    - text: "စAh... I see you have brought me the\nmaterials I require."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Shall I remake\nthat weapon for you?"
+    - text: " Shall I remake\nthat weapon for you?"
     - utf16_bytes:
         - 14
         - 1
@@ -113,7 +109,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk19:
     - utf16_bytes:
@@ -121,20 +118,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Diamonds
+    - text: Diamonds
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " are rather hard to come by.\nAre you sure about this?"
+    - text: " are rather hard to come by.\nAre you sure about this?"
     - utf16_bytes:
         - 14
         - 1
@@ -142,7 +140,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk20:
     - utf16_bytes:
@@ -150,14 +149,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Hm. As you wish.
+    - text: ĀHm. As you wish.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Come back when you\nare ready for me to remake it for you."
+    - text: " Come back when you\nare ready for me to remake it for you."
     - utf16_bytes:
         - 0
   talk21:
@@ -166,14 +164,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Understood. "
+    - text: "ЀUnderstood. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'll get to work right away."
+    - text: "I'll get to work right away."
     - utf16_bytes:
         - 0
   talk22:
@@ -182,14 +179,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: Phew...
+    - text: ሀPhew...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That was rather difficult to make.\n\n\nPlease take good care of it."
+    - text: " That was rather difficult to make.\n\n\nPlease take good care of it."
     - utf16_bytes:
         - 0
   talk23:
@@ -199,41 +195,41 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "As the Champion, you should be able to\nuse both the "
+    - text: "As the Champion, you should be able to\nuse both the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lightscale Trident "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: ceremonial trident
+    - text: "Lightscale Trident "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIf you break either one..."
+    - text: "and the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: ceremonial trident
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nIf you break either one..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "please let me\nknow so I can remake it for you."
+    - text: "please let me\nknow so I can remake it for you."
     - utf16_bytes:
         - 0
   talk24:
@@ -242,20 +238,22 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "You are here...\n\n\nWhat do you need?"
+    - text: "စYou are here...\n\n\nWhat do you need?"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: b
+    - text: b
     - utf16_bytes:
         - 8
-    - ascii: "(Npc_Zora033_Spear050\t(Npc_Zora033_Spear049"
+    - text: (Npc_Zora033_Spear050
+    - utf16_bytes:
+        - 9
+    - text: (Npc_Zora033_Spear049
     - utf16_bytes:
         - 65535
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 768
@@ -266,109 +264,107 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The "
+    - text: "ĀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: ceremonial trident
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", although it is a\ncounterfeit, is a secret weapon of the\nroyal family, like the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lightscale Trident
+    - text: ceremonial trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI am the only person permitted to\ncraft one.\n\n"
+    - text: ", although it is a\ncounterfeit, is a secret weapon of the\nroyal family, like the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lightscale Trident
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nI am the only person permitted to\ncraft one.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Should you ever break it or lose track\nof it..."
+    - text: "ကShould you ever break it or lose track\nof it..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "simply bring me a "
+    - text: "simply bring me a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora spear
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nand "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: five pieces
+    - text: Zora spear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of "
+    - text: "\nand "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: flint
-    - utf16_bytes:
-        - 14
         - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nDo so, and I will make you a new\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: ceremonial trident
+    - text: five pieces
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nDo so, and I will make you a new\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: ceremonial trident
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk26:
@@ -378,27 +374,27 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: ceremonial trident
+    - text: ceremonial trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... I somehow felt\nit had disappeared from this world."
+    - text: "... I somehow felt\nit had disappeared from this world."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nShall I remake it for you?"
+    - text: "\nShall I remake it for you?"
     - utf16_bytes:
         - 14
         - 1
@@ -406,7 +402,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk27:
     - utf16_bytes:
@@ -415,33 +412,33 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "You do not have it in your possession,\n"
+    - text: "You do not have it in your possession,\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but I can sense the "
+    - text: "but I can sense the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: ceremonial trident
+    - text: ceremonial trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nis still in this world.\nIf you have entrusted it to someone,\nthat is one thing..."
+    - text: "\nis still in this world.\nIf you have entrusted it to someone,\nthat is one thing..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but if not, I must\nstrongly suggest you locate it."
+    - text: "but if not, I must\nstrongly suggest you locate it."
     - utf16_bytes:
         - 0
   talk28:
@@ -450,60 +447,59 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "In that case, I will need "
+    - text: "ĀIn that case, I will need "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "a "
+    - text: "a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora spear
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " and\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: five pieces
+    - text: Zora spear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of "
+    - text: " and\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: flint
+        - 0
+    - text: five pieces
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   talk00:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk29:
@@ -512,19 +508,22 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: What do you want?
+    - text: ขWhat do you want?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: V
+    - text: V
     - utf16_bytes:
         - 11
-    - ascii: "\"Npc_Zora033_spear\f\"Npc_Zora033_doing\r"
+    - text: "\"Npc_Zora033_spear"
     - utf16_bytes:
+        - 12
+    - text: "\"Npc_Zora033_doing"
+    - utf16_bytes:
+        - 13
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 768
@@ -535,19 +534,22 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "So...the Hylian who stole Lady Mipha\naway thinks she can just come wandering\nin here like nothing happened.\nWhat business do you have here after\nall these years?!"
+    - text: "ขSo...the Hylian who stole Lady Mipha\naway thinks she can just come wandering\nin here like nothing happened.\nWhat business do you have here after\nall these years?!"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: V
+    - text: V
     - utf16_bytes:
         - 11
-    - ascii: "\"Npc_Zora033_spear\f\"Npc_Zora033_doing\r"
+    - text: "\"Npc_Zora033_spear"
     - utf16_bytes:
+        - 12
+    - text: "\"Npc_Zora033_doing"
+    - utf16_bytes:
+        - 13
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 768
@@ -558,8 +560,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4098
-    - ascii: The weapons workshop...
+    - text: ဂThe weapons workshop...
     - utf16_bytes:
         - 0
   talk02:
@@ -569,18 +570,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: V
+    - text: V
     - utf16_bytes:
         - 11
-    - ascii: "\"Npc_Zora033_spear\f\"Npc_Zora033_doing\r"
+    - text: "\"Npc_Zora033_spear"
     - utf16_bytes:
+        - 12
+    - text: "\"Npc_Zora033_doing"
+    - utf16_bytes:
+        - 13
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 768
@@ -591,8 +596,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4098
-    - ascii: Trident maintenance...
+    - text: ဂTrident maintenance...
     - utf16_bytes:
         - 0
   talk03:
@@ -602,13 +606,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "So I have heard. "
+    - text: "So I have heard. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Hylian Champion Linkle...\n\n\nNow Lady Mipha's spirit can finally rest\nin peace."
+    - text: "Hylian Champion Linkle...\n\n\nNow Lady Mipha's spirit can finally rest\nin peace."
     - utf16_bytes:
         - 0
   talk32:
@@ -617,36 +621,35 @@ entries:
         - 3
         - 1
         - 2
-        - 8706
-    - ascii: "The "
+    - text: "∂The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lightscale Trident
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " and\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: ceremonial trident
+    - text: Lightscale Trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " and\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: ceremonial trident
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   talk04:
@@ -655,28 +658,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1029
-    - ascii: "Linkle... "
+    - text: "ЅLinkle... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You have acquired the\n"
+    - text: "You have acquired the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lightscale Trident
+    - text: Lightscale Trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   talk33:
@@ -686,31 +688,31 @@ entries:
         - 1
         - 2
         - 3074
-    - ascii: "You have been making a racket since you\nwalked in here.\n\nThere is no point in coming here if you\ndo not possess the "
+    - text: "You have been making a racket since you\nwalked in here.\n\nThere is no point in coming here if you\ndo not possess the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lightscale Trident
+    - text: Lightscale Trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nLeave. Now."
+    - text: "\nLeave. Now."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "Yes, please."
+    - text: "Yes, please."
     - utf16_bytes:
         - 0
   talk05:
@@ -719,122 +721,121 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The "
+    - text: "ĀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lightscale Trident
+    - text: Lightscale Trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is the royal\nfamily's secret weapon..."
+    - text: " is the royal\nfamily's secret weapon..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I am the\nonly person permitted to craft one.\nShould you ever overuse it to the point\nof breaking, "
+    - text: " I am the\nonly person permitted to craft one.\nShould you ever overuse it to the point\nof breaking, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "or should you ever lose\ntrack of it...\nSimply bring me a "
+    - text: "or should you ever lose\ntrack of it...\nSimply bring me a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora spear
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: one
+    - text: Zora spear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: diamond
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", and "
+    - text: ",\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: five pieces
+    - text: one
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nof "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nDo that, and I will make you a new\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lightscale Trident
+    - text: diamond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " whenever you\nhave need."
+    - text: ", and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: five pieces
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nof "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nDo that, and I will make you a new\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lightscale Trident
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " whenever you\nhave need."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "No, but thank you."
+    - text: "No, but thank you."
     - utf16_bytes:
         - 0
   talk06:
@@ -844,27 +845,27 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lightscale Trident
+    - text: Lightscale Trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... I somehow felt\nit had disappeared from this world."
+    - text: "... I somehow felt\nit had disappeared from this world."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nShall I remake it for you?"
+    - text: "\nShall I remake it for you?"
     - utf16_bytes:
         - 14
         - 1
@@ -872,10 +873,11 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk07:
@@ -884,86 +886,85 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "In that case,"
+    - text: "ĀIn that case,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I will need a "
+    - text: " I will need a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora spear
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "one "
+    - text: Zora spear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
+    - text: ",\n"
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: diamond
+        - 0
+    - text: "one "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: five pieces
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of "
-    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: diamond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ", and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: five pieces
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk08:
@@ -973,37 +974,37 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "You do not have it in your possession,\n"
+    - text: "You do not have it in your possession,\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but I can sense the "
+    - text: "but I can sense the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lightscale Trident
+    - text: Lightscale Trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nis still in this world.\nIf a monster were to take hold of it,\nthat would be extremely dangerous.\n\nIf you have entrusted it to someone,\nthat is one thing..."
+    - text: "\nis still in this world.\nIf a monster were to take hold of it,\nthat would be extremely dangerous.\n\nIf you have entrusted it to someone,\nthat is one thing..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but if not, I must\nstrongly suggest you locate it."
+    - text: "but if not, I must\nstrongly suggest you locate it."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: A Lightscale Trident.
+    - text: A Lightscale Trident.
     - utf16_bytes:
         - 0
   talk09:
@@ -1012,12 +1013,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: Hmm...
+    - text: စHmm...
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: A Ceremonial Trident.
+    - text: A Ceremonial Trident.
     - utf16_bytes:
         - 0
   talk10:
@@ -1026,12 +1026,11 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "You do not have all of the materials\nI require..."
+    - text: "ąYou do not have all of the materials\nI require..."
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk11:
@@ -1040,26 +1039,25 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "You do not have a "
+    - text: "ąYou do not have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora spear
+    - text: Zora spear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: A trident?
+    - text: A trident?
     - utf16_bytes:
         - 0
   talk12:
@@ -1068,26 +1066,25 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "You do not have a "
+    - text: "ąYou do not have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: diamond
+    - text: diamond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: What are you doing?
+    - text: What are you doing?
     - utf16_bytes:
         - 0
   talk13:
@@ -1096,26 +1093,25 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "You do not have enough "
+    - text: "ąYou do not have enough "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: What is this place?
+    - text: What is this place?
     - utf16_bytes:
         - 0
   talk14:
@@ -1124,35 +1120,34 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "You do not have a "
+    - text: "ąYou do not have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Zora spear
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", nor do you\nhave enough "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: flint
+    - text: Zora spear
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: ", nor do you\nhave enough "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0

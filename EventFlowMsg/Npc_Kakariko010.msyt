@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "What are you going to sell me?\nI'm excited to find out!"
+    - text: "What are you going to sell me?\nI'm excited to find out!"
     - utf16_bytes:
         - 0
   Com_Talk_01:
@@ -27,7 +27,7 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "That'll be "
+    - text: "That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -37,28 +37,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Is that OK?"
+    - text: ". Is that OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02:
     - utf16_bytes:
@@ -66,7 +65,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thank you.
+    - text: 촉Thank you.
     - utf16_bytes:
         - 0
   Com_Talk_04:
@@ -75,17 +74,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "Oh, second thoughts?"
+    - text: "촄Oh, second thoughts?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nToo bad"
-    - utf16_bytes:
-        - 8212
-    - ascii: I had my eye on that.
+    - text: "\nToo bad—I had my eye on that."
     - utf16_bytes:
         - 0
   Com_Talk_05:
@@ -95,7 +90,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Please take your time.
+    - text: Please take your time.
     - utf16_bytes:
         - 0
   Com_Talk_12:
@@ -105,7 +100,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I have confidence in all of my wares.\nGo on, take a good look around!"
+    - text: "I have confidence in all of my wares.\nGo on, take a good look around!"
     - utf16_bytes:
         - 0
   Com_Talk_13:
@@ -125,17 +120,14 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "OK, and how many?"
+    - text: "OK, and how many?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Com_Talk_02b:
     - utf16_bytes:
@@ -143,7 +135,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thank you!
+    - text: 촉Thank you!
     - utf16_bytes:
         - 0
   Com_Talk_08:
@@ -152,8 +144,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "I'd LIKE to give you a discount, but I've\ngot to make a living too, ya know?\nIf you can't afford it, just walk away."
+    - text: "؋I'd LIKE to give you a discount, but I've\ngot to make a living too, ya know?\nIf you can't afford it, just walk away."
     - utf16_bytes:
         - 0
   Com_Talk_14:
@@ -173,15 +164,15 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "So "
+    - text: "So "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " will net you...\n"
+    - text: " will net you...\n"
     - utf16_bytes:
         - 14
         - 0
@@ -191,28 +182,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees "
+    - text: " rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: total.
+    - text: total.
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02c:
     - utf16_bytes:
@@ -220,8 +210,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52503
-    - ascii: What a great item!
+    - text: 촗What a great item!
     - utf16_bytes:
         - 0
   Com_Talk_09:
@@ -230,14 +219,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: Kid...
+    - text: ؋Kid...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "that pouch of yours is full\nto bursting. You'll need to sell\nor get rid of something."
+    - text: "that pouch of yours is full\nto bursting. You'll need to sell\nor get rid of something."
     - utf16_bytes:
         - 0
   Com_Talk_15:
@@ -246,8 +234,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "Ah. Sorry, I don't deal in that."
+    - text: "촄Ah. Sorry, I don't deal in that."
     - utf16_bytes:
         - 0
   Com_Talk_02d:
@@ -256,8 +243,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Heh, I was eyeing that.\nThank you!"
+    - text: "촇Heh, I was eyeing that.\nThank you!"
     - utf16_bytes:
         - 0
   Com_Talk_16:
@@ -266,22 +252,18 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "You can't sell me clothes right off your\nback. Take 'em off if you wanna sell."
+    - text: "촄You can't sell me clothes right off your\nback. Take 'em off if you wanna sell."
     - utf16_bytes:
         - 0
   Com_Talk_31:
-    - ascii: How many?
+    - text: How many?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   Com_Talk_33:
     - utf16_bytes:
@@ -290,13 +272,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "For one,"
+    - text: "For one,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " that'll be "
+    - text: " that'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -306,37 +288,36 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_34:
-    - ascii: So...all of them?
+    - text: So...all of them?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That will run you about\n"
+    - text: " That will run you about\n"
     - utf16_bytes:
         - 14
         - 0
@@ -346,37 +327,36 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". How's that sound?"
+    - text: ". How's that sound?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_35:
-    - ascii: "Oh, all of them?"
+    - text: "Oh, all of them?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That should be about\n"
+    - text: " That should be about\n"
     - utf16_bytes:
         - 14
         - 0
@@ -386,31 +366,30 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". How's that sound?"
+    - text: ". How's that sound?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_05b:
-    - ascii: I can still buy stuff from you...
+    - text: I can still buy stuff from you...
     - utf16_bytes:
         - 0
   Talk01:
@@ -419,8 +398,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "I can't remember the last time we had\na customer in here!\n\nYoung folks in this village don't have\nmuch use for a bow...\n\nIt's a thrill to see a young lad like you\ncome into the shop. Well, don't mind me.\nTake your time lookin' around."
+    - text: "ȁI can't remember the last time we had\na customer in here!\n\nYoung folks in this village don't have\nmuch use for a bow...\n\nIt's a thrill to see a young lad like you\ncome into the shop. Well, don't mind me.\nTake your time lookin' around."
     - utf16_bytes:
         - 14
         - 1
@@ -428,7 +406,8 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Com_Talk_50:
     - utf16_bytes:
@@ -447,7 +426,7 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "That'll be "
+    - text: "That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -457,31 +436,30 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". That OK?"
+    - text: ". That OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_05c:
-    - ascii: "Do you have anything else?\nI love buying things!"
+    - text: "Do you have anything else?\nI love buying things!"
     - utf16_bytes:
         - 0
   Talk02:
@@ -490,8 +468,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "So are you an archer?\n\n\nYoung folks in this village don't have\nmuch use for a bow...\n\nIt's a thrill to see a young lad like you\ncome into the shop. Well, don't mind me.\nTake your time lookin' around.\nOh, and if you're runnin' low on funds,\nI'm happy to buy something from you.\nGimme a shout if you need anything!"
+    - text: "ȁSo are you an archer?\n\n\nYoung folks in this village don't have\nmuch use for a bow...\n\nIt's a thrill to see a young lad like you\ncome into the shop. Well, don't mind me.\nTake your time lookin' around.\nOh, and if you're runnin' low on funds,\nI'm happy to buy something from you.\nGimme a shout if you need anything!"
     - utf16_bytes:
         - 0
   Com_Talk_51:
@@ -511,20 +488,17 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: How many were you thinking?
+    - text: How many were you thinking?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   Com_Talk_05d:
-    - ascii: "I'm ready when you are!"
+    - text: "I'm ready when you are!"
     - utf16_bytes:
         - 0
   Com_Talk_52:
@@ -534,15 +508,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So "
+    - text: "So "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " would come to...\na total of "
+    - text: " would come to...\na total of "
     - utf16_bytes:
         - 14
         - 0
@@ -552,28 +526,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Talk10:
     - utf16_bytes:
@@ -582,7 +555,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Thank you.
+    - text: Thank you.
     - utf16_bytes:
         - 0
   Com_Talk_53:
@@ -591,14 +564,13 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: "Oh, second thoughts?"
+    - text: "᠀Oh, second thoughts?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nToo bad!"
+    - text: "\nToo bad!"
     - utf16_bytes:
         - 0
   Talk05:
@@ -608,13 +580,13 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Look at you, still raring to go, even at\nthis hour. It's good to be young, eh?"
+    - text: "Look at you, still raring to go, even at\nthis hour. It's good to be young, eh?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSomething urgent, I take it?"
+    - text: "\nSomething urgent, I take it?"
     - utf16_bytes:
         - 14
         - 1
@@ -622,7 +594,8 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk11:
     - utf16_bytes:
@@ -631,7 +604,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "My, my! Eager, aren't we?\nI'll be sure to make some more for you."
+    - text: "My, my! Eager, aren't we?\nI'll be sure to make some more for you."
     - utf16_bytes:
         - 0
   Com_Talk_54:
@@ -640,8 +613,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "I'd LIKE to give you a discount, but I've\ngot to make a living too, ya know?\nIf you can't afford it, just walk away."
+    - text: "؋I'd LIKE to give you a discount, but I've\ngot to make a living too, ya know?\nIf you can't afford it, just walk away."
     - utf16_bytes:
         - 0
   Com_Talk_55:
@@ -650,18 +622,17 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "Kid...that pouch of yours is full\nto bursting. "
+    - text: "촄Kid...that pouch of yours is full\nto bursting. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You need to make\nsome room."
+    - text: "You need to make\nsome room."
     - utf16_bytes:
         - 0
   "5500":
-    - ascii: OK.
+    - text: OK.
     - utf16_bytes:
         - 0
   Talk13:
@@ -670,14 +641,15 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm sorry. As you can see,\nwe're completely sold out\nof everything at the moment.\n"
+        - 9
+    - text: "I'm sorry. As you can see,\nwe're completely sold out\nof everything at the moment.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "However, I can still buy things from you.\nIs there anything you'd like to sell?"
+    - text: "However, I can still buy things from you.\nIs there anything you'd like to sell?"
     - utf16_bytes:
         - 14
         - 1
@@ -685,7 +657,8 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Com_Talk_56:
     - utf16_bytes:
@@ -694,7 +667,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "For one, that'll be "
+    - text: "For one, that'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -704,36 +677,34 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "5501":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I wanna sell.
+    - text: I wanna sell.
     - utf16_bytes:
         - 0
   Talk08:
@@ -742,8 +713,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "If there's something you want, just go\nahead and grab it, yeah? Or did you\nwant to sell something?"
+    - text: "ȁIf there's something you want, just go\nahead and grab it, yeah? Or did you\nwant to sell something?"
     - utf16_bytes:
         - 14
         - 1
@@ -751,14 +721,15 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "5502":
-    - ascii: I wanna buy.
+    - text: I wanna buy.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Promise?
+    - text: Promise?
     - utf16_bytes:
         - 0
   Talk21:
@@ -767,33 +738,32 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Are you going out?\n\n\n"
+    - text: "ጄAre you going out?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "It's a lot easier to find materials at night."
+    - text: "It's a lot easier to find materials at night."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBut then, there are also more monsters\naround when it's dark. Please be careful!"
+    - text: "\nBut then, there are also more monsters\naround when it's dark. Please be careful!"
     - utf16_bytes:
         - 0
   "5503":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Farewell.
+    - text: Farewell.
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: Welcome!
+    - text: Welcome!
     - utf16_bytes:
         - 0
   Talk23:
@@ -803,17 +773,17 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Kid, you've lifted my spirits so high I can\nbarely contain myself!"
+    - text: "Kid, you've lifted my spirits so high I can\nbarely contain myself!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I even miss my\nhusband at the moment. Just a tiny bit..."
+    - text: " I even miss my\nhusband at the moment. Just a tiny bit..."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: "I'm always making more!"
+    - text: "I'm always making more!"
     - utf16_bytes:
         - 0
   Talk30:
@@ -823,13 +793,13 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Heh, my heart's practically singing..."
+    - text: "Heh, my heart's practically singing..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI haven't felt this way in years."
+    - text: "\nI haven't felt this way in years."
     - utf16_bytes:
         - 0
   Talk24:
@@ -838,42 +808,43 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh...are you planning to leave already?"
+        - 9
+    - text: Oh...are you planning to leave already?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThat's too bad.\n\n"
+    - text: "\nThat's too bad.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "Well, while you're here, let me give you\na bit of advice.\n\nIf you need money, go ahead and sell\nsome "
+    - text: "Well, while you're here, let me give you\na bit of advice.\n\nIf you need money, go ahead and sell\nsome "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: ore
+    - text: ore
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Any shop you find will buy\nit at a premium price."
+    - text: ". Any shop you find will buy\nit at a premium price."
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: "Awful weather, isn't it?"
+    - text: "Awful weather, isn't it?"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   Talk31:
@@ -883,19 +854,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: The way you handle that bow of yours...
+    - text: The way you handle that bow of yours...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nA thing of beauty, I tell ya.\n\nHeh, sorry. I'm getting carried away."
+    - text: "\nA thing of beauty, I tell ya.\n\nHeh, sorry. I'm getting carried away."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou lookin' to sell something?"
+    - text: "\nYou lookin' to sell something?"
     - utf16_bytes:
         - 14
         - 1
@@ -903,7 +874,8 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk19:
     - utf16_bytes:
@@ -911,48 +883,47 @@ entries:
         - 3
         - 1
         - 2
-        - 6401
-    - ascii: "Hmm, at the rate you're going through\narrows, you must be quite the archer!\n\n"
+    - text: "ᤁHmm, at the rate you're going through\narrows, you must be quite the archer!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBack in the day, my husband was the \nfinest archer in the whole Sheikah tribe...\n\nThese days, all he cares about are his\nsilly "
+        - 9
+    - text: "Back in the day, my husband was the \nfinest archer in the whole Sheikah tribe...\n\nThese days, all he cares about are his\nsilly "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Cuccos
+    - text: Cuccos
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: ". "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "He's completely lost\nhis nerve. And his mind too.\n"
+    - text: "He's completely lost\nhis nerve. And his mind too.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "*ahem* Sorry. He and I don't live\ntogether anymore, but the sight of you\nreminds me of him so much...\n"
+    - text: "*ahem* Sorry. He and I don't live\ntogether anymore, but the sight of you\nreminds me of him so much...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Please, don't mind me.\nI'm just rambling now."
+    - text: "āPlease, don't mind me.\nI'm just rambling now."
     - utf16_bytes:
         - 0
   Talk25:
@@ -961,26 +932,26 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "Hey, kid! "
+    - text: "Hey, kid! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I saw you!\n\n\n"
+    - text: "I saw you!\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: dYou were amazing!
+    - text: dYou were amazing!
     - utf16_bytes:
         - 14
         - 5
@@ -990,7 +961,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}\n\n\n"
+    - text: "}\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -1001,19 +972,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dGirl, "
+    - text: "dGirl, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "what a shot in the heart that was!\n\n\n"
+    - text: "what a shot in the heart that was!\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
@@ -1024,19 +995,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dMy husband's a fine archer himself..."
+    - text: "dMy husband's a fine archer himself..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nbut we're living apart right now.\n\nThis feeling..."
+    - text: "\nbut we're living apart right now.\n\nThis feeling..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It's been so, so long."
+    - text: " It's been so, so long."
     - utf16_bytes:
         - 14
         - 5
@@ -1046,20 +1017,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}\n\n\n"
+    - text: "}\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "I'm so excited right now!"
+    - text: "I'm so excited right now!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -1070,15 +1041,15 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dThat really was something special to see.\nIn fact, here... A token of my thanks."
+    - text: "dThat really was something special to see.\nIn fact, here... A token of my thanks."
     - utf16_bytes:
         - 0
   "5507":
-    - ascii: "I'll take 'em all!"
+    - text: "I'll take 'em all!"
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   Talk32:
@@ -1088,13 +1059,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Well then!
+    - text: Well then!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Was that all you wanted?"
+    - text: " Was that all you wanted?"
     - utf16_bytes:
         - 14
         - 1
@@ -1103,7 +1074,8 @@ entries:
         - 1
         - 0
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk26:
     - utf16_bytes:
@@ -1111,20 +1083,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PIf only my husband hadn't become obsessed with\n"
+    - text: "PIf only my husband hadn't become obsessed with\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Cuccos
+    - text: Cuccos
     - utf16_bytes:
         - 14
         - 0
@@ -1135,23 +1106,23 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " and had kept up with his archery skills..."
+    - text: " and had kept up with his archery skills..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIf only..."
+    - text: "\nIf only..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "5508":
-    - ascii: All of them.
+    - text: All of them.
     - utf16_bytes:
         - 0
   Talk28:
@@ -1160,8 +1131,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Don't go forgetting our promise now."
+    - text: "ȁDon't go forgetting our promise now."
     - utf16_bytes:
         - 14
         - 1
@@ -1170,7 +1140,8 @@ entries:
         - 1
         - 0
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk34:
     - utf16_bytes:
@@ -1179,7 +1150,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: I like how you shop.
+    - text: I like how you shop.
     - utf16_bytes:
         - 0
   Talk29:
@@ -1188,57 +1159,56 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "You forgot already?!\n\n\n"
+    - text: "ขYou forgot already?!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "You were going to "
+    - text: "You were going to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: light
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: torches
+    - text: light
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nby the "
+    - text: " the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Goddess Statue
+    - text: torches
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". I'm looking\nforward to it, so don't mess it up!"
+    - text: "\nby the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Goddess Statue
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". I'm looking\nforward to it, so don't mess it up!"
     - utf16_bytes:
         - 0
   Talk35:
@@ -1248,7 +1218,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Thank you!
+    - text: Thank you!
     - utf16_bytes:
         - 0
   Talk36:
@@ -1258,7 +1228,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Please come again!
+    - text: Please come again!
     - utf16_bytes:
         - 0
   Talk37:
@@ -1267,76 +1237,76 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Hey, kid! "
+    - text: "Hey, kid! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: I saw you!
+    - text: I saw you!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Although... "
+    - text: "Although... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "What I really wanted was for\nyou to light the fire using an arrow...\n\nBut I suppose a man is ultimately\ndoomed to betray a woman's\nexpectations. "
+    - text: "What I really wanted was for\nyou to light the fire using an arrow...\n\nBut I suppose a man is ultimately\ndoomed to betray a woman's\nexpectations. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Don't you think?\nI haven't seen him in a while..."
+    - text: "Don't you think?\nI haven't seen him in a while..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "for various\nreasons..."
+    - text: "for various\nreasons..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but you being inconsiderate\nreminds me of my husband.\n*ahem* "
+    - text: "but you being inconsiderate\nreminds me of my husband.\n*ahem* "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Anyway...\n\n\n"
+    - text: "Anyway...\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "I'm so excited right now!!"
+    - text: "I'm so excited right now!!"
     - utf16_bytes:
         - 14
         - 5
@@ -1346,14 +1316,14 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "Thank you for that. Here, take this as a\ntoken of my appreciation."
+    - text: "Thank you for that. Here, take this as a\ntoken of my appreciation."
     - utf16_bytes:
         - 0
   Talk38:
@@ -1363,7 +1333,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "More importantly...\n\n\nYou better not forget the promise\nyou made!"
+    - text: "More importantly...\n\n\nYou better not forget the promise\nyou made!"
     - utf16_bytes:
         - 14
         - 1
@@ -1372,7 +1342,8 @@ entries:
         - 1
         - 0
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk39:
     - utf16_bytes:
@@ -1381,7 +1352,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's getting dark..."
+    - text: "It's getting dark..."
     - utf16_bytes:
         - 14
         - 1
@@ -1389,5 +1360,6 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

@@ -7,33 +7,33 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Oh, that's a good thought..."
+    - text: "Oh, that's a good thought..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Rito
+    - text: Rito
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " can fly around"
+    - text: " can fly around"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: ", so they should be\nable to retrieve and deliver supplies."
+    - text: ", so they should be\nable to retrieve and deliver supplies."
     - utf16_bytes:
         - 0
   talk81:
@@ -43,7 +43,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: What? No. Just something in my eye...
+    - text: What? No. Just something in my eye...
     - utf16_bytes:
         - 0
   talk36:
@@ -53,50 +53,49 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's finally starting to look like a town\naround here."
+    - text: "It's finally starting to look like a town\naround here."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Which is exactly why we\nneed to set up some distribution.\nI'd like to get a general store up and\nrunning, but there's no one with the\nconnections and qualifications to run it.\nDo you think you could keep an eye out\nfor someone who knows about\n"
+    - text: " Which is exactly why we\nneed to set up some distribution.\nI'd like to get a general store up and\nrunning, but there's no one with the\nconnections and qualifications to run it.\nDo you think you could keep an eye out\nfor someone who knows about\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: distribution
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " and "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: can run a general store
+    - text: distribution
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: " and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: can run a general store
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: "`"
+    - text: "`촁"
     - utf16_bytes:
-        - 52481
         - 0
   talk82:
     - utf16_bytes:
@@ -105,14 +104,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "And now "
+    - text: "And now "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tarrey Town
+    - text: Tarrey Town
     - utf16_bytes:
         - 14
         - 0
@@ -123,13 +122,13 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " looks like a real\ntown at long last.\n\nThis was all possible because of you. "
+    - text: " looks like a real\ntown at long last.\n\nThis was all possible because of you. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI can't thank you enough for all the hard\nwork you did."
+    - text: "\nI can't thank you enough for all the hard\nwork you did."
     - utf16_bytes:
         - 0
   talk37:
@@ -139,7 +138,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Good luck! You'll need it... This seems\nlike a real long shot."
+    - text: "Good luck! You'll need it... This seems\nlike a real long shot."
     - utf16_bytes:
         - 0
   talk83:
@@ -149,13 +148,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "These were found inside the boulders we\nsmashed when we were clearing land.\n\nRhondson and I have no use for them."
+    - text: "These were found inside the boulders we\nsmashed when we were clearing land.\n\nRhondson and I have no use for them."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou can take them."
+    - text: "\nYou can take them."
     - utf16_bytes:
         - 0
   talk38:
@@ -165,7 +164,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Thank you.
+    - text: Thank you.
     - utf16_bytes:
         - 0
   talk84:
@@ -175,41 +174,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, I want to give them to you,"
+    - text: "Well, I want to give them to you,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but it\nlooks like you haven't got room\nfor "
+    - text: " but it\nlooks like you haven't got room\nfor "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: three
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: diamonds
+    - text: three
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: diamonds
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk39:
@@ -219,16 +218,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You managed to find a Rito and bring him\nback here. Thank you.\n\nHe wasted no time getting a general\nstore up and running"
-    - utf16_bytes:
-        - 8212
-    - ascii: "apparently his\nfamily runs one too.\nAnd with a name like Fyson,\nhe'll fit right in!\n\nHe's selling things that he's picked up\nwhile flying around. "
+    - text: "You managed to find a Rito and bring him\nback here. Thank you.\n\nHe wasted no time getting a general\nstore up and running—apparently his\nfamily runs one too.\nAnd with a name like Fyson,\nhe'll fit right in!\n\nHe's selling things that he's picked up\nwhile flying around. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "You should really go\ncheck out the store."
+    - text: "You should really go\ncheck out the store."
     - utf16_bytes:
         - 0
   talk85:
@@ -238,7 +234,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's you."
+    - text: "It's you."
     - utf16_bytes:
         - 0
   talk86:
@@ -247,8 +243,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Hey.
+    - text: ЀHey.
     - utf16_bytes:
         - 0
   talk87:
@@ -258,14 +253,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rhondson and I are very happy to live\nhere now.\n\n"
+    - text: "Rhondson and I are very happy to live\nhere now.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "So... Isn't there something important\nyou should be doing?"
+    - text: "So... Isn't there something important\nyou should be doing?"
     - utf16_bytes:
         - 14
         - 1
@@ -273,7 +268,8 @@ entries:
         - 6
         - 26
         - 27
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk88:
     - utf16_bytes:
@@ -282,13 +278,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Then get to it.\n\n\nYou've traveled the world helping folks,\nbut there's more that need helping."
+    - text: "Then get to it.\n\n\nYou've traveled the world helping folks,\nbut there's more that need helping."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You\ndon't have the luxury of tarrying here."
+    - text: " You\ndon't have the luxury of tarrying here."
     - utf16_bytes:
         - 0
   talk89:
@@ -298,21 +294,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I see...
+    - text: I see...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " In that case, stay as long as you\nlike, OK?"
+    - text: " In that case, stay as long as you\nlike, OK?"
     - utf16_bytes:
         - 0
   "0091":
-    - ascii: Where are they?
+    - text: Where are they?
     - utf16_bytes:
         - 0
   "0092":
-    - ascii: Cancel
+    - text: Cancel
     - utf16_bytes:
         - 0
   talk21:
@@ -322,37 +318,37 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You sent some Gorons back here.
+    - text: You sent some Gorons back here.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat's perfect. The brute strength of a\nGoron is undeniable.\nThose boulders don't stand a chance\nagainst them... And with names like\nGreyson and Pelison, they'll fit right in.\nAlso, Pelison started selling the "
+    - text: "\nThat's perfect. The brute strength of a\nGoron is undeniable.\nThose boulders don't stand a chance\nagainst them... And with names like\nGreyson and Pelison, they'll fit right in.\nAlso, Pelison started selling the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: ore
+    - text: ore
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfound within the boulders."
+    - text: "\nfound within the boulders."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou should go say hello again."
+    - text: "\nYou should go say hello again."
     - utf16_bytes:
         - 0
   "0094":
-    - ascii: Physical strength?
+    - text: Physical strength?
     - utf16_bytes:
         - 0
   talk22:
@@ -362,31 +358,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So before more people can move here,\nwe need homes for them to live in."
+    - text: "So before more people can move here,\nwe need homes for them to live in."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nCan you bring me "
+    - text: "\nCan you bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 bundles of wood
+    - text: 20 bundles of wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   "0095":
-    - ascii: Tailoring?
+    - text: Tailoring?
     - utf16_bytes:
         - 0
   talk23:
@@ -396,32 +392,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Did you bring the "
+    - text: "Did you bring the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 bundles of wood
+    - text: 20 bundles of wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\f\r"
+        - 12
+        - 13
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   "0096":
-    - ascii: So a traveling trader?
+    - text: So a traveling trader?
     - utf16_bytes:
         - 0
   talk24:
@@ -431,25 +428,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hurry up and bring me "
+    - text: "Hurry up and bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "20 bundles of\nwood"
+    - text: "20 bundles of\nwood"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", will you? I want to get to building."
+    - text: ", will you? I want to get to building."
     - utf16_bytes:
         - 0
   "0097":
-    - ascii: "Priest-like, huh..."
+    - text: "Priest-like, huh..."
     - utf16_bytes:
         - 0
   talk25:
@@ -459,41 +456,41 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "If we're talking about "
+    - text: "If we're talking about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: tailoring
+    - text: tailoring
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nthere could be someone among the\n"
+    - text: "\nthere could be someone among the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Gerudo
+    - text: Gerudo
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " who's good at that."
+    - text: " who's good at that."
     - utf16_bytes:
         - 0
   talk26:
@@ -503,30 +500,29 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Working such long hours every day really\nwears on my clothes.\n\nCould you look for "
+    - text: "Working such long hours every day really\nwears on my clothes.\n\nCould you look for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "someone who's got a\ngift for tailoring"
+    - text: "someone who's got a\ngift for tailoring"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for me?"
+    - text: " for me?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: _
+    - text: _촁
     - utf16_bytes:
-        - 52481
         - 0
   talk27:
     - utf16_bytes:
@@ -535,7 +531,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Karson and President Bolson \njust arrived. I can only imagine how tired\nthey are from their long journey.\nWe should hold the ceremony on\nanother day."
+    - text: "Karson and President Bolson \njust arrived. I can only imagine how tired\nthey are from their long journey.\nWe should hold the ceremony on\nanother day."
     - utf16_bytes:
         - 0
   talk28:
@@ -545,13 +541,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You should take today to rest, too.\n\n\nIf you need a place to stay, talk to\nKapson."
+    - text: "You should take today to rest, too.\n\n\nIf you need a place to stay, talk to\nKapson."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " He'll probably let you stay for\nfree."
+    - text: " He'll probably let you stay for\nfree."
     - utf16_bytes:
         - 0
   talk29:
@@ -561,27 +557,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Think of how tired the "
+    - text: "Think of how tired the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "big boss "
+    - text: "big boss "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "and\nKarson must be."
+    - text: "and\nKarson must be."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Let's have the\nceremony on another day."
+    - text: " Let's have the\nceremony on another day."
     - utf16_bytes:
         - 0
   talk79:
@@ -591,13 +587,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "All right. "
+    - text: "All right. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: This is for you.
+    - text: This is for you.
     - utf16_bytes:
         - 0
   talk10:
@@ -607,31 +603,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Well...
+    - text: Well...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I suppose to get started, we'll\nneed houses for people to live in. We\ncan't invite them until we have homes.\nDo you think you can bring me\n"
+    - text: "I suppose to get started, we'll\nneed houses for people to live in. We\ncan't invite them until we have homes.\nDo you think you can bring me\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 10 bundles of wood
+    - text: 10 bundles of wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Yo!
+    - text: Yo!
     - utf16_bytes:
         - 0
   talk11:
@@ -641,11 +637,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you bring me that, I can combine\nit with what I've already got and get\nstarted on new houses."
+    - text: "If you bring me that, I can combine\nit with what I've already got and get\nstarted on new houses."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Hoh!
+    - text: Hoh!
     - utf16_bytes:
         - 0
   talk12:
@@ -655,32 +651,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Did you bring the "
+    - text: "Did you bring the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 10 bundles of wood
+    - text: 10 bundles of wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\f\r"
+        - 12
+        - 13
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   near02:
-    - ascii: Hmph!
+    - text: Hmph!
     - utf16_bytes:
         - 0
   talk13:
@@ -690,7 +687,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Excellent! Can I have them?
+    - text: Excellent! Can I have them?
     - utf16_bytes:
         - 14
         - 1
@@ -698,10 +695,11 @@ entries:
         - 6
         - 14
         - 15
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near03:
-    - ascii: Yah!
+    - text: Yah!
     - utf16_bytes:
         - 0
   talk14:
@@ -711,21 +709,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hurry up and bring me "
+    - text: "Hurry up and bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 bundles of\nwood"
+    - text: "10 bundles of\nwood"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", will you? I want to get to building."
+    - text: ", will you? I want to get to building."
     - utf16_bytes:
         - 0
   talk60:
@@ -735,11 +733,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Understood.\n\n\nThen let's join the gathering."
+    - text: "Understood.\n\n\nThen let's join the gathering."
     - utf16_bytes:
         - 0
   near04:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk15:
@@ -749,7 +747,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I haven't got enough supplies in the\nstorehouse to build houses yet."
+    - text: "I haven't got enough supplies in the\nstorehouse to build houses yet."
     - utf16_bytes:
         - 0
   talk16:
@@ -759,35 +757,35 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Yeah, if we're talking about "
+    - text: "Yeah, if we're talking about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "brute\nphysical strength"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", and we are, a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Goron
+    - text: "brute\nphysical strength"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwould be my first choice..."
+    - text: ", and we are, a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Goron
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nwould be my first choice..."
     - utf16_bytes:
         - 0
   talk17:
@@ -797,30 +795,29 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "These boulders are driving me nuts.\nI want to move them out of the way so\nwe can develop the land underneath.\nIt'd really help me out if you could find\nsomeone with enough "
+    - text: "These boulders are driving me nuts.\nI want to move them out of the way so\nwe can develop the land underneath.\nIt'd really help me out if you could find\nsomeone with enough "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "brute physical\nstrength "
+    - text: "brute physical\nstrength "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: to bust them apart.
+    - text: to bust them apart.
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: ^
+    - text: ^촁
     - utf16_bytes:
-        - 52481
         - 0
   talk18:
     - utf16_bytes:
@@ -829,11 +826,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, and one last wrinkle..."
+    - text: "Oh, and one last wrinkle..."
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: Guests?
+    - text: Guests?
     - utf16_bytes:
         - 0
   talk19:
@@ -843,59 +840,59 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yeah, in accordance with the official\n"
+    - text: "Yeah, in accordance with the official\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Bolson Construction
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " policy, that\nsomeone's name must end in \"son.\"\nIf you run into anyone that fits with what\nI've said, send them here to\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Tarrey Town "
+    - text: Bolson Construction
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: for me.
+    - text: " policy, that\nsomeone's name must end in \"son.\"\nIf you run into anyone that fits with what\nI've said, send them here to\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Tarrey Town "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: for me.
     - utf16_bytes:
         - 0
   "0021":
-    - ascii: I see.
+    - text: I see.
     - utf16_bytes:
         - 0
   "0022":
-    - ascii: Of course!
+    - text: Of course!
     - utf16_bytes:
         - 0
   "0023":
-    - ascii: "You're a cute couple!"
+    - text: "You're a cute couple!"
     - utf16_bytes:
         - 0
   "0024":
-    - ascii: Wait a second.
+    - text: Wait a second.
     - utf16_bytes:
         - 0
   "0025":
-    - ascii: Are you crying?
+    - text: Are you crying?
     - utf16_bytes:
         - 0
   "0026":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk00:
@@ -904,20 +901,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Well, next is..."
+    - text: "ကWell, next is..."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: "\t"
+        - 9
+    - text: 촁
     - utf16_bytes:
-        - 52481
         - 0
   "0027":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk01:
@@ -927,7 +923,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: We meet again.
+    - text: We meet again.
     - utf16_bytes:
         - 14
         - 1
@@ -935,7 +931,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk02:
     - utf16_bytes:
@@ -944,13 +941,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm one of the Bolson Construction\ncontractors."
+    - text: "I'm one of the Bolson Construction\ncontractors."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The name's Hudson."
+    - text: " The name's Hudson."
     - utf16_bytes:
         - 14
         - 1
@@ -958,7 +955,8 @@ entries:
         - 6
         - 2
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk03:
     - utf16_bytes:
@@ -967,7 +965,7 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: Me too.
+    - text: Me too.
     - utf16_bytes:
         - 14
         - 1
@@ -975,7 +973,8 @@ entries:
         - 6
         - 3
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk04:
     - utf16_bytes:
@@ -984,7 +983,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Since I've been transferred here, I've\ndecided to build a village from scratch.\n\nEvery village needs a name, though.\nI think I'll call it..."
+    - text: "Since I've been transferred here, I've\ndecided to build a village from scratch.\n\nEvery village needs a name, though.\nI think I'll call it..."
     - utf16_bytes:
         - 14
         - 5
@@ -995,14 +994,14 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Tarrey Town
+    - text: Tarrey Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -1010,7 +1009,8 @@ entries:
         - 6
         - 4
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk50:
     - utf16_bytes:
@@ -1019,7 +1019,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Now Rhondson and I can be married!
+    - text: Now Rhondson and I can be married!
     - utf16_bytes:
         - 0
   talk05:
@@ -1028,8 +1028,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: However...
+    - text: ĀHowever...
     - utf16_bytes:
         - 14
         - 1
@@ -1037,7 +1036,8 @@ entries:
         - 6
         - 5
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk51:
     - utf16_bytes:
@@ -1046,19 +1046,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You found a Zora?
+    - text: You found a Zora?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Thank you...really.\n\n\nHe and I talked earlier, "
+    - text: " Thank you...really.\n\n\nHe and I talked earlier, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and he said that\nhe literally was a priest before he retired.\nYou can't get more priest-like than that.\nAnd his name is Kapson, so I have no\nobjections there.\n\nIt really is amazing that you were able to\nfind someone priest-like who also had\nan acceptable name..."
+    - text: "and he said that\nhe literally was a priest before he retired.\nYou can't get more priest-like than that.\nAnd his name is Kapson, so I have no\nobjections there.\n\nIt really is amazing that you were able to\nfind someone priest-like who also had\nan acceptable name..."
     - utf16_bytes:
         - 0
   talk06:
@@ -1067,14 +1067,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "I built a house to store the village\nsupplies in,"
+    - text: "ကI built a house to store the village\nsupplies in,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but there just isn't enough..."
+    - text: " but there just isn't enough..."
     - utf16_bytes:
         - 14
         - 1
@@ -1082,7 +1081,8 @@ entries:
         - 6
         - 6
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk52:
     - utf16_bytes:
@@ -1091,7 +1091,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Of course, we'll have to invite guests in\norder to hold a ceremony..."
+    - text: "Of course, we'll have to invite guests in\norder to hold a ceremony..."
     - utf16_bytes:
         - 14
         - 1
@@ -1099,7 +1099,8 @@ entries:
         - 6
         - 20
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk07:
     - utf16_bytes:
@@ -1108,25 +1109,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Enough anything...
+    - text: Enough anything...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " People...\n"
+    - text: " People...\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Money... "
+    - text: "Money... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Stuff...
+    - text: Stuff...
     - utf16_bytes:
         - 14
         - 1
@@ -1134,7 +1135,8 @@ entries:
         - 6
         - 7
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk53:
     - utf16_bytes:
@@ -1143,7 +1145,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, I'm talking about my boss, Bolson,\nand my subordinate, Karson."
+    - text: "Well, I'm talking about my boss, Bolson,\nand my subordinate, Karson."
     - utf16_bytes:
         - 14
         - 1
@@ -1151,7 +1153,8 @@ entries:
         - 6
         - 21
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk08:
     - utf16_bytes:
@@ -1160,13 +1163,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: But why?
+    - text: But why?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " There's nothing in it\nfor you."
+    - text: " There's nothing in it\nfor you."
     - utf16_bytes:
         - 14
         - 1
@@ -1174,7 +1177,8 @@ entries:
         - 6
         - 8
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk54:
     - utf16_bytes:
@@ -1183,22 +1187,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "However, I've got to prepare for the\nceremony, so my hands are full..."
+    - text: "However, I've got to prepare for the\nceremony, so my hands are full..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCould you invite them for me?"
+    - text: "\nCould you invite them for me?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "["
+    - text: "["
     - utf16_bytes:
         - 22
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk09:
     - utf16_bytes:
@@ -1206,8 +1211,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "You're a lifesaver..."
+    - text: "ሀYou're a lifesaver..."
     - utf16_bytes:
         - 0
   talk55:
@@ -1217,7 +1221,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Excellent. I'm counting on you."
+    - text: "Excellent. I'm counting on you."
     - utf16_bytes:
         - 0
   talk56:
@@ -1227,23 +1231,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Once Karson and the boss Bolson get\nhere,"
+    - text: "Once Karson and the boss Bolson get\nhere,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " we can start the ceremony.\n\nThey're probably still in Hateno Village."
+    - text: " we can start the ceremony.\n\nThey're probably still in Hateno Village."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nCan you invite them for me?"
+    - text: "\nCan you invite them for me?"
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: I brought them!
+    - text: I brought them!
     - utf16_bytes:
         - 0
   talk57:
@@ -1253,17 +1257,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You extended my invitation for me.
+    - text: You extended my invitation for me.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThank you."
+    - text: "\nThank you."
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: Not yet.
+    - text: Not yet.
     - utf16_bytes:
         - 0
   talk58:
@@ -1273,7 +1277,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Now then, Karson and the boss Bolson\nare waiting for things to begin...\n\nShall we start the ceremony?"
+    - text: "Now then, Karson and the boss Bolson\nare waiting for things to begin...\n\nShall we start the ceremony?"
     - utf16_bytes:
         - 14
         - 1
@@ -1281,10 +1285,11 @@ entries:
         - 6
         - 22
         - 24
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0014":
-    - ascii: Sure!
+    - text: Sure!
     - utf16_bytes:
         - 0
   talk59:
@@ -1294,33 +1299,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I understand...
+    - text: I understand...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " This is an exciting event\nfor me too. When you've collected\nyourself, come talk to me."
+    - text: " This is an exciting event\nfor me too. When you've collected\nyourself, come talk to me."
     - utf16_bytes:
         - 0
   "0015":
-    - ascii: Nope! Bye!
+    - text: Nope! Bye!
     - utf16_bytes:
         - 0
   "0016":
-    - ascii: No way!!
+    - text: No way!!
     - utf16_bytes:
         - 0
   "0017":
-    - ascii: To who?
+    - text: To who?
     - utf16_bytes:
         - 0
   "0018":
-    - ascii: Congratulations!
+    - text: Congratulations!
     - utf16_bytes:
         - 0
   "0019":
-    - ascii: What a surprise!
+    - text: What a surprise!
     - utf16_bytes:
         - 0
   talk40:
@@ -1330,27 +1335,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So before we can call more people here,\nwe need even more homes for them."
+    - text: "So before we can call more people here,\nwe need even more homes for them."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nCan you bring me "
+    - text: "\nCan you bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 50 bundles of wood
+    - text: 50 bundles of wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   talk41:
@@ -1360,29 +1365,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Did you bring the "
+    - text: "Did you bring the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 50 bundles of wood
+    - text: 50 bundles of wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\f\r"
+        - 12
+        - 13
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   talk42:
     - utf16_bytes:
@@ -1391,21 +1397,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hurry up and bring me "
+    - text: "Hurry up and bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "50 bundles of\nwood"
+    - text: "50 bundles of\nwood"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", will you? I want to get to building."
+    - text: ", will you? I want to get to building."
     - utf16_bytes:
         - 0
   talk43:
@@ -1415,15 +1421,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I actually wanted to talk about something\na little personal..."
+    - text: "I actually wanted to talk about something\na little personal..."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk44:
     - utf16_bytes:
@@ -1432,7 +1439,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, not that kind of personal.\nActually, I got engaged."
+    - text: "Oh, not that kind of personal.\nActually, I got engaged."
     - utf16_bytes:
         - 14
         - 1
@@ -1440,7 +1447,8 @@ entries:
         - 6
         - 16
         - 18
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk90:
     - utf16_bytes:
@@ -1448,12 +1456,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: Oh.
+    - text: ጀOh.
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Who are you again?
+    - text: Who are you again?
     - utf16_bytes:
         - 0
   talk45:
@@ -1463,15 +1470,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's true."
+    - text: "It's true."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 17
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk91:
     - utf16_bytes:
@@ -1479,12 +1487,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Hello.
+    - text: ЀHello.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk46:
@@ -1494,7 +1501,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: To Rhondson.
+    - text: To Rhondson.
     - utf16_bytes:
         - 14
         - 1
@@ -1502,10 +1509,11 @@ entries:
         - 6
         - 23
         - 19
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: I remember!
+    - text: I remember!
     - utf16_bytes:
         - 0
   talk47:
@@ -1515,18 +1523,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Thank you.
+    - text: Thank you.
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 17
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: What are you doing?
+    - text: What are you doing?
     - utf16_bytes:
         - 0
   talk48:
@@ -1536,11 +1545,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You say that, but for some reason, I\nthink you mean the opposite..."
+    - text: "You say that, but for some reason, I\nthink you mean the opposite..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Good idea!
+    - text: Good idea!
     - utf16_bytes:
         - 0
   talk49:
@@ -1550,30 +1559,29 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Anyway, we want to have a little\nceremony to celebrate, but we need\nsomeone priest-like to officiate.\nCould you look for someone "
+    - text: "Anyway, we want to have a little\nceremony to celebrate, but we need\nsomeone priest-like to officiate.\nCould you look for someone "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: priest-like
+    - text: priest-like
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfor us?"
+    - text: "\nfor us?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: a
+    - text: a촁
     - utf16_bytes:
-        - 52481
         - 0
   talk95:
     - utf16_bytes:
@@ -1581,55 +1589,55 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "You know where they are. The "
+    - text: "ጀYou know where they are. The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: boss
+    - text: boss
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and\nKarson"
+    - text: " and\nKarson"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " are in Hateno Village, right?"
+    - text: " are in Hateno Village, right?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 21
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: "What's wrong?"
+    - text: "What's wrong?"
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Enough what?
+    - text: Enough what?
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: "I'll help out!"
+    - text: "I'll help out!"
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: "I don't mind!"
+    - text: "I don't mind!"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Uh-huh.
+    - text: Uh-huh.
     - utf16_bytes:
         - 0
   talk30:
@@ -1639,41 +1647,41 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "If we're looking for a people\ndevout enough to have a "
+    - text: "If we're looking for a people\ndevout enough to have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "priest-like\nperson"
+    - text: "priest-like\nperson"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'd suggest the "
+    - text: "I'd suggest the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Zora
+    - text: Zora
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk31:
@@ -1683,33 +1691,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You found someone from the Gerudo.\n"
+    - text: "You found someone from the Gerudo.\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Thank you.\n\nShe was able to patch every last hole in\nmy work clothes before I could blink.\nShe's pretty...er, amazing!\nAnd since her name is Rhondson, I have\nno objections.\n\nI hear she's decided to continue putting\nher skills to use by opening a "
+    - text: "Thank you.\n\nShe was able to patch every last hole in\nmy work clothes before I could blink.\nShe's pretty...er, amazing!\nAnd since her name is Rhondson, I have\nno objections.\n\nI hear she's decided to continue putting\nher skills to use by opening a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "clothing\nshop"
+    - text: "clothing\nshop"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You should stop by and say hello."
+    - text: " You should stop by and say hello."
     - utf16_bytes:
         - 0
   talk32:
@@ -1719,27 +1727,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So before more people can move here,\nwe need more homes for them to live in."
+    - text: "So before more people can move here,\nwe need more homes for them to live in."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nCan you bring me "
+    - text: "\nCan you bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 30 bundles of wood
+    - text: 30 bundles of wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   talk33:
@@ -1754,29 +1762,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Did you bring the "
+    - text: "Did you bring the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 30 bundles of wood
+    - text: 30 bundles of wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\f\r"
+        - 12
+        - 13
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   talk34:
     - utf16_bytes:
@@ -1785,21 +1794,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hurry up and bring me "
+    - text: "Hurry up and bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "30 bundles of\nwood"
+    - text: "30 bundles of\nwood"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", will you? I want to get to building."
+    - text: ", will you? I want to get to building."
     - utf16_bytes:
         - 0
   talk80:
@@ -1809,25 +1818,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Thank you for attending the ceremony.
+    - text: Thank you for attending the ceremony.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n..."
+    - text: "\n..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P*sniff*
+    - text: P*sniff*
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
@@ -1835,5 +1844,6 @@ entries:
         - 6
         - 25
         - 18
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0

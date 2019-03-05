@@ -6,49 +6,47 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Right now, "
+    - text: "ĀRight now, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is\nrecruiting Hylians.\n\n"
+    - text: " is\nrecruiting Hylians.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you don't mind, may I ask you to go\nto the throne room?"
+    - text: "ЀIf you don't mind, may I ask you to go\nto the throne room?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Please...listen to\nwhat the "
+    - text: " Please...listen to\nwhat the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: king
+    - text: king
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has to say."
+    - text: " has to say."
     - utf16_bytes:
         - 0
   talk16:
@@ -57,14 +55,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "Oh?! "
+    - text: "ᐄOh?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Hylian!
+    - text: Hylian!
     - utf16_bytes:
         - 0
   talk17:
@@ -73,28 +70,27 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "That's the spirit!\n\n\nWe can't touch "
+    - text: "ଇThat's the spirit!\n\n\nWe can't touch "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "shock arrows "
+    - text: "shock arrows "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "ourselves,\n"
+    - text: "ourselves,\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "so we're really counting on you!"
+    - text: "so we're really counting on you!"
     - utf16_bytes:
         - 0
   talk18:
@@ -104,27 +100,27 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "You will help us stop "
+    - text: "You will help us stop "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWon't you?"
+    - text: "\nWon't you?"
     - utf16_bytes:
         - 14
         - 1
@@ -132,7 +128,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk19:
     - utf16_bytes:
@@ -140,20 +137,19 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: Did you see it?
+    - text: āDid you see it?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The sky! "
+    - text: " The sky! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "It's finally sunny\nagain!"
+    - text: "It's finally sunny\nagain!"
     - utf16_bytes:
         - 14
         - 0
@@ -170,21 +166,21 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s water assault has stopped!"
+    - text: "'s water assault has stopped!"
     - utf16_bytes:
         - 0
   talk20:
@@ -193,28 +189,27 @@ entries:
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "I guess you beat me to dealing with\nthat "
+    - text: "ăI guess you beat me to dealing with\nthat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hinox
+    - text: Hinox
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ఉI...really want to get stronger.
+    - text: ఉI...really want to get stronger.
     - utf16_bytes:
         - 0
   talk22:
@@ -223,12 +218,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm the same as usual!"
+    - text: "ĀI'm the same as usual!"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   talk26:
@@ -237,41 +231,39 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "Hylian! "
+    - text: "ଇHylian! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "To think that you were able to\nappease "
+    - text: "To think that you were able to\nappease "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You turned out to be\na pretty incredible girl!\n"
+    - text: " You turned out to be\na pretty incredible girl!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "In fact, I wonder if you can do this, too..."
+    - text: "āIn fact, I wonder if you can do this, too..."
     - utf16_bytes:
         - 0
   talk27:
@@ -281,13 +273,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "What?! "
+    - text: "What?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Don't be such a downer..."
+    - text: "Don't be such a downer..."
     - utf16_bytes:
         - 0
   talk00:
@@ -296,8 +288,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hiya!
+    - text: ȀHiya!
     - utf16_bytes:
         - 0
   talk29:
@@ -306,12 +297,11 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: Would you like to give it a try now?
+    - text: āWould you like to give it a try now?
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Surely.
+    - text: Surely.
     - utf16_bytes:
         - 0
   talk01:
@@ -320,8 +310,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hey!
+    - text: ȀHey!
     - utf16_bytes:
         - 0
   talk30:
@@ -330,36 +319,35 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Exterminate the "
+    - text: "इExterminate the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hinox
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " by "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Ralis Pond
+    - text: Hinox
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Ralis Pond
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
@@ -367,10 +355,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: Not now...
+    - text: Not now...
     - utf16_bytes:
         - 0
   talk02:
@@ -379,41 +368,39 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hmm...
+    - text: ȀHmm...
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk04:
-    - ascii: "For now, you should head to the\nthrone room.\n\n"
+    - text: "For now, you should head to the\nthrone room.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Please, won't you listen to what\n"
+    - text: "ЀPlease, won't you listen to what\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "King Dorephan "
+    - text: "King Dorephan "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: has to say?
+    - text: has to say?
     - utf16_bytes:
         - 0
   talk33:
@@ -422,20 +409,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ralis Pond
+    - text: Ralis Pond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is southwest of here."
+    - text: " is southwest of here."
     - utf16_bytes:
         - 0
   talk05:
@@ -444,33 +432,33 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊOh? "
+    - text: "ᐊOh? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Oh! "
+    - text: "Oh! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "You're the girl from\n"
+    - text: "You're the girl from\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Inogo Bridge
+    - text: Inogo Bridge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   talk34:
@@ -479,34 +467,33 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: The truth is...
+    - text: စThe truth is...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I challenged that "
+    - text: "I challenged that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hinox
+    - text: Hinox
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nonce before."
+    - text: "\nonce before."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It managed to completely\nturn the tables on me."
+    - text: " It managed to completely\nturn the tables on me."
     - utf16_bytes:
         - 0
   talk06:
@@ -515,19 +502,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊOh? "
+    - text: "ᐊOh? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Oh!
+    - text: Oh!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " A Hylian! This is much too\ncoincidental to be a coincidence!"
+    - text: " A Hylian! This is much too\ncoincidental to be a coincidence!"
     - utf16_bytes:
         - 0
   talk35:
@@ -536,21 +523,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I knew it... The Champion who saved the\ndomain is in a whole other league!\n\n"
+    - text: "စI knew it... The Champion who saved the\ndomain is in a whole other league!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "Please, take this."
+    - text: "ąPlease, take this."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Consider it a small\ntoken of my immense gratitude."
+    - text: " Consider it a small\ntoken of my immense gratitude."
     - utf16_bytes:
         - 0
   talk07:
@@ -559,8 +544,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "What's wrong, Hylian?"
+    - text: "ĀWhat's wrong, Hylian?"
     - utf16_bytes:
         - 0
   talk36:
@@ -569,21 +553,19 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "I was worried about whether I'd be able\nto fell that giant beast."
+    - text: "ąI was worried about whether I'd be able\nto fell that giant beast."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " But I think it's for\nthe best if you defeat it for me!\n"
+    - text: " But I think it's for\nthe best if you defeat it for me!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "So...yes. I'll leave it to you!"
+    - text: "ЀSo...yes. I'll leave it to you!"
     - utf16_bytes:
         - 0
   talk08:
@@ -592,28 +574,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Don't tell me"
+    - text: "ጀDon't tell me"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " you're planning on helping\nus stop "
+    - text: " you're planning on helping\nus stop "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -621,7 +602,8 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk37:
     - utf16_bytes:
@@ -629,56 +611,56 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Hm... "
+    - text: "ጄHm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: That stench... Did you perhaps...
+    - text: That stench... Did you perhaps...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\ndefeat that "
+    - text: "\ndefeat that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hinox
+    - text: Hinox
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " by "
+    - text: " by "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ralis Pond
+    - text: Ralis Pond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk09:
     - utf16_bytes:
@@ -686,28 +668,27 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "The fact that you're here"
+    - text: "āThe fact that you're here"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " must mean\nyou've met with Prince "
+    - text: " must mean\nyou've met with Prince "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Sidon
+    - text: Sidon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk38:
@@ -716,36 +697,37 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊWhaaaat?! "
+    - text: "ᐊWhaaaat?! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "You really did?!\n\n"
+    - text: "You really did?!\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "P\n"
+    - text: "P\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 261
+    - text: ą
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dI just... I can't... Wow!"
+    - text: "dI just... I can't... Wow!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nTh-thank you. Really!"
+    - text: "\nTh-thank you. Really!"
     - utf16_bytes:
         - 0
   talk10:
@@ -755,7 +737,7 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: I see. Then get out of here.
+    - text: I see. Then get out of here.
     - utf16_bytes:
         - 0
   talk11:
@@ -764,69 +746,67 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I heard all about it from "
+    - text: "ĀI heard all about it from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Prince Sidon
+    - text: Prince Sidon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n\nYou're the Hylian!"
+    - text: "!\n\n\nYou're the Hylian!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The one helping us\nwith "
+    - text: " The one helping us\nwith "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", right?\n\n"
+    - text: ", right?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If so, hurry on to the throne room."
+    - text: "ЀIf so, hurry on to the throne room."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI'd like you to speak with\n"
+    - text: "\nI'd like you to speak with\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "King Dorephan "
+    - text: "King Dorephan "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: right away.
+    - text: right away.
     - utf16_bytes:
         - 0
   talk12:
@@ -836,19 +816,19 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "OK... "
+    - text: "OK... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "In that case, give it a try!\n\n\nFor she who saved the domain,\nthis should be a piece of fish cake."
+    - text: "In that case, give it a try!\n\n\nFor she who saved the domain,\nthis should be a piece of fish cake."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nGo on, I'm counting on you!"
+    - text: "\nGo on, I'm counting on you!"
     - utf16_bytes:
         - 0
   talk13:
@@ -857,36 +837,35 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Ya know, you beat me to the punch\nwith that "
+    - text: "āYa know, you beat me to the punch\nwith that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hinox "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "by "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Ralis Pond
+    - text: "Hinox "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Ralis Pond
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk14:
@@ -895,21 +874,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "You never know when a giant like that\n"
+    - text: "စYou never know when a giant like that\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hinox
+    - text: Hinox
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " will go on the attack. I need to \nget stronger..."
+    - text: " will go on the attack. I need to \nget stronger..."
     - utf16_bytes:
         - 0

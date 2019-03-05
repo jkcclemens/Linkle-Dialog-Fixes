@@ -7,31 +7,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "How ya hit the "
+    - text: "How ya hit the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "ball "
+    - text: "ball "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is yer call.
+    - text: is yer call.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " But the\nfurther ya can smash it with every smack,\nthe better!"
+    - text: " But the\nfurther ya can smash it with every smack,\nthe better!"
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: Me? Never!
+    - text: Me? Never!
     - utf16_bytes:
         - 0
   OB_Cancell2:
@@ -41,13 +41,13 @@ entries:
         - 1
         - 2
         - 3
-    - ascii: "If ya wanted ta quit, ya shoulda said so!"
+    - text: "If ya wanted ta quit, ya shoulda said so!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nCome back when yer feelin' serious."
+    - text: "\nCome back when yer feelin' serious."
     - utf16_bytes:
         - 0
   AskGolf9:
@@ -57,47 +57,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If the "
+    - text: "If the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "ball "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "moves even an inch, that\ncounts as "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: a stroke
+    - text: "ball "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: "moves even an inch, that\ncounts as "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: a stroke
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Huh, I guess those\nrules ain't so simple after all. "
+    - text: "Huh, I guess those\nrules ain't so simple after all. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Whoops!\nSo are ya in or are ya in?"
+    - text: "Whoops!\nSo are ya in or are ya in?"
     - utf16_bytes:
         - 14
         - 1
@@ -105,7 +105,8 @@ entries:
         - 6
         - 20
         - 21
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   StrokeOver:
     - utf16_bytes:
@@ -113,25 +114,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ఉWhatta sorry showing... "
+    - text: "ఉWhatta sorry showing... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That's 20\nstrokes, pal. "
+    - text: "That's 20\nstrokes, pal. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'm cuttin' ya off there."
+    - text: "I'm cuttin' ya off there."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nTry again sometime, all right?"
+    - text: "\nTry again sometime, all right?"
     - utf16_bytes:
         - 0
   OB_Warning1:
@@ -141,13 +142,13 @@ entries:
         - 1
         - 2
         - 773
-    - ascii: "Where ya goin'?"
+    - text: "Where ya goin'?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It ain't quittin' time\nalready, is it?"
+    - text: " It ain't quittin' time\nalready, is it?"
     - utf16_bytes:
         - 0
   Judge_OB:
@@ -157,39 +158,39 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: Holy moly...
+    - text: Holy moly...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Ya went off course, kid!"
+    - text: " Ya went off course, kid!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat's "
+    - text: "\nThat's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: one penalty stroke
+    - text: one penalty stroke
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: ". "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "And ya gotta\npick up where ya left off before."
+    - text: "And ya gotta\npick up where ya left off before."
     - utf16_bytes:
         - 0
   OB_Warning2:
@@ -199,19 +200,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Go too far off course and I'll hafta call\nthe game there. "
+    - text: "Go too far off course and I'll hafta call\nthe game there. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Ya won't get back yer\nentry fee, neither."
+    - text: "Ya won't get back yer\nentry fee, neither."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " So watch it!"
+    - text: " So watch it!"
     - utf16_bytes:
         - 0
   TalkFirst:
@@ -220,24 +221,23 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: Holy moly!
+    - text: ȁHoly moly!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " A Hylian? Here?!"
+    - text: " A Hylian? Here?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Ya must\nbe tough as iron ta survive the trip out\nthis way!"
+    - text: " Ya must\nbe tough as iron ta survive the trip out\nthis way!"
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: "It's time!"
+    - text: "It's time!"
     - utf16_bytes:
         - 0
   NoRupee:
@@ -246,14 +246,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Looks like ya don't have the stones\nafter all..."
+    - text: "စLooks like ya don't have the stones\nafter all..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: by which I mean rupees.
+    - text: by which I mean rupees.
     - utf16_bytes:
         - 14
         - 5
@@ -264,21 +263,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: " Well,\nkeep savin' up!"
+    - text: " Well,\nkeep savin' up!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " We never close!"
+    - text: " We never close!"
     - utf16_bytes:
         - 0
   "0021":
-    - ascii: "I'm tapped out."
+    - text: "I'm tapped out."
     - utf16_bytes:
         - 0
   Clear_Excellent_1:
-    - ascii: "Ya got "
+    - text: "Ya got "
     - utf16_bytes:
         - 14
         - 0
@@ -289,12 +288,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᐊ
+    - text: ᐊ
     - utf16_bytes:
         - 14
         - 2
         - 17
-    - ascii: "<8MiniGame_SmashGolf_ShotCount"
+    - text: "<8MiniGame_SmashGolf_ShotCount"
     - utf16_bytes:
         - 0
         - 14
@@ -302,31 +301,31 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?! Well, don't that beat all!\nYa could be a pro "
+    - text: "?! Well, don't that beat all!\nYa could be a pro "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Boom Bam Golfer!"
+    - text: "}Boom Bam Golfer!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "P\nIf there was a league...or other players..."
+    - text: "P\nIf there was a league...or other players..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Clear_Middle_1:
@@ -335,14 +334,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: Hrm... Ya got a
+    - text: စHrm... Ya got a
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
@@ -352,7 +350,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d "
+    - text: "d "
     - utf16_bytes:
         - 14
         - 0
@@ -362,7 +360,7 @@ entries:
         - 14
         - 2
         - 17
-    - ascii: "<8MiniGame_SmashGolf_ShotCount"
+    - text: "<8MiniGame_SmashGolf_ShotCount"
     - utf16_bytes:
         - 0
         - 14
@@ -370,13 +368,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: " this time out."
+    - text: " this time out."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThat ain't bad, but ya strike me as a\ngirl who could do better."
+    - text: "\nThat ain't bad, but ya strike me as a\ngirl who could do better."
     - utf16_bytes:
         - 0
   Clear_Excellent_2:
@@ -385,33 +383,32 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Whoa
+    - text: ĀWhoa
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P...
+    - text: P...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I lost track of my "
+    - text: "I lost track of my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: stroke count
+    - text: stroke count
     - utf16_bytes:
         - 14
         - 0
@@ -422,7 +419,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P.
+    - text: P.
     - utf16_bytes:
         - 14
         - 5
@@ -432,7 +429,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\nIf I remember right, though, it was\nabout the same as yers, give or take!"
+    - text: "d\nIf I remember right, though, it was\nabout the same as yers, give or take!"
     - utf16_bytes:
         - 0
   Clear_Middle_2:
@@ -442,33 +439,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Don't worry. "
+    - text: "Don't worry. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "The game takes some\npractice ta figger out. "
+    - text: "The game takes some\npractice ta figger out. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "They say "
+    - text: "They say "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "every\njourney starts with a single stroke"
+    - text: "every\njourney starts with a single stroke"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Clear_00:
@@ -477,8 +474,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: NICE shot!
+    - text: ĀNICE shot!
     - utf16_bytes:
         - 0
   Clear_Excellent_3:
@@ -488,7 +484,7 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Yer the kinda player who's gonna make\n"
+    - text: "Yer the kinda player who's gonna make\n"
     - utf16_bytes:
         - 14
         - 0
@@ -499,20 +495,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Boom Bam Golf"
+    - text: "}Boom Bam Golf"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d "
+    - text: "d "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "hit the big time! Keep\nit up, and smash those high scores!"
+    - text: "hit the big time! Keep\nit up, and smash those high scores!"
     - utf16_bytes:
         - 0
   NotPlay:
@@ -521,7 +517,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ఉAww, that ain't no fun. "
+    - text: "ఉAww, that ain't no fun. "
     - utf16_bytes:
         - 14
         - 5
@@ -531,16 +527,15 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "The course is\nalways open, though. Yer welcome\nanytime!"
+    - text: "ĆThe course is\nalways open, though. Yer welcome\nanytime!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'm in!"
+    - text: "I'm in!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: What is that?
+    - text: What is that?
     - utf16_bytes:
         - 0
   RetrunGame:
@@ -549,26 +544,25 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: Attagirl!
+    - text: ଇAttagirl!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " True "
+    - text: " True "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Boom Bam Golfers"
+    - text: "}Boom Bam Golfers"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\nnever say die!"
+    - text: "d\nnever say die!"
     - utf16_bytes:
         - 0
   Clear_Low_1:
@@ -577,7 +571,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ఉYer score was...
+    - text: ఉYer score was...
     - utf16_bytes:
         - 14
         - 5
@@ -591,7 +585,7 @@ entries:
         - 14
         - 2
         - 17
-    - ascii: "<8MiniGame_SmashGolf_ShotCount"
+    - text: "<8MiniGame_SmashGolf_ShotCount"
     - utf16_bytes:
         - 0
         - 14
@@ -599,13 +593,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?! Sheesh, kid."
+    - text: "?! Sheesh, kid."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
@@ -616,20 +610,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Boom Bam Golf"
+    - text: "}Boom Bam Golf"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d "
+    - text: "d "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "ain't easy, but it\nain't THAT hard!"
+    - text: "ain't easy, but it\nain't THAT hard!"
     - utf16_bytes:
         - 0
   NoOneMore1:
@@ -639,33 +633,33 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: Whatta shame.
+    - text: Whatta shame.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But at least now ya've\nseen the majesty of "
+    - text: "But at least now ya've\nseen the majesty of "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boom Bam Golf
+    - text: Boom Bam Golf
     - utf16_bytes:
         - 14
         - 0
@@ -676,11 +670,11 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\nfor yerself, right?"
+    - text: "d\nfor yerself, right?"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "I'm out."
+    - text: "I'm out."
     - utf16_bytes:
         - 0
   Clear_Low_2:
@@ -689,20 +683,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Aw, pal."
+    - text: "ĀAw, pal."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Well...don't give up, OK?"
+    - text: " Well...don't give up, OK?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYa just need ta practice, practice, and\nthen practice some more."
+    - text: "\nYa just need ta practice, practice, and\nthen practice some more."
     - utf16_bytes:
         - 0
   NoOneMore2:
@@ -712,13 +705,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'll be here fiddlin' with the course."
+    - text: "I'll be here fiddlin' with the course."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWe never close, in case yer ever itchin'\nta play."
+    - text: "\nWe never close, in case yer ever itchin'\nta play."
     - utf16_bytes:
         - 0
   AskGolf10:
@@ -727,50 +720,49 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: Say no more!
+    - text: ଇSay no more!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's time ta tee off!"
+    - text: " It's time ta tee off!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boom Bam Golf
+    - text: Boom Bam Golf
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is go!"
+    - text: " is go!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Pony up.
+    - text: Pony up.
     - utf16_bytes:
         - 0
   AskPlay:
@@ -780,39 +772,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Getting here must mean ya have the\nstones ta strut yer stuff in a round of...\n"
+    - text: "Getting here must mean ya have the\nstones ta strut yer stuff in a round of...\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boom Bam Golf
+    - text: Boom Bam Golf
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Well? Are ya in? "
+    - text: " Well? Are ya in? "
     - utf16_bytes:
         - 14
         - 1
@@ -821,7 +813,8 @@ entries:
         - 1
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   AskPay:
     - utf16_bytes:
@@ -830,33 +823,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "At least, once I get that "
+    - text: "At least, once I get that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for\nthe greens fee."
+    - text: " for\nthe greens fee."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Browns fee?"
+    - text: " Browns fee?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Ehh."
+    - text: " Ehh."
     - utf16_bytes:
         - 14
         - 1
@@ -864,10 +857,11 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Back down.
+    - text: Back down.
     - utf16_bytes:
         - 0
   Clear_1:
@@ -876,22 +870,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Way to take a whack at it! Give me a\nsecond to figger out yer "
+    - text: "ĀWay to take a whack at it! Give me a\nsecond to figger out yer "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: score
+    - text: score
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Clear_High_1:
@@ -901,27 +894,27 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Yer "
+    - text: "Yer "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: score
+    - text: score
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was..."
+    - text: " was..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
@@ -931,7 +924,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -941,7 +934,7 @@ entries:
         - 14
         - 2
         - 17
-    - ascii: "<8MiniGame_SmashGolf_ShotCount"
+    - text: "<8MiniGame_SmashGolf_ShotCount"
     - utf16_bytes:
         - 0
         - 14
@@ -949,13 +942,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "! "
+    - text: "! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Yer gettin' ta be\na real heavyweight, kid."
+    - text: "Yer gettin' ta be\na real heavyweight, kid."
     - utf16_bytes:
         - 0
   AskGolf1:
@@ -965,20 +958,20 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: "Ya don't know "
+    - text: "Ya don't know "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boom Bam Golf
+    - text: Boom Bam Golf
     - utf16_bytes:
         - 14
         - 0
@@ -989,19 +982,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d?!
+    - text: d?!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nIt's famous!"
+    - text: "\nIt's famous!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " No one who's played it\neven once can get enough!"
+    - text: " No one who's played it\neven once can get enough!"
     - utf16_bytes:
         - 0
   Clear_High_2:
@@ -1011,26 +1004,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Don't go thinkin' ya got it all figgered\nout, now! "
+    - text: "Don't go thinkin' ya got it all figgered\nout, now! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Keep at it, and set the highest\nrecord ever in "
+    - text: "Keep at it, and set the highest\nrecord ever in "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boom Bam Golf
+    - text: Boom Bam Golf
     - utf16_bytes:
         - 14
         - 0
@@ -1041,7 +1034,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d!
+    - text: d!
     - utf16_bytes:
         - 0
   AskGolf2:
@@ -1051,13 +1044,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I invented it the other day rolling down\nthe hill, so I'm the only one who's played\nit."
+    - text: "I invented it the other day rolling down\nthe hill, so I'm the only one who's played\nit."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " And I love it ta smithereens!\nI guess it makes sense that ya haven't\nheard about it, come ta that."
+    - text: " And I love it ta smithereens!\nI guess it makes sense that ya haven't\nheard about it, come ta that."
     - utf16_bytes:
         - 0
   GameTalk:
@@ -1066,23 +1059,22 @@ entries:
         - 3
         - 1
         - 2
-        - 4869
-    - ascii: Huh?
+    - text: ጅHuh?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Yer throwin' in the towel already?\nSay it ain't so!"
+    - text: " Yer throwin' in the towel already?\nSay it ain't so!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 14
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   AskGolf3:
     - utf16_bytes:
@@ -1091,47 +1083,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It couldn't be simpler ta play!"
+    - text: "It couldn't be simpler ta play!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Whack the\n"
+    - text: " Whack the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: ball
+    - text: ball
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and try to knock it inta the hole at\nthat flag.\nThe fewer tries it takes, the higher\nyer score! "
+    - text: " and try to knock it inta the hole at\nthat flag.\nThe fewer tries it takes, the higher\nyer score! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "The best part? It only costs\n"
+    - text: "The best part? It only costs\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " ta play!"
+    - text: " ta play!"
     - utf16_bytes:
         - 0
   StrokeOver_Result:
@@ -1140,13 +1132,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHate to see a guy go to 20 strokes."
+        - 9
+    - text: Hate to see a guy go to 20 strokes.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nJust so's ya know, I was rootin' for ya."
+    - text: "\nJust so's ya know, I was rootin' for ya."
     - utf16_bytes:
         - 0
   AskGolf4:
@@ -1156,7 +1149,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Two-handed weapons like hammers can\nreally send the ball flyin', but ya gotta\ntake care not ta overdo it.\nSwords and one-handed weapons are\nbetter for short distances, but be careful\nya don't break 'em playin' the game!"
+    - text: "Two-handed weapons like hammers can\nreally send the ball flyin', but ya gotta\ntake care not ta overdo it.\nSwords and one-handed weapons are\nbetter for short distances, but be careful\nya don't break 'em playin' the game!"
     - utf16_bytes:
         - 0
   PlayOK:
@@ -1165,18 +1158,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Rock on! "
+    - text: "ЀRock on! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'll start setting up!"
+    - text: "I'll start setting up!"
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: BOOM-BAM!
+    - text: BOOM-BAM!
     - utf16_bytes:
         - 0
   AskGolf5:
@@ -1185,34 +1177,33 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "Or ya can just go hog wild on the "
+    - text: "ଇOr ya can just go hog wild on the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: ball
+    - text: ball
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThe more power ya put inta yer swing,\nthe further it goes flying!"
+    - text: "\nThe more power ya put inta yer swing,\nthe further it goes flying!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " FOOOOORE!"
+    - text: " FOOOOORE!"
     - utf16_bytes:
         - 0
   AskOneMore:
@@ -1221,20 +1212,19 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "Oh! "
+    - text: "ଇOh! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Ya look like ya wanna go again! "
+    - text: "Ya look like ya wanna go again! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHeck, who am I ta stop ya?"
+    - text: "\nHeck, who am I ta stop ya?"
     - utf16_bytes:
         - 14
         - 1
@@ -1242,7 +1232,8 @@ entries:
         - 6
         - 20
         - 21
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   AskGolf6:
     - utf16_bytes:
@@ -1251,21 +1242,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If the ball rolls off the course, ya take\na "
+    - text: "If the ball rolls off the course, ya take\na "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: one-stroke penalty
+    - text: one-stroke penalty
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and have ta keep\ngoing from where ya hit it."
+    - text: " and have ta keep\ngoing from where ya hit it."
     - utf16_bytes:
         - 0
   Cancel_End:
@@ -1275,20 +1266,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Boom Bam Golf "
+    - text: "Boom Bam Golf "
     - utf16_bytes:
         - 14
         - 0
@@ -1299,7 +1290,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dcourse is\nalways open! See ya around!"
+    - text: "dcourse is\nalways open! See ya around!"
     - utf16_bytes:
         - 0
   AskGolf7:
@@ -1309,59 +1300,59 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'll keep track of how many "
+    - text: "I'll keep track of how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "strokes "
+    - text: "strokes "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "it\ntakes. "
+    - text: "it\ntakes. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Yer job is to get the "
+    - text: "Yer job is to get the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: ball
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " in the\nhole in "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 20 strokes
+    - text: ball
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " or less!"
+    - text: " in the\nhole in "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 strokes
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " or less!"
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: I give up.
+    - text: I give up.
     - utf16_bytes:
         - 0
   OB_Cancell1:
@@ -1371,26 +1362,26 @@ entries:
         - 1
         - 2
         - 771
-    - ascii: "Sorry, kid, but I hafta "
+    - text: "Sorry, kid, but I hafta "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: disqualify
+    - text: disqualify
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " ya."
+    - text: " ya."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThem's the rules!"
+    - text: "\nThem's the rules!"
     - utf16_bytes:
         - 0

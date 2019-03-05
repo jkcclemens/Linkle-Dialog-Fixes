@@ -6,25 +6,24 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: "Who in the blazing sands is this divine\nprotector that thinks it's so high and\nmighty it can upset my adorable Tali?!"
+    - text: "ĈWho in the blazing sands is this divine\nprotector that thinks it's so high and\nmighty it can upset my adorable Tali?!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\t"
+        - 9
+    - text: â
     - utf16_bytes:
-        - 226
         - 4
-    - ascii: 0Npc_oasis038_ChoiceA_Off
+    - text: 0Npc_oasis038_ChoiceA_Off
     - utf16_bytes:
         - 0
-    - ascii: 0Npc_oasis038_ChoiceB_Off
+    - text: 0Npc_oasis038_ChoiceB_Off
     - utf16_bytes:
         - 1
-    - ascii: 0Npc_oasis038_ChoiceC_Off
+    - text: 0Npc_oasis038_ChoiceC_Off
     - utf16_bytes:
         - 3
-    - ascii: 0Npc_oasis038_ChoiceD_Off
+    - text: 0Npc_oasis038_ChoiceD_Off
     - utf16_bytes:
         - 2
         - 0
@@ -34,7 +33,8 @@ entries:
         - 0
         - 65535
         - 0
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 0
   Talk_46:
     - utf16_bytes:
@@ -42,8 +42,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6407
-    - ascii: "Yes, yes, right. Understood, Tali."
+    - text: "ᤇYes, yes, right. Understood, Tali."
     - utf16_bytes:
         - 0
   Talk_18:
@@ -53,24 +52,24 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Again? I told you earlier, didn't I?\n\n\nTali is really annoyed right now.\nIf you want an autograph, could you\ncome back later?"
+    - text: "Again? I told you earlier, didn't I?\n\n\nTali is really annoyed right now.\nIf you want an autograph, could you\ncome back later?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\t"
+        - 9
+    - text: â
     - utf16_bytes:
-        - 226
         - 4
-    - ascii: 0Npc_oasis038_ChoiceA_Off
+    - text: 0Npc_oasis038_ChoiceA_Off
     - utf16_bytes:
         - 0
-    - ascii: 0Npc_oasis038_ChoiceB_Off
+    - text: 0Npc_oasis038_ChoiceB_Off
     - utf16_bytes:
         - 1
-    - ascii: 0Npc_oasis038_ChoiceC_Off
+    - text: 0Npc_oasis038_ChoiceC_Off
     - utf16_bytes:
         - 3
-    - ascii: 0Npc_oasis038_ChoiceD_Off
+    - text: 0Npc_oasis038_ChoiceD_Off
     - utf16_bytes:
         - 2
         - 0
@@ -80,10 +79,11 @@ entries:
         - 0
         - 65535
         - 0
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Nwah!
+    - text: Nwah!
     - utf16_bytes:
         - 0
   Talk_23:
@@ -92,90 +92,88 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ጊSo everyone in the world has heard of\n"
+    - text: "ጊSo everyone in the world has heard of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-seal racing "
+    - text: "sand-seal racing "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: except you...
+    - text: except you...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHave you been sleeping under a rock?\n"
+    - text: "\nHave you been sleeping under a rock?\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sand-seal racing "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is a sport where\npeople guide "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand seals
+    - text: "Sand-seal racing "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " through arches\nwhile racing toward the finish line.\nThe racer with the fastest time wins.\nIt's a true Gerudo tradition!\n\n"
+    - text: "is a sport where\npeople guide "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sand seals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " through arches\nwhile racing toward the finish line.\nThe racer with the fastest time wins.\nIt's a true Gerudo tradition!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut because of this blasted "
+        - 9
+    - text: "But because of this blasted "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nwe can't run a single race right now."
+    - text: ",\nwe can't run a single race right now."
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Wha
-    - utf16_bytes:
-        - 8212
-    - ascii: "?!"
+    - text: Wha—?!
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: N-no! Not good!
+    - text: N-no! Not good!
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: What happened?
+    - text: What happened?
     - utf16_bytes:
         - 0
   Talk_01:
@@ -184,8 +182,7 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "..."
+    - text: ċ...
     - utf16_bytes:
         - 14
         - 5
@@ -193,11 +190,11 @@ entries:
         - 0
         - 0
   "0001":
-    - ascii: "Who's Tali?"
+    - text: "Who's Tali?"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk_02:
@@ -206,92 +203,93 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ጊSo everyone in the world has heard of\n"
+    - text: "ጊSo everyone in the world has heard of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-seal racing "
+    - text: "sand-seal racing "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: except you...
+    - text: except you...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHave you been sleeping under a rock?\n"
+    - text: "\nHave you been sleeping under a rock?\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Sand-seal racing "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is a sport where people\nguide "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand seals
+    - text: "Sand-seal racing "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " through arches as they\nrace toward the finish line.\nThe racer with the fastest time wins.\nIt's a true Gerudo tradition!\n\n"
+    - text: "is a sport where people\nguide "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sand seals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " through arches as they\nrace toward the finish line.\nThe racer with the fastest time wins.\nIt's a true Gerudo tradition!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut because of this blasted "
+        - 9
+    - text: "But because of this blasted "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nwe can't run a single race right now."
+    - text: ",\nwe can't run a single race right now."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\t"
+        - 9
+    - text: â
     - utf16_bytes:
-        - 226
         - 4
-    - ascii: 0Npc_oasis038_ChoiceA_Off
+    - text: 0Npc_oasis038_ChoiceA_Off
     - utf16_bytes:
         - 0
-    - ascii: 0Npc_oasis038_ChoiceB_Off
+    - text: 0Npc_oasis038_ChoiceB_Off
     - utf16_bytes:
         - 1
-    - ascii: 0Npc_oasis038_ChoiceC_Off
+    - text: 0Npc_oasis038_ChoiceC_Off
     - utf16_bytes:
         - 3
-    - ascii: 0Npc_oasis038_ChoiceD_Off
+    - text: 0Npc_oasis038_ChoiceD_Off
     - utf16_bytes:
         - 2
         - 0
@@ -301,7 +299,8 @@ entries:
         - 0
         - 65535
         - 0
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 0
   Talk_03:
     - utf16_bytes:
@@ -310,24 +309,24 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Sorry, kid. The great Tali isn't in the\nmood to give autographs right now.\nCould you come back later?"
+    - text: "Sorry, kid. The great Tali isn't in the\nmood to give autographs right now.\nCould you come back later?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\t"
+        - 9
+    - text: â
     - utf16_bytes:
-        - 226
         - 4
-    - ascii: 0Npc_oasis038_ChoiceA_Off
+    - text: 0Npc_oasis038_ChoiceA_Off
     - utf16_bytes:
         - 0
-    - ascii: 0Npc_oasis038_ChoiceB_Off
+    - text: 0Npc_oasis038_ChoiceB_Off
     - utf16_bytes:
         - 1
-    - ascii: 0Npc_oasis038_ChoiceC_Off
+    - text: 0Npc_oasis038_ChoiceC_Off
     - utf16_bytes:
         - 3
-    - ascii: 0Npc_oasis038_ChoiceD_Off
+    - text: 0Npc_oasis038_ChoiceD_Off
     - utf16_bytes:
         - 2
         - 0
@@ -337,14 +336,15 @@ entries:
         - 0
         - 65535
         - 0
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Sand-seal racing?
+    - text: Sand-seal racing?
     - utf16_bytes:
         - 0
   Talk_04:
@@ -353,36 +353,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1032
-    - ascii: "\"Who's Tali\"? Are you serious right now?\n\n\nYou aren't seriously saying you don't\nrecognize Tali, the "
+    - text: "Ј\"Who's Tali\"? Are you serious right now?\n\n\nYou aren't seriously saying you don't\nrecognize Tali, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-seal racing\nchampion"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", are you?\nThat stupid "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast
+    - text: "sand-seal racing\nchampion"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is the only\nthing stopping us from showing you\nTali's sand-seal skills firsthand!"
+    - text: ", are you?\nThat stupid "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is the only\nthing stopping us from showing you\nTali's sand-seal skills firsthand!"
     - utf16_bytes:
         - 0
   Talk_05:
@@ -391,41 +390,42 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tUse your eyes!"
+        - 9
+    - text: Use your eyes!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " The "
+    - text: " The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is\nstomping around, so obviously we can't\nuse the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand-seal race course
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI suppose you can stand around here if\nyou want, but I'd prefer you did it\nelsewhere."
+    - text: " is\nstomping around, so obviously we can't\nuse the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sand-seal race course
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nI suppose you can stand around here if\nyou want, but I'd prefer you did it\nelsewhere."
     - utf16_bytes:
         - 0
   Talk_06:
@@ -434,22 +434,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "Not to toot my own horn, but I'm the one\nwho raised Tali into the "
+    - text: "ЇNot to toot my own horn, but I'm the one\nwho raised Tali into the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-seal racing\nchampion"
+    - text: "sand-seal racing\nchampion"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " she is.\nIt wasn't easy, let me tell you.\nShe's always been a bit shy, but her and\nI have a great relationship now.\nIsn't that right, Tali?"
+    - text: " she is.\nIt wasn't easy, let me tell you.\nShe's always been a bit shy, but her and\nI have a great relationship now.\nIsn't that right, Tali?"
     - utf16_bytes:
         - 0
   Talk_07:
@@ -458,7 +457,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t...That big thing out there is seriously\nbad for business."
+        - 9
+    - text: "...That big thing out there is seriously\nbad for business."
     - utf16_bytes:
         - 0
   Talk_36:
@@ -468,18 +468,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The frigid temperatures of the desert at\nnight are pretty rough on you Hylians,\naren't they?\n"
+    - text: "The frigid temperatures of the desert at\nnight are pretty rough on you Hylians,\naren't they?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "I guess we're all used to it..."
+    - text: "I guess we're all used to it..."
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: Hrn!
+    - text: Hrn!
     - utf16_bytes:
         - 0
   Talk_08:
@@ -488,7 +488,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI don't care who does it, but someone\nbetter go address that thing soon..."
+        - 9
+    - text: "I don't care who does it, but someone\nbetter go address that thing soon..."
     - utf16_bytes:
         - 0
   Talk_37:
@@ -498,14 +499,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The intense heat of the desert during the\nday is pretty hard on you, huh.\n\n"
+    - text: "The intense heat of the desert during the\nday is pretty hard on you, huh.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "I guess we're all just used to it..."
+    - text: "I guess we're all just used to it..."
     - utf16_bytes:
         - 0
   Talk_09:
@@ -514,53 +515,52 @@ entries:
         - 3
         - 1
         - 2
-        - 1032
-    - ascii: "\"Who's Tali\"? Are you serious right now?\n\n\nYou aren't seriously saying you don't\nrecognize Tali, the "
+    - text: "Ј\"Who's Tali\"? Are you serious right now?\n\n\nYou aren't seriously saying you don't\nrecognize Tali, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-seal racing\nchampion"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", are you?\nThat stupid "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast
+    - text: "sand-seal racing\nchampion"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is the only\nthing stopping us from showing you\nTali's sand-seal skills firsthand!"
+    - text: ", are you?\nThat stupid "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is the only\nthing stopping us from showing you\nTali's sand-seal skills firsthand!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\t"
+        - 9
+    - text: â
     - utf16_bytes:
-        - 226
         - 4
-    - ascii: 0Npc_oasis038_ChoiceA_Off
+    - text: 0Npc_oasis038_ChoiceA_Off
     - utf16_bytes:
         - 0
-    - ascii: 0Npc_oasis038_ChoiceB_Off
+    - text: 0Npc_oasis038_ChoiceB_Off
     - utf16_bytes:
         - 1
-    - ascii: 0Npc_oasis038_ChoiceC_Off
+    - text: 0Npc_oasis038_ChoiceC_Off
     - utf16_bytes:
         - 3
-    - ascii: 0Npc_oasis038_ChoiceD_Off
+    - text: 0Npc_oasis038_ChoiceD_Off
     - utf16_bytes:
         - 2
         - 0
@@ -570,7 +570,8 @@ entries:
         - 0
         - 65535
         - 0
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 0
   Talk_39:
     - utf16_bytes:
@@ -578,14 +579,13 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: "Who in the blazing sands does this\nDivine Beast think it is?!"
+    - text: "ĈWho in the blazing sands does this\nDivine Beast think it is?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " No one upsets\nthe great Tali and gets away with it!"
+    - text: " No one upsets\nthe great Tali and gets away with it!"
     - utf16_bytes:
         - 0
   Talk_12:
@@ -594,58 +594,59 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tUse your eyes! "
+        - 9
+    - text: "Use your eyes! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is\nstomping around, so obviously we can't\nuse the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand-seal race course
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI suppose you can stand around here if\nyou want, but I'd prefer you did it\nelsewhere."
+    - text: " is\nstomping around, so obviously we can't\nuse the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sand-seal race course
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nI suppose you can stand around here if\nyou want, but I'd prefer you did it\nelsewhere."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\t"
+        - 9
+    - text: â
     - utf16_bytes:
-        - 226
         - 4
-    - ascii: 0Npc_oasis038_ChoiceA_Off
+    - text: 0Npc_oasis038_ChoiceA_Off
     - utf16_bytes:
         - 0
-    - ascii: 0Npc_oasis038_ChoiceB_Off
+    - text: 0Npc_oasis038_ChoiceB_Off
     - utf16_bytes:
         - 1
-    - ascii: 0Npc_oasis038_ChoiceC_Off
+    - text: 0Npc_oasis038_ChoiceC_Off
     - utf16_bytes:
         - 3
-    - ascii: 0Npc_oasis038_ChoiceD_Off
+    - text: 0Npc_oasis038_ChoiceD_Off
     - utf16_bytes:
         - 2
         - 0
@@ -655,9 +656,10 @@ entries:
         - 0
         - 65535
         - 0
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: Gah!
+    - text: Gah!
     - utf16_bytes:
         - 0

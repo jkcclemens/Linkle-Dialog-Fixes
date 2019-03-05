@@ -6,13 +6,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm so scared I could cry!"
+        - 9
+    - text: "I'm so scared I could cry!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Goodness!"
+    - text: " Goodness!"
     - utf16_bytes:
         - 0
   Com_Talk_00:
@@ -21,8 +22,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: What would you like to sell me?
+    - text: 촂What would you like to sell me?
     - utf16_bytes:
         - 0
   MSG_Ichika_03:
@@ -32,30 +32,29 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You're an adventurer, aren't you?"
+    - text: "You're an adventurer, aren't you?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWell then! You need to stock up\non some healthy foods! \nThink about it"
+    - text: "\nWell then! You need to stock up\non some healthy foods! \nThink about it—"
     - utf16_bytes:
-        - 8212
         - 14
         - 5
         - 1
         - 0
-    - ascii: "when you're in the\nmiddle of nowhere, there aren't a lot of\nshops selling quality ingredients.\nI'm willing to guess you don't have\ncooks that follow you around making you\ntasty treats. Nail on the head, hm?"
+    - text: "when you're in the\nmiddle of nowhere, there aren't a lot of\nshops selling quality ingredients.\nI'm willing to guess you don't have\ncooks that follow you around making you\ntasty treats. Nail on the head, hm?"
     - utf16_bytes:
         - 0
   Com_Talk_01:
-    - ascii: "Hmm... "
+    - text: "Hmm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I can offer you "
+    - text: "I can offer you "
     - utf16_bytes:
         - 14
         - 0
@@ -65,28 +64,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   MSG_Ichika_04:
     - utf16_bytes:
@@ -95,32 +93,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm the traveling chef, Stamm! I may\nsound a tad arrogant,"
+    - text: "I'm the traveling chef, Stamm! I may\nsound a tad arrogant,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " but I'm very\nimportant, so what can be done?\nThey say that hunger is the best sauce..."
+    - text: " but I'm very\nimportant, so what can be done?\nThey say that hunger is the best sauce..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nor is it love? I forget.\n\n"
+    - text: "\nor is it love? I forget.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "But that means us cooks will never be\nbetter than a starving chef or a fool\nin love. "
+    - text: "ขBut that means us cooks will never be\nbetter than a starving chef or a fool\nin love. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I think that's bogus!"
+    - text: "I think that's bogus!"
     - utf16_bytes:
         - 0
   RetMSG_Ichika_00_1:
@@ -130,13 +127,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When you use bugs and monster parts\nto cook, what you end up with are elixirs.\n\nChefs don't usually deal with bugs."
+    - text: "When you use bugs and monster parts\nto cook, what you end up with are elixirs.\n\nChefs don't usually deal with bugs."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThat's perfect for someone like me\nwho's terrified of them!"
+    - text: "\nThat's perfect for someone like me\nwho's terrified of them!"
     - utf16_bytes:
         - 0
   Com_Talk_02:
@@ -145,13 +142,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thanks!
+    - text: 촉Thanks!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Got anything else?"
+    - text: " Got anything else?"
     - utf16_bytes:
         - 0
   MSG_Ichika_00_1:
@@ -161,41 +158,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm looking for the ultimate ingredients"
+    - text: "I'm looking for the ultimate ingredients"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nfrom "
+    - text: "\nfrom "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "South Akkala Stable "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Tarrey Town
+    - text: "South Akkala Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tarrey Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   Com_Talk_04:
@@ -204,24 +201,21 @@ entries:
         - 4
         - 1
         - 2
-        - 52497
-    - ascii: "I see, I see."
+    - text: "촑I see, I see."
     - utf16_bytes:
         - 0
   Com_Talk_10:
-    - ascii: Excellent choice! So wanna buy it?
+    - text: Excellent choice! So wanna buy it?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_05:
-    - ascii: "I'll buy anything!"
+    - text: "I'll buy anything!"
     - utf16_bytes:
         - 0
   Com_Talk_11:
@@ -230,12 +224,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Thank you!
+    - text: 촂Thank you!
     - utf16_bytes:
         - 0
   Com_Talk_06:
-    - ascii: What do you want to buy?
+    - text: What do you want to buy?
     - utf16_bytes:
         - 0
   Com_Talk_12:
@@ -244,13 +237,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Take a good look! "
+    - text: "촉Take a good look! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Every item is\ntop of the line!"
+    - text: "Every item is\ntop of the line!"
     - utf16_bytes:
         - 0
   Com_Talk_02b:
@@ -259,13 +252,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Thanks! "
+    - text: "촉Thanks! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "If you have anything else,\nlet me know and I'll buy it."
+    - text: "If you have anything else,\nlet me know and I'll buy it."
     - utf16_bytes:
         - 0
   Com_Talk_07:
@@ -274,39 +267,36 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촊Oh...
+    - text: 촊Oh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Sorry!"
+    - text: " Sorry!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm all out at the moment."
+    - text: " I'm all out at the moment."
     - utf16_bytes:
         - 0
   Com_Talk_13:
-    - ascii: "I'd love to buy that!"
+    - text: "I'd love to buy that!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How many will you\nsell me?"
+    - text: " How many will you\nsell me?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Com_Talk_02c:
     - utf16_bytes:
@@ -314,14 +304,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Thanks!
+    - text: 촂Thanks!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can buy more, if you want.\nSo how about it?"
+    - text: " I can buy more, if you want.\nSo how about it?"
     - utf16_bytes:
         - 0
   Com_Talk_08:
@@ -330,42 +319,41 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "HUH? "
+    - text: "촄HUH? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Rupees...
+    - text: Rupees...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You don't seem to \nhave enough of them."
+    - text: " You don't seem to \nhave enough of them."
     - utf16_bytes:
         - 0
   Com_Talk_14:
-    - ascii: "Let's go with"
+    - text: "Let's go with"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -375,28 +363,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThat OK?"
+    - text: ".\nThat OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_20:
     - utf16_bytes:
@@ -404,27 +391,27 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉When the weather's bad, I gotta sell my\nbest goods to make up for it..."
+    - text: "촉When the weather's bad, I gotta sell my\nbest goods to make up for it..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Like this!\n"
+    - text: " Like this!\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Goron spice "
+    - text: "Goron spice "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is super rare!
+    - text: is super rare!
     - utf16_bytes:
         - 0
   Com_Talk_02d:
@@ -433,14 +420,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "You're a great customer!"
+    - text: "촂You're a great customer!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If there's \nanything else you wanna sell,\njust say the word."
+    - text: " If there's \nanything else you wanna sell,\njust say the word."
     - utf16_bytes:
         - 0
   Com_Talk_09:
@@ -449,14 +435,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Your pouch is full.
+    - text: 촎Your pouch is full.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You'll have to sell or\ndiscard some of your stuff."
+    - text: " You'll have to sell or\ndiscard some of your stuff."
     - utf16_bytes:
         - 0
   Com_Talk_15:
@@ -465,13 +450,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촊Oh...
+    - text: 촊Oh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Sorry, I can't buy that!"
+    - text: " Sorry, I can't buy that!"
     - utf16_bytes:
         - 0
   Thanks00:
@@ -480,8 +465,7 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Consider this a thank-you. Go on,\nno need to be modest!"
+    - text: "āConsider this a thank-you. Go on,\nno need to be modest!"
     - utf16_bytes:
         - 0
   Com_Talk_16:
@@ -490,25 +474,25 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊I'm happy to buy clothes from you but...\nnot ones you're currently wearing."
+    - text: "촊I'm happy to buy clothes from you but...\nnot ones you're currently wearing."
     - utf16_bytes:
         - 0
   Com_Talk_30:
-    - ascii: So...
+    - text: So...
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " That'll be "
+    - text: " That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -518,29 +502,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   RetMSG_Ichika_04_1:
     - utf16_bytes:
@@ -549,55 +531,52 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm selling the ingredients I find when\nI go back and forth from north of\n"
+    - text: "I'm selling the ingredients I find when\nI go back and forth from north of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lake Akkala "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: South Akkala Stable
+    - text: "Lake Akkala "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: South Akkala Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThey're all top quality ingredients!\nNaturally!"
+    - text: "\nThey're all top quality ingredients!\nNaturally!"
     - utf16_bytes:
         - 0
   Com_Talk_31:
-    - ascii: Great choice! How many?
+    - text: Great choice! How many?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   MSG_Ichika_04_1:
     - utf16_bytes:
@@ -605,14 +584,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: They say that hunger is the best sauce...
+    - text: ကThey say that hunger is the best sauce...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nor it might have been love, I dunno.\n\nRegardless, I intend to make people say\nnothing can compete with Stamm's food!\nI won't stop until I succeed!"
+    - text: "\nor it might have been love, I dunno.\n\nRegardless, I intend to make people say\nnothing can compete with Stamm's food!\nI won't stop until I succeed!"
     - utf16_bytes:
         - 0
   Atacked00:
@@ -621,24 +599,23 @@ entries:
         - 3
         - 1
         - 2
-        - 8192
-    - ascii: URP!
+    - text:  URP!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Yeesh, holding my breath isn't\nworking at all..."
+    - text: " Yeesh, holding my breath isn't\nworking at all..."
     - utf16_bytes:
         - 0
   Com_Talk_33:
-    - ascii: Only one?
+    - text: Only one?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " How about "
+    - text: " How about "
     - utf16_bytes:
         - 14
         - 0
@@ -648,28 +625,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Atacked01:
     - utf16_bytes:
@@ -677,38 +653,37 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Monsters!
+    - text: ขMonsters!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Maybe I should try throwing\na hard ingredient at them..."
+    - text: " Maybe I should try throwing\na hard ingredient at them..."
     - utf16_bytes:
         - 0
   Com_Talk_34:
-    - ascii: All of them?!
+    - text: All of them?!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Of course!"
+    - text: " Of course!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSo for "
+    - text: "\nSo for "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: ", that'll be\n"
+    - text: ", that'll be\n"
     - utf16_bytes:
         - 14
         - 0
@@ -718,45 +693,44 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_35:
-    - ascii: "You're gonna sell all of 'em?!"
+    - text: "You're gonna sell all of 'em?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nOK, so for "
+    - text: "\nOK, so for "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: ", that'll be\n"
+    - text: ", that'll be\n"
     - utf16_bytes:
         - 14
         - 0
@@ -766,28 +740,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   RetMSG_Ichika_01_1:
     - utf16_bytes:
@@ -801,20 +774,20 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Lake Akkala "
+    - text: "Lake Akkala "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has great ingredients just\nswimming around in all their glory\nand deliciousness!"
+    - text: "has great ingredients just\nswimming around in all their glory\nand deliciousness!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThere are also ingredients that grow\nthere, and those that have fallen there,\nand those that fly around there...\nTo me, the world is a giant market!"
+    - text: "\nThere are also ingredients that grow\nthere, and those that have fallen there,\nand those that fly around there...\nTo me, the world is a giant market!"
     - utf16_bytes:
         - 0
   Com_Talk_36:
@@ -823,13 +796,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Whoa! I'm all sold out!"
+    - text: "촉Whoa! I'm all sold out!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nGlad you like my ingredients!"
+    - text: "\nGlad you like my ingredients!"
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -838,18 +811,17 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: Wow!
+    - text: ሁWow!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Thanks for the help!"
+    - text: " Thanks for the help!"
     - utf16_bytes:
         - 0
   Com_Talk_05b:
-    - ascii: Did you want me to buy something?
+    - text: Did you want me to buy something?
     - utf16_bytes:
         - 0
   Com_Talk_11b:
@@ -858,7 +830,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thanks!
+    - text: 촉Thanks!
     - utf16_bytes:
         - 0
   Com_Talk_37:
@@ -867,27 +839,26 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊Oh, sorry! "
+    - text: "촊Oh, sorry! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm actually closed for the day."
+    - text: "I'm actually closed for the day."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nIf you want, I can show you the list of\ningredients I'm looking to restock."
+    - text: "\nIf you want, I can show you the list of\ningredients I'm looking to restock."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   MSG_Ichika_01_1:
     - utf16_bytes:
@@ -896,13 +867,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you're feeling sluggish,"
+    - text: "If you're feeling sluggish,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\ncourser bee honey and an\napple are just the ticket."
+    - text: "\ncourser bee honey and an\napple are just the ticket."
     - utf16_bytes:
         - 0
   Talk01:
@@ -911,14 +882,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hey now! Why not take a quick look\nat the ingredients I've gathered, eh?"
+    - text: "ĀHey now! Why not take a quick look\nat the ingredients I've gathered, eh?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThey're all fresh!"
+    - text: "\nThey're all fresh!"
     - utf16_bytes:
         - 14
         - 1
@@ -927,7 +897,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   SavedLv1_01:
     - utf16_bytes:
@@ -936,11 +907,11 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Thanks for helping me!
+    - text: Thanks for helping me!
     - utf16_bytes:
         - 0
   Com_Talk_05c:
-    - ascii: Do you have anything you wanna sell?
+    - text: Do you have anything you wanna sell?
     - utf16_bytes:
         - 0
   Com_Talk_11c:
@@ -949,13 +920,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thank you!
+    - text: 촉Thank you!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Really!"
+    - text: " Really!"
     - utf16_bytes:
         - 0
   Talk02:
@@ -964,8 +935,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Do you need anything else?
+    - text: ĀDo you need anything else?
     - utf16_bytes:
         - 14
         - 1
@@ -974,16 +944,17 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Com_Talk_05d:
-    - ascii: "I'll buy anything!"
+    - text: "I'll buy anything!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Really, I mean it!"
+    - text: " Really, I mean it!"
     - utf16_bytes:
         - 0
   Com_Talk_11d:
@@ -992,8 +963,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Thank you so much.
+    - text: 촂Thank you so much.
     - utf16_bytes:
         - 0
   RetMSG_Ichika_00:
@@ -1003,20 +973,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm the traveling chef, Stamm! I believe\neverything is an ingredient waiting\nto happen.\nHowever, in reality, it's not always that\nsimple."
+    - text: "I'm the traveling chef, Stamm! I believe\neverything is an ingredient waiting\nto happen.\nHowever, in reality, it's not always that\nsimple."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If I tried to stew a leather shoe\nand serve it, I bet it wouldn't go well.\n"
+    - text: " If I tried to stew a leather shoe\nand serve it, I bet it wouldn't go well.\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Even so, I'm not giving up! "
+    - text: "촇Even so, I'm not giving up! "
     - utf16_bytes:
         - 0
   RetMSG_Ichika_01:
@@ -1026,21 +995,21 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Just south of this road, you'll find\n"
+    - text: "Just south of this road, you'll find\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lake Akkala
+    - text: Lake Akkala
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! It's great!"
+    - text: "! It's great!"
     - utf16_bytes:
         - 14
         - 5
@@ -1050,14 +1019,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: " Oh, whoa."
+    - text: "Ā Oh, whoa."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm not talking about the view.\nI'm talking about the ingredients that are\nswimming in the lake. I mean, come on.\nYou can't eat a view, right?"
+    - text: "\nI'm not talking about the view.\nI'm talking about the ingredients that are\nswimming in the lake. I mean, come on.\nYou can't eat a view, right?"
     - utf16_bytes:
         - 14
         - 5
@@ -1067,8 +1035,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: " Ha ha ha!"
+    - text: 촇 Ha ha ha!
     - utf16_bytes:
         - 0
   RetMSG_Ichika_02:
@@ -1077,49 +1044,47 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "I'm the traveling chef, but..."
+    - text: "ဋI'm the traveling chef, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm not always traveling.\n\nThere are times when I need to take a\nbreak from life on the road.\n\n"
+    - text: "\nI'm not always traveling.\n\nThere are times when I need to take a\nbreak from life on the road.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Taking a nap at "
+    - text: "ĀTaking a nap at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lake Akkala "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to the east\nsounds nice...but I have customers\nwaiting at "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: South Akkala Stable
+    - text: "Lake Akkala "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "to the east\nsounds nice...but I have customers\nwaiting at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: South Akkala Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
@@ -1129,8 +1094,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: " Ha ha ha!"
+    - text: 촇 Ha ha ha!
     - utf16_bytes:
         - 0
   Rest_00:
@@ -1140,41 +1104,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "To make the ultimate dish, I'm looking for\nthe best ingredients."
+    - text: "To make the ultimate dish, I'm looking for\nthe best ingredients."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " \n\nThat's why I go back and forth between \n"
+    - text: " \n\nThat's why I go back and forth between \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "South Akkala Stable "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Tarrey Town
+    - text: "South Akkala Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nI sell stuff too, so hit me up anytime!"
+    - text: "and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tarrey Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nI sell stuff too, so hit me up anytime!"
     - utf16_bytes:
         - 0
   RetMSG_Ichika_03:
@@ -1184,51 +1148,49 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I can't seem to make the dishes I picture\nin my head..."
+    - text: "I can't seem to make the dishes I picture\nin my head..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Blah, what happened to\nmy inspiration?!\nAt times like this, I always say..."
+    - text: " Blah, what happened to\nmy inspiration?!\nAt times like this, I always say..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nnothing beats eating a delicious meal!\n\n"
+    - text: "\nnothing beats eating a delicious meal!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "It not only heals your heart and soul,"
+    - text: "ଇIt not only heals your heart and soul,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nit can also make you heat, cold, shock,\nor fire resistant! Or even stealthier!\n"
+    - text: "\nit can also make you heat, cold, shock,\nor fire resistant! Or even stealthier!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Dishes are the best!
+    - text: ĀDishes are the best!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Thanks to cooking,\nI can move forward in life! I'm so glad I\nbecame a cook in this crazy world. "
+    - text: " Thanks to cooking,\nI can move forward in life! I'm so glad I\nbecame a cook in this crazy world. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Ha!
+    - text: Ha!
     - utf16_bytes:
         - 0
   Rest_01:
@@ -1237,19 +1199,18 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The rain helps grow lots of green plants!\nGreen plants help animals, and all of\nthat helps me too!\n"
+    - text: "ЀThe rain helps grow lots of green plants!\nGreen plants help animals, and all of\nthat helps me too!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2561
-    - ascii: "My dishes help people, and the money\nI get from selling them helps me more!\nIt's a beautiful world, ha ha ha!"
+    - text: "My dishes help people, and the money\nI get from selling them helps me more!\nIt's a beautiful world, ha ha ha!"
     - utf16_bytes:
         - 0
   "5500":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   RetMSG_Ichika_04:
@@ -1259,35 +1220,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm the traveling chef, Stamm!\n\n\nI'm hunting for ingredients from north of\n"
+    - text: "I'm the traveling chef, Stamm!\n\n\nI'm hunting for ingredients from north of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lake Akkala "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: South Akkala Stable
+    - text: "Lake Akkala "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: South Akkala Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   Rest_02:
@@ -1296,24 +1257,23 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "I don't want to get my ingredients wet..."
+    - text: "ဋI don't want to get my ingredients wet..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nMaybe I'll just stay here until the rain \nclears up!"
+    - text: "\nMaybe I'll just stay here until the rain \nclears up!"
     - utf16_bytes:
         - 0
   Com_Talk_56:
-    - ascii: Only one?
+    - text: Only one?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That'll be "
+    - text: " That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -1323,52 +1283,50 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "5501":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I want to buy.
+    - text: I want to buy.
     - utf16_bytes:
         - 0
   "5502":
-    - ascii: Sounds good.
+    - text: Sounds good.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: I want to sell.
+    - text: I want to sell.
     - utf16_bytes:
         - 0
   "5503":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Near00:
@@ -1377,8 +1335,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-    - ascii: Mushrooms for aroma...
+    - text: 촘Mushrooms for aroma...
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -1388,19 +1345,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Wow!
+    - text: Wow!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Thanks for the help!"
+    - text: " Thanks for the help!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nReally, thanks so much!"
+    - text: "\nReally, thanks so much!"
     - utf16_bytes:
         - 0
   Near01:
@@ -1409,8 +1366,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-    - ascii: Meat for power...
+    - text: 촘Meat for power...
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -1419,14 +1375,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: Monsters are too scary!
+    - text: ሁMonsters are too scary!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Thank you for\nhelping me!"
+    - text: " Thank you for\nhelping me!"
     - utf16_bytes:
         - 0
   Near02:
@@ -1435,8 +1390,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-    - ascii: Fish for nutrition...
+    - text: 촘Fish for nutrition...
     - utf16_bytes:
         - 0
   Near03:
@@ -1445,20 +1399,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-    - ascii: Fruit for dessert...
+    - text: 촘Fruit for dessert...
     - utf16_bytes:
         - 0
   "5507":
-    - ascii: "I'll take 'em all!"
+    - text: "I'll take 'em all!"
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: "I don't wanna get wet..."
+    - text: "I don't wanna get wet..."
     - utf16_bytes:
         - 0
   "5508":
-    - ascii: "All of 'em."
+    - text: "All of 'em."
     - utf16_bytes:
         - 0
   RetMSG_Ichika_02_1:
@@ -1468,41 +1421,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Today I go from "
+    - text: "Today I go from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lake Akkala "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to the east\nto "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: South Akkala Stable
+    - text: "Lake Akkala "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", to the west!"
+    - text: "to the east\nto "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: South Akkala Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", to the west!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSuch is the life of a traveling chef!"
+    - text: "\nSuch is the life of a traveling chef!"
     - utf16_bytes:
         - 0
   Guardian00:
@@ -1511,8 +1464,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5636
-    - ascii: "It's after us! Ruuuun!"
+    - text: "ᘄIt's after us! Ruuuun!"
     - utf16_bytes:
         - 0
   MSG_Ichika_02_1:
@@ -1522,19 +1474,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Meat dishes are a great pick-me-up! "
+    - text: "Meat dishes are a great pick-me-up! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nFish dishes are yummy and special!"
+    - text: "\nFish dishes are yummy and special!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThese are good things to keep in mind!"
+    - text: "\nThese are good things to keep in mind!"
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -1544,7 +1496,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: I barely made it out alive!
+    - text: I barely made it out alive!
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -1553,14 +1505,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "How dare those nasty monsters come\nafter my ingredients!"
+    - text: "ကHow dare those nasty monsters come\nafter my ingredients!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Thanks to you,\nmy livelihood is safe!"
+    - text: " Thanks to you,\nmy livelihood is safe!"
     - utf16_bytes:
         - 0
   RetMSG_Ichika_03_1:
@@ -1570,26 +1521,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When you don't know what to do,\njust eat!"
+    - text: "When you don't know what to do,\njust eat!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Oh, and also eat when you're\nhungry. That's important too.\nIt not only heals your heart and soul,"
+    - text: " Oh, and also eat when you're\nhungry. That's important too.\nIt not only heals your heart and soul,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nit can also make you heat, cold, shock,\nor fire resistant!\n"
+    - text: "\nit can also make you heat, cold, shock,\nor fire resistant!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "Wow, the dishes that exist in this world\nare really amazing!"
+    - text: "Wow, the dishes that exist in this world\nare really amazing!"
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -1598,14 +1549,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm the traveling chef! "
+    - text: "ЀI'm the traveling chef! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "And don't you\nforget it!"
+    - text: "And don't you\nforget it!"
     - utf16_bytes:
         - 0
   MSG_Ichika_00:
@@ -1615,53 +1565,53 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Are you looking for the traveling chef\ncalled Stamm?"
+    - text: "Are you looking for the traveling chef\ncalled Stamm?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's your lucky day!"
+    - text: " It's your lucky day!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHe is me! Ha ha ha!\nI'm currently looking for the ultimate\ningredients "
+    - text: "\nHe is me! Ha ha ha!\nI'm currently looking for the ultimate\ningredients "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "from "
+    - text: "from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: South Akkala Stable
+    - text: South Akkala Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nto "
+    - text: "\nto "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tarrey Town
+    - text: Tarrey Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   MSG_Ichika_01:
@@ -1670,20 +1620,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "When people call for the traveling chef,\nStamm appears!! "
+    - text: "ကWhen people call for the traveling chef,\nStamm appears!! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Whoopsie, did I just\ncall for myself? Ha ha ha!\nWhat I'm trying to do is create a dish\nthat anyone would desperately crave\nwhether they know it or not.\nFor example, if they're feeling sluggish,"
+    - text: "Whoopsie, did I just\ncall for myself? Ha ha ha!\nWhat I'm trying to do is create a dish\nthat anyone would desperately crave\nwhether they know it or not.\nFor example, if they're feeling sluggish,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\ncourser bee honey and an apple are just\nthe ticket."
+    - text: "\ncourser bee honey and an apple are just\nthe ticket."
     - utf16_bytes:
         - 0
   MSG_Ichika_03_1:
@@ -1693,19 +1642,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you were my kid, I'd worry endlessly\nabout your health. "
+    - text: "If you were my kid, I'd worry endlessly\nabout your health. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Oh, but one glance at\nyour face tells me how you're doing...\nYou're so-so right now."
+    - text: "Oh, but one glance at\nyour face tells me how you're doing...\nYou're so-so right now."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " But you can\ndo better! Ha ha ha!"
+    - text: " But you can\ndo better! Ha ha ha!"
     - utf16_bytes:
         - 0
   Failed00:
@@ -1714,19 +1663,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tYou... "
+        - 9
+    - text: "You... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Are you OK?
+    - text: Are you OK?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I just about died\nof fright out there."
+    - text: " I just about died\nof fright out there."
     - utf16_bytes:
         - 0
   MSG_Ichika_02:
@@ -1736,18 +1686,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm the traveling chef,"
+    - text: "I'm the traveling chef,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Stamm!\n\n\nMeat dishes give you loads of energy!"
+    - text: " Stamm!\n\n\nMeat dishes give you loads of energy!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nAnd fish dishes are just plain special!\n\nTake advantage of each ingredient when \ncooking so you can make what your body\nneeds most!"
+    - text: "\nAnd fish dishes are just plain special!\n\nTake advantage of each ingredient when \ncooking so you can make what your body\nneeds most!"
     - utf16_bytes:
         - 0

@@ -6,14 +6,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "My name is Fugo.\n\n\nI've been trainin' hard "
+    - text: "ЀMy name is Fugo.\n\n\nI've been trainin' hard "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "so that I can\ncarry on Master Rohan's work one day."
+    - text: "so that I can\ncarry on Master Rohan's work one day."
     - utf16_bytes:
         - 0
   talk16:
@@ -22,64 +21,63 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Igneo Talus "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is a huge beast whose\nbody is made of lava. There are a few of\n'em around "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Goron City
+    - text: "Igneo Talus "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI defeated a whole lot of 'em, but no\nmatter how hard I try, I can't reach\nthe "
+    - text: "is a huge beast whose\nbody is made of lava. There are a few of\n'em around "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Igneo Talus "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "at "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Darunia Lake
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ".\nI defeated a whole lot of 'em, but no\nmatter how hard I try, I can't reach\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Igneo Talus "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Darunia Lake
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk17:
@@ -89,7 +87,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "That place is fairly close to Goron City,\nbut it's extremely difficult to get there..."
+    - text: "That place is fairly close to Goron City,\nbut it's extremely difficult to get there..."
     - utf16_bytes:
         - 0
   talk19:
@@ -104,41 +102,41 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Master "
+    - text: "Master "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "fought the Igneo Talus when he\nwas young, and he got stronger that way.\n\nSome say he fought every "
+    - text: "fought the Igneo Talus when he\nwas young, and he got stronger that way.\n\nSome say he fought every "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Igneo Talus
+    - text: Igneo Talus
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nthat exists in the world and beat 'em all!\n\n"
+    - text: "\nthat exists in the world and beat 'em all!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Hrm... "
+    - text: "Hrm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I hope I'm that amazing one day."
+    - text: "I hope I'm that amazing one day."
     - utf16_bytes:
         - 0
   talk20:
@@ -147,58 +145,55 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhaaaa"
-    - utf16_bytes:
-        - 8212
-    - ascii: "?!"
+    - text: "\nWhaaaa—?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You say you beat the\n"
+    - text: " You say you beat the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Igneo Talus
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " at "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Darunia Lake
+    - text: Igneo Talus
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!\n\nHmm...I have an idea. How about ya\nsell me that achievement for a cool\n"
+    - text: " at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: 100 rupees
+        - 2
+    - text: Darunia Lake
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?!\n\nHmm...I have an idea. How about ya\nsell me that achievement for a cool\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 100 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -206,7 +201,8 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk21:
     - utf16_bytes:
@@ -214,7 +210,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI see..."
+        - 9
+    - text: I see...
     - utf16_bytes:
         - 0
   talk22:
@@ -224,19 +221,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "YESSS! "
+    - text: "YESSS! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: The deal is done!
+    - text: The deal is done!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nHere ya go, sister!"
+    - text: "\nHere ya go, sister!"
     - utf16_bytes:
         - 0
   talk23:
@@ -245,35 +242,33 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Thanks! "
+    - text: "इThanks! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Thanks so much!\n\n\n"
+    - text: "Thanks so much!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I can't wait to tell Master about the\n"
+    - text: "āI can't wait to tell Master about the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Igneo Talus
+    - text: Igneo Talus
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   talk24:
@@ -282,8 +277,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1283
-    - ascii: Hmm...
+    - text: ԃHmm...
     - utf16_bytes:
         - 0
   talk25:
@@ -293,76 +287,74 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "He's really strict with everyone"
-    - utf16_bytes:
-        - 8212
-    - ascii: "\nme included.\n\n"
+    - text: "He's really strict with everyone—\nme included.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "In my case, he told me to beat every\n"
+    - text: "In my case, he told me to beat every\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Igneo Talus "
+    - text: "Igneo Talus "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "around Goron City as\npart of my training.\n"
+    - text: "around Goron City as\npart of my training.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut I can't get to the"
+        - 9
+    - text: "But I can't get to the"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " Igneo Talus"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nat "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Darunia Lake
+    - text: " Igneo Talus"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". *siiiigh*\n\n"
+    - text: "\nat "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Darunia Lake
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". *siiiigh*\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: If only someone would go in my place...
+    - text: If only someone would go in my place...
     - utf16_bytes:
         - 0
   near00:
-    - ascii: "*snoooore*"
+    - text: "*snoooore*"
     - utf16_bytes:
         - 0
   talk26:
@@ -372,12 +364,12 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Need somethin'?"
+    - text: "Need somethin'?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 1
@@ -386,7 +378,7 @@ entries:
         - 768
         - 0
   near01:
-    - ascii: "*SNOOOORE*"
+    - text: "*SNOOOORE*"
     - utf16_bytes:
         - 0
   talk27:
@@ -395,40 +387,39 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I still haven't been able to tell him\nI defeated the "
+    - text: "ЀI still haven't been able to tell him\nI defeated the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Igneo Talus
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " at\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Darunia Lake
+    - text: Igneo Talus
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " at\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Darunia Lake
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   near02:
-    - ascii: Hrmhrm...
+    - text: Hrmhrm...
     - utf16_bytes:
         - 0
   talk28:
@@ -438,14 +429,14 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I haven't worked up the nerve to tell\nhim yet since I technically didn't\ndefeat it myself.\n"
+    - text: "I haven't worked up the nerve to tell\nhim yet since I technically didn't\ndefeat it myself.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I've got a long way to go before he\ntrusts me enough to teach me\nhis real secrets..."
+    - text: "I've got a long way to go before he\ntrusts me enough to teach me\nhis real secrets..."
     - utf16_bytes:
         - 0
   talk00:
@@ -454,12 +445,11 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "This is the house of the distinguished\nGoron artisan...Master Rohan!"
+    - text: "ȀThis is the house of the distinguished\nGoron artisan...Master Rohan!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Igneo Talus?
+    - text: Igneo Talus?
     - utf16_bytes:
         - 0
   talk01:
@@ -469,7 +459,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm afraid Master Rohan is hard at work.\nIf you wanna talk to him, be sure to\napproach him carefully."
+    - text: "I'm afraid Master Rohan is hard at work.\nIf you wanna talk to him, be sure to\napproach him carefully."
     - utf16_bytes:
         - 0
   talk30:
@@ -479,12 +469,12 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Need somethin'?"
+    - text: "Need somethin'?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 7
         - 1
@@ -493,7 +483,7 @@ entries:
         - 768
         - 0
   "0001":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   talk02:
@@ -503,43 +493,43 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, "
+    - text: "Well, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Master
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " Rohan is resting now...\nYou should get some sleep at the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: inn
+    - text: Master
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nor kill time and come back tomorrow."
+    - text: " Rohan is resting now...\nYou should get some sleep at the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: inn
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nor kill time and come back tomorrow."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "Who's Rohan?"
+    - text: "Who's Rohan?"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Nope.
+    - text: Nope.
     - utf16_bytes:
         - 0
   talk04:
@@ -549,25 +539,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "But "
+    - text: "But "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Master
+    - text: Master
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " Rohan isn't awake yet.\nHe greets the day every morning at 10.\nIf you wanna see him, come back then."
+    - text: " Rohan isn't awake yet.\nHe greets the day every morning at 10.\nIf you wanna see him, come back then."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: I beat an Igneo Talus.
+    - text: I beat an Igneo Talus.
     - utf16_bytes:
         - 0
   talk05:
@@ -576,11 +566,11 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "∉It's almost time to sleep..."
+    - text: "∉It's almost time to sleep..."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Sure!
+    - text: Sure!
     - utf16_bytes:
         - 0
   talk06:
@@ -589,11 +579,11 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "∉It's time I got some sleep...but if ya\nreally need somethin', I don't mind."
+    - text: "∉It's time I got some sleep...but if ya\nreally need somethin', I don't mind."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk07:
@@ -602,18 +592,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1283
-    - ascii: "Hrmph? "
+    - text: "ԃHrmph? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Did you tell Rohan?
+    - text: Did you tell Rohan?
     - utf16_bytes:
         - 0
   talk09:
@@ -622,53 +611,54 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-        - 14
-        - 0
-        - 3
-        - 2
-        - 3
-    - ascii: "I've got to hurry and beat the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Igneo Talus "
+    - text: ċ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "at\n"
+    - text: "I've got to hurry and beat the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Darunia Lake
+    - text: "Igneo Talus "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "..."
+    - text: "at\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Darunia Lake
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 3
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Earn Master Rohan's approval..."
+    - text: " Earn Master Rohan's approval..."
     - utf16_bytes:
         - 14
         - 0
@@ -679,7 +669,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk10:
@@ -688,53 +678,54 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-        - 14
-        - 0
-        - 3
-        - 2
-        - 3
-    - ascii: "It'd sure be nice if someone heroic showed up to\nbeat the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Igneo Talus "
+    - text: ċ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "at "
+    - text: "It'd sure be nice if someone heroic showed up to\nbeat the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Darunia Lake
+    - text: "Igneo Talus "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "..."
+    - text: "at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Darunia Lake
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 3
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If only..."
+    - text: " If only..."
     - utf16_bytes:
         - 14
         - 0
@@ -745,7 +736,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk11:
@@ -754,8 +745,7 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "You need somethin'?"
+    - text: "ċYou need somethin'?"
     - utf16_bytes:
         - 14
         - 1
@@ -763,7 +753,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk12:
     - utf16_bytes:
@@ -771,8 +762,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Master Rohan is a godly blacksmith.\nHe's responsible for keepin' the\nancient arts alive!"
+    - text: "ЀMaster Rohan is a godly blacksmith.\nHe's responsible for keepin' the\nancient arts alive!"
     - utf16_bytes:
         - 0
   talk13:
@@ -781,8 +771,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: See ya later.
+    - text: ЀSee ya later.
     - utf16_bytes:
         - 0
   talk14:
@@ -792,12 +781,12 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Need somethin'?"
+    - text: "Need somethin'?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1

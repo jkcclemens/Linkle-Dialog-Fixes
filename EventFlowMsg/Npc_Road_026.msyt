@@ -6,19 +6,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: " Heart palpitations, shortness of breath..."
+    - text: " Heart palpitations, shortness of breath..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nAh, me..."
+    - text: "\nAh, me..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Looks like I need to start taking\nmy own advice. Heal thyself, physician!"
+    - text: " Looks like I need to start taking\nmy own advice. Heal thyself, physician!"
     - utf16_bytes:
         - 0
   MSG_Rane_00_1:
@@ -28,13 +28,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm headed for the Riverside Stable. As a\ndoctor, I spend a lot of time on the road,"
+    - text: "I'm headed for the Riverside Stable. As a\ndoctor, I spend a lot of time on the road,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nmaking the rounds, visiting the sick."
+    - text: "\nmaking the rounds, visiting the sick."
     - utf16_bytes:
         - 0
   RetMSG_Rane_02_1:
@@ -43,26 +43,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
+    - text: စ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Naydra's scale"
+    - text: "Naydra's scale"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " can cure any illness. I\ndon't know of any doctor alive who\nwouldn't thrill at the prospect."
+    - text: " can cure any illness. I\ndon't know of any doctor alive who\nwouldn't thrill at the prospect."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'd climb Mount Lanayru, but that\nmountain is far too cold for these\nold bones."
+    - text: "\nI'd climb Mount Lanayru, but that\nmountain is far too cold for these\nold bones."
     - utf16_bytes:
         - 0
   Thanks00:
@@ -72,13 +73,13 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "I don't have much to offer you, but"
+    - text: "I don't have much to offer you, but"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nplease, take this as thanks."
+    - text: "\nplease, take this as thanks."
     - utf16_bytes:
         - 0
   MSG_Rane_04_1:
@@ -88,7 +89,7 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: I hear you can swim really fast...
+    - text: I hear you can swim really fast...
     - utf16_bytes:
         - 14
         - 5
@@ -98,7 +99,7 @@ entries:
         - 5
         - 2
         - 0
-    - ascii: "when\nyou're swimming in your skivvies."
+    - text: "when\nyou're swimming in your skivvies."
     - utf16_bytes:
         - 0
   Atacked00:
@@ -108,13 +109,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I need to look after my horse."
+    - text: " I need to look after my horse."
     - utf16_bytes:
         - 0
   Atacked01:
@@ -124,13 +125,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "I'm going to be late for my rounds,"
+    - text: "I'm going to be late for my rounds,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but\nit can't be helped."
+    - text: " but\nit can't be helped."
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -139,20 +140,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: "Well, I'll be."
+    - text: "ሁWell, I'll be."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I survived!"
+    - text: " I survived!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You young folks\nnowadays certainly are a capable bunch."
+    - text: " You young folks\nnowadays certainly are a capable bunch."
     - utf16_bytes:
         - 0
   MSG_Rane_01_1:
@@ -167,14 +167,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "Naydra's scale"
+    - text: "Naydra's scale"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is a powerful medicine\nthat stories say is connected to the\nattendant to a sacred fountain..."
+    - text: " is a powerful medicine\nthat stories say is connected to the\nattendant to a sacred fountain..."
     - utf16_bytes:
         - 0
   SavedLv1_01:
@@ -184,13 +184,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Rescued by a youngster, yet again."
+    - text: "Rescued by a youngster, yet again."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThank you kindly!"
+    - text: "\nThank you kindly!"
     - utf16_bytes:
         - 0
   RetMSG_Rane_03_1:
@@ -200,27 +200,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I've never been there myself,"
+    - text: "I've never been there myself,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but they\nsay there's a spirit called Naydra at the\n"
+    - text: " but they\nsay there's a spirit called Naydra at the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Rest_00:
@@ -230,41 +230,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm a doctor,"
+    - text: "I'm a doctor,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I prefer not to keep \nmy own office. I'd rather make my rounds\nand go where I can do the most good.\nI spend each and every day running my\npoor horse ragged, going between the\n"
+    - text: " but I prefer not to keep \nmy own office. I'd rather make my rounds\nand go where I can do the most good.\nI spend each and every day running my\npoor horse ragged, going between the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Wetland Stable "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Riverside Stable
+    - text: "Wetland Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Riverside Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   Rest_01:
@@ -274,7 +274,7 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "Even I get a sore back sometimes\nwith all the riding I do."
+    - text: "Even I get a sore back sometimes\nwith all the riding I do."
     - utf16_bytes:
         - 0
   Rest_02:
@@ -283,14 +283,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: Rain is nice every once in a while.
+    - text: စRain is nice every once in a while.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nListening to the sound of rainfall is a\nnice way to calm yourself down."
+    - text: "\nListening to the sound of rainfall is a\nnice way to calm yourself down."
     - utf16_bytes:
         - 0
   RetMSG_Rane_00_1:
@@ -300,17 +299,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A doctor with no one to care for is just\na regular person."
+    - text: "A doctor with no one to care for is just\na regular person."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I think I've earned\na rest..."
+    - text: " I think I've earned\na rest..."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: Got a fever?
+    - text: Got a fever?
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -319,18 +318,17 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "You know, I've been around them my \nwhole life, "
+    - text: "စYou know, I've been around them my \nwhole life, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "but I just can't cotton to\nmonsters."
+    - text: "but I just can't cotton to\nmonsters."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Got a cough?
+    - text: Got a cough?
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -340,25 +338,25 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "Well, thank you,"
+    - text: "Well, thank you,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but it'd sure be a shame\nif someone like you, in the prime of your\nlife, got hurt helping this old-timer."
+    - text: " but it'd sure be a shame\nif someone like you, in the prime of your\nlife, got hurt helping this old-timer."
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Broken bones?
+    - text: Broken bones?
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: Feeling woozy?
+    - text: Feeling woozy?
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: "Don't catch cold!"
+    - text: "Don't catch cold!"
     - utf16_bytes:
         - 0
   MSG_Rane_00:
@@ -368,19 +366,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Wetland Stable can wait 'til later."
+    - text: "Wetland Stable can wait 'til later."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Right\nnow, I'm headed for the Riverside Stable.\n\nAs a doctor, I spend a lot of time on the\nroad,"
+    - text: " Right\nnow, I'm headed for the Riverside Stable.\n\nAs a doctor, I spend a lot of time on the\nroad,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " making the rounds, visiting the\nsick."
+    - text: " making the rounds, visiting the\nsick."
     - utf16_bytes:
         - 0
   MSG_Rane_01:
@@ -390,28 +388,28 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "As a doctor, I was struck to the core\nwhen I heard there was a medicine\nthat could cure all kinds of sicknesses.\n"
+    - text: "As a doctor, I was struck to the core\nwhen I heard there was a medicine\nthat could cure all kinds of sicknesses.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "It's called "
+    - text: "It's called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Naydra's scale"
+    - text: "Naydra's scale"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and my\nresearch suggests it's connected to the\nattendant to a sacred fountain..."
+    - text: ", and my\nresearch suggests it's connected to the\nattendant to a sacred fountain..."
     - utf16_bytes:
         - 0
   Guardian00:
@@ -420,14 +418,13 @@ entries:
         - 3
         - 1
         - 2
-        - 10756
-    - ascii: A Guardian!
+    - text: ⨄A Guardian!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Get out of here! Quickly!"
+    - text: " Get out of here! Quickly!"
     - utf16_bytes:
         - 0
   MSG_Rane_02:
@@ -437,7 +434,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I once overheard a court secret of the\nroyal family in the course of doing my\nrounds..."
+    - text: "I once overheard a court secret of the\nroyal family in the course of doing my\nrounds..."
     - utf16_bytes:
         - 14
         - 5
@@ -447,26 +444,26 @@ entries:
         - 5
         - 2
         - 0
-    - ascii: "\nIf you startle a Cucco, it'll lay an egg!"
+    - text: "\nIf you startle a Cucco, it'll lay an egg!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "...Wait, that's not a court secret."
+    - text: "...Wait, that's not a court secret."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's\na Cuccourt secret."
+    - text: " It's\na Cuccourt secret."
     - utf16_bytes:
         - 0
   MSG_Rane_02_1:
@@ -476,19 +473,19 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "If you startle a Cucco, it'll lay an egg!"
+    - text: "If you startle a Cucco, it'll lay an egg!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's a Cuccourt secret."
+    - text: "It's a Cuccourt secret."
     - utf16_bytes:
         - 0
   RetMSG_Rane_00:
@@ -497,34 +494,33 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "It was rough going, what with all the\nmonster attacks along the way,"
+    - text: "ሀIt was rough going, what with all the\nmonster attacks along the way,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I\nmade it to "
+    - text: " but I\nmade it to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Wetland Stable "
+    - text: "Wetland Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in one piece.\nAs long as no one needs any medical\nattention, I can just relax and be a\nnormal person."
+    - text: "in one piece.\nAs long as no one needs any medical\nattention, I can just relax and be a\nnormal person."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I think I've earned it..."
+    - text: " I think I've earned it..."
     - utf16_bytes:
         - 0
   MSG_Rane_03:
@@ -533,39 +529,38 @@ entries:
         - 3
         - 1
         - 2
-        - 1029
-    - ascii: "I may have already told you this, but..."
+    - text: "ЅI may have already told you this, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThere is a legend about three sacred\nsprings..."
+    - text: "\nThere is a legend about three sacred\nsprings..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "They can be found in Mount Lanayru,\nFaron Woods, and the Eldin Mountains."
+    - text: "They can be found in Mount Lanayru,\nFaron Woods, and the Eldin Mountains."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThe stories all say the same thing...\nThat these springs call to dragon scales."
+    - text: "\nThe stories all say the same thing...\nThat these springs call to dragon scales."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAlthough what that means, no one has\nyet been able to decipher."
+    - text: "\nAlthough what that means, no one has\nyet been able to decipher."
     - utf16_bytes:
         - 0
   RetMSG_Rane_01:
@@ -575,62 +570,62 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "I've been researching "
+    - text: "I've been researching "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Naydra's scale"
+    - text: "Naydra's scale"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nsome sort of miraculous medicine that\nworks against all kinds of ailments."
+    - text: ",\nsome sort of miraculous medicine that\nworks against all kinds of ailments."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nFrom what I've read, it can be found at\nthe"
+    - text: "\nFrom what I've read, it can be found at\nthe"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " Spring of Wisdom "
+    - text: " Spring of Wisdom "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "on Mount Lanayru.\n\n"
+    - text: "on Mount Lanayru.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The legends also spoke of a spirit there,\na spirit called "
+    - text: "The legends also spoke of a spirit there,\na spirit called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Naydra
+    - text: Naydra
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that takes the form\nof a dragon."
+    - text: " that takes the form\nof a dragon."
     - utf16_bytes:
         - 0
   MSG_Rane_04:
@@ -639,21 +634,20 @@ entries:
         - 3
         - 1
         - 2
-        - 1029
-    - ascii: "Here's a little something I learned\nwhen I was running around in my\nundies one day..."
+    - text: "ЅHere's a little something I learned\nwhen I was running around in my\nundies one day..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: You can swim a little faster...
+    - text: You can swim a little faster...
     - utf16_bytes:
         - 14
         - 5
@@ -663,7 +657,7 @@ entries:
         - 5
         - 2
         - 0
-    - ascii: "if you're\nwearing a little less. "
+    - text: "if you're\nwearing a little less. "
     - utf16_bytes:
         - 0
   RetMSG_Rane_02:
@@ -672,34 +666,33 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "You're young and strong. Maybe you\ncould take up that challenge."
+    - text: "စYou're young and strong. Maybe you\ncould take up that challenge."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm talking\nabout climbing Mount Lanayru.\n"
+    - text: " I'm talking\nabout climbing Mount Lanayru.\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Naydra's scale"
+    - text: "Naydra's scale"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " can cure any illness. I\ndon't know of any doctor alive who\nwouldn't thrill at the prospect."
+    - text: " can cure any illness. I\ndon't know of any doctor alive who\nwouldn't thrill at the prospect."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'd do it myself, but that mountain is far\ntoo cold for these old bones."
+    - text: "\nI'd do it myself, but that mountain is far\ntoo cold for these old bones."
     - utf16_bytes:
         - 0
   RetMSG_Rane_03:
@@ -709,33 +702,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I've never been there myself,"
+    - text: "I've never been there myself,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but they\nsay there's a spirit called Naydra at the\n"
+    - text: " but they\nsay there's a spirit called Naydra at the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThey say it looks like a dragon,"
+    - text: ".\nThey say it looks like a dragon,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but like\nI said, I've never been there myself,\nso I wouldn't know."
+    - text: " but like\nI said, I've never been there myself,\nso I wouldn't know."
     - utf16_bytes:
         - 0
   RetMSG_Rane_04_1:
@@ -745,7 +738,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Making medicine isn't too hard, once you\nknow the basics. Just mix up insects with\nmonster parts and see what happens."
+    - text: "Making medicine isn't too hard, once you\nknow the basics. Just mix up insects with\nmonster parts and see what happens."
     - utf16_bytes:
         - 0
   RetMSG_Rane_04:
@@ -755,32 +748,32 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "I might not look it, but I'm a plum doctor."
+    - text: "I might not look it, but I'm a plum doctor."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhy, I can even teach you how to make\nyour own medicine. Nothing fancy, mind.\n"
+    - text: "\nWhy, I can even teach you how to make\nyour own medicine. Nothing fancy, mind.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: The basic idea here
+    - text: The basic idea here
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " is to just mix up\ninsects with monster parts."
+    - text: " is to just mix up\ninsects with monster parts."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Experiment\na little, and see what you end up with."
+    - text: " Experiment\na little, and see what you end up with."
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -789,14 +782,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4613
-    - ascii: "You aren't hurt, are you?"
+    - text: "ህYou aren't hurt, are you?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I think I pulled\nthrough all right."
+    - text: " I think I pulled\nthrough all right."
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -805,17 +797,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: Imagine the irony
-    - utf16_bytes:
-        - 8212
-    - ascii: "me, a doctor making\nmy rounds, almost wound up needing\none! "
+    - text: "ሁImagine the irony—me, a doctor making\nmy rounds, almost wound up needing\none! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Thanks so much for your help.
+    - text: Thanks so much for your help.
     - utf16_bytes:
         - 0
   RetMSG_Rane_01_1:
@@ -830,51 +818,48 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "Naydra's scale"
+    - text: "Naydra's scale"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " can cure any sickness.\nYou can find it on Mount Lanayru,"
+    - text: " can cure any sickness.\nYou can find it on Mount Lanayru,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " at\nthe "
+    - text: " at\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", I hear.\nThe legends spoke of a spirit there"
-    - utf16_bytes:
-        - 8212
-    - ascii: "a\nspirit called "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Naydra
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that takes the form\nof a dragon."
+    - text: ", I hear.\nThe legends spoke of a spirit there—a\nspirit called "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Naydra
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " that takes the form\nof a dragon."
     - utf16_bytes:
         - 0
   MSG_Rane_03_1:
@@ -884,19 +869,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Three sacred springs in Mount Lanayru,\nFaron Woods, and the Eldin Mountains..."
+    - text: "Three sacred springs in Mount Lanayru,\nFaron Woods, and the Eldin Mountains..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAnd the stories all say the same thing...\nThat these springs call to dragon scales."
+    - text: "\nAnd the stories all say the same thing...\nThat these springs call to dragon scales."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAlthough what that means, no one has\nyet been able to decipher."
+    - text: "\nAlthough what that means, no one has\nyet been able to decipher."
     - utf16_bytes:
         - 0
   Failed00:
@@ -905,18 +890,18 @@ entries:
         - 3
         - 1
         - 2
-    - ascii:  Oof...
+    - text:  Oof...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " *pant...*"
+    - text: " *pant...*"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I think I'm done for..."
+    - text: " I think I'm done for..."
     - utf16_bytes:
         - 0

@@ -7,21 +7,21 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I've been all over the world, but this\nplace is truly the hottest of them all.\nI'd die here without a "
+    - text: "I've been all over the world, but this\nplace is truly the hottest of them all.\nI'd die here without a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nYeah, I'm not sure I'll be able to draw\nanything here... So I'll just burn this\nscenery into my memory."
+    - text: ".\nYeah, I'm not sure I'll be able to draw\nanything here... So I'll just burn this\nscenery into my memory."
     - utf16_bytes:
         - 0
   Talk03:
@@ -30,42 +30,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1035
-    - ascii: Hmm...
+    - text: ЋHmm...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I can see "
+    - text: " I can see "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hyrule Castle "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Great Hyrule Forest
+    - text: "Hyrule Castle "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", which neighbors\nit to the north.\n"
+    - text: "and the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Great Hyrule Forest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", which neighbors\nit to the north.\n"
     - utf16_bytes:
         - 14
         - 0
@@ -76,27 +75,28 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "Looking down on the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Great Hyrule Forest
+    - text: Ā
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfrom the southeast, you can see scenery\nlike this."
+    - text: "Looking down on the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Great Hyrule Forest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nfrom the southeast, you can see scenery\nlike this."
     - utf16_bytes:
         - 0
   Talk05:
@@ -105,22 +105,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "That reminds me... If you travel south\nof here, you'll find a stable called\nthe "
+    - text: "ĀThat reminds me... If you travel south\nof here, you'll find a stable called\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Woodland Stable
+    - text: Woodland Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 0
@@ -131,27 +130,28 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "I hear there's some high ground\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: north of the Woodland Stable
+    - text: ċ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwith an incredible view.\n"
+    - text: "I hear there's some high ground\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: north of the Woodland Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nwith an incredible view.\n"
     - utf16_bytes:
         - 14
         - 5
@@ -161,13 +161,12 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: Sorry...
+    - text: ဋSorry...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That's all I know."
+    - text: " That's all I know."
     - utf16_bytes:
         - 0

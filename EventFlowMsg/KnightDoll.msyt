@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2048
-    - ascii: "Mmm... Huh?\n\n\nAnd what is a Hylian vai like yourself\ndoing here?"
+    - text: "ࠀMmm... Huh?\n\n\nAnd what is a Hylian vai like yourself\ndoing here?"
     - utf16_bytes:
         - 14
         - 1
@@ -15,10 +14,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0008":
-    - ascii: Bye!
+    - text: Bye!
     - utf16_bytes:
         - 0
   Talk_08:
@@ -27,32 +27,32 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm an archaeologist...of sorts. I was just\nporing over some ancient text that I\ndiscovered the other day...\n"
+    - text: "ЀI'm an archaeologist...of sorts. I was just\nporing over some ancient text that I\ndiscovered the other day...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}And I've finally decoded it!"
+    - text: ਇ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "}And I've finally decoded it!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "Well...part of it, at least.\n...But the rest is not far off.\n\nWith this discovery, I'll finally be able to\nmake a name for myself as an\narchaeologist!\n"
+    - text: "Well...part of it, at least.\n...But the rest is not far off.\n\nWith this discovery, I'll finally be able to\nmake a name for myself as an\narchaeologist!\n"
     - utf16_bytes:
         - 14
         - 3
@@ -63,7 +63,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}OF COURSE!"
+    - text: "}OF COURSE!"
     - utf16_bytes:
         - 14
         - 5
@@ -73,7 +73,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nYou and I meeting here is no\ncoincidence. I've never been one to\nquestion fate.\nI can't explain why...but I trust you for\nsome reason. I'll tell you the details of\nmy research if you can keep a secret."
+    - text: "d\n\n\nYou and I meeting here is no\ncoincidence. I've never been one to\nquestion fate.\nI can't explain why...but I trust you for\nsome reason. I'll tell you the details of\nmy research if you can keep a secret."
     - utf16_bytes:
         - 14
         - 1
@@ -81,7 +81,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_09:
     - utf16_bytes:
@@ -89,43 +90,42 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "There's a temple east of here near\nthe entrance to the "
+    - text: "ЀThere's a temple east of here near\nthe entrance to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Desert
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nIt's dedicated to the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "seven giant statues\nof the heroines"
+    - text: Gerudo Desert
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", said to be the divine\nprotectors of the Gerudo.\nIt was at this temple that I originally\ndiscovered the ancient scripture.\nIt reads:\n\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\"\n...That's all I've been able to decipher\nso far.\n\nIt's believed that people once came from\naround the world in search of the\nheroines' blessing.\n"
+    - text: ".\n\nIt's dedicated to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "seven giant statues\nof the heroines"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", said to be the divine\nprotectors of the Gerudo.\nIt was at this temple that I originally\ndiscovered the ancient scripture.\nIt reads:\n\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\"\n...That's all I've been able to decipher\nso far.\n\nIt's believed that people once came from\naround the world in search of the\nheroines' blessing.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "But as far as I can tell, it doesn't appear\nthat anyone has found it yet..."
+    - text: "But as far as I can tell, it doesn't appear\nthat anyone has found it yet..."
     - utf16_bytes:
         - 14
         - 1
@@ -133,7 +133,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_10:
     - utf16_bytes:
@@ -141,85 +142,86 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWhat? You're joking, right?"
+        - 9
+    - text: "What? You're joking, right?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\nLook, whenever I talk to my sister about\nthis, she spaces out. I need someone to\ntalk to, so YOU'RE GOING TO LISTEN!"
+    - text: "\n\n\nLook, whenever I talk to my sister about\nthis, she spaces out. I need someone to\ntalk to, so YOU'RE GOING TO LISTEN!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Hoo...
+    - text: Hoo...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Sorry about that."
+    - text: " Sorry about that."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThere's a temple east of here near\nthe entrance to the "
+    - text: "\nThere's a temple east of here near\nthe entrance to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Desert
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "\nIt's dedicated to the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "seven giant statues\nof the heroines"
+    - text: Gerudo Desert
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", said to be the divine\nprotectors of the Gerudo.\nIt was at this temple that I originally\ndiscovered the ancient scripture.\nIt reads:\n\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\""
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n...That's all I've been able to decipher\nso far.\n\nIt's believed that people once came from\naround the world in search of the\nheroines' blessing.\n"
+    - text: "\nIt's dedicated to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "seven giant statues\nof the heroines"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", said to be the divine\nprotectors of the Gerudo.\nIt was at this temple that I originally\ndiscovered the ancient scripture.\nIt reads:\n\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\""
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\n...That's all I've been able to decipher\nso far.\n\nIt's believed that people once came from\naround the world in search of the\nheroines' blessing.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "But as far as I can tell, no one has found\nit yet."
+    - text: "But as far as I can tell, no one has found\nit yet."
     - utf16_bytes:
         - 14
         - 1
@@ -227,7 +229,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_11:
     - utf16_bytes:
@@ -235,32 +238,31 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Before long, I'll understand the entire\ntext!"
+    - text: "इBefore long, I'll understand the entire\ntext!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nFortunately that "
+    - text: "\n\nFortunately that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast "
+    - text: "Divine Beast "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has\nquieted down, so I can conduct my\nresearch in peace."
+    - text: "has\nquieted down, so I can conduct my\nresearch in peace."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Where is it?
+    - text: Where is it?
     - utf16_bytes:
         - 0
   Talk_12:
@@ -269,36 +271,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "The temple with the giant statues is "
+    - text: "ІThe temple with the giant statues is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "near\nthe entrance to Gerudo Desert"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", but the\nsandstorm presents a problem.\nAnd that "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast
+    - text: "near\nthe entrance to Gerudo Desert"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " isn't in the most\nwelcoming mood. Approaching the\ntemple will be difficult."
+    - text: ", but the\nsandstorm presents a problem.\nAnd that "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " isn't in the most\nwelcoming mood. Approaching the\ntemple will be difficult."
     - utf16_bytes:
         - 0
   Talk_00:
@@ -308,19 +309,19 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: It was over there the whole time?
+    - text: It was over there the whole time?
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "P\nI thought it strange that the sandstorm over there\nnever lifted..."
+    - text: "P\nI thought it strange that the sandstorm over there\nnever lifted..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
@@ -328,7 +329,7 @@ entries:
         - 0
         - 0
   "0001":
-    - ascii: Blessing?
+    - text: Blessing?
     - utf16_bytes:
         - 0
   Talk_13:
@@ -337,36 +338,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "The temple with the giant statues is "
+    - text: "ІThe temple with the giant statues is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "near\nthe entrance to Gerudo Desert"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nNow that the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Divine Beast "
+    - text: "near\nthe entrance to Gerudo Desert"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has calmed\ndown, I should be able to explore the\narea.\nAlthough I still have the sandstorm to\ncontend with..."
+    - text: ".\n\nNow that the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Divine Beast "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "has calmed\ndown, I should be able to explore the\narea.\nAlthough I still have the sandstorm to\ncontend with..."
     - utf16_bytes:
         - 0
   Talk_14:
@@ -375,17 +375,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta."
+    - text: "촙Sav'otta."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: What are you doing?
+    - text: What are you doing?
     - utf16_bytes:
         - 0
   Talk_01:
@@ -395,14 +395,14 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I'm not sure what exactly it means, but\nmaybe I'll find out once I've deciphered\nmore of the text.\n"
+    - text: "I'm not sure what exactly it means, but\nmaybe I'll find out once I've deciphered\nmore of the text.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm not sure if this is related, but it's said\nthe heroines held powers that were part\nof a bigger whole.\nEach heroine had a different power:\nskill, spirit, endurance, knowledge, flight,\nmotion, and gentleness.\nBut they all look the same to me."
+    - text: "I'm not sure if this is related, but it's said\nthe heroines held powers that were part\nof a bigger whole.\nEach heroine had a different power:\nskill, spirit, endurance, knowledge, flight,\nmotion, and gentleness.\nBut they all look the same to me."
     - utf16_bytes:
         - 0
   Talk_15:
@@ -411,17 +411,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq."
+    - text: "촚Sav'aaq."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Gotta go.
+    - text: Gotta go.
     - utf16_bytes:
         - 0
   Talk_02:
@@ -430,34 +430,34 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I should understand the entire script\nbefore long, but that's only the\nbeginning of my problems."
+    - text: "इI should understand the entire script\nbefore long, but that's only the\nbeginning of my problems."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tThat "
+        - 9
+    - text: "That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast "
+    - text: "Divine Beast "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has been moving\naround the area, making it harder for me\nto conduct my research.\nThat thing has no respect for academia!"
+    - text: "has been moving\naround the area, making it harder for me\nto conduct my research.\nThat thing has no respect for academia!"
     - utf16_bytes:
         - 0
   Talk_16:
@@ -466,17 +466,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba."
+    - text: "촛Sav'saaba."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: My lips are sealed.
+    - text: My lips are sealed.
     - utf16_bytes:
         - 0
   Talk_03:
@@ -486,39 +486,40 @@ entries:
         - 1
         - 2
         - 4
-    - ascii: "Wait, you're leaving already?\n\n\n"
+    - text: "Wait, you're leaving already?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tOh. I thought that you came to hear\nthe Legend of the Seven Heroines..."
+        - 9
+    - text: "Oh. I thought that you came to hear\nthe Legend of the Seven Heroines..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PMy sister won't listen to me, so I was hoping\nsomeone else would..."
+    - text: "PMy sister won't listen to me, so I was hoping\nsomeone else would..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Near_002:
-    - ascii: I see...
+    - text: I see...
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: I need to go.
+    - text: I need to go.
     - utf16_bytes:
         - 0
   Talk_04:
@@ -528,7 +529,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\"\nWell, we know the place it's referring to.\nI just need to finish deciphering the full\ntext now."
+    - text: "\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\"\nWell, we know the place it's referring to.\nI just need to finish deciphering the full\ntext now."
     - utf16_bytes:
         - 14
         - 1
@@ -537,10 +538,11 @@ entries:
         - 0
         - 1
         - 8
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Blessing?
+    - text: Blessing?
     - utf16_bytes:
         - 0
   Talk_05:
@@ -549,17 +551,18 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI wish my sister was more like you. If\nshe'd take more interest in my research,\nshe might learn something useful.\n"
+        - 9
+    - text: "I wish my sister was more like you. If\nshe'd take more interest in my research,\nshe might learn something useful.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Instead she spends her time obsessing\nover Lady Urbosa. She won't even give\nme the time of day."
+    - text: "Instead she spends her time obsessing\nover Lady Urbosa. She won't even give\nme the time of day."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: I see.
+    - text: I see.
     - utf16_bytes:
         - 0

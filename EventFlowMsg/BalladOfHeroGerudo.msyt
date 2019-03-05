@@ -7,16 +7,15 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "...Ahem. As you can see, I'm busy\ngathering information!"
+    - text: "...Ahem. As you can see, I'm busy\ngathering information!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: "\n"
+    - text: "\n촁"
     - utf16_bytes:
-        - 52481
         - 0
   Npc_oasis037_SD_204:
     - utf16_bytes:
@@ -25,7 +24,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Please, let's not play games. Don't try to\ntell me you don't know who I am!"
+    - text: "Please, let's not play games. Don't try to\ntell me you don't know who I am!"
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_210:
@@ -35,70 +34,69 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Just when you thought you could relax...\nwhen the "
+    - text: "Just when you thought you could relax...\nwhen the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "had settled and\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: lightning
+    - text: "Divine Beast "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " had stopped...\n"
+    - text: "had settled and\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: lightning
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " had stopped...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2055
-    - ascii: "Boom! A mysterious "
+    - text: "ࠇBoom! A mysterious "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Molduga
+    - text: Molduga
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " shows up!\nHow's that for a scoop?!\n\n"
+    - text: " shows up!\nHow's that for a scoop?!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Apparently the Gerudo soldiers tried\nfighting it, but normal swords didn't\neven make a dent.\n"
+    - text: "Apparently the Gerudo soldiers tried\nfighting it, but normal swords didn't\neven make a dent.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I wonder what weapon would work\nagainst something like that..."
+    - text: "I wonder what weapon would work\nagainst something like that..."
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_211:
@@ -108,63 +106,63 @@ entries:
         - 1
         - 2
         - 4
-    - ascii: "Just when the "
+    - text: "Just when the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "has settled\nand the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: lightning
+    - text: "Divine Beast "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has stopped... Boom!\nA mysterious "
+    - text: "has settled\nand the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Molduga
+    - text: lightning
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " shows up!\n"
+    - text: " has stopped... Boom!\nA mysterious "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Molduga
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " shows up!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Apparently the Gerudo soldiers tried\nfighting it, but normal swords didn't\neven make a dent.\n"
+    - text: "Apparently the Gerudo soldiers tried\nfighting it, but normal swords didn't\neven make a dent.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I wonder what weapon would work\nagainst something like that..."
+    - text: "I wonder what weapon would work\nagainst something like that..."
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_100:
@@ -174,27 +172,27 @@ entries:
         - 1
         - 2
         - 2
-    - ascii: "The chief is enjoying a moment of respite\nin her "
+    - text: "The chief is enjoying a moment of respite\nin her "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: bedroom
+    - text: bedroom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". You had better treat her\nwith respect. "
+    - text: ". You had better treat her\nwith respect. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Or else.
+    - text: Or else.
     - utf16_bytes:
         - 0
   Npc_oasis025_SD_000:
@@ -204,7 +202,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: By the way...
+    - text: By the way...
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_000:
@@ -214,23 +212,24 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Yes?
+    - text: Yes?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Do you need something?"
+    - text: " Do you need something?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 30
-    - ascii: "\""
+    - text: "\""
     - utf16_bytes:
         - 31
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_oasis025_SD_010:
     - utf16_bytes:
@@ -239,68 +238,68 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I hear a strange type of "
+    - text: "I hear a strange type of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Molduga "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "was\nspotted near "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: East Barrens
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: " "
+    - text: "Molduga "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "recently. \n\nA Hylian named "
+    - text: "was\nspotted near "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Traysi
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: East Barrens
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " went there\nlooking for...how did she put it...\n\"a hot scoop.\"\n"
+    - text: "recently. \n\nA Hylian named "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Traysi
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " went there\nlooking for...how did she put it...\n\"a hot scoop.\"\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I hope she didn't bite off more than\nshe can chew."
+    - text: "I hope she didn't bite off more than\nshe can chew."
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_001:
@@ -310,23 +309,24 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Hm?
+    - text: Hm?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Speak up. You look like you wish\nto ask me something."
+    - text: " Speak up. You look like you wish\nto ask me something."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 30
-    - ascii: "\""
+    - text: "\""
     - utf16_bytes:
         - 31
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_002:
     - utf16_bytes:
@@ -335,23 +335,24 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: What is it?
+    - text: What is it?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " What do you need?"
+    - text: " What do you need?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 30
-    - ascii: "\""
+    - text: "\""
     - utf16_bytes:
         - 31
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_Talk_01:
     - utf16_bytes:
@@ -360,30 +361,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A lot happened, but... We are truly\nindebted to you.\n\nThe "
+    - text: "A lot happened, but... We are truly\nindebted to you.\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Champion's arms"
+    - text: "Champion's arms"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nIf anything happens to them, you must\nlet me know immediately."
+    - text: " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nIf anything happens to them, you must\nlet me know immediately."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: V
+    - text: V
     - utf16_bytes:
         - 6
         - 0
-    - ascii: "\"DBalladOfHeroGerudo_AppearDungeon03!"
+    - text: "\"DBalladOfHeroGerudo_AppearDungeon03!"
     - utf16_bytes:
         - 0
         - 7
@@ -397,82 +398,82 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Hm? Are you looking for treasure too?\n\n\nThe "
+    - text: "Hm? Are you looking for treasure too?\n\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Yiga Clan
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "... They took one of the\nGerudo Tribe's treasures in there,\na "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: sacred
+    - text: Yiga Clan
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: "... They took one of the\nGerudo Tribe's treasures in there,\na "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "orb "
+    - text: sacred
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "or something.\nIt looked like it could sell for a\nhigh price, so I followed them.\nBut... Well...\n"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "orb "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "or something.\nIt looked like it could sell for a\nhigh price, so I followed them.\nBut... Well...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "Now I'm thinking I should probably\nback away while I still can.\n\n"
+    - text: "ăNow I'm thinking I should probably\nback away while I still can.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 260
+    - text: Ą
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 26
         - 24
-    - ascii: "SurpriseS_01Wait. You don't think...\n\n\nThey're not planning to throw the\n"
+    - text: "SurpriseS_01Wait. You don't think...\n\n\nThey're not planning to throw the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sacred orb
+    - text: sacred orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " into that big, gaping hole\nlike that old legend says...right?"
+    - text: " into that big, gaping hole\nlike that old legend says...right?"
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_003:
@@ -482,13 +483,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Yes?
+    - text: Yes?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Do you need something?"
+    - text: " Do you need something?"
     - utf16_bytes:
         - 14
         - 1
@@ -496,7 +497,8 @@ entries:
         - 6
         - 30
         - 31
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_oasis032_SD_000:
     - utf16_bytes:
@@ -505,21 +507,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Frelly asked me to go recruit some\nwild "
+    - text: "Frelly asked me to go recruit some\nwild "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sand seals
+    - text: sand seals
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Npc_Attacked_006_DLC2nd_SD_200:
@@ -528,26 +530,27 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: Ċ
+    - text: Ċ
     - utf16_bytes:
         - 14
         - 4
         - 2
         - 22
         - 20
-    - ascii: "Trouble_00Oooh... You threw the precious treasure\ndown below...\n\n"
+    - text: "Trouble_00Oooh... You threw the precious treasure\ndown below...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
+    - text: ă
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 16
         - 14
-    - ascii: Sigh_01What were you thinking?!
+    - text: Sigh_01What were you thinking?!
     - utf16_bytes:
         - 0
   Npc_Attacked_011_DLC2nd_SD_001:
@@ -557,49 +560,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The Yiga Clan stole "
+    - text: "The Yiga Clan stole "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "the Gerudo's\ntreasured orb"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ". It's in there.\nI'm sure of it!\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 259
-    - ascii: "...But now I'm thinking this was\na bad idea.\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 261
-    - ascii: "Hmm... They're not planning to throw\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: sacred orb
+    - text: "the Gerudo's\ntreasured orb"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " into that big, gaping hole\nlike that old legend says...right?"
+    - text: ". It's in there.\nI'm sure of it!\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ă...But now I'm thinking this was\na bad idea.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ąHmm... They're not planning to throw\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sacred orb
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " into that big, gaping hole\nlike that old legend says...right?"
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_004:
@@ -609,13 +610,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Hm?
+    - text: Hm?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Speak up. You look like you wish\nto ask me something."
+    - text: " Speak up. You look like you wish\nto ask me something."
     - utf16_bytes:
         - 14
         - 1
@@ -623,7 +624,8 @@ entries:
         - 6
         - 30
         - 31
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_010:
     - utf16_bytes:
@@ -631,143 +633,141 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You wish to speak of "
+    - text: "ЀYou wish to speak of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Urbosa
+    - text: Lady
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nHm, what an interesting request.  \n\nAfter "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Naboris
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " was tamed, we located\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Lady Urbosa's diary"
+    - text: Urbosa
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Since you're here,\nI shall tell you something from it.\n"
+    - text: "?\nHm, what an interesting request.  \n\nAfter "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Urbosa
+    - text: Naboris
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " had a beloved friend\nwhom she thought the world of...\n"
+    - text: " was tamed, we located\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: the queen of Hyrule
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nSuch a big heart... Our "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lady
+    - text: "Lady Urbosa's diary"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: ". Since you're here,\nI shall tell you something from it.\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Urbosa
+    - text: Lady
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was\nadmirable in every aspect of her life."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Urbosa
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " had a beloved friend\nwhom she thought the world of...\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: the queen of Hyrule
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nSuch a big heart... Our "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lady
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Urbosa
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " was\nadmirable in every aspect of her life."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: "#"
+    - text: "#촁"
     - utf16_bytes:
-        - 52481
         - 0
   Npc_oasis037_SD_300:
     - utf16_bytes:
@@ -775,28 +775,27 @@ entries:
         - 3
         - 1
         - 2
-        - 2055
-    - ascii: "Hey, you! I saw everything! I can't\nbelieve you were able to defeat\nthat weird "
+    - text: "ࠇHey, you! I saw everything! I can't\nbelieve you were able to defeat\nthat weird "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Molduga
+    - text: Molduga
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nI'm speechless! ME! "
+    - text: "...\nI'm speechless! ME! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "OK, not really.\nBut this has SCOOP written all over it!\nMind if I...write a tell-all about you?!"
+    - text: "OK, not really.\nBut this has SCOOP written all over it!\nMind if I...write a tell-all about you?!"
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_005:
@@ -806,13 +805,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: What is it?
+    - text: What is it?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " What do you need?"
+    - text: " What do you need?"
     - utf16_bytes:
         - 14
         - 1
@@ -820,7 +819,8 @@ entries:
         - 6
         - 30
         - 31
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_oasis037_SD_301:
     - utf16_bytes:
@@ -828,47 +828,46 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: I see.
+    - text: စI see.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How unfortunate.\n\n\nYou would have been swimming in female\nattention and adoring fans, ya know.\nI mean it. You're that impressive!\n"
+    - text: " How unfortunate.\n\n\nYou would have been swimming in female\nattention and adoring fans, ya know.\nI mean it. You're that impressive!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Welp, that's your decision. "
+    - text: "Welp, that's your decision. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: To mess up.
+    - text: To mess up.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'll just have to dig around "
+    - text: "\nI'll just have to dig around "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfor way more interesting scoops."
+    - text: "\nfor way more interesting scoops."
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_012:
@@ -883,28 +882,28 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Lady Urbosa's diary"
+    - text: "Lady Urbosa's diary"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is in "
+    - text: " is in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: my room
+    - text: my room
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nSince she trusted you, I'm certain she\nwouldn't mind you reading it."
+    - text: ".\nSince she trusted you, I'm certain she\nwouldn't mind you reading it."
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_302:
@@ -913,41 +912,40 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "You would have been swimming in female\nattention and adoring fans, ya know.\nI mean it. You're that impressive!\n"
+    - text: "စYou would have been swimming in female\nattention and adoring fans, ya know.\nI mean it. You're that impressive!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Welp, that's your decision. "
+    - text: "Welp, that's your decision. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: To mess up.
+    - text: To mess up.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'll just have to dig around "
+    - text: "\nI'll just have to dig around "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfor way more interesting scoops."
+    - text: "\nfor way more interesting scoops."
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_013:
@@ -957,190 +955,188 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "Are you referring to the treasure of the\nGerudo?"
+    - text: "Are you referring to the treasure of the\nGerudo?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " The "
+    - text: " The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sacred orb
+    - text: sacred orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " kept safe by\nmy people for generations?\n"
+    - text: " kept safe by\nmy people for generations?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 4
-    - ascii: "Linkle... Answer truly. Are you challenging\nthe same trial that "
+    - text: "Linkle... Answer truly. Are you challenging\nthe same trial that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lady Urbosa "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "overcame\nall those years ago?\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 256
-    - ascii: "In that case, I shall not keep this a secret\nfrom you. Our "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "treasured orb "
+    - text: "Lady Urbosa "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "was stolen.\n\n"
+    - text: "overcame\nall those years ago?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: Yet another massive failure...
+    - text: "ĀIn that case, I shall not keep this a secret\nfrom you. Our "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "treasured orb "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "was stolen.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ᄋYet another massive failure...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "as though\nthe incident with the "
+    - text: "as though\nthe incident with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Thunder Helm
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nwasn't humiliating enough.\nTo top it all off, the ones who stole\nthe treasure were none other than\nour sworn enemies, the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Yiga Clan
+    - text: Thunder Helm
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nLuckily, the first to notice its absence\nwas "
+    - text: "\nwasn't humiliating enough.\nTo top it all off, the ones who stole\nthe treasure were none other than\nour sworn enemies, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: Buliara
+        - 0
+    - text: Yiga Clan
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". As of now, she and I are the\nonly members of our tribe who know.\n"
+    - text: ".\nLuckily, the first to notice its absence\nwas "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Buliara
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". As of now, she and I are the\nonly members of our tribe who know.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4102
-    - ascii: Linkle...
+    - text: ဆLinkle...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Would you be willing to help us\nrecover a sacred treasure from those\nfiends once more?\nIn return, you may use the "
+    - text: " Would you be willing to help us\nrecover a sacred treasure from those\nfiends once more?\nIn return, you may use the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: treasured orb
+    - text: treasured orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nhowever you please to complete the trial.\n\n"
+    - text: "\nhowever you please to complete the trial.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 261
+    - text: ą
+    - utf16_bytes:
         - 14
         - 4
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 30
-    - ascii: "TalkPositive_01Perhaps it is fate, as that "
+    - text: "TalkPositive_01Perhaps it is fate, as that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: orb
+    - text: orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was made\nto be used for the very trial you are\nchallenging. "
+    - text: " was made\nto be used for the very trial you are\nchallenging. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I wish you luck in finding it.\nI'm sorry to burden you with my\ntroubles again, but..."
+    - text: "I wish you luck in finding it.\nI'm sorry to burden you with my\ntroubles again, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'm counting\non you."
+    - text: "I'm counting\non you."
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_303:
@@ -1150,34 +1146,33 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You there...\n\n\n"
+    - text: "You there...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2055
-    - ascii: "I saw everything! I can't believe\nyou were able to defeat that\nweird "
+    - text: "ࠇI saw everything! I can't believe\nyou were able to defeat that\nweird "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Molduga
+    - text: Molduga
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nI'm speechless! ME! "
+    - text: "...\nI'm speechless! ME! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "OK, not really.\nBut this has SCOOP written all over it!\nMind if I...write a tell-all about you?!"
+    - text: "OK, not really.\nBut this has SCOOP written all over it!\nMind if I...write a tell-all about you?!"
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_014:
@@ -1186,108 +1181,107 @@ entries:
         - 3
         - 1
         - 2
-        - 4363
-    - ascii: Yet another massive failure...
+    - text: ᄋYet another massive failure...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "as though\nthe incident with the "
+    - text: "as though\nthe incident with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Thunder Helm
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nwasn't humiliating enough.\nTo top it all off, the ones who stole\nthe treasure were none other than\nour sworn enemies, the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Yiga Clan
+    - text: Thunder Helm
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: "\nwasn't humiliating enough.\nTo top it all off, the ones who stole\nthe treasure were none other than\nour sworn enemies, the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Yiga Clan
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4102
-    - ascii: Linkle...
+    - text: ဆLinkle...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Would you be willing to help us\nrecover a sacred treasure from those\nfiends once more?\nIn return, you may use the "
+    - text: " Would you be willing to help us\nrecover a sacred treasure from those\nfiends once more?\nIn return, you may use the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: treasured orb
+    - text: treasured orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nhowever you please to complete the trial.\n\n"
+    - text: "\nhowever you please to complete the trial.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 261
+    - text: ą
+    - utf16_bytes:
         - 14
         - 4
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 30
-    - ascii: "TalkPositive_01Perhaps it is fate, as that "
+    - text: "TalkPositive_01Perhaps it is fate, as that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: orb
+    - text: orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was made\nto be used for the very trial you are\nchallenging. "
+    - text: " was made\nto be used for the very trial you are\nchallenging. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I wish you luck in finding it.\nI'm sorry to burden you with my\ntroubles again, but..."
+    - text: "I wish you luck in finding it.\nI'm sorry to burden you with my\ntroubles again, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'm counting\non you."
+    - text: "I'm counting\non you."
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_015:
@@ -1302,14 +1296,14 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Lady Urbosa's diary"
+    - text: "Lady Urbosa's diary"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is on the sofa.\nSince she trusted you, I'm certain she\nwouldn't mind you reading it."
+    - text: " is on the sofa.\nSince she trusted you, I'm certain she\nwouldn't mind you reading it."
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_450:
@@ -1319,30 +1313,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Enough about that. If anything happens\nto the "
+    - text: "Enough about that. If anything happens\nto the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Champion's arms"
+    - text: "Champion's arms"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you must let\nme know immediately."
+    - text: ", you must let\nme know immediately."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: V
+    - text: V
     - utf16_bytes:
         - 6
         - 0
-    - ascii: "\"DBalladOfHeroGerudo_AppearDungeon03!"
+    - text: "\"DBalladOfHeroGerudo_AppearDungeon03!"
     - utf16_bytes:
         - 0
         - 7
@@ -1355,64 +1349,64 @@ entries:
         - 3
         - 1
         - 2
-        - 2052
+    - text: ࠄ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Hm?"
+    - text: "}Hm?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " What is THIS?!"
+    - text: " What is THIS?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: Could it be...
+    - text: Could it be...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Are you that pretty gal\nI saw in "
+    - text: " Are you that pretty gal\nI saw in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\nI'm right, aren't I? Don't try to hide it!\n\n\n"
+    - text: "?\n\nI'm right, aren't I? Don't try to hide it!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 8961
-    - ascii: "It doesn't matter WHAT you wear.\nThese eyes see ALL. "
+    - text: "⌁It doesn't matter WHAT you wear.\nThese eyes see ALL. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Traysi wasn't\nborn yesterday, after all!"
+    - text: "Traysi wasn't\nborn yesterday, after all!"
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_200:
@@ -1422,7 +1416,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The chief is on her way. I advise you to\nbe on your best behavior."
+    - text: "The chief is on her way. I advise you to\nbe on your best behavior."
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_001:
@@ -1432,46 +1426,45 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "Huh? Aren't you..."
+    - text: "Huh? Aren't you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "that pretty gal\nI saw in "
+    - text: "that pretty gal\nI saw in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: Hmm...
+    - text: ဋHmm...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " My scoop radar is going crazy\nright now...\n\n"
+    - text: " My scoop radar is going crazy\nright now...\n\n"
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_452:
@@ -1481,30 +1474,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "As I've said before, if anything happens\nto the "
+    - text: "As I've said before, if anything happens\nto the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Champion's arms"
+    - text: "Champion's arms"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you must let me\nknow immediately."
+    - text: ", you must let me\nknow immediately."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: V
+    - text: V
     - utf16_bytes:
         - 6
         - 0
-    - ascii: "\"DBalladOfHeroGerudo_AppearDungeon03!"
+    - text: "\"DBalladOfHeroGerudo_AppearDungeon03!"
     - utf16_bytes:
         - 0
         - 7
@@ -1517,27 +1510,26 @@ entries:
         - 3
         - 1
         - 2
-        - 1029
-    - ascii: "Ooooh, I see, I see."
+    - text: "ЅOoooh, I see, I see."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's because only\nwomen can enter Gerudo Town.\nClever girl.\n"
+    - text: " It's because only\nwomen can enter Gerudo Town.\nClever girl.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "That's quite the scoop, but..."
+    - text: "That's quite the scoop, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'm sure you\nhad your reasons. I'll keep that gossip\nto myself. That's called \"integrity.\""
+    - text: "I'm sure you\nhad your reasons. I'll keep that gossip\nto myself. That's called \"integrity.\""
     - utf16_bytes:
         - 0
   "0000":
@@ -1547,7 +1539,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Sand-seal races?
+    - text: Sand-seal races?
     - utf16_bytes:
         - 0
   Animal_Sunazarashi_D_DLC2nd_SD_Npc_oasis032_000:
@@ -1556,29 +1548,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That's MY "
+    - text: "ЀThat's MY "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sand seal
+    - text: sand seal
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", so you'd better\nstay back. "
+    - text: ", so you'd better\nstay back. "
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "I won't be held responsible\nif Frelly gets upset."
+    - text: "촇I won't be held responsible\nif Frelly gets upset."
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_Talk05:
@@ -1588,57 +1578,58 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When I wore the "
+    - text: "When I wore the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Thunder Helm "
+    - text: "Thunder Helm "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "and\nfought at your side, I thought I heard\na name called out on the wind."
+    - text: "and\nfought at your side, I thought I heard\na name called out on the wind."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Riju..."
+    - text: " Riju..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Heh... I hadn't been called by that name\nin a while. "
+    - text: "Heh... I hadn't been called by that name\nin a while. "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "That strong, warm voice...\nIt must have belonged to Urbosa..."
+    - text: "That strong, warm voice...\nIt must have belonged to Urbosa..."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 30
         - 31
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0001":
     - utf16_bytes:
@@ -1647,7 +1638,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   Npc_Attacked_011_DLC2nd_SD_100:
@@ -1656,28 +1647,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᐊThat orb... Could it be? Is that the\n"
+    - text: "ᐊThat orb... Could it be? Is that the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: treasure of the Gerudo
+    - text: treasure of the Gerudo
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!\n\n"
+    - text: "?!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: That is SO not fair! We found it first!
+    - text: That is SO not fair! We found it first!
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_Talk06:
@@ -1687,55 +1678,55 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When I wore the "
+    - text: "When I wore the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Thunder Helm "
+    - text: "Thunder Helm "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "and\nfought at your side, I thought I heard\na name called out on the wind."
+    - text: "and\nfought at your side, I thought I heard\na name called out on the wind."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Riju..."
+    - text: " Riju..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Heh... I hadn't been called by that name\nin a while. "
+    - text: "Heh... I hadn't been called by that name\nin a while. "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "That strong, warm voice...\nIt must have belonged to Urbosa..."
+    - text: "That strong, warm voice...\nIt must have belonged to Urbosa..."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n "
+    - text: "\n "
     - utf16_bytes:
         - 30
-    - ascii: "\""
+    - text: "\""
     - utf16_bytes:
         - 31
         - 768
@@ -1747,55 +1738,55 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When I wore the "
+    - text: "When I wore the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Thunder Helm "
+    - text: "Thunder Helm "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "and\nfought at your side, I thought I heard\na name called out on the wind."
+    - text: "and\nfought at your side, I thought I heard\na name called out on the wind."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Riju..."
+    - text: " Riju..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Heh... I hadn't been called by that name\nin a while. "
+    - text: "Heh... I hadn't been called by that name\nin a while. "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "That strong, warm voice...\nIt must have belonged to Urbosa..."
+    - text: "That strong, warm voice...\nIt must have belonged to Urbosa..."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n "
+    - text: "\n "
     - utf16_bytes:
         - 30
-    - ascii: "\""
+    - text: "\""
     - utf16_bytes:
         - 31
         - 768
@@ -1807,21 +1798,21 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Aren't you that girl I met at "
+    - text: "Aren't you that girl I met at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: East Barrens
+    - text: East Barrens
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_Talk_44:
@@ -1831,30 +1822,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Champion's arms"
+    - text: "Champion's arms"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nYou are perhaps the only Hylian ever\nto wield them.\n\nIf anything happens to them, you must\nlet me know immediately."
+    - text: " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nYou are perhaps the only Hylian ever\nto wield them.\n\nIf anything happens to them, you must\nlet me know immediately."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: V
+    - text: V
     - utf16_bytes:
         - 6
         - 0
-    - ascii: "\"DBalladOfHeroGerudo_AppearDungeon03!"
+    - text: "\"DBalladOfHeroGerudo_AppearDungeon03!"
     - utf16_bytes:
         - 0
         - 7
@@ -1862,7 +1853,7 @@ entries:
         - 768
         - 0
   "0010":
-    - ascii: Information?
+    - text: Information?
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_401:
@@ -1871,16 +1862,14 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "No way... I don't believe it. You've really\nnever heard of Rumor Mill?!"
+    - text: "ᐄNo way... I don't believe it. You've really\nnever heard of Rumor Mill?!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: $%
+    - text: $%Ā
     - utf16_bytes:
-        - 256
         - 0
   Npc_oasis037_SD_402:
     - utf16_bytes:
@@ -1888,15 +1877,14 @@ entries:
         - 3
         - 1
         - 2
-        - 4613
-    - ascii: "Phew, thank goodness!\n\n\n"
+    - text: "ህPhew, thank goodness!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you'd told me you'd never heard of\nHyrule's most popular news publication,\nRumor Mill...\nWell, I don't even know how I'd have\ntaken that news! It woulda hurt,\nthat's for sure!\nI'm Traysi herself, you know!"
+    - text: "If you'd told me you'd never heard of\nHyrule's most popular news publication,\nRumor Mill...\nWell, I don't even know how I'd have\ntaken that news! It woulda hurt,\nthat's for sure!\nI'm Traysi herself, you know!"
     - utf16_bytes:
         - 0
   Npc_oasis025_SD_500:
@@ -1906,28 +1894,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "By the way...\n\n\nDid you happen to catch sight of that\nstrange "
+    - text: "By the way...\n\n\nDid you happen to catch sight of that\nstrange "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Molduga
+    - text: Molduga
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? And did you run into\nthat intrepid Hylian called Traysi?\n"
+    - text: "? And did you run into\nthat intrepid Hylian called Traysi?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: "In any case, I'm glad she was able to\nreturn unharmed."
+    - text: "ሁIn any case, I'm glad she was able to\nreturn unharmed."
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_403:
@@ -1937,49 +1924,49 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "ARE YOU KIDDING ME?!\n\n\nFor you to say you've never heard of\nRumor Mill, Hyrule's most popular news\npublication..."
+    - text: "ARE YOU KIDDING ME?!\n\n\nFor you to say you've never heard of\nRumor Mill, Hyrule's most popular news\npublication..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2
-    - ascii: You... You must be lying.
+    - text: You... You must be lying.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nActually, I know you are!\n\nI "
+    - text: "\nActually, I know you are!\n\nI "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: AM
+    - text: AM
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " an award-winning\ninvestigative journalist, after all!\n\n"
+    - text: " an award-winning\ninvestigative journalist, after all!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Truth is, you can't hide anything from\nTraysi!"
+    - text: "Truth is, you can't hide anything from\nTraysi!"
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: About that...
+    - text: About that...
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_404:
@@ -1989,13 +1976,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey now! Get that wishy-washy garbage\nout of here!"
+    - text: "Hey now! Get that wishy-washy garbage\nout of here!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Once more, with conviction!"
+    - text: " Once more, with conviction!"
     - utf16_bytes:
         - 0
   Npc_Attacked_006_DLC2nd_SD_000:
@@ -2005,32 +1992,32 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I know one thing for sure... The "
+    - text: "I know one thing for sure... The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "orb they\nstole from the Gerudo tribe "
+    - text: "orb they\nstole from the Gerudo tribe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is in their\nsecond floor storage area.\n"
+    - text: "is in their\nsecond floor storage area.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3075
-    - ascii: "But getting there is too dangerous.\nStaying alive is essential to being a\ngreat treasure hunter!"
+    - text: "But getting there is too dangerous.\nStaying alive is essential to being a\ngreat treasure hunter!"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: "I'll be back!"
+    - text: "I'll be back!"
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_405:
@@ -2039,8 +2026,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Truth is...I'm Traysi herself! From\nRumor Mill!"
+    - text: "ЀTruth is...I'm Traysi herself! From\nRumor Mill!"
     - utf16_bytes:
         - 0
   Npc_Attacked_006_DLC2nd_SD_001:
@@ -2050,14 +2036,13 @@ entries:
         - 1
         - 2
         - 3
-    - ascii: "I hear the Yiga Clan were taken out by\na traveling swordsman. And yet...\n\n"
+    - text: "I hear the Yiga Clan were taken out by\na traveling swordsman. And yet...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "There are still an awful lot of 'em around!\nThey seem to be hoarding bananas too.\nMaybe they're still up to no good?!"
+    - text: "ᐄThere are still an awful lot of 'em around!\nThey seem to be hoarding bananas too.\nMaybe they're still up to no good?!"
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_300:
@@ -2067,32 +2052,32 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: The chief is probably with
+    - text: The chief is probably with
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " Patricia"
+    - text: " Patricia"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\n"
+    - text: ".\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "This is a rare moment of leisure for her,\none she dearly values. Don't even think\nof disturbing her."
+    - text: "This is a rare moment of leisure for her,\none she dearly values. Don't even think\nof disturbing her."
     - utf16_bytes:
         - 0
   Npc_oasis025_SD_Near000:
-    - ascii: Molduga...
+    - text: Molduga...
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_406:
@@ -2102,17 +2087,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I suppose that works...
+    - text: I suppose that works...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Anyway, I hope\nyou enjoy reading Rumor Mill! I take\npride in my work!"
+    - text: " Anyway, I hope\nyou enjoy reading Rumor Mill! I take\npride in my work!"
     - utf16_bytes:
         - 0
   "0030":
-    - ascii: Tell me about Urbosa.
+    - text: Tell me about Urbosa.
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_250:
@@ -2122,11 +2107,11 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "...The chief is sitting right there. Are you\nso in awe you cannot even see her?"
+    - text: "...The chief is sitting right there. Are you\nso in awe you cannot even see her?"
     - utf16_bytes:
         - 0
   "0031":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_000:
@@ -2136,30 +2121,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you need something, speak now."
+    - text: "If you need something, speak now."
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "V\"DBalladOfHeroGerudo_AppearDungeon03!"
+    - text: "V\"DBalladOfHeroGerudo_AppearDungeon03!"
     - utf16_bytes:
         - 0
         - 7
         - 0
         - 65535
         - 0
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0032":
-    - ascii: Riju...
+    - text: Riju...
     - utf16_bytes:
         - 0
   "0033":
-    - ascii: "Where's the chief?"
+    - text: "Where's the chief?"
     - utf16_bytes:
         - 0
   "0034":
-    - ascii: The treasured orb?
+    - text: The treasured orb?
     - utf16_bytes:
         - 0
   Npc_Attacked_011_DLC2nd_SD_200:
@@ -2169,18 +2155,18 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "You're throwing away treasure?! You do\nrealize how wasteful that is, right?\n\n"
+    - text: "You're throwing away treasure?! You do\nrealize how wasteful that is, right?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3331
-    - ascii: "If you didn't want it, I would have been\nhappy to take it off your hands."
+    - text: "If you didn't want it, I would have been\nhappy to take it off your hands."
     - utf16_bytes:
         - 0
   "0035":
-    - ascii: "Urbosa's diary?"
+    - text: "Urbosa's diary?"
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_010:
@@ -2189,14 +2175,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5640
-    - ascii: What?
+    - text: ᘈWhat?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How do you know about that?!"
+    - text: " How do you know about that?!"
     - utf16_bytes:
         - 14
         - 0
@@ -2207,107 +2192,107 @@ entries:
         - 1
         - 2
         - 3331
-    - ascii: My apologies...
+    - text: My apologies...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " There's no point in\nlosing my temper with you.\n\nThe "
+    - text: " There's no point in\nlosing my temper with you.\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: treasure of my people
+    - text: treasure of my people
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nThe "
+    - text: "\n\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sacred orb
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " that we have guarded for\ngenerations is gone. Another precious\nitem stolen by the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Yiga Clan
+    - text: sacred orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: " that we have guarded for\ngenerations is gone. Another precious\nitem stolen by the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Yiga Clan
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2
-    - ascii: "Those fiends! I thought they had been\nwiped out, though I had heard rumors\nof them regrouping at their base.\n"
+    - text: "Those fiends! I thought they had been\nwiped out, though I had heard rumors\nof them regrouping at their base.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Only "
+    - text: "Only "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Riju
+    - text: Lady
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and myself know the orb\nhas been stolen. Do not speak of this\nto anyone."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Riju
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and myself know the orb\nhas been stolen. Do not speak of this\nto anyone."
     - utf16_bytes:
         - 0
   "0036":
-    - ascii: "I've heard of it."
+    - text: "I've heard of it."
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_000r:
@@ -2317,17 +2302,18 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Hm? Do you need something?
+    - text: Hm? Do you need something?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 30
-    - ascii: "\""
+    - text: "\""
     - utf16_bytes:
         - 31
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_011:
     - utf16_bytes:
@@ -2336,101 +2322,101 @@ entries:
         - 1
         - 2
         - 3
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: treasure of my people
+    - text: treasure of my people
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nThe "
+    - text: "\n\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sacred orb
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " that we have guarded for\ngenerations is gone. Another precious\nitem stolen by the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Yiga Clan
+    - text: sacred orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: " that we have guarded for\ngenerations is gone. Another precious\nitem stolen by the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Yiga Clan
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2
-    - ascii: "Those fiends! I thought they had been\nwiped out, though I had heard rumors\nof them regrouping at their base.\n"
+    - text: "Those fiends! I thought they had been\nwiped out, though I had heard rumors\nof them regrouping at their base.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Only "
+    - text: "Only "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Riju
+    - text: Lady
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and myself know the orb\nhas been stolen. Do not speak of this\nto anyone."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Riju
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and myself know the orb\nhas been stolen. Do not speak of this\nto anyone."
     - utf16_bytes:
         - 0
   "0037":
-    - ascii: Never heard of it.
+    - text: Never heard of it.
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_500:
@@ -2439,14 +2425,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh, it's you!"
+    - text: "ЀOh, it's you!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I assume you're keeping up\nwith my wildly popular and informative\npublication, Rumor Mill. By the way..."
+    - text: " I assume you're keeping up\nwith my wildly popular and informative\npublication, Rumor Mill. By the way..."
     - utf16_bytes:
         - 0
   Npc_oasis003_DLC2nd_SD_001-002r:
@@ -2455,24 +2440,24 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: Linkle.
+    - text: ąLinkle.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Is there anything else you wish\nto ask me?"
+    - text: " Is there anything else you wish\nto ask me?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 30
-    - ascii: "\""
+    - text: "\""
     - utf16_bytes:
         - 31
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_oasis032_SD_Talk_01:
     - utf16_bytes:
@@ -2480,50 +2465,49 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The desert's wild "
+    - text: "ЀThe desert's wild "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sand seals
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " haven't\nbeen trained, which means they'll run\naway the moment you dismount.\nBut the ones Frelly trained will wait\npatiently for their master.\n\nAll of the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: sand seals
+    - text: sand seals
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " used in the "
+    - text: " haven't\nbeen trained, which means they'll run\naway the moment you dismount.\nBut the ones Frelly trained will wait\npatiently for their master.\n\nAll of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: "sand-\nseal races"
+        - 0
+    - text: sand seals
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " were trained by Frelly, too."
+    - text: " used in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "sand-\nseal races"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " were trained by Frelly, too."
     - utf16_bytes:
         - 14
         - 1
@@ -2531,7 +2515,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_oasis032_SD_Talk_04:
     - utf16_bytes:
@@ -2539,56 +2524,55 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sand seals
+    - text: sand seals
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in town were all trained\nby Frelly. They're faster, and they'll wait\nfor you to return to them.\nBy comparison, the ones outside who\nhaven't been trained will just run off\nthe moment you dismount.\nIt's definitely worth renting a\ntrained one! Frelly puts her\nheart into training them!"
+    - text: " in town were all trained\nby Frelly. They're faster, and they'll wait\nfor you to return to them.\nBy comparison, the ones outside who\nhaven't been trained will just run off\nthe moment you dismount.\nIt's definitely worth renting a\ntrained one! Frelly puts her\nheart into training them!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nFrelly trained the "
+    - text: "\nFrelly trained the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sand seals
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " used in the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand-seal races
+    - text: sand seals
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " too, of course."
+    - text: " used in the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sand-seal races
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " too, of course."
     - utf16_bytes:
         - 14
         - 1
@@ -2596,7 +2580,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Attacked_006_DLC2nd_SD_100:
     - utf16_bytes:
@@ -2605,28 +2590,28 @@ entries:
         - 1
         - 2
         - 4
-    - ascii: "Did you really go in there...\n\n\nand nab "
+    - text: "Did you really go in there...\n\n\nand nab "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: that orb
+    - text: that orb
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\nYou stole it, yeah?\n\n\nYou really did?!\n\n\n"
+    - text: "?\n\n\nYou stole it, yeah?\n\n\nYou really did?!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3
-    - ascii: "Yikes. If they find out, they'll surely\nchase you down until the end of time!"
+    - text: "Yikes. If they find out, they'll surely\nchase you down until the end of time!"
     - utf16_bytes:
         - 0
   Npc_oasis037_SD_200:
@@ -2636,7 +2621,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You probably guessed as much, but...\nI'm tracking down some juicy gossip.\n\nSince you're here, I'll do you a favor and\nlet you in on a rumor I haven't even\npublished yet."
+    - text: "You probably guessed as much, but...\nI'm tracking down some juicy gossip.\n\nSince you're here, I'll do you a favor and\nlet you in on a rumor I haven't even\npublished yet."
     - utf16_bytes:
         - 0
   Npc_oasis007_DLC2nd_SD_400:
@@ -2646,16 +2631,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you need something, speak now."
+    - text: "If you need something, speak now."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: "\"!"
+    - text: "\"!"
     - utf16_bytes:
         - 7
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_oasis032_SD_Talk_06:
     - utf16_bytes:
@@ -2663,66 +2649,62 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-seal races "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "are a\nGerudo tradition...\n\nIt's pretty simple"
-    - utf16_bytes:
-        - 8212
-    - ascii: "you use a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: sand seal
+    - text: "sand-seal races "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " \nto race around a course to see who's\nthe fastest.\nJust go out the "
+    - text: "are a\nGerudo tradition...\n\nIt's pretty simple—you use a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: southeast gate
-    - utf16_bytes:
-        - 14
         - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "of the\ntown"
+    - text: sand seal
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and head to the right. You'll see\nthe starting line immediately!\nNo harm in taking a peek, right?"
+    - text: " \nto race around a course to see who's\nthe fastest.\nJust go out the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: southeast gate
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "of the\ntown"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and head to the right. You'll see\nthe starting line immediately!\nNo harm in taking a peek, right?"
     - utf16_bytes:
         - 0

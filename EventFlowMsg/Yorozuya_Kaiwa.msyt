@@ -1,30 +1,8 @@
 ---
 entries:
   Com_Talk_12:
+    - text: "自慢の品ぞろえさ\nゆっくり見ていっとくれ！"
     - utf16_bytes:
-        - 33258
-        - 24930
-        - 12398
-        - 21697
-    - ascii: ぞ
-    - utf16_bytes:
-        - 12429
-        - 12360
-        - 12373
-    - ascii: "\n"
-    - utf16_bytes:
-        - 12422
-        - 12387
-        - 12367
-        - 12426
-        - 35211
-        - 12390
-        - 12356
-        - 12387
-        - 12392
-        - 12367
-        - 12428
-        - 65281
         - 0
   Com_Talk_13:
     - utf16_bytes:
@@ -36,7 +14,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -44,43 +22,22 @@ entries:
         - 3
         - 2
         - 65535
-        - 12434
+    - text: を
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12427
-        - 12435
-    - ascii: だ
+    - text: "う売ってくれるんだね？\nいくつだい？"
     - utf16_bytes:
-        - 12397
-        - 65311
-    - ascii: "\n"
-    - utf16_bytes:
-        - 12356
-        - 12367
-        - 12388
-    - ascii: だ
-    - utf16_bytes:
-        - 12356
-        - 65311
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Com_Talk_14:
     - utf16_bytes:
@@ -92,7 +49,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -100,11 +57,12 @@ entries:
         - 3
         - 2
         - 65535
-        - 12434
+    - text: を
+    - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
         - 14
@@ -113,24 +71,16 @@ entries:
         - 6
         - 2
         - 2
-        - 12371
-        - 20491
-        - 12391
-    - ascii: "\n"
+    - text: "こ個で\n"
     - utf16_bytes:
         - 14
         - 0
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 4
         - 8
-        - 12372
-        - 12358
-        - 12369
-        - 12356
-        - 21512
-        - 35336
+    - text: ごうけい合計
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -139,99 +89,71 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 12391
+    - text: で
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12363
-        - 36023
-        - 12356
+    - text: か買い
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12392
-        - 21462
-        - 12427
-        - 12369
-        - 12393
-        - 12356
-        - 12356
-        - 12363
-        - 12356
-        - 65311
+    - text: と取るけどいいかい？
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   "5500":
+    - text: はい
     - utf16_bytes:
-        - 12399
-        - 12356
         - 0
   Com_Talk_15:
-    - ascii: そ
+    - text: それはちょっとうちでは
     - utf16_bytes:
-        - 12428
-        - 12399
-        - 12385
-        - 12423
-        - 12387
-        - 12392
-        - 12358
-        - 12385
-        - 12391
-        - 12399
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12363
-        - 36023
-        - 12356
+    - text: か買い
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12392
-        - 21462
-        - 12428
-        - 12394
-        - 12356
-        - 12394
+    - text: と取れないな
+    - utf16_bytes:
         - 0
   "5501":
+    - text: いいえ
     - utf16_bytes:
-        - 12356
-        - 12356
-        - 12360
         - 0
   Com_Talk_16:
     - utf16_bytes:
@@ -241,138 +163,77 @@ entries:
         - 6
         - 2
         - 2
-        - 12365
-    - ascii: 着
+    - text: き着てる
     - utf16_bytes:
-        - 12390
-        - 12427
         - 14
         - 0
         - 0
         - 8
         - 2
         - 4
-        - 12405
-        - 12367
-    - ascii: 服
+    - text: ふく服は
     - utf16_bytes:
-        - 12399
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12396
-        - 33073
-        - 12356
-        - 12391
-        - 12363
-        - 12425
+    - text: ぬ脱いでから
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12424
+    - text: う売ってくれよ
+    - utf16_bytes:
         - 0
   "5502":
+    - text: 買う
     - utf16_bytes:
-        - 36023
-        - 12358
         - 0
   "5503":
+    - text: やっぱりやめる
     - utf16_bytes:
-        - 12420
-        - 12387
-        - 12401
-        - 12426
-        - 12420
-        - 12417
-        - 12427
         - 0
   "5504":
+    - text: 何か買う
     - utf16_bytes:
-        - 20309
-        - 12363
-        - 36023
-        - 12358
         - 0
   "5505":
+    - text: 何か売る
     - utf16_bytes:
-        - 20309
-        - 12363
-        - 22770
-        - 12427
         - 0
   Com_Talk_20:
+    - text: こんな
     - utf16_bytes:
-        - 12371
-        - 12435
-        - 12394
         - 14
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 12390
-        - 12435
-        - 12365
-    - ascii: 天
+    - text: てんき天気でも
     - utf16_bytes:
-        - 27671
-        - 12391
-        - 12418
         - 14
         - 0
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 4
         - 8
-    - ascii: ぼ
+    - text: ぼうけん冒険とはご
     - utf16_bytes:
-        - 12358
-        - 12369
-        - 12435
-        - 20882
-        - 38522
-        - 12392
-        - 12399
-        - 12372
         - 14
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 12367
-        - 12429
-        - 12358
-        - 33510
-        - 21172
-    - ascii: だ
-    - utf16_bytes:
-        - 12397
-    - ascii: "\nせ"
-    - utf16_bytes:
-        - 12387
-        - 12363
-        - 12367
-    - ascii: だ
-    - utf16_bytes:
-        - 12375
-    - ascii: " "
+    - text: "くろう苦労だね\nせっかくだし "
     - utf16_bytes:
         - 14
         - 0
@@ -380,34 +241,20 @@ entries:
         - 6
         - 2
         - 2
-        - 12392
-        - 21462
-        - 12387
-        - 12390
-        - 12362
-        - 12365
-        - 12434
+    - text: と取っておきを
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 8
         - 2
         - 4
-        - 12394
-        - 12425
-    - ascii: 並
+    - text: なら並べるよ！
     - utf16_bytes:
-        - 12409
-        - 12427
-        - 12424
-        - 65281
         - 0
   "5506":
+    - text: やめとく
     - utf16_bytes:
-        - 12420
-        - 12417
-        - 12392
-        - 12367
         - 0
   Com_Talk_50:
     - utf16_bytes:
@@ -419,7 +266,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -427,15 +274,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: だ
+    - text: だね？
     - utf16_bytes:
-        - 12397
-        - 65311
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
@@ -445,54 +290,39 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 12395
-        - 12394
-        - 12427
-        - 12369
-        - 12393
-    - ascii: " "
+    - text: になるけど いいかい？
     - utf16_bytes:
-        - 12356
-        - 12356
-        - 12363
-        - 12356
-        - 65311
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   "5507":
-    - ascii: ぜ
+    - text: ぜんぶ
     - utf16_bytes:
-        - 12435
-        - 12406
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12363
-        - 36023
-        - 12358
+    - text: か買う
+    - utf16_bytes:
         - 0
   Com_Talk_51:
     - utf16_bytes:
@@ -504,7 +334,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -512,48 +342,32 @@ entries:
         - 3
         - 2
         - 65535
-        - 12363
-        - 12356
-        - 65311
+    - text: かい？
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\nいくつにするかい？"
     - utf16_bytes:
-        - 12356
-        - 12367
-        - 12388
-        - 12395
-        - 12377
-        - 12427
-        - 12363
-        - 12356
-        - 65311
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   "5508":
-    - ascii: ぜ
+    - text: ぜんぶ
     - utf16_bytes:
-        - 12435
-        - 12406
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12427
+    - text: う売る
+    - utf16_bytes:
         - 0
   Com_Talk_52:
     - utf16_bytes:
@@ -565,7 +379,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -573,11 +387,12 @@ entries:
         - 3
         - 2
         - 65535
-        - 12364
+    - text: が
+    - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
         - 14
@@ -586,26 +401,16 @@ entries:
         - 6
         - 2
         - 2
-        - 12371
-        - 20491
-    - ascii: だ
-    - utf16_bytes:
-        - 12392
-    - ascii: "\n"
+    - text: "こ個だと\n"
     - utf16_bytes:
         - 14
         - 0
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 4
         - 8
-        - 12372
-        - 12358
-        - 12369
-        - 12356
-        - 21512
-        - 35336
+    - text: ごうけい合計
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -614,153 +419,79 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 12395
-        - 12394
-        - 12427
-        - 12369
-        - 12393
-        - 12356
-        - 12356
-        - 12363
-        - 12356
-        - 65311
+    - text: になるけどいいかい？
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_53:
+    - text: "おや\nいい"
     - utf16_bytes:
-        - 12362
-        - 12420
-    - ascii: "\n"
-    - utf16_bytes:
-        - 12356
-        - 12356
         - 14
         - 0
         - 0
         - 8
         - 2
         - 4
-        - 12375
-        - 12394
-        - 21697
-    - ascii: だ
-    - utf16_bytes:
-        - 12387
-    - ascii: た
-    - utf16_bytes:
-        - 12398
-        - 12395
-    - ascii: " "
+    - text: "しな品だったのに "
     - utf16_bytes:
         - 14
         - 0
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 4
         - 8
-        - 12374
-        - 12435
-        - 12397
-        - 12435
-        - 27531
-        - 24565
-    - ascii: だ
+    - text: ざんねん残念だな
     - utf16_bytes:
-        - 12394
         - 0
   Com_Talk_54:
+    - text: おいおい ルピーが
     - utf16_bytes:
-        - 12362
-        - 12356
-        - 12362
-        - 12356
-    - ascii: " "
-    - utf16_bytes:
-        - 12523
-        - 12500
-        - 12540
-        - 12364
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-    - ascii: た
+    - text: た足りないみたいだよ
     - utf16_bytes:
-        - 36275
-        - 12426
-        - 12394
-        - 12356
-        - 12415
-    - ascii: た
-    - utf16_bytes:
-        - 12356
-    - ascii: だ
-    - utf16_bytes:
-        - 12424
         - 0
   Com_Talk_55:
+    - text: よく
     - utf16_bytes:
-        - 12424
-        - 12367
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12415
-        - 35211
-    - ascii: た
+    - text: み見たら
     - utf16_bytes:
-        - 12425
         - 14
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 12395
-        - 12418
-        - 12388
-        - 33655
-        - 29289
-        - 12364
-        - 12356
-        - 12387
-        - 12401
-        - 12356
-        - 12415
-    - ascii: た
-    - utf16_bytes:
-        - 12356
-    - ascii: だ
-    - utf16_bytes:
-        - 12394
-    - ascii: "\n"
+    - text: "にもつ荷物がいっぱいみたいだな\n"
     - utf16_bytes:
         - 14
         - 0
@@ -768,26 +499,16 @@ entries:
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12427
-        - 12363
+    - text: う売るか
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12377
-        - 25448
-        - 12390
-        - 12427
-        - 12363
-        - 12375
-        - 12390
-        - 12367
-        - 12428
-        - 12424
+    - text: す捨てるかしてくれよ
+    - utf16_bytes:
         - 0
   Com_Talk_02b:
     - utf16_bytes:
@@ -795,31 +516,16 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉
+    - text: 촉いやー
     - utf16_bytes:
-        - 12356
-        - 12420
-        - 12540
         - 14
         - 0
         - 0
         - 8
         - 2
         - 4
-    - ascii: た
+    - text: たす助かるよ… ありがとな
     - utf16_bytes:
-        - 12377
-        - 21161
-        - 12363
-        - 12427
-        - 12424
-    - ascii: "… "
-    - utf16_bytes:
-        - 12354
-        - 12426
-        - 12364
-        - 12392
-        - 12394
         - 0
   Com_Talk_56:
     - utf16_bytes:
@@ -831,7 +537,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -839,33 +545,22 @@ entries:
         - 3
         - 2
         - 65535
-        - 12434
+    - text: を
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 8
         - 2
         - 4
-        - 12402
-        - 12392
-        - 19968
-        - 12388
-    - ascii: だ
+    - text: ひと一つだけだね？
     - utf16_bytes:
-        - 12369
-    - ascii: だ
-    - utf16_bytes:
-        - 12397
-        - 65311
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nそ"
+    - text: "\nそれなら"
     - utf16_bytes:
-        - 12428
-        - 12394
-        - 12425
         - 14
         - 0
         - 3
@@ -874,40 +569,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 12395
-        - 12394
-        - 12427
-        - 12369
-        - 12393
-    - ascii: " "
+    - text: になるけど いいかい？
     - utf16_bytes:
-        - 12356
-        - 12356
-        - 12363
-        - 12356
-        - 65311
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_02c:
     - utf16_bytes:
@@ -915,60 +597,32 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉
+    - text: 촉ありがとな
     - utf16_bytes:
-        - 12354
-        - 12426
-        - 12364
-        - 12392
-        - 12394
         - 0
   Com_Talk_05b:
+    - text: ゆっくり
     - utf16_bytes:
-        - 12422
-        - 12387
-        - 12367
-        - 12426
         - 14
         - 0
         - 0
         - 8
         - 2
         - 4
-        - 12360
-        - 12425
-        - 36984
-        - 12435
-        - 12391
-        - 12356
-        - 12356
-        - 12363
-        - 12425
-        - 12394
+    - text: えら選んでいいからな
+    - utf16_bytes:
         - 0
   Com_Talk_00:
+    - text: どれを
     - utf16_bytes:
-        - 12393
-        - 12428
-        - 12434
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12427
-        - 12435
-    - ascii: だ
+    - text: う売ってくれるんだい？
     - utf16_bytes:
-        - 12356
-        - 65311
         - 0
   Com_Talk_02d:
     - utf16_bytes:
@@ -976,13 +630,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉
-    - utf16_bytes:
-        - 12458
-        - 12540
-        - 12465
-        - 12540
-    - ascii: " また"
+    - text: 촉オーケー また
     - utf16_bytes:
         - 14
         - 0
@@ -990,21 +638,11 @@ entries:
         - 8
         - 2
         - 4
-    - ascii: た
+    - text: たの頼むよ
     - utf16_bytes:
-        - 12398
-    - ascii: 頼
-    - utf16_bytes:
-        - 12416
-        - 12424
         - 0
   Com_Talk_05c:
-    - utf16_bytes:
-        - 12458
-        - 12540
-        - 12465
-        - 12540
-    - ascii: " "
+    - text: "オーケー "
     - utf16_bytes:
         - 14
         - 0
@@ -1012,29 +650,16 @@ entries:
         - 6
         - 2
         - 2
-        - 12363
-        - 36023
-        - 12356
+    - text: か買い
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12392
-        - 21462
-        - 12426
-        - 12394
-        - 12425
-    - ascii: " ま"
+    - text: と取りなら まかせてくれ！
     - utf16_bytes:
-        - 12363
-    - ascii: せ
-    - utf16_bytes:
-        - 12390
-        - 12367
-        - 12428
-        - 65281
         - 0
   Com_Talk_01:
     - utf16_bytes:
@@ -1046,7 +671,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -1054,8 +679,7 @@ entries:
         - 3
         - 2
         - 65535
-        - 12434
-    - ascii: " "
+    - text: "を "
     - utf16_bytes:
         - 14
         - 0
@@ -1063,19 +687,7 @@ entries:
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12427
-        - 12435
-    - ascii: だ
-    - utf16_bytes:
-        - 12397
-        - 65311
-    - ascii: "\n"
+    - text: "う売ってくれるんだね？\n"
     - utf16_bytes:
         - 14
         - 0
@@ -1085,37 +697,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 12395
-        - 12394
-        - 12427
-        - 12369
-        - 12393
-        - 12356
-        - 12356
-        - 12363
-        - 12397
-        - 65311
+    - text: になるけどいいかね？
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_05d:
     - utf16_bytes:
@@ -1125,11 +727,7 @@ entries:
         - 8
         - 2
         - 4
-        - 12394
-        - 12395
-        - 20309
-        - 12434
-    - ascii: " "
+    - text: "なに何を "
     - utf16_bytes:
         - 14
         - 0
@@ -1137,18 +735,8 @@ entries:
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12427
-        - 12435
-    - ascii: だ
+    - text: う売ってくれるんだい？
     - utf16_bytes:
-        - 12356
-        - 65311
         - 0
   Com_Talk_11b:
     - utf16_bytes:
@@ -1156,19 +744,8 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉
+    - text: 촉オーケー ありがとよ
     - utf16_bytes:
-        - 12458
-        - 12540
-        - 12465
-        - 12540
-    - ascii: " "
-    - utf16_bytes:
-        - 12354
-        - 12426
-        - 12364
-        - 12392
-        - 12424
         - 0
   Com_Talk_30:
     - utf16_bytes:
@@ -1180,7 +757,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -1188,11 +765,12 @@ entries:
         - 3
         - 2
         - 65535
-        - 12364
+    - text: が
+    - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
         - 14
@@ -1201,24 +779,16 @@ entries:
         - 6
         - 2
         - 2
-        - 12371
-        - 20491
-        - 12391
-    - ascii: "\n"
+    - text: "こ個で\n"
     - utf16_bytes:
         - 14
         - 0
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 4
         - 8
-        - 12372
-        - 12358
-        - 12369
-        - 12356
-        - 21512
-        - 35336
+    - text: ごうけい合計
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1227,50 +797,36 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 12395
-        - 12394
-        - 12427
-        - 12369
-        - 12393
-        - 12356
-        - 12356
-        - 12363
-        - 12356
-        - 65311
+    - text: になるけどいいかい？
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02:
+    - text: ありがとう
     - utf16_bytes:
-        - 12354
-        - 12426
-        - 12364
-        - 12392
-        - 12358
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
@@ -1278,28 +834,16 @@ entries:
         - 8
         - 2
         - 4
-    - ascii: ほ
+    - text: ほか他にも
     - utf16_bytes:
-        - 12363
-        - 20182
-        - 12395
-        - 12418
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12427
-        - 12363
-        - 12356
-        - 65311
+    - text: う売ってくれるかい？
+    - utf16_bytes:
         - 0
   Com_Talk_11c:
     - utf16_bytes:
@@ -1307,16 +851,8 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉ま
+    - text: 촉まいど オーケー
     - utf16_bytes:
-        - 12356
-        - 12393
-    - ascii: " "
-    - utf16_bytes:
-        - 12458
-        - 12540
-        - 12465
-        - 12540
         - 0
   Com_Talk_31:
     - utf16_bytes:
@@ -1328,7 +864,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -1336,41 +872,22 @@ entries:
         - 3
         - 2
         - 65535
-        - 12434
+    - text: を
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12363
-        - 36023
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12427
-        - 12398
-        - 12363
-        - 65311
-    - ascii: "\n"
+    - text: "か買ってくれるのか？\nいくつだい？"
     - utf16_bytes:
-        - 12356
-        - 12367
-        - 12388
-    - ascii: だ
-    - utf16_bytes:
-        - 12356
-        - 65311
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   Com_Talk_60:
     - utf16_bytes:
@@ -1382,7 +899,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -1390,12 +907,8 @@ entries:
         - 3
         - 2
         - 65535
-        - 65311
-    - ascii: "\nそ"
+    - text: "？\nそれなら"
     - utf16_bytes:
-        - 12428
-        - 12394
-        - 12425
         - 14
         - 0
         - 3
@@ -1404,39 +917,28 @@ entries:
         - 14
         - 2
         - 16
-    - ascii: ",(Shop_SelectItemPrice"
+    - text: ",(Shop_SelectItemPrice"
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: だ
+    - text: だよ！
     - utf16_bytes:
-        - 12424
-        - 65281
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_03:
-    - ascii: まだ
+    - text: まだ何かあるかい？
     - utf16_bytes:
-        - 20309
-        - 12363
-        - 12354
-        - 12427
-        - 12363
-        - 12356
-        - 65311
         - 0
   Com_Talk_11d:
     - utf16_bytes:
@@ -1444,31 +946,19 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉ま
+    - text: 촉まいどっ！
     - utf16_bytes:
-        - 12356
-        - 12393
-        - 12387
-        - 65281
         - 0
   Com_Talk_61:
+    - text: あら
     - utf16_bytes:
-        - 12354
-        - 12425
         - 14
         - 0
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 4
         - 8
-        - 12374
-        - 12435
-        - 12397
-        - 12435
-        - 27531
-        - 24565
-    - ascii: "\n"
+    - text: "ざんねん残念\n"
     - utf16_bytes:
         - 14
         - 0
@@ -1476,37 +966,20 @@ entries:
         - 8
         - 2
         - 4
-    - ascii: ほ
+    - text: ほか他のも
     - utf16_bytes:
-        - 12363
-        - 20182
-        - 12398
-        - 12418
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12415
-        - 35211
-        - 12390
-        - 12387
-        - 12390
-        - 12424
-        - 65281
+    - text: み見てってよ！
+    - utf16_bytes:
         - 0
   Com_Talk_04:
+    - text: おや 残念だね
     - utf16_bytes:
-        - 12362
-        - 12420
-    - ascii: " "
-    - utf16_bytes:
-        - 27531
-        - 24565
-    - ascii: だ
-    - utf16_bytes:
-        - 12397
         - 0
   Com_Talk_33:
     - utf16_bytes:
@@ -1518,7 +991,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -1526,26 +999,14 @@ entries:
         - 3
         - 2
         - 65535
-        - 12434
-        - 12402
-        - 12392
-        - 12388
-    - ascii: だ
+    - text: をひとつだけだね？
     - utf16_bytes:
-        - 12369
-    - ascii: だ
-    - utf16_bytes:
-        - 12397
-        - 65311
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nそ"
+    - text: "\nそれなら"
     - utf16_bytes:
-        - 12428
-        - 12394
-        - 12425
         - 14
         - 0
         - 3
@@ -1554,48 +1015,31 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: だ
+    - text: だけどいいかい？
     - utf16_bytes:
-        - 12369
-        - 12393
-        - 12356
-        - 12356
-        - 12363
-        - 12356
-        - 65311
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_05:
+    - text: 何でも買い取るよ！
     - utf16_bytes:
-        - 20309
-        - 12391
-        - 12418
-        - 36023
-        - 12356
-        - 21462
-        - 12427
-        - 12424
-        - 65281
         - 0
   Com_Talk_34:
     - utf16_bytes:
@@ -1607,7 +1051,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -1615,39 +1059,27 @@ entries:
         - 3
         - 2
         - 65535
-        - 12434
-        - 12354
-        - 12427
-    - ascii: だ
+    - text: をあるだけ
     - utf16_bytes:
-        - 12369
         - 14
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-    - ascii: ぜ
+    - text: ぜんぶ全部だね？
     - utf16_bytes:
-        - 12435
-        - 12406
-        - 20840
-        - 37096
-    - ascii: だ
-    - utf16_bytes:
-        - 12397
-        - 65311
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
         - 14
@@ -1656,9 +1088,8 @@ entries:
         - 6
         - 2
         - 2
-        - 12371
-        - 20491
-        - 12391
+    - text: こ個で
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1667,53 +1098,31 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: だ
+    - text: だけどいいかい？
     - utf16_bytes:
-        - 12369
-        - 12393
-        - 12356
-        - 12356
-        - 12363
-        - 12356
-        - 65311
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_06:
+    - text: どれを買ってくれるんだい？
     - utf16_bytes:
-        - 12393
-        - 12428
-        - 12434
-        - 36023
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12427
-        - 12435
-    - ascii: だ
-    - utf16_bytes:
-        - 12356
-        - 65311
         - 0
   Com_Talk_35:
     - utf16_bytes:
@@ -1725,7 +1134,7 @@ entries:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
         - 14
@@ -1733,47 +1142,30 @@ entries:
         - 3
         - 2
         - 65535
-        - 12434
+    - text: を
+    - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
         - 14
         - 0
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 6
         - 8
-        - 12371
-    - ascii: ぜ
-    - utf16_bytes:
-        - 12435
-        - 12406
-        - 20491
-        - 20840
-        - 37096
-    - ascii: だ
-    - utf16_bytes:
-        - 12397
-        - 65311
-    - ascii: "\n"
+    - text: "こぜんぶ個全部だね？\n"
     - utf16_bytes:
         - 14
         - 0
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 4
         - 8
-        - 12372
-        - 12358
-        - 12369
-        - 12356
-        - 21512
-        - 35336
+    - text: ごうけい合計
+    - utf16_bytes:
         - 14
         - 0
         - 3
@@ -1782,329 +1174,150 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 12391
+    - text: で
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12363
-        - 36023
-        - 12356
+    - text: か買い
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12392
-        - 21462
-        - 12427
-        - 12369
-        - 12393
-        - 12356
-        - 12356
-        - 12363
-        - 12356
-        - 65311
+    - text: と取るけどいいかい？
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_07:
-    - utf16_bytes:
-        - 24746
-        - 12356
-        - 12397
-    - ascii: " "
-    - utf16_bytes:
-        - 20170
-    - ascii: そ
-    - utf16_bytes:
-        - 12356
-        - 12388
-        - 12399
-        - 20999
-        - 12425
-        - 12375
-        - 12390
-        - 12427
-        - 12435
-    - ascii: だ
+    - text: 悪いね 今そいつは切らしてるんだ
     - utf16_bytes:
         - 0
   Com_Talk_36:
+    - text: これで
     - utf16_bytes:
-        - 12371
-        - 12428
-        - 12391
         - 14
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 12373
-        - 12356
-        - 12372
-        - 26368
-        - 24460
-    - ascii: "だ\n"
+    - text: "さいご最後だ\nいっぱい"
     - utf16_bytes:
-        - 12356
-        - 12387
-        - 12401
-        - 12356
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12363
-        - 36023
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12390
-    - ascii: " "
+    - text: か買ってくれて うれしいねぇ
     - utf16_bytes:
-        - 12358
-        - 12428
-        - 12375
-        - 12356
-        - 12397
-        - 12359
         - 0
   Com_Talk_08:
+    - text: ルピーが足りないみたいだね
     - utf16_bytes:
-        - 12523
-        - 12500
-        - 12540
-        - 12364
-        - 36275
-        - 12426
-        - 12394
-        - 12356
-        - 12415
-    - ascii: た
-    - utf16_bytes:
-        - 12356
-    - ascii: だ
-    - utf16_bytes:
-        - 12397
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\nもう少し稼いでから来なよ"
     - utf16_bytes:
-        - 12418
-        - 12358
-        - 23569
-        - 12375
-    - ascii: 稼
-    - utf16_bytes:
-        - 12356
-        - 12391
-        - 12363
-        - 12425
-        - 26469
-        - 12394
-        - 12424
         - 0
   Com_Talk_37:
+    - text: もう
     - utf16_bytes:
-        - 12418
-        - 12358
         - 14
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 12365
-        - 12423
-        - 12358
-        - 20170
-        - 26085
-        - 12399
+    - text: きょう今日は
+    - utf16_bytes:
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12358
-        - 22770
-        - 12427
-        - 12418
-        - 12398
-        - 12364
-        - 12394
-        - 12356
-        - 12435
-    - ascii: だ
+    - text: "う売るものがないんだよ\nたくさん"
     - utf16_bytes:
-        - 12424
-    - ascii: "\nた"
-    - utf16_bytes:
-        - 12367
-        - 12373
-        - 12435
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12363
-        - 36023
-        - 12387
-        - 12390
-        - 12367
-        - 12428
-        - 12390
-        - 12354
-        - 12426
-        - 12364
-        - 12392
-        - 12394
-        - 65281
-    - ascii: "\n"
+    - text: "か買ってくれてありがとな！\n入荷"
     - utf16_bytes:
-        - 20837
-        - 33655
         - 14
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 12424
-        - 12390
-        - 12356
-        - 20104
-        - 23450
-        - 12398
-        - 21697
-        - 29289
-        - 12522
-        - 12473
-        - 12488
-    - ascii: だ
+    - text: よてい予定の品物リストだけでも
     - utf16_bytes:
-        - 12369
-        - 12391
-        - 12418
         - 14
         - 0
         - 0
         - 6
         - 2
         - 2
-        - 12415
-        - 35211
-        - 12390
-        - 12356
-        - 12367
-        - 12363
-        - 12356
-        - 65311
+    - text: み見ていくかい？
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_09:
+    - text: ポーチがいっぱいみたいだな
     - utf16_bytes:
-        - 12509
-        - 12540
-        - 12481
-        - 12364
-        - 12356
-        - 12387
-        - 12401
-        - 12356
-        - 12415
-    - ascii: た
-    - utf16_bytes:
-        - 12356
-    - ascii: だ
-    - utf16_bytes:
-        - 12394
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n売るか捨てるかして空きを作ってから来てくれ"
     - utf16_bytes:
-        - 22770
-        - 12427
-        - 12363
-        - 25448
-        - 12390
-        - 12427
-        - 12363
-        - 12375
-        - 12390
-        - 31354
-        - 12365
-        - 12434
-    - ascii: 作
-    - utf16_bytes:
-        - 12387
-        - 12390
-        - 12363
-        - 12425
-        - 26469
-        - 12390
-        - 12367
-        - 12428
         - 0
   Com_Talk_10:
     - utf16_bytes:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
-        - 12434
-        - 36023
-        - 12358
-        - 12435
-    - ascii: だ
-    - utf16_bytes:
-        - 12394
-        - 65311
-    - ascii: "\n"
+    - text: "を買うんだな？\n"
     - utf16_bytes:
         - 14
         - 0
@@ -2114,45 +1327,29 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-        - 12523
-        - 12500
-        - 12540
+    - text: ルピー
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 12395
-        - 12394
-        - 12427
-        - 12369
-        - 12393
-        - 12356
-        - 12356
-        - 12363
-        - 12397
-        - 65311
+    - text: になるけどいいかね？
+    - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_11:
-    - ascii: ま
+    - text: まいどあり！
     - utf16_bytes:
-        - 12356
-        - 12393
-        - 12354
-        - 12426
-        - 65281
         - 0

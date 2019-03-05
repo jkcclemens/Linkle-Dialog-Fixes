@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 3
-    - ascii: "You'll get wet standing around outside."
+    - text: "You'll get wet standing around outside."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nPlease, use the stable for shelter."
+    - text: "\nPlease, use the stable for shelter."
     - utf16_bytes:
         - 0
   Near01:
@@ -22,8 +22,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
-    - ascii: Dinnertime!
+    - text: 촁Dinnertime!
     - utf16_bytes:
         - 0
   Talk04:
@@ -32,14 +31,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4611
-    - ascii: "Can't use the cooking pot in this rain..."
+    - text: "ሃCan't use the cooking pot in this rain..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWhy not stay the night?"
+    - text: "\nWhy not stay the night?"
     - utf16_bytes:
         - 0
   Near02:
@@ -48,12 +46,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: Eat up now.
+    - text: 촇Eat up now.
     - utf16_bytes:
         - 0
   Near_Sleep00:
-    - ascii: Zzz... Zzz...
+    - text: Zzz... Zzz...
     - utf16_bytes:
         - 0
   Talk05:
@@ -62,14 +59,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4611
-    - ascii: Huh?
+    - text: ሃHuh?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's late. We can talk later."
+    - text: " It's late. We can talk later."
     - utf16_bytes:
         - 0
   Near_Sleep01:
@@ -78,7 +74,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촠I overslept...
+    - text: 촠I overslept...
     - utf16_bytes:
         - 0
   Talk06:
@@ -88,21 +84,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Veggies are good for you, and they're\nvery yummy."
+    - text: "Veggies are good for you, and they're\nvery yummy."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Mmm..."
+    - text: " Mmm..."
     - utf16_bytes:
         - 0
   Near_RunRain00:
-    - ascii: "Don't want to..."
+    - text: "Don't want to..."
     - utf16_bytes:
         - 0
   Near_RunRain01:
-    - ascii: "Rain, hm..."
+    - text: "Rain, hm..."
     - utf16_bytes:
         - 0
   Talk00:
@@ -112,7 +108,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Would you like to use the cooking pot?
+    - text: Would you like to use the cooking pot?
     - utf16_bytes:
         - 14
         - 1
@@ -120,14 +116,15 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Cooking pot?
+    - text: Cooking pot?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'll pass."
+    - text: "I'll pass."
     - utf16_bytes:
         - 0
   Talk01:
@@ -137,13 +134,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "We don't serve food at the stable."
+    - text: "We don't serve food at the stable."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nPlease, use this cooking pot."
+    - text: "\nPlease, use this cooking pot."
     - utf16_bytes:
         - 0
   Talk02:
@@ -153,16 +150,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Talk to our master Embry if you have\nneeds, "
+    - text: "Talk to our master Embry if you have\nneeds, "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "and ask the apprentice Trott if\nyou need directions."
+    - text: "and ask the apprentice Trott if\nyou need directions."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: All right now...
+    - text: All right now...
     - utf16_bytes:
         - 0

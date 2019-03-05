@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 3331
-    - ascii: "Whaaa?! You don't remember meeee?\nThat's not what I expected froooom..."
+    - text: "Whaaa?! You don't remember meeee?\nThat's not what I expected froooom..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nthe hero."
+    - text: "\nthe hero."
     - utf16_bytes:
         - 0
   Henshin00:
@@ -22,32 +22,33 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀Nooow...you must DIIIIE!
+    - text: 䁀Nooow...you must DIIIIE!
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Henshin01:
@@ -56,31 +57,32 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-    - ascii: 䁀
+    - text: 䁀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Begone, enemy of my maaaaster!"
+    - text: "}Begone, enemy of my maaaaster!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -91,7 +93,7 @@ entries:
         - 1
         - 2
         - 769
-    - ascii: Heeeey! You there!
+    - text: Heeeey! You there!
     - utf16_bytes:
         - 14
         - 1
@@ -99,7 +101,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk01:
     - utf16_bytes:
@@ -107,18 +110,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "Yeaaaah, you! "
+    - text: "ЇYeaaaah, you! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'm talkin' to YOU!"
+    - text: "I'm talkin' to YOU!"
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: "Yooou! Hey, yooou!"
+    - text: "Yooou! Hey, yooou!"
     - utf16_bytes:
         - 0
   Talk02:
@@ -128,13 +130,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: Hey there...
+    - text: Hey there...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: friend.
+    - text: friend.
     - utf16_bytes:
         - 0
   Near00:
@@ -143,8 +145,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
-    - ascii: Waaait uuup!
+    - text: 촁Waaait uuup!
     - utf16_bytes:
         - 0
   Talk03:
@@ -153,14 +154,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Come oooon, I'm not some creeper!"
+    - text: "āCome oooon, I'm not some creeper!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI just wanna taaaalk, my frieeend!\nWhaddaya say?"
+    - text: "\nI just wanna taaaalk, my frieeend!\nWhaddaya say?"
     - utf16_bytes:
         - 14
         - 1
@@ -168,10 +168,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Me?
+    - text: Me?
     - utf16_bytes:
         - 0
   Talk04:
@@ -181,40 +182,40 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh, jooooy! Thaaaank you!"
+    - text: "Oh, jooooy! Thaaaank you!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nNow then, let me start oooover...\n\n"
+    - text: "\nNow then, let me start oooover...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: That thiiiing hanging on your hip...
+    - text: That thiiiing hanging on your hip...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIs thaaaaat...a "
+    - text: "\nIs thaaaaat...a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -222,10 +223,11 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Talk05:
@@ -235,40 +237,39 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Whaaaat?! Why would you refuuuse?
+    - text: Whaaaat?! Why would you refuuuse?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSee, you're the reeeeeal creeper\nheeeeere...\n"
+    - text: "\nSee, you're the reeeeeal creeper\nheeeeere...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Now...that thiiiing hanging on your hip...
+    - text: ĀNow...that thiiiing hanging on your hip...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIs thaaaaat...a "
+    - text: "\nIs thaaaaat...a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -276,10 +277,11 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: OK...
+    - text: OK...
     - utf16_bytes:
         - 0
   Talk06:
@@ -288,18 +290,17 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Seeee! I kneeeew it!
+    - text: इSeeee! I kneeeew it!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWell then!"
+    - text: "\nWell then!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: I refuse!
+    - text: I refuse!
     - utf16_bytes:
         - 0
   Talk07:
@@ -309,20 +310,17 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: Whaaaa
-    - utf16_bytes:
-        - 8212
-    - ascii: "?! You say it's noooot, but..."
+    - text: "Whaaaa—?! You say it's noooot, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nEven stiiiiill..."
+    - text: "\nEven stiiiiill..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "Yes, it is."
+    - text: "Yes, it is."
     - utf16_bytes:
         - 0
   Talk08:
@@ -331,15 +329,13 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Long tiiiime no see, riiiiight?\n"
+    - text: "ȁLong tiiiime no see, riiiiight?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "Don't you remember meee?"
+    - text: "ċDon't you remember meee?"
     - utf16_bytes:
         - 14
         - 1
@@ -347,10 +343,11 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: "No, it's not."
+    - text: "No, it's not."
     - utf16_bytes:
         - 0
   Talk09:
@@ -360,24 +357,24 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Oooh, now that's what I'd expeeect..."
+    - text: "Oooh, now that's what I'd expeeect..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nfrom the hero..."
+    - text: "\nfrom the hero..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: You!
+    - text: You!
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: "Yooou! Hey, yooou!"
+    - text: "Yooou! Hey, yooou!"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Nope.
+    - text: Nope.
     - utf16_bytes:
         - 0

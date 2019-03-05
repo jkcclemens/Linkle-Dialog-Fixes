@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I... I was just pretending to be\na horse!"
+    - text: "I... I was just pretending to be\na horse!"
     - utf16_bytes:
         - 14
         - 1
@@ -15,7 +15,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_02:
     - utf16_bytes:
@@ -23,13 +24,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P*STOMP...STOMP*
+    - text: P*STOMP...STOMP*
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_04:
@@ -39,7 +40,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Sav'orq!"
+    - text: "Sav'orq!"
     - utf16_bytes:
         - 0
   Talk_10:
@@ -48,19 +49,19 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nOh, wow! You're a vai from out of town!"
+    - text: "\nOh, wow! You're a vai from out of town!"
     - utf16_bytes:
         - 0
   Talk_05:
@@ -69,20 +70,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat? You don't know about\nHorsey Fatback? You don't have\none where you're from?"
+    - text: "\nWhat? You don't know about\nHorsey Fatback? You don't have\none where you're from?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "There's this really big horse-thing that\nwalks around outside the village, like\nSTOMP STOMP.\nIf you get close to him, he goes...\n\n\n"
+    - text: "There's this really big horse-thing that\nwalks around outside the village, like\nSTOMP STOMP.\nIf you get close to him, he goes...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -93,7 +94,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}KABOOM!"
+    - text: "}KABOOM!"
     - utf16_bytes:
         - 14
         - 5
@@ -103,14 +104,14 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "And...\n\n\n"
+    - text: "And...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -121,7 +122,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}BZZBZZ!"
+    - text: "}BZZBZZ!"
     - utf16_bytes:
         - 14
         - 5
@@ -131,21 +132,21 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "It's really exciting!\n\n\n"
+    - text: "It's really exciting!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "But I think Horsey Fatback is\nactually good! He's only in a bad mood\n'cause everyone keeps saying he's bad!"
+    - text: "But I think Horsey Fatback is\nactually good! He's only in a bad mood\n'cause everyone keeps saying he's bad!"
     - utf16_bytes:
         - 0
   Talk_11:
@@ -154,19 +155,19 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!!"
+    - text: "촚Sav'aaq!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nOh, wow! You're a vai from out of town!"
+    - text: "\nOh, wow! You're a vai from out of town!"
     - utf16_bytes:
         - 0
   Talk_06:
@@ -175,33 +176,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nYou don't know about Horsey Fatback?\nYou don't have one where you're from?\n\n"
+    - text: "\nYou don't know about Horsey Fatback?\nYou don't have one where you're from?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "There was this big horse-thing walking\naround like STOMP STOMP, but..."
+    - text: "There was this big horse-thing walking\naround like STOMP STOMP, but..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tIt looks like he went away somewhere...\n\n\n"
+        - 9
+    - text: "It looks like he went away somewhere...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "He must have left because everyone kept\nsaying he was a bad boy all the time!"
+    - text: "He must have left because everyone kept\nsaying he was a bad boy all the time!"
     - utf16_bytes:
         - 0
   Talk_12:
@@ -210,19 +212,19 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!!"
+    - text: "촛Sav'saaba!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nOh, wow! You're a vai from out of town!"
+    - text: "\nOh, wow! You're a vai from out of town!"
     - utf16_bytes:
         - 0
   Talk_07:
@@ -232,7 +234,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "It's dark out now, so I'm going back to\nmy vaba's booth!\n\nSav'orq!"
+    - text: "It's dark out now, so I'm going back to\nmy vaba's booth!\n\nSav'orq!"
     - utf16_bytes:
         - 0
   Talk_13:
@@ -241,7 +243,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t*STOMP...STOMP*\nHe went over there...\n\nI wonder if he's done stomping?"
+        - 9
+    - text: "*STOMP...STOMP*\nHe went over there...\n\nI wonder if he's done stomping?"
     - utf16_bytes:
         - 0
   Talk_08:
@@ -251,7 +254,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "*STOMP...STOMP*\nI think I can see him!"
+    - text: "*STOMP...STOMP*\nI think I can see him!"
     - utf16_bytes:
         - 0
   Talk_14:
@@ -261,7 +264,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I'm on my way to watch Horsey Fatback!"
+    - text: "I'm on my way to watch Horsey Fatback!"
     - utf16_bytes:
         - 14
         - 1
@@ -269,10 +272,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: A horse? Why?
+    - text: A horse? Why?
     - utf16_bytes:
         - 0
   Talk_09:
@@ -282,7 +286,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: What game should I play now...
+    - text: What game should I play now...
     - utf16_bytes:
         - 0
   Talk_15:
@@ -292,16 +296,16 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I'm going with everyone now!"
+    - text: "I'm going with everyone now!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nTalk to you later! Sav'orq!"
+    - text: "\nTalk to you later! Sav'orq!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0

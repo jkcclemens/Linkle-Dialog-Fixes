@@ -7,48 +7,48 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Not \"bai\"!"
+    - text: "Not \"bai\"!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Vai
+    - text: Vai
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n\n"
+    - text: "!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Bite your bottom lip as you say it.\nIt translates to \"woman\" in your\nlanguage.\nSo long as we're on the subject, "
+    - text: "Bite your bottom lip as you say it.\nIt translates to \"woman\" in your\nlanguage.\nSo long as we're on the subject, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: voe
+    - text: voe
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is\nour word for \"man.\"\n\nIf you plan to stay awhile, you'd do well\nto learn the language."
+    - text: " is\nour word for \"man.\"\n\nIf you plan to stay awhile, you'd do well\nto learn the language."
     - utf16_bytes:
         - 0
   Sinjyu_Normal_001:
@@ -58,21 +58,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The chief has calmed the "
+    - text: "The chief has calmed the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThe town can finally rest easy with that\nthreat handled...\nI'm sure we'll see more business traffic\ngoing in and out than we have in a\nwhile, too.\nWhich means I have to be extra diligent\nin keeping voe from slipping into town\nwith the crowds!"
+    - text: ".\nThe town can finally rest easy with that\nthreat handled...\nI'm sure we'll see more business traffic\ngoing in and out than we have in a\nwhile, too.\nWhich means I have to be extra diligent\nin keeping voe from slipping into town\nwith the crowds!"
     - utf16_bytes:
         - 0
   Sinjyu_Female_001:
@@ -82,53 +82,53 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "The chief has calmed the "
+    - text: "The chief has calmed the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThe town can finally rest easy with that\nthreat handled...\nNow you can truly relax in town.\nFeel free to come inside."
+    - text: ".\nThe town can finally rest easy with that\nthreat handled...\nNow you can truly relax in town.\nFeel free to come inside."
     - utf16_bytes:
         - 0
   Npc_oasis024_001:
-    - ascii: "If you need to prepare for a journey, you\nshould head to"
+    - text: "If you need to prepare for a journey, you\nshould head to"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "the oasis near the\ndesert's entrance, "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Kara Kara Bazaar
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "the oasis near the\ndesert's entrance, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Kara Kara Bazaar
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -136,8 +136,7 @@ entries:
         - 6
         - 0
         - 1
-        - 256
-    - ascii: "\n\nOr one of our many shops!"
+    - text: "Ā\n\nOr one of our many shops!"
     - utf16_bytes:
         - 0
   Npc_oasis024_002:
@@ -147,25 +146,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Try "
+    - text: "Try "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", the oasis at the\nentrance of the desert."
+    - text: ", the oasis at the\nentrance of the desert."
     - utf16_bytes:
         - 0
   Near_Raimei_001:
-    - ascii: "Ooo, that helm..."
+    - text: "Ooo, that helm..."
     - utf16_bytes:
         - 0
   Npc_oasis024_003:
@@ -175,35 +174,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is "
+    - text: "This is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", Hyrule's largest\ntrade hub.\n\nOnly "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: vai
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " are permitted entry within the\nwalls, and we're constantly on alert for\nanyone who looks suspicious."
+    - text: ", Hyrule's largest\ntrade hub.\n\nOnly "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: vai
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " are permitted entry within the\nwalls, and we're constantly on alert for\nanyone who looks suspicious."
     - utf16_bytes:
         - 14
         - 1
@@ -211,7 +210,8 @@ entries:
         - 6
         - 2
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_oasis024_004:
     - utf16_bytes:
@@ -219,22 +219,21 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "This place is famous for its bustling\ntrade, but also for our unusual rule\nallowing only "
+    - text: "ȀThis place is famous for its bustling\ntrade, but also for our unusual rule\nallowing only "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: vai
+    - text: vai
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " into the town.\nWe're constantly on the lookout for\nanyone suspicious, so you can rest\neasy here."
+    - text: " into the town.\nWe're constantly on the lookout for\nanyone suspicious, so you can rest\neasy here."
     - utf16_bytes:
         - 14
         - 1
@@ -242,7 +241,8 @@ entries:
         - 6
         - 2
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_oasis024_010:
     - utf16_bytes:
@@ -250,22 +250,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Since you're here, it might be worth it\nto learn some Gerudo words, right?\n\"Good-bye\" is "
+    - text: "ЀSince you're here, it might be worth it\nto learn some Gerudo words, right?\n\"Good-bye\" is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sav'orq"
+    - text: "sav'orq"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Npc_oasis024_Near001:
@@ -275,13 +274,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: Freeze!
+    - text: Freeze!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Where do you think you're\ngoing?!"
+    - text: " Where do you think you're\ngoing?!"
     - utf16_bytes:
         - 14
         - 5
@@ -291,16 +290,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촌 Not into town
-    - utf16_bytes:
-        - 8212
-    - ascii: "that's for sure!\nNo are not welcome. "
+    - text: "촌 Not into town—that's for sure!\nNo are not welcome. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Off with you!
+    - text: Off with you!
     - utf16_bytes:
         - 0
   Npc_oasis024_005:
@@ -314,8 +310,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq."
+    - text: "촚Sav'aaq."
     - utf16_bytes:
         - 0
   Npc_oasis024_011:
@@ -329,12 +324,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba."
+    - text: "촛Sav'saaba."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Sorry, \"bai\"?"
+    - text: "Sorry, \"bai\"?"
     - utf16_bytes:
         - 0
   Npc_oasis024_006:
@@ -348,16 +342,15 @@ entries:
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta."
+    - text: "촙Sav'otta."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "Sorry, \"bai\"?"
+    - text: "Sorry, \"bai\"?"
     - utf16_bytes:
         - 0
   Npc_oasis024_008:
@@ -367,47 +360,47 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Not \"bai\"!"
+    - text: "Not \"bai\"!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Vai
+    - text: Vai
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n\n"
+    - text: "!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Bite your bottom lip as you say it.\nIt translates to \"woman\" in your\nlanguage.\nSo long as we're on the subject, "
+    - text: "Bite your bottom lip as you say it.\nIt translates to \"woman\" in your\nlanguage.\nSo long as we're on the subject, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: voe
+    - text: voe
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is\nour word for \"man.\"\n\nIf you plan to stay awhile, you'd do well\nto learn the language."
+    - text: " is\nour word for \"man.\"\n\nIf you plan to stay awhile, you'd do well\nto learn the language."
     - utf16_bytes:
         - 0

@@ -1,7 +1,7 @@
 ---
 entries:
   "0008":
-    - ascii: Yeah.
+    - text: Yeah.
     - utf16_bytes:
         - 0
   talk02:
@@ -11,7 +11,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk15:
@@ -21,32 +21,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Great question, Mr. Perceptive.\nHyrule Castle.\n\n"
+    - text: "Great question, Mr. Perceptive.\nHyrule Castle.\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "There's a hidden escape route from\nHyrule Castle called the "
+    - text: "촂There's a hidden escape route from\nHyrule Castle called the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: East Passage
+    - text: East Passage
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nI hear it leads directly into the castle.\nIt was made for the old royal family\nthough, so who knows if it's still usable."
+    - text: ".\n\nI hear it leads directly into the castle.\nIt was made for the old royal family\nthough, so who knows if it's still usable."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "No, thanks..."
+    - text: "No, thanks..."
     - utf16_bytes:
         - 0
   talk16:
@@ -56,22 +55,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You know
+    - text: You know—
     - utf16_bytes:
-        - 8212
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Death Mountain
+    - text: Death Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and some\nother junk. "
+    - text: " and some\nother junk. "
     - utf16_bytes:
         - 0
   talk17:
@@ -81,7 +79,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: See you around...
+    - text: See you around...
     - utf16_bytes:
         - 0
   talk06:
@@ -91,15 +89,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "My older brothers Izra and Yolero play\nall day long, but I have to stay here and\ngive directions."
+    - text: "My older brothers Izra and Yolero play\nall day long, but I have to stay here and\ngive directions."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 4
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk07:
     - utf16_bytes:
@@ -107,15 +106,17 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHah..."
+        - 9
+    - text: Hah...
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk08:
     - utf16_bytes:
@@ -123,27 +124,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Yeah.
+    - text: ЀYeah.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Chapter four, article nine of the \nStable Association Regulations states:\n\n\"Each stable must have personnel\nready to give directions to visitors\nat all times.\"\n"
+    - text: " Chapter four, article nine of the \nStable Association Regulations states:\n\n\"Each stable must have personnel\nready to give directions to visitors\nat all times.\"\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tAnd somehow I got stuck with this dumb\njob instead of playing like my brothers.\n\n"
+        - 9
+    - text: "And somehow I got stuck with this dumb\njob instead of playing like my brothers.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I guess that's what I get for being the\nonly person at Wetland Stable with a\ngrasp on geography..."
+    - text: "I guess that's what I get for being the\nonly person at Wetland Stable with a\ngrasp on geography..."
     - utf16_bytes:
         - 0
   talk09:
@@ -152,8 +153,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "OK, let's get this over with.\nWhat do you want to know about the\nsurrounding area?"
+    - text: "ሀOK, let's get this over with.\nWhat do you want to know about the\nsurrounding area?"
     - utf16_bytes:
         - 14
         - 1
@@ -170,11 +170,11 @@ entries:
         - 768
         - 0
   "0002":
-    - ascii: I have to go.
+    - text: I have to go.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "What's the matter?"
+    - text: "What's the matter?"
     - utf16_bytes:
         - 0
   talk10:
@@ -184,7 +184,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: All right. Next.
+    - text: All right. Next.
     - utf16_bytes:
         - 14
         - 1
@@ -201,7 +201,7 @@ entries:
         - 768
         - 0
   "0004":
-    - ascii: Directions?
+    - text: Directions?
     - utf16_bytes:
         - 0
   talk11:
@@ -211,7 +211,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You want to know what's south of\nhere?"
+    - text: "You want to know what's south of\nhere?"
     - utf16_bytes:
         - 14
         - 1
@@ -223,13 +223,12 @@ entries:
         - 0
         - 8
         - 0
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 0
         - 768
         - 0
   "0005":
-    - ascii: "What's to the east?"
+    - text: "What's to the east?"
     - utf16_bytes:
         - 0
   talk12:
@@ -239,37 +238,37 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Me too,"
+    - text: "Me too,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I never get to leave this\nstable."
+    - text: " but I never get to leave this\nstable."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you really want to know, you\nshould go ask at "
+    - text: " If you really want to know, you\nshould go ask at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Riverside Stable
+    - text: Riverside Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "What's to the west?"
+    - text: "What's to the west?"
     - utf16_bytes:
         - 0
   talk13:
@@ -279,11 +278,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: My life is a joke.
+    - text: My life is a joke.
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: "What's to the north?"
+    - text: "What's to the north?"
     - utf16_bytes:
         - 0
   talk14:
@@ -293,12 +292,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Zora's Domain."
+    - text: "Zora's Domain."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThat's about it."
+    - text: "\nThat's about it."
     - utf16_bytes:
         - 0

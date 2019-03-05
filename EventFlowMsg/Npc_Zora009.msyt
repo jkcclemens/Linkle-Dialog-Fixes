@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: Good evening!
+    - text: ȁGood evening!
     - utf16_bytes:
         - 0
   talk15:
@@ -16,20 +15,18 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: Or...do you need something else?
+    - text: ЇOr...do you need something else?
     - utf16_bytes:
         - 14
         - 1
         - 8
         - 18
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 11
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 0
         - 3
         - 0
@@ -41,8 +38,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
-    - ascii: Welcome!
+    - text: 촁Welcome!
     - utf16_bytes:
         - 0
   talk03:
@@ -51,11 +47,8 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-        - 9834
-    - ascii: Welcome to Marot Mart!
+    - text: ā♪Welcome to Marot Mart!♪
     - utf16_bytes:
-        - 9834
         - 0
   talk04:
     - utf16_bytes:
@@ -63,14 +56,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "This is where you'll find our general\nstore, the Coral Reef. "
+    - text: "āThis is where you'll find our general\nstore, the Coral Reef. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Our workshop,\nthe Hammerhead, is also here."
+    - text: "Our workshop,\nthe Hammerhead, is also here."
     - utf16_bytes:
         - 0
   talk05:
@@ -80,7 +72,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, yes!"
+    - text: "Yes, yes!"
     - utf16_bytes:
         - 0
   talk06:
@@ -89,20 +81,18 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: Do you need me for something?
+    - text: ćDo you need me for something?
     - utf16_bytes:
         - 14
         - 1
         - 8
         - 18
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 11
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 0
         - 3
         - 0
@@ -115,11 +105,11 @@ entries:
         - 1
         - 2
         - 2561
-    - ascii: See ya later!
+    - text: See ya later!
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Marot Mart?
+    - text: Marot Mart?
     - utf16_bytes:
         - 0
   talk08:
@@ -128,22 +118,17 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-        - 9834
-    - ascii: Yep!
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n\n\nThe general store and the workshop...\nThey're the best shops EVER!"
+    - text: "इ♪Yep!♪\n\n\nThe general store and the workshop...\nThey're the best shops EVER!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAnd together they're caaaaalled..."
+    - text: "\nAnd together they're caaaaalled..."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: The general store?
+    - text: The general store?
     - utf16_bytes:
         - 0
   talk09:
@@ -152,72 +137,59 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 22
         - 20
-    - ascii: Humming_00
-    - utf16_bytes:
-        - 9834
-    - ascii: Marot Mart!
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n\n\n"
+    - text: "Humming_00♪Marot Mart!♪\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 22
         - 20
-    - ascii: Humming_01
-    - utf16_bytes:
-        - 9834
-    - ascii: Marot Maaaaaart!
+    - text: Humming_01♪Marot Maaaaaart!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nLa de da de daaa!"
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n\n"
+    - text: "\nLa de da de daaa!♪\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2823
-        - 9834
-    - ascii: LA DEE DAAAAA!
+    - text: ଇ♪LA DEE DAAAAA!♪
     - utf16_bytes:
-        - 9834
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: The workshop?
+    - text: The workshop?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk10:
@@ -226,14 +198,13 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "That's my theme song!"
+    - text: "ćThat's my theme song!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Isn't it cute?!"
+    - text: " Isn't it cute?!"
     - utf16_bytes:
         - 0
   talk11:
@@ -243,33 +214,33 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "The old man in the workshop, his name\nis Dento..."
+    - text: "The old man in the workshop, his name\nis Dento..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " He's my grandpa!\n\nHe's the one who fixed Mipha's weapon,"
+    - text: " He's my grandpa!\n\nHe's the one who fixed Mipha's weapon,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nthe "
+    - text: "\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lightscale Trident
+    - text: Lightscale Trident
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk12:
@@ -278,20 +249,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Our general store has been in business\nfor over 100 years."
+    - text: "ЁOur general store has been in business\nfor over 100 years."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It has a long and\nhonorable history.\nThe shopkeep, Cleff, is really serious."
+    - text: " It has a long and\nhonorable history.\nThe shopkeep, Cleff, is really serious."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBut his younger sister, Tona, is head\nover fins for Prince Sidon! Kee hee!"
+    - text: "\nBut his younger sister, Tona, is head\nover fins for Prince Sidon! Kee hee!"
     - utf16_bytes:
         - 0
   talk00:
@@ -300,8 +270,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: Good morning!
+    - text: ȁGood morning!
     - utf16_bytes:
         - 0
   talk13:
@@ -311,19 +280,18 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "Is there anything else you'd like to\nask me?"
+    - text: "Is there anything else you'd like to\nask me?"
     - utf16_bytes:
         - 14
         - 1
         - 8
         - 18
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 11
         - 0
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 0
         - 3
         - 0
@@ -335,8 +303,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: Good day!
+    - text: ȁGood day!
     - utf16_bytes:
         - 0
   talk14:
@@ -345,23 +312,18 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "You want me to sing again?! "
+    - text: "ЇYou want me to sing again?! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Kee hee...
+    - text: Kee hee...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n♪You got it!♪"
     - utf16_bytes:
-        - 9834
-    - ascii: You got it!
-    - utf16_bytes:
-        - 9834
         - 0

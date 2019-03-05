@@ -6,20 +6,20 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It WAS you who saved me, right?\nI'm not mistaken?"
+    - text: "ЀIt WAS you who saved me, right?\nI'm not mistaken?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I was so frustrated after being captured\nthat your face didn't quite register with\nme, but I definitely remember your voice.\n"
+    - text: "I was so frustrated after being captured\nthat your face didn't quite register with\nme, but I definitely remember your voice.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tYou have no idea how embarrassed I am\nfor getting an outsider caught up in our\nbusiness.\nAfter the stern talking-to I got from my\ncaptain, I think I'll stay on my best\nbehavior for a while."
+        - 9
+    - text: "You have no idea how embarrassed I am\nfor getting an outsider caught up in our\nbusiness.\nAfter the stern talking-to I got from my\ncaptain, I think I'll stay on my best\nbehavior for a while."
     - utf16_bytes:
         - 0
   Talk02:
@@ -28,14 +28,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Hmm... "
+    - text: "ЀHmm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Aren't you the one who broke\ninto the Yiga Clan's hideout?"
+    - text: "Aren't you the one who broke\ninto the Yiga Clan's hideout?"
     - utf16_bytes:
         - 14
         - 0
@@ -46,11 +45,11 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "They spread their forces so thin looking\nfor you that I managed to bust out and\nreturn here. I owe you my life!\n"
+    - text: "They spread their forces so thin looking\nfor you that I managed to bust out and\nreturn here. I owe you my life!\n"
     - utf16_bytes:
         - 0
   Near_Raimei_001:
-    - ascii: "Ah, the Thunder Helm!"
+    - text: "Ah, the Thunder Helm!"
     - utf16_bytes:
         - 0
   Talk00:
@@ -59,14 +58,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "Thanks to your break-in at the bandits'\nhideout, they spread their forces thin\nlooking for you.\nIt was just the opening I needed to bust\nout and return here. "
+    - text: "ЇThanks to your break-in at the bandits'\nhideout, they spread their forces thin\nlooking for you.\nIt was just the opening I needed to bust\nout and return here. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: I owe you my life!
+    - text: I owe you my life!
     - utf16_bytes:
         - 14
         - 0
@@ -76,18 +74,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tSeriously... "
+        - 9
+    - text: "Seriously... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "If you hadn't shown up..."
+    - text: "If you hadn't shown up..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nBest case scenario, I'd have been\ndoomed to an all-banana diet."
+    - text: "\nBest case scenario, I'd have been\ndoomed to an all-banana diet."
     - utf16_bytes:
         - 0

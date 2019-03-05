@@ -6,21 +6,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMaybe if I take a nap, "
+        - 9
+    - text: "Maybe if I take a nap, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Medoh "
+    - text: "Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "will be\ngone when I wake up."
+    - text: "will be\ngone when I wake up."
     - utf16_bytes:
         - 0
   Talk_110:
@@ -30,18 +31,8 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Going "
+    - text: "Going ♪de dum♪ to sing...\n♪Ya hum de doo!♪"
     - utf16_bytes:
-        - 9834
-    - ascii: de dum
-    - utf16_bytes:
-        - 9834
-    - ascii: " to sing...\n"
-    - utf16_bytes:
-        - 9834
-    - ascii: Ya hum de doo!
-    - utf16_bytes:
-        - 9834
         - 0
   Talk_200:
     - utf16_bytes:
@@ -49,15 +40,7 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-        - 9834
-    - ascii: La loo loo! La la lum!
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n"
-    - utf16_bytes:
-        - 9834
-    - ascii: "Lee la la la loo loo. "
+    - text: "ć♪La loo loo! La la lum!♪\n♪Lee la la la loo loo. "
     - utf16_bytes:
         - 14
         - 5
@@ -68,24 +51,21 @@ entries:
         - 1
         - 4
         - 0
-        - 16384
-    - ascii: Wheee!
+    - text: 䀀Wheee!♪
     - utf16_bytes:
-        - 9834
         - 14
         - 1
         - 1
         - 4
         - 0
-        - 16256
-    - ascii: "\n\n"
+    - text: "㾀\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
-    - ascii: "Thank you, thank you. I call that piece\n\"Birds of a Feather.\"\n\nThank you for listening!"
+    - text: "Thank you, thank you. I call that piece\n\"Birds of a Feather.\"\n\nThank you for listening!"
     - utf16_bytes:
         - 0
   Talk_000:
@@ -94,39 +74,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
-    - utf16_bytes:
-        - 9834
-    - ascii: Dum da dom!
+        - 9
+    - text: ♪Dum da dom!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " La la leeeh!"
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n*sigh* \n\nEver since "
+    - text: " La la leeeh!♪\n*sigh* \n\nEver since "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nshowed up, "
+    - text: "\nshowed up, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "my singing voice just hasn't\nbeen the same..."
+    - text: "my singing voice just hasn't\nbeen the same..."
     - utf16_bytes:
         - 0
   Talk_201:
@@ -136,7 +111,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I put my emotions into song to express\nhow happy I am that my dad came home!"
+    - text: "I put my emotions into song to express\nhow happy I am that my dad came home!"
     - utf16_bytes:
         - 0
   Talk_001:
@@ -145,13 +120,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tIf you came all the way to this village to\nhear my incredible singing voice,"
+        - 9
+    - text: "If you came all the way to this village to\nhear my incredible singing voice,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm\nsorry to disappoint you."
+    - text: " I'm\nsorry to disappoint you."
     - utf16_bytes:
         - 0
   Talk_030:
@@ -160,8 +136,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52511
-    - ascii: Hrmmm... Hmmmm...
+    - text: 촟Hrmmm... Hmmmm...
     - utf16_bytes:
         - 0
   Talk_120:
@@ -171,7 +146,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Singing always makes me feel better.
+    - text: Singing always makes me feel better.
     - utf16_bytes:
         - 0
   Talk_210:
@@ -181,7 +156,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I'm gonna be singing with my dad.\nWhy don't you come listen?"
+    - text: "I'm gonna be singing with my dad.\nWhy don't you come listen?"
     - utf16_bytes:
         - 0
   Talk_010:
@@ -190,14 +165,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6656
-    - ascii: "On my way...\n"
-    - utf16_bytes:
-        - 9834
-    - ascii: de dum dah dah...
-    - utf16_bytes:
-        - 9834
-    - ascii: "\nto practice my singing..."
+    - text: "ᨀOn my way...\n♪de dum dah dah...♪\nto practice my singing..."
     - utf16_bytes:
         - 0
   Talk_100:
@@ -206,15 +174,7 @@ entries:
         - 3
         - 1
         - 2
-        - 263
-        - 9834
-    - ascii: La loo loo! La la lum!
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n"
-    - utf16_bytes:
-        - 9834
-    - ascii: "Lee la la la loo loo "
+    - text: "ć♪La loo loo! La la lum!♪\n♪Lee la la la loo loo "
     - utf16_bytes:
         - 14
         - 5
@@ -225,24 +185,21 @@ entries:
         - 1
         - 4
         - 0
-        - 16384
-    - ascii: wheee!
+    - text: 䀀wheee!♪
     - utf16_bytes:
-        - 9834
         - 14
         - 1
         - 1
         - 4
         - 0
-        - 16256
-    - ascii: "\n\n"
+    - text: "㾀\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
-    - ascii: "Thank you, ladies and gentlemen. The\ncomposition you just heard was\n\"Return of the Bird-Wrangling Hero.\" \nThank you for listening."
+    - text: "Thank you, ladies and gentlemen. The\ncomposition you just heard was\n\"Return of the Bird-Wrangling Hero.\" \nThank you for listening."
     - utf16_bytes:
         - 0
   Talk_101:
@@ -252,7 +209,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I was thinking about you while I was\nsinging. I hope you liked it!"
+    - text: "I was thinking about you while I was\nsinging. I hope you liked it!"
     - utf16_bytes:
         - 0
   Talk_220:
@@ -262,6 +219,6 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Singing always makes me feel better.
+    - text: Singing always makes me feel better.
     - utf16_bytes:
         - 0

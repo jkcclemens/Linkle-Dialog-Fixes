@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: "Phew...\n\n\nThat was a close one."
+    - text: "ሆPhew...\n\n\nThat was a close one."
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S20_061:
@@ -16,21 +15,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nHey, girl!\n\n\nWhere are you going?! The "
+    - text: "\nHey, girl!\n\n\nWhere are you going?! The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trial
+    - text: trial
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is \nthataway! You're not Cuccoing out,\nare ya?"
+    - text: " is \nthataway! You're not Cuccoing out,\nare ya?"
     - utf16_bytes:
         - 14
         - 1
@@ -38,7 +37,8 @@ entries:
         - 6
         - 4
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_Kokiri011_S10_071:
     - utf16_bytes:
@@ -47,21 +47,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Are you ready to take the "
+    - text: "Are you ready to take the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Test of Wood
+    - text: Test of Wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -69,7 +69,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri011_R_101:
     - utf16_bytes:
@@ -77,7 +78,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᘊGAAAH!\n\n\nKnock it off, pyro!"
+    - text: "ᘊGAAAH!\n\n\nKnock it off, pyro!"
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S20_051:
@@ -86,18 +87,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}Gooooooooal!"
+    - text: 촁
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}Gooooooooal!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   Npc_Kokiri011_R_041:
@@ -106,22 +108,21 @@ entries:
         - 3
         - 1
         - 2
-        - 2822
-    - ascii: "All you have to do is reach the "
+    - text: "ଆAll you have to do is reach the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "shrine "
+    - text: "shrine "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in\nthe back of the area. Off you go!"
+    - text: "in\nthe back of the area. Off you go!"
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S20_052:
@@ -130,27 +131,27 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉CONGRATULATIONS!\nYou've passed the "
+    - text: "촉CONGRATULATIONS!\nYou've passed the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Test of Wood
+    - text: Test of Wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nWell done, heroine girl!"
+    - text: "!\n\nWell done, heroine girl!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHappiness awaits you at the shrine."
+    - text: "\nHappiness awaits you at the shrine."
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S10_061:
@@ -160,7 +161,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Let me know when you're ready."
+    - text: "Let me know when you're ready."
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S20_053:
@@ -169,25 +170,23 @@ entries:
         - 4
         - 1
         - 2
-        - 52497
-    - ascii: "Oh, yeah!"
+    - text: "촑Oh, yeah!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "If you ever want to do the trial again,\njust let me know.\n"
+    - text: "If you ever want to do the trial again,\njust let me know.\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: See ya!
+    - text: 촇See ya!
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'm ready."
+    - text: "I'm ready."
     - utf16_bytes:
         - 0
   Npc_Kokiri011_R_031:
@@ -196,11 +195,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI see. Well, come back when you're\nready."
+        - 9
+    - text: "I see. Well, come back when you're\nready."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Maybe later.
+    - text: Maybe later.
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S10_051:
@@ -210,7 +210,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "All right. Go get 'em!"
+    - text: "All right. Go get 'em!"
     - utf16_bytes:
         - 14
         - 0
@@ -221,61 +221,61 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You have to keep the "
+    - text: "You have to keep the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sword
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: bow
+    - text: sword
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and\n"
+    - text: ", "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "shield "
+    - text: bow
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "equipped the whole time. If they\nbreak or you unequip them, you're out!"
+    - text: ", and\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "shield "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "equipped the whole time. If they\nbreak or you unequip them, you're out!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "Let's do this."
+    - text: "Let's do this."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Wait a second.
+    - text: Wait a second.
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "I'll never give up!"
+    - text: "I'll never give up!"
     - utf16_bytes:
         - 0
   Npc_Kokiri011_R_091:
@@ -284,12 +284,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4870
-    - ascii: "HEY!\n\n\nThat equipment is for trial participants\nonly!"
+    - text: "ጆHEY!\n\n\nThat equipment is for trial participants\nonly!"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: I give up...
+    - text: I give up...
     - utf16_bytes:
         - 0
   Npc_Kokiri011_R_011:
@@ -299,45 +298,42 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hey, heroine girl! I was told you'd be\ncoming.\n\nBut do you really think you're ready for\nthe "
+    - text: "Hey, heroine girl! I was told you'd be\ncoming.\n\nBut do you really think you're ready for\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Test of Wood
+    - text: Test of Wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?! Some say it's the\nhardest of the Korok Trials.\n"
+    - text: "?! Some say it's the\nhardest of the Korok Trials.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But it's not complicated"
-    - utf16_bytes:
-        - 8212
-    - ascii: "all you need to\ndo is equip this "
+    - text: "But it's not complicated—all you need to\ndo is equip this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Korok weapon set
+    - text: Korok weapon set
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and\nreach the shrine at the back of the area.\nAre you ready to try it?"
+    - text: " and\nreach the shrine at the back of the area.\nAre you ready to try it?"
     - utf16_bytes:
         - 14
         - 1
@@ -345,7 +341,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri011_S10_031:
     - utf16_bytes:
@@ -354,19 +351,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Huh?
+    - text: Huh?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Your inventory is full!"
+    - text: " Your inventory is full!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "You need to make some space for a\nsword, a shield, and a bow before we\ncan get started."
+    - text: "You need to make some space for a\nsword, a shield, and a bow before we\ncan get started."
     - utf16_bytes:
         - 0
   Npc_Kokiri011_R_081:
@@ -376,35 +373,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You can sign up for the "
+    - text: "You can sign up for the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Test of Wood
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nhere.\n\nTo pass the test, you just need to equip\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Korok weapon set
+    - text: Test of Wood
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and reach the\ngoal. Nothing to it!\nWant to give it a try?"
+    - text: "\nhere.\n\nTo pass the test, you just need to equip\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Korok weapon set
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and reach the\ngoal. Nothing to it!\nWant to give it a try?"
     - utf16_bytes:
         - 14
         - 1
@@ -412,14 +409,15 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri011_R_001:
-    - ascii: Are you ready?
+    - text: Are you ready?
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S10_021:
-    - ascii: Gotta get the area ready...
+    - text: Gotta get the area ready...
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S20_081:
@@ -428,21 +426,20 @@ entries:
         - 3
         - 1
         - 2
-        - 3083
-    - ascii: "Too bad, Ms. Heroine..."
+    - text: "ఋToo bad, Ms. Heroine..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWe all fail sometimes.\n\n"
+    - text: "\nWe all fail sometimes.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Do you want to try again right away?
+    - text: Do you want to try again right away?
     - utf16_bytes:
         - 14
         - 1
@@ -450,7 +447,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri011_S20_001:
     - utf16_bytes:
@@ -458,30 +456,31 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
+    - text: 초
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}DISQUALIFIED!"
+    - text: "}DISQUALIFIED!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You lose!"
+    - text: " You lose!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "You have to keep all three forest-dweller\nitems equipped the whole time!\n\nThat's the forest dweller's sword,\nthe forest dweller's bow, and the\nforest dweller's shield."
+    - text: "You have to keep all three forest-dweller\nitems equipped the whole time!\n\nThat's the forest dweller's sword,\nthe forest dweller's bow, and the\nforest dweller's shield."
     - utf16_bytes:
         - 0
   Npc_Kokiri011_R_071:
@@ -490,8 +489,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "Hold it.\n\n\nYou can't go in there unless you're\ntaking on the trial."
+    - text: "؆Hold it.\n\n\nYou can't go in there unless you're\ntaking on the trial."
     - utf16_bytes:
         - 0
   Npc_Kokiri011_S20_071:
@@ -500,22 +498,21 @@ entries:
         - 3
         - 1
         - 2
-        - 523
-    - ascii: "Oh, my, heroine girl!\nDid you get lost in the mist?\nDo you want to give up on the "
+    - text: "ȋOh, my, heroine girl!\nDid you get lost in the mist?\nDo you want to give up on the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trial
+    - text: trial
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -523,5 +520,6 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

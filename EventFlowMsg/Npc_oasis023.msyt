@@ -1,7 +1,7 @@
 ---
 entries:
   "0001":
-    - ascii: "OK, fine."
+    - text: "OK, fine."
     - utf16_bytes:
         - 0
   Npc_oasis023_012:
@@ -11,21 +11,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The lightning from the Divine Beast can't\nreach the "
+    - text: "The lightning from the Divine Beast can't\nreach the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: lookout post
+    - text: lookout post
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", but there are\nstill plenty of monsters in the area...\nIf I were you, I wouldn't even dream of\ngoing near it."
+    - text: ", but there are\nstill plenty of monsters in the area...\nIf I were you, I wouldn't even dream of\ngoing near it."
     - utf16_bytes:
         - 14
         - 1
@@ -34,7 +34,8 @@ entries:
         - 0
         - 2
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_oasis023_013:
     - utf16_bytes:
@@ -42,13 +43,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 0
   Npc_oasis023_003:
@@ -58,37 +59,37 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hear this:"
+    - text: "Hear this:"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "men are not allowed "
+    - text: "men are not allowed "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in Gerudo\nTown."
+    - text: "in Gerudo\nTown."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " So quit loitering, and get out of\nhere!"
+    - text: " So quit loitering, and get out of\nhere!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Lookout post?
+    - text: Lookout post?
     - utf16_bytes:
         - 0
   Npc_oasis023_014:
@@ -97,13 +98,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!"
+    - text: "촚Sav'aaq!"
     - utf16_bytes:
         - 0
   Npc_oasis023_004:
@@ -112,36 +113,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It's dangerous to wander around out\nhere. Especially since we're so close to\nthat "
+    - text: "ЀIt's dangerous to wander around out\nhere. Especially since we're so close to\nthat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nWe do have a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: lookout post
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", but that\ndoesn't mean it's perfectly safe around\nhere..."
+    - text: ".\nWe do have a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: lookout post
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", but that\ndoesn't mean it's perfectly safe around\nhere..."
     - utf16_bytes:
         - 14
         - 1
@@ -150,10 +150,11 @@ entries:
         - 0
         - 2
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: I understand.
+    - text: I understand.
     - utf16_bytes:
         - 0
   Npc_oasis023_015:
@@ -162,13 +163,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 0
   Npc_oasis023_005:
@@ -177,36 +178,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: lookout post
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is over there. It's the\nbuilding with the flag flying over it.\n\nThey're monitoring the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast Vah Naboris
+    - text: lookout post
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " every\nmoment of the day from that post."
+    - text: " is over there. It's the\nbuilding with the flag flying over it.\n\nThey're monitoring the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast Vah Naboris
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " every\nmoment of the day from that post."
     - utf16_bytes:
         - 0
   Sinjyu_Normal_001:
@@ -215,21 +215,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "I was worried about what might happen\nwhen the chief set out on her own...\nBut she's really capable, isn't she?\nWhich reminds me, apparently a Hylian\nwas fighting alongside the chief."
+    - text: "ሀI was worried about what might happen\nwhen the chief set out on her own...\nBut she's really capable, isn't she?\nWhich reminds me, apparently a Hylian\nwas fighting alongside the chief."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nA Hylian vai, no less!\nShe must be pretty strong...\n\n\n"
+    - text: "\nA Hylian vai, no less!\nShe must be pretty strong...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "However, I've been here this whole time,\nand I haven't seen a vai like that around.\nI wonder where she went..."
+    - text: "However, I've been here this whole time,\nand I haven't seen a vai like that around.\nI wonder where she went..."
     - utf16_bytes:
         - 0
   Npc_oasis023_006:
@@ -238,15 +237,14 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I can't believe the Divine Beast is gone...\n\n\n"
+    - text: "စI can't believe the Divine Beast is gone...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "All it did was cause problems for us, but\nI've been watching it for so long...\n\nNow that it's gone, I actually feel a\nlittle lonely."
+    - text: "All it did was cause problems for us, but\nI've been watching it for so long...\n\nNow that it's gone, I actually feel a\nlittle lonely."
     - utf16_bytes:
         - 0
   Sinjyu_Female_001:
@@ -255,21 +253,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "I was worried about what might happen\nwhen the chief set out on her own...\nBut she's really capable, isn't she?\nWhich reminds me, apparently a Hylian\nvai, just like you, was fighting alongside\nthe chief."
+    - text: "ሀI was worried about what might happen\nwhen the chief set out on her own...\nBut she's really capable, isn't she?\nWhich reminds me, apparently a Hylian\nvai, just like you, was fighting alongside\nthe chief."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nShe must be pretty strong...\n\n\n"
+    - text: "\nShe must be pretty strong...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "However, I've been here this whole time,\nand I haven't seen a vai like that around.\nI wonder where she went..."
+    - text: "However, I've been here this whole time,\nand I haven't seen a vai like that around.\nI wonder where she went..."
     - utf16_bytes:
         - 0
   Npc_oasis023_007:
@@ -278,64 +275,63 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That's the "
+    - text: "ЀThat's the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Naboris
+    - text: Divine Beast Vah Naboris
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThey say it used to be a god who\nprotected this area, but...\nIt suddenly appeared a little while ago\nand just started walking around\naimlessly.\nEveryone's afraid that it may wander\ninto town eventually.\n\n"
+    - text: ".\nThey say it used to be a god who\nprotected this area, but...\nIt suddenly appeared a little while ago\nand just started walking around\naimlessly.\nEveryone's afraid that it may wander\ninto town eventually.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: chief
+    - text: chief
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is doing what she can about\nit, but...\n\n"
+    - text: " is doing what she can about\nit, but...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I heard a rumor that if you get too close\nto the "
+    - text: "I heard a rumor that if you get too close\nto the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", it will shoot you with\nlightning and burn you to a crisp.\nAll we can do is hope that it doesn't\ncome this way..."
+    - text: ", it will shoot you with\nlightning and burn you to a crisp.\nAll we can do is hope that it doesn't\ncome this way..."
     - utf16_bytes:
         - 0
   Npc_oasis023_008:
@@ -344,8 +340,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Well, for now it is safe to be in town.\nDespite all I said, don't let the stomping\nworry you too much!\nSav'orq!"
+    - text: "ЁWell, for now it is safe to be in town.\nDespite all I said, don't let the stomping\nworry you too much!\nSav'orq!"
     - utf16_bytes:
         - 0
   Npc_oasis023_009:
@@ -355,39 +350,39 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "...You don't really intend to go to the\n"
+    - text: "...You don't really intend to go to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: lookout post
+    - text: lookout post
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", do you?\n\n"
+    - text: ", do you?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "It may seem close, but it's actually pretty\nfar away... And besides, monsters tend to\nappear at this hour.\n"
+    - text: "It may seem close, but it's actually pretty\nfar away... And besides, monsters tend to\nappear at this hour.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "It's fine if you're set on going there, but\ndon't you think you should at least wait\nuntil morning?"
+    - text: "It's fine if you're set on going there, but\ndon't you think you should at least wait\nuntil morning?"
     - utf16_bytes:
         - 0
   Near_Raimei_001:
-    - ascii: How divine...
+    - text: How divine...
     - utf16_bytes:
         - 0
   Npc_oasis023_010:
@@ -397,41 +392,41 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "...You don't really intend to go to the\n"
+    - text: "...You don't really intend to go to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: lookout post
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", do you?\n\nIt may look close, but it's actually pretty\nfar away... At least take a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand seal
+    - text: lookout post
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ", do you?\n\nIt may look close, but it's actually pretty\nfar away... At least take a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sand seal
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " if\nyou're truly set on going there."
+    - text: " if\nyou're truly set on going there."
     - utf16_bytes:
         - 0
   Npc_oasis023_001:
@@ -440,38 +435,33 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Stop right there!
+    - text: ขStop right there!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Outsiders are not welcome here!
+    - text: Outsiders are not welcome here!
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 14
         - 5
-        - 8192
-        - 30036
-        - 28274
-    - ascii: 戠
+    - text:  畔湲戠捡
     - utf16_bytes:
-        - 25441
         - 8299
-    - ascii: "the way\nyou came!"
+    - text: "the way\nyou came!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Divine Beast?
+    - text: Divine Beast?
     - utf16_bytes:
         - 0

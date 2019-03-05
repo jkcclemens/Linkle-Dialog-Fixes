@@ -7,49 +7,49 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "If you bring me "
+    - text: "If you bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: fireproof lizards
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I'll\ngive you this heat-resistant armor I have.\n\nWhat do you say, buddy? Up for catching\nme some "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof lizards
+    - text: fireproof lizards
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: ", I'll\ngive you this heat-resistant armor I have.\n\nWhat do you say, buddy? Up for catching\nme some "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: fireproof lizards
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -57,10 +57,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Near_03:
-    - ascii: "*sigh...*"
+    - text: "*sigh...*"
     - utf16_bytes:
         - 0
   NewText_07:
@@ -70,27 +71,27 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Great!
+    - text: Great!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThanks, buddy!\n\nJust "
+    - text: "\nThanks, buddy!\n\nJust "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof lizards
+    - text: fireproof lizards
     - utf16_bytes:
         - 14
         - 0
@@ -102,13 +103,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: " should be\nenough."
+    - text: " should be\nenough."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You can probably find some\nright around here!"
+    - text: " You can probably find some\nright around here!"
     - utf16_bytes:
         - 0
   NewText_08:
@@ -117,19 +118,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh, you aren't up for it?"
+        - 9
+    - text: "Oh, you aren't up for it?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I guess I'll just\nhave to try harder."
+    - text: " I guess I'll just\nhave to try harder."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I mean, my knees are\npretty bad, but I'll figure it out."
+    - text: " I mean, my knees are\npretty bad, but I'll figure it out."
     - utf16_bytes:
         - 0
   NewText_09:
@@ -139,54 +141,53 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Wow, look at all them "
+    - text: "Wow, look at all them "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof lizards
+    - text: fireproof lizards
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n"
+    - text: "!\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You actually managed to chase down "
+    - text: "You actually managed to chase down "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nof those suckers?!\n"
+    - text: "\nof those suckers?!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Well, a deal's a deal."
+    - text: "āWell, a deal's a deal."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Hand them over and\nI'll give you this heat-resistant armor."
+    - text: " Hand them over and\nI'll give you this heat-resistant armor."
     - utf16_bytes:
         - 14
         - 1
@@ -194,10 +195,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Leave it to me!
+    - text: Leave it to me!
     - utf16_bytes:
         - 0
   NewText_11:
@@ -207,7 +209,7 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: Did you find any
+    - text: Did you find any
     - utf16_bytes:
         - 14
         - 0
@@ -223,39 +225,39 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof lizards
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "?\nIf you find "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "10"
+    - text: fireproof lizards
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", feel free to drop them off\nwith me, buddy!"
+    - text: "?\nIf you find "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "10"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", feel free to drop them off\nwith me, buddy!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Maybe later...
+    - text: Maybe later...
     - utf16_bytes:
         - 0
   NewText_12:
@@ -264,30 +266,31 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHuh? "
+        - 9
+    - text: "Huh? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You wanna keep them for yourself?\nWell, that's too bad... "
+    - text: "You wanna keep them for yourself?\nWell, that's too bad... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "But I guess fair's\nfair. You caught them, after all.\n"
+    - text: "But I guess fair's\nfair. You caught them, after all.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But I'll be glad to take them off your\nhands if you change your mind."
+    - text: "But I'll be glad to take them off your\nhands if you change your mind."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Here you go.
+    - text: Here you go.
     - utf16_bytes:
         - 0
   NewText_13:
@@ -297,13 +300,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Thanks, buddy!"
+    - text: "Thanks, buddy!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHere, take this."
+    - text: "\nHere, take this."
     - utf16_bytes:
         - 0
   NewText_01:
@@ -312,12 +315,11 @@ entries:
         - 3
         - 1
         - 2
-        - 8195
-    - ascii: "Sure is hot, ain't it?"
+    - text: " Sure is hot, ain't it?"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Not right now...
+    - text: Not right now...
     - utf16_bytes:
         - 0
   NewText_14:
@@ -326,27 +328,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Oh, um... "
+    - text: "စOh, um... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm not trying to shortchange\nyou, buddy, but..."
+    - text: "I'm not trying to shortchange\nyou, buddy, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "you're holding too\nmany things already.\n"
+    - text: "you're holding too\nmany things already.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 8192
-    - ascii: "I'll hold on to this until you can free up\nsome space, so just come back then."
+    - text: " I'll hold on to this until you can free up\nsome space, so just come back then."
     - utf16_bytes:
         - 0
   NewText_02:
@@ -355,20 +355,19 @@ entries:
         - 3
         - 1
         - 2
-        - 8195
-    - ascii: "How's it going, buddy?"
+    - text: " How's it going, buddy?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Sure is hot\naround these parts, ain't it? Even at\nnight, like you wouldn't believe.\nBut those folks from Goron City, I'll\ntell ya... Sure are amazing, huh?"
+    - text: " Sure is hot\naround these parts, ain't it? Even at\nnight, like you wouldn't believe.\nBut those folks from Goron City, I'll\ntell ya... Sure are amazing, huh?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nEating hotpot even in this heat."
+    - text: "\nEating hotpot even in this heat."
     - utf16_bytes:
         - 0
   NewText_15:
@@ -378,7 +377,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
@@ -388,61 +387,59 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: Hmm?
+    - text: ጀHmm?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Something the matter, buddy?\n\n\n"
+    - text: " Something the matter, buddy?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: My helmet?
+    - text: ጀMy helmet?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Sorry, it ain't for lending!"
+    - text: " Sorry, it ain't for lending!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's\ntoo expensive for that. You can buy your\nown in "
+    - text: " It's\ntoo expensive for that. You can buy your\nown in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron City
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nTo get to "
+    - text: ".\nTo get to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron City
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", head north from\nhere. It's the fifth stop up the trail."
+    - text: ", head north from\nhere. It's the fifth stop up the trail."
     - utf16_bytes:
         - 0
   NewText_16:
@@ -451,96 +448,95 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "I'm sure you'd agree, buddy, that it's\nalways handy to have some spare\nsouvenirs on hand.\nSo if you come across any more\n"
+    - text: "ЁI'm sure you'd agree, buddy, that it's\nalways handy to have some spare\nsouvenirs on hand.\nSo if you come across any more\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof lizards
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", I'll buy them\noff you at "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 20 rupees
+    - text: fireproof lizards
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for "
+    - text: ", I'll buy them\noff you at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: three
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nAnd if I get my hands on some\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "fireproof lizards "
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "and some "
+    - text: " for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: "monster\nparts"
-    - utf16_bytes:
-        - 14
         - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\nI can make some "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: fireproof elixirs
+    - text: three
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nto boot!"
+    - text: ".\nAnd if I get my hands on some\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "fireproof lizards "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "and some "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "monster\nparts"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "...\nI can make some "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: fireproof elixirs
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nto boot!"
     - utf16_bytes:
         - 0
   Near_00:
-    - ascii: Are there any over here?
+    - text: Are there any over here?
     - utf16_bytes:
         - 0
   NewText_04:
@@ -550,19 +546,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh, hey!"
+    - text: "Oh, hey!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Perfect!"
+    - text: " Perfect!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou showed up at just the right time."
+    - text: "\nYou showed up at just the right time."
     - utf16_bytes:
         - 0
   NewText_05:
@@ -571,15 +567,14 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm on my way back from "
+    - text: "ĀI'm on my way back from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron City
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
@@ -590,49 +585,49 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "\nbut forgot to buy souvenirs.\n\nI wanted to capture some of those\n"
+    - text: "\nbut forgot to buy souvenirs.\n\nI wanted to capture some of those\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "fireproof lizards "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "that live here on Death\nMountain, but those suckers are quick.\nSay, you look pretty speedy. I bet you\ncould catch a ton! If you bring me "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "10"
+    - text: "fireproof lizards "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", I'll\neven give you some heat-resistant armor.\nSo what do you say, buddy? Help a pal\nout of a jam by capturing me some \n"
+    - text: "that live here on Death\nMountain, but those suckers are quick.\nSay, you look pretty speedy. I bet you\ncould catch a ton! If you bring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: fireproof lizards
+        - 0
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: ", I'll\neven give you some heat-resistant armor.\nSo what do you say, buddy? Help a pal\nout of a jam by capturing me some \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: fireproof lizards
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -640,9 +635,10 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Near_02:
-    - ascii: "Heeeere, lizard, lizard..."
+    - text: "Heeeere, lizard, lizard..."
     - utf16_bytes:
         - 0

@@ -7,35 +7,35 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Here's what I'll do, fella. Just for you,\nI'll sell ya that "
+    - text: "Here's what I'll do, fella. Just for you,\nI'll sell ya that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " at a\nspecial price of only "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 60 rupees
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " at a\nspecial price of only "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 60 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
@@ -43,7 +43,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk15:
     - utf16_bytes:
@@ -52,41 +53,41 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Hey, it's the Hylian!\n\n\nI know "
+    - text: "Hey, it's the Hylian!\n\n\nI know "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Rudania "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "has chilled out, but the\ntemperature here is still burnin' hot!\n\nIf ya get too hot, try some good ol'\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: fireproof elixir
+    - text: "Rudania "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", OK?"
+    - text: "has chilled out, but the\ntemperature here is still burnin' hot!\n\nIf ya get too hot, try some good ol'\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: fireproof elixir
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", OK?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Speakin' of...\nNeed some?"
+    - text: " Speakin' of...\nNeed some?"
     - utf16_bytes:
         - 14
         - 1
@@ -94,10 +95,11 @@ entries:
         - 6
         - 2
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   near00:
-    - ascii: Raaaarghhhh!!!
+    - text: Raaaarghhhh!!!
     - utf16_bytes:
         - 0
   talk03:
@@ -107,33 +109,30 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Whaa
-    - utf16_bytes:
-        - 8212
-    - ascii: "?! "
+    - text: "Whaa—?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You don't have enough rupees!\n\n\n"
+    - text: "You don't have enough rupees!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Hm... "
+    - text: "Hm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Times are tough, aren't they?"
+    - text: "Times are tough, aren't they?"
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Zzz...zzz...
+    - text: Zzz...zzz...
     - utf16_bytes:
         - 0
   talk04:
@@ -143,17 +142,17 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: A sale! I actually made a sale!!
+    - text: A sale! I actually made a sale!!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHere ya go, sister!"
+    - text: "\nHere ya go, sister!"
     - utf16_bytes:
         - 0
   near02:
-    - ascii: Yaaaargh...
+    - text: Yaaaargh...
     - utf16_bytes:
         - 0
   talk05:
@@ -163,55 +162,55 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A "
+    - text: "A "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian
+    - text: Hylian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " like you will need more\nthan that!"
+    - text: " like you will need more\nthan that!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " A "
+    - text: " A "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " will\ncost ya "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 60 rupees
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " will\ncost ya "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 60 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -219,7 +218,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk06:
     - utf16_bytes:
@@ -228,13 +228,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Huh? Your pouch is full!
+    - text: Huh? Your pouch is full!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nMake some room and come back."
+    - text: "\nMake some room and come back."
     - utf16_bytes:
         - 0
   talk07:
@@ -244,7 +244,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hey, fella! Buy somethin'!"
+    - text: "Hey, fella! Buy somethin'!"
     - utf16_bytes:
         - 14
         - 1
@@ -252,7 +252,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk08:
     - utf16_bytes:
@@ -260,42 +261,41 @@ entries:
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: "A "
+    - text: "ဃA "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian
+    - text: Hylian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " like you needs this, right?"
+    - text: " like you needs this, right?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nIt's a "
+    - text: "\nIt's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
@@ -303,7 +303,8 @@ entries:
         - 6
         - 2
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk09:
     - utf16_bytes:
@@ -312,23 +313,23 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Well, don't come cryin' to me when\nyou're on fire, fella!"
+    - text: "Well, don't come cryin' to me when\nyou're on fire, fella!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: What now?
+    - text: What now?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "No, I'm good."
+    - text: "No, I'm good."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: I probably do.
+    - text: I probably do.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "I'll buy it."
+    - text: "I'll buy it."
     - utf16_bytes:
         - 0
   talk10:
@@ -338,21 +339,21 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Need a "
+    - text: "Need a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nYou do, yeah?"
+    - text: "?\nYou do, yeah?"
     - utf16_bytes:
         - 14
         - 1
@@ -360,10 +361,11 @@ entries:
         - 6
         - 2
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0004":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   talk11:
@@ -372,32 +374,33 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tHmm hm hmmmm..."
+        - 9
+    - text: Hmm hm hmmmm...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Whoa! "
+    - text: "Whoa! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: An actual customer?!
+    - text: An actual customer?!
     - utf16_bytes:
         - 0
   talk12:
@@ -407,7 +410,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Then why'd you wake me up?!\nSheesh!"
+    - text: "Then why'd you wake me up?!\nSheesh!"
     - utf16_bytes:
         - 0
   talk00:
@@ -421,7 +424,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
@@ -433,26 +436,14 @@ entries:
         - 3
         - 2
         - 3
-    - ascii: All you need to do is cook one
+    - text: All you need to do is cook one
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " fireproof lizard\nwith monster parts"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-        - 14
-        - 0
-        - 3
-        - 2
-        - 3
-    - ascii: ", fella..."
+    - text: " fireproof lizard\nwith monster parts"
     - utf16_bytes:
         - 14
         - 0
@@ -461,9 +452,21 @@ entries:
         - 65535
         - 14
         - 0
+        - 3
+        - 2
+        - 3
+    - text: ", fella..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 14
+        - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk13:
@@ -472,8 +475,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: See ya later!
+    - text: ЁSee ya later!
     - utf16_bytes:
         - 0
   talk01:
@@ -492,27 +494,26 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PHeheh... It all worked out...
+    - text: PHeheh... It all worked out...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Er, nothin'!"
+    - text: "ĆEr, nothin'!"
     - utf16_bytes:
         - 0
   talk14:
@@ -522,6 +523,6 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Here ya go!
+    - text: Here ya go!
     - utf16_bytes:
         - 0

@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 2820
-    - ascii: "WHOA! All "
+    - text: "WHOA! All "
     - utf16_bytes:
         - 14
         - 0
@@ -17,37 +17,37 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
+    - text: "<8MiniGame_Bowling_BreakPinNum"
     - utf16_bytes:
         - 0
-    - ascii: " pins"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "! That there's a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: strike
+    - text: " pins"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "! That there's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: strike
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSnow 'em how it's done, kiddums!"
+    - text: "\nSnow 'em how it's done, kiddums!"
     - utf16_bytes:
         - 14
         - 5
@@ -55,15 +55,15 @@ entries:
         - 0
         - 0
   "0010":
-    - ascii: "I'll keep at it."
+    - text: "I'll keep at it."
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Oops. My mistake.
+    - text: Oops. My mistake.
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: "I'll do it!"
+    - text: "I'll do it!"
     - utf16_bytes:
         - 0
   end:
@@ -72,19 +72,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ဉOoooookaaaaay.
+    - text: ဉOoooookaaaaay.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Ice of you to stop by!"
+    - text: " Ice of you to stop by!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIf you're in the mood, I'll always be\nhappy to line 'em up for you!"
+    - text: "\nIf you're in the mood, I'll always be\nhappy to line 'em up for you!"
     - utf16_bytes:
         - 14
         - 5
@@ -97,20 +97,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "No problem. "
+    - text: "ЀNo problem. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I love the pins too much to\never leave!"
+    - text: "I love the pins too much to\never leave!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You bet your snowball I'll be\nhere when you're ready for more."
+    - text: " You bet your snowball I'll be\nhere when you're ready for more."
     - utf16_bytes:
         - 14
         - 5
@@ -123,20 +122,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "This is the snowball you'll use."
+    - text: "ЀThis is the snowball you'll use."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It might\nnot look like much, but it's snow joke."
+    - text: " It might\nnot look like much, but it's snow joke."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou get two rolls. Knock 'em flat!"
+    - text: "\nYou get two rolls. Knock 'em flat!"
     - utf16_bytes:
         - 0
   restart:
@@ -146,22 +144,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Soooooooo... "
+    - text: "Soooooooo... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "What do you think about\ngiving it one more whirl?"
+    - text: "What do you think about\ngiving it one more whirl?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: 
-    - utf16_bytes:
+        - 12
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   about_snowbowl_03:
     - utf16_bytes:
@@ -169,26 +167,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Ooookaaaaay!
+    - text: ЀOoookaaaaay!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Here"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: " we "
+    - text: " Here"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: snooooow!
+    - text: " we "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: snooooow!
     - utf16_bytes:
         - 14
         - 5
@@ -202,33 +199,33 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Ah, the sweet music of \"yes\"!"
+    - text: "Ah, the sweet music of \"yes\"!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " There's a\ncatch, though."
+    - text: " There's a\ncatch, though."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " One game costs a cool\n"
+    - text: " One game costs a cool\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "20 rupees "
+    - text: "20 rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: to play. Still up for a round?
+    - text: to play. Still up for a round?
     - utf16_bytes:
         - 14
         - 1
@@ -236,7 +233,8 @@ entries:
         - 6
         - 5
         - 6
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   about_snowbowl_04:
     - utf16_bytes:
@@ -244,8 +242,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Well, good luck!"
+    - text: "ЀWell, good luck!"
     - utf16_bytes:
         - 0
   break_00:
@@ -255,13 +252,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Hrm? "
+    - text: "Hrm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Something on your mind, kiddums?"
+    - text: "Something on your mind, kiddums?"
     - utf16_bytes:
         - 14
         - 1
@@ -269,7 +266,8 @@ entries:
         - 6
         - 7
         - 8
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   break_01:
     - utf16_bytes:
@@ -277,14 +275,13 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "Snowly moly! You're tired already?!"
+    - text: "ąSnowly moly! You're tired already?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI didn't have you pinned as the quitting\ntype!"
+    - text: "\nI didn't have you pinned as the quitting\ntype!"
     - utf16_bytes:
         - 0
   result_10:
@@ -293,12 +290,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Take a deep breath, and go for broke on\nyour second throw!"
+    - text: "ЀTake a deep breath, and go for broke on\nyour second throw!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'll try it!"
+    - text: "I'll try it!"
     - utf16_bytes:
         - 0
   break_02:
@@ -308,21 +304,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If your throwing arm is frozen solid,\nsuit yourself, but I'm keeping the fee."
+    - text: "If your throwing arm is frozen solid,\nsuit yourself, but I'm keeping the fee."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThink of it as learning the hard way!"
+    - text: "\nThink of it as learning the hard way!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\t\n"
+        - 9
+    - text: "\nĀ"
     - utf16_bytes:
-        - 256
         - 0
   result_11:
     - utf16_bytes:
@@ -330,22 +326,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "You knocked over how many "
+    - text: "ĀYou knocked over how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? "
+    - text: "? "
     - utf16_bytes:
         - 14
         - 0
@@ -355,7 +350,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: HDMiniGame_Bowling_BreakPinNumSecond
+    - text: HDMiniGame_Bowling_BreakPinNumSecond
     - utf16_bytes:
         - 0
         - 14
@@ -363,31 +358,31 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: How does it work?
+    - text: How does it work?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Not interested.
+    - text: Not interested.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Explain again?
+    - text: Explain again?
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "I've lost interest."
+    - text: "I've lost interest."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: OK!
+    - text: OK!
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "I'll pass."
+    - text: "I'll pass."
     - utf16_bytes:
         - 0
   prize_00:
@@ -397,13 +392,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You gotta look at your pins and see the\nball hitting 'em in your mind. "
+    - text: "You gotta look at your pins and see the\nball hitting 'em in your mind. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "That's the\nkey to it all!"
+    - text: "That's the\nkey to it all!"
     - utf16_bytes:
         - 14
         - 5
@@ -411,7 +406,7 @@ entries:
         - 0
         - 0
   "0007":
-    - ascii: I have to split.
+    - text: I have to split.
     - utf16_bytes:
         - 0
   prize_01:
@@ -420,8 +415,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: "Only "
+    - text: "ဃOnly "
     - utf16_bytes:
         - 14
         - 0
@@ -431,7 +425,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
+    - text: "<8MiniGame_Bowling_BreakPinNum"
     - utf16_bytes:
         - 0
         - 14
@@ -439,25 +433,25 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "... "
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That's gotta sting."
+    - text: "That's gotta sting."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " My advice?"
+    - text: " My advice?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nStay frosty and play again!"
+    - text: "\nStay frosty and play again!"
     - utf16_bytes:
         - 14
         - 5
@@ -465,7 +459,7 @@ entries:
         - 0
         - 0
   "0008":
-    - ascii: "It's nothing."
+    - text: "It's nothing."
     - utf16_bytes:
         - 0
   explanation_00:
@@ -474,77 +468,77 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: What a sweet girl to show an interest!
+    - text: ЁWhat a sweet girl to show an interest!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIf you don't know the rules, I can\nexplain them in a flurry."
+    - text: "\nIf you don't know the rules, I can\nexplain them in a flurry."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "At the foot of the hill, we have 10, count\n'em, 10 pillars or \"pins.\""
+    - text: "At the foot of the hill, we have 10, count\n'em, 10 pillars or \"pins.\""
     - utf16_bytes:
         - 0
   prize_02:
-    - ascii: "How many "
+    - text: "How many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "? Eh, "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-        - 14
-        - 3
-        - 1
-        - 2
-        - 1024
-        - 14
-        - 2
-        - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
-    - utf16_bytes:
-        - 0
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? "
+    - text: "? Eh, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ѐ
+    - utf16_bytes:
+        - 14
+        - 2
+        - 14
+    - text: "<8MiniGame_Bowling_BreakPinNum"
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "That's decent."
+    - text: "That's decent."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nTell you what, I'll give you a sampler\nprize to get you shivering for more!"
+    - text: "\nTell you what, I'll give you a sampler\nprize to get you shivering for more!"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: I quit!
+    - text: I quit!
     - utf16_bytes:
         - 0
   explanation_01:
@@ -554,7 +548,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Give that snowball a good, hearty toss\nfrom the tippy-top of the hill to try and\nknock over all the pins you can!"
+    - text: "Give that snowball a good, hearty toss\nfrom the tippy-top of the hill to try and\nknock over all the pins you can!"
     - utf16_bytes:
         - 0
   prize_03:
@@ -564,7 +558,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Ooooh, snow close! A throw like that\ndeserves some kinda prize. Here ya go!"
+    - text: "Ooooh, snow close! A throw like that\ndeserves some kinda prize. Here ya go!"
     - utf16_bytes:
         - 14
         - 5
@@ -578,7 +572,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "The ball might take a few detours on its\nride down the hill, but any pins it hits\nwhen it reaches bottom are done for!"
+    - text: "The ball might take a few detours on its\nride down the hill, but any pins it hits\nwhen it reaches bottom are done for!"
     - utf16_bytes:
         - 0
   area_out_00:
@@ -588,13 +582,13 @@ entries:
         - 1
         - 2
         - 772
-    - ascii: "Are you flaking out?! "
+    - text: "Are you flaking out?! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You haven't\nfinished your round of SNOW BOWLING!"
+    - text: "You haven't\nfinished your round of SNOW BOWLING!"
     - utf16_bytes:
         - 14
         - 1
@@ -602,7 +596,8 @@ entries:
         - 6
         - 7
         - 8
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   prize_04:
     - utf16_bytes:
@@ -611,19 +606,19 @@ entries:
         - 1
         - 2
         - 2820
-    - ascii: "Well, bowl me over, kiddums!"
+    - text: "Well, bowl me over, kiddums!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " A snowing\nlike that deserves an ice prize."
+    - text: " A snowing\nlike that deserves an ice prize."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How's\nabout this snowball-making doohickey?"
+    - text: " How's\nabout this snowball-making doohickey?"
     - utf16_bytes:
         - 14
         - 5
@@ -637,19 +632,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh... "
+    - text: "Oh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Whoopsie-doodle!
+    - text: Whoopsie-doodle!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Hold on a tick!"
+    - text: " Hold on a tick!"
     - utf16_bytes:
         - 14
         - 5
@@ -663,7 +658,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I hear this'll freeze things but good."
+    - text: "I hear this'll freeze things but good."
     - utf16_bytes:
         - 0
   area_out_02:
@@ -673,13 +668,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Sorry about that, kiddums! "
+    - text: "Sorry about that, kiddums! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "'Til I learn to\ncontrol the weather, there's not much I\ncan do about these icy slopes."
+    - text: "'Til I learn to\ncontrol the weather, there's not much I\ncan do about these icy slopes."
     - utf16_bytes:
         - 14
         - 5
@@ -693,7 +688,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm too chill to fight, so I've never\nseen it in action with my own two\npeepers."
+    - text: "I'm too chill to fight, so I've never\nseen it in action with my own two\npeepers."
     - utf16_bytes:
         - 0
   area_out_03:
@@ -703,13 +698,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Skate just a minute there!
+    - text: Skate just a minute there!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I bet you'll\nscore more points if you come back over\nthis way."
+    - text: " I bet you'll\nscore more points if you come back over\nthis way."
     - utf16_bytes:
         - 14
         - 5
@@ -722,8 +717,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4098
-    - ascii: "With both throws together, you got..."
+    - text: "ဂWith both throws together, you got..."
     - utf16_bytes:
         - 14
         - 0
@@ -733,7 +727,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
+    - text: "<8MiniGame_Bowling_BreakPinNum"
     - utf16_bytes:
         - 0
         - 14
@@ -741,13 +735,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nNot as easy as it looks, eh, kiddums?"
+    - text: "\nNot as easy as it looks, eh, kiddums?"
     - utf16_bytes:
         - 14
         - 5
@@ -761,13 +755,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Leastways, I'd offer it to you if you\nweren't snowverloaded with stuff."
+    - text: "Leastways, I'd offer it to you if you\nweren't snowverloaded with stuff."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Will\nthis do instead?"
+    - text: " Will\nthis do instead?"
     - utf16_bytes:
         - 14
         - 5
@@ -781,19 +775,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There's no cooler feeling than smashing\nall the pins at once!"
+    - text: "There's no cooler feeling than smashing\nall the pins at once!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " But see for yourself!\n"
+    - text: " But see for yourself!\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Go on, have a ball!"
+    - text: "Go on, have a ball!"
     - utf16_bytes:
         - 14
         - 1
@@ -802,7 +796,8 @@ entries:
         - 0
         - 3
         - 4
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   area_out_04:
     - utf16_bytes:
@@ -810,54 +805,53 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Snowly moly...
+    - text: ขSnowly moly...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What's gotten into you?"
+    - text: " What's gotten into you?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Snowball Bowling "
+    - text: "Snowball Bowling "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is "
+    - text: "is "
     - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-        - 16128
-    - ascii: a civilized game.
+    - text: 㼀a civilized game.
     - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-        - 16256
+    - text: 㾀
+    - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThere are rules!"
+    - text: "\nThere are rules!"
     - utf16_bytes:
         - 14
         - 5
@@ -870,22 +864,21 @@ entries:
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: "Your total is...how many "
+    - text: "ဃYour total is...how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? Just "
+    - text: "? Just "
     - utf16_bytes:
         - 14
         - 0
@@ -895,7 +888,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
+    - text: "<8MiniGame_Bowling_BreakPinNum"
     - utf16_bytes:
         - 0
         - 14
@@ -903,13 +896,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?\nI know you can do better than that!"
+    - text: "?\nI know you can do better than that!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nKeep your eye on the snowball!"
+    - text: "\nKeep your eye on the snowball!"
     - utf16_bytes:
         - 0
   prize_08:
@@ -918,28 +911,27 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "You "
+    - text: "ଇYou "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "knocked 'em all down "
+    - text: "knocked 'em all down "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "flat! That\nwas no mean sleet, kiddums."
+    - text: "flat! That\nwas no mean sleet, kiddums."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I got you\na special prize for pulling that one off!"
+    - text: " I got you\na special prize for pulling that one off!"
     - utf16_bytes:
         - 14
         - 5
@@ -952,52 +944,51 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Your total is...how many "
+    - text: "ЀYour total is...how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "? "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\nWow, "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-        - 14
-        - 2
-        - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
-    - utf16_bytes:
-        - 0
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Ice work, kiddums!"
+    - text: "\nWow, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 14
+    - text: "<8MiniGame_Bowling_BreakPinNum"
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Ice work, kiddums!"
     - utf16_bytes:
         - 0
   prize_09:
@@ -1007,13 +998,13 @@ entries:
         - 1
         - 2
         - 2820
-    - ascii: "Well, whaddaya know, kiddums! "
+    - text: "Well, whaddaya know, kiddums! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Just for\nthat, you get a prize."
+    - text: "Just for\nthat, you get a prize."
     - utf16_bytes:
         - 0
   result_03:
@@ -1023,21 +1014,21 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Your total is...how many "
+    - text: "Your total is...how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? "
+    - text: "? "
     - utf16_bytes:
         - 14
         - 5
@@ -1051,7 +1042,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
+    - text: "<8MiniGame_Bowling_BreakPinNum"
     - utf16_bytes:
         - 0
         - 14
@@ -1059,13 +1050,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?! "
+    - text: "?! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSnow close...and yet snow far."
+    - text: "\nSnow close...and yet snow far."
     - utf16_bytes:
         - 0
   Initial:
@@ -1075,59 +1066,59 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Hail, kiddums!"
+    - text: "Hail, kiddums!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Nice to meet a fresh face\nin these parts."
+    - text: " Nice to meet a fresh face\nin these parts."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's not every day I get\ncompany this high in the hills.\nCan't give you a warm welcome...buuuut\nhow about a game I made up:"
+    - text: " It's not every day I get\ncompany this high in the hills.\nCan't give you a warm welcome...buuuut\nhow about a game I made up:"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Snowball\nBowling"
+    - text: "Snowball\nBowling"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Or as I call it, "
+    - text: " Or as I call it, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Snowling
+    - text: Snowling
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
@@ -1136,7 +1127,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   refuse:
     - utf16_bytes:
@@ -1144,14 +1136,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: Is this all of the rupees you have?
+    - text: စIs this all of the rupees you have?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThere's snow way this is enough!"
+    - text: "\nThere's snow way this is enough!"
     - utf16_bytes:
         - 0
   game_start_00:
@@ -1161,13 +1152,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Aha! Play bells are ringing! "
+    - text: "Aha! Play bells are ringing! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I gotta set up\nthe pins, but I'll be back in a flurry."
+    - text: "I gotta set up\nthe pins, but I'll be back in a flurry."
     - utf16_bytes:
         - 0
   result_04:
@@ -1177,21 +1168,21 @@ entries:
         - 1
         - 2
         - 2820
-    - ascii: "Your total is...how many "
+    - text: "Your total is...how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? "
+    - text: "? "
     - utf16_bytes:
         - 14
         - 5
@@ -1205,7 +1196,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
+    - text: "<8MiniGame_Bowling_BreakPinNum"
     - utf16_bytes:
         - 0
         - 14
@@ -1213,27 +1204,27 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?! "
+    - text: "?! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThat was your second throw, so it counts\nas a "
+    - text: "\nThat was your second throw, so it counts\nas a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: spare
+    - text: spare
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! Snow 'em how it's done!"
+    - text: "! Snow 'em how it's done!"
     - utf16_bytes:
         - 0
   game_start_01:
@@ -1243,47 +1234,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you can knock over all 10 pins in one\nroll, that's a "
+    - text: "If you can knock over all 10 pins in one\nroll, that's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: strike
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: " Only the most\nsnowtorious bowlers can pull that off!\nA "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: spare
+    - text: strike
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is when it takes both tries to\nfinish the job."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Not as good as a strike,\nbut nothing to sneeze at!"
+    - text: " Only the most\nsnowtorious bowlers can pull that off!\nA "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: spare
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is when it takes both tries to\nfinish the job."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Not as good as a strike,\nbut nothing to sneeze at!"
     - utf16_bytes:
         - 0
   result_05:
@@ -1292,52 +1283,51 @@ entries:
         - 3
         - 1
         - 2
-        - 4098
-    - ascii: "You got...how many "
+    - text: "ဂYou got...how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "? Er, "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-        - 14
-        - 2
-        - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
-    - utf16_bytes:
-        - 0
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "? Er, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 14
+    - text: "<8MiniGame_Bowling_BreakPinNum"
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nNot as easy as it looks, eh, kiddums?"
+    - text: "\nNot as easy as it looks, eh, kiddums?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nBut hey, one throw left! Make it count!"
+    - text: "\nBut hey, one throw left! Make it count!"
     - utf16_bytes:
         - 0
   Initial_00:
@@ -1346,22 +1336,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Hallooooo, kiddums! If you wanted to try\na round of "
+    - text: "ЁHallooooo, kiddums! If you wanted to try\na round of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Snowball Bowling
+    - text: Snowball Bowling
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", then you're\nin luck, because this is the place!"
+    - text: ", then you're\nin luck, because this is the place!"
     - utf16_bytes:
         - 14
         - 1
@@ -1370,7 +1359,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   result_06:
     - utf16_bytes:
@@ -1378,56 +1368,55 @@ entries:
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: "You knocked over...how many "
+    - text: "ဃYou knocked over...how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "? "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-        - 14
-        - 2
-        - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
-    - utf16_bytes:
-        - 0
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI know you can do better than that!"
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 14
+    - text: "<8MiniGame_Bowling_BreakPinNum"
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou got one throw left! Make it count!"
+    - text: "\nI know you can do better than that!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nYou got one throw left! Make it count!"
     - utf16_bytes:
         - 0
   result_07:
@@ -1436,22 +1425,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You knocked over...how many "
+    - text: "ЀYou knocked over...how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? \nOh, "
+    - text: "? \nOh, "
     - utf16_bytes:
         - 14
         - 5
@@ -1465,7 +1453,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
+    - text: "<8MiniGame_Bowling_BreakPinNum"
     - utf16_bytes:
         - 0
         - 14
@@ -1473,27 +1461,27 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Ice work, kiddums! Fingers \ncrossed for a "
+    - text: " Ice work, kiddums! Fingers \ncrossed for a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: spare
+    - text: spare
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " on the second throw!"
+    - text: " on the second throw!"
     - utf16_bytes:
         - 0
   result_08:
@@ -1503,21 +1491,21 @@ entries:
         - 1
         - 2
         - 2816
-    - ascii: "You got...how many "
+    - text: "You got...how many "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: pins
+    - text: pins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "? "
+    - text: "? "
     - utf16_bytes:
         - 14
         - 5
@@ -1531,7 +1519,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: "<8MiniGame_Bowling_BreakPinNum"
+    - text: "<8MiniGame_Bowling_BreakPinNum"
     - utf16_bytes:
         - 0
         - 14
@@ -1539,12 +1527,12 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSnow close...and yet snow far...\n\nOne throw left, though! Put your back\ninto it this time!"
+    - text: "\nSnow close...and yet snow far...\n\nOne throw left, though! Put your back\ninto it this time!"
     - utf16_bytes:
         - 0

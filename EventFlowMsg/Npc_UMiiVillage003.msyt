@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "I don't wanna sleep! "
+    - text: "I don't wanna sleep! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm not even tired!"
+    - text: "I'm not even tired!"
     - utf16_bytes:
         - 0
   talk16:
@@ -23,7 +23,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Tell me a story!
+    - text: Tell me a story!
     - utf16_bytes:
         - 14
         - 1
@@ -46,7 +46,7 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "I'm fine!"
+    - text: "I'm fine!"
     - utf16_bytes:
         - 0
   talk18:
@@ -55,8 +55,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: I hate everything!
+    - text: จI hate everything!
     - utf16_bytes:
         - 0
   talk19:
@@ -65,8 +64,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "..."
+    - text: Ā...
     - utf16_bytes:
         - 0
   talk20:
@@ -75,8 +73,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Tell me something else!
+    - text: ĀTell me something else!
     - utf16_bytes:
         - 14
         - 1
@@ -98,11 +95,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: I already told you
-    - utf16_bytes:
-        - 8212
-    - ascii: "I'm OK!"
+    - text: "ขI already told you—I'm OK!"
     - utf16_bytes:
         - 0
   talk22:
@@ -111,8 +104,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "I hate, hate, HATE it all!"
+    - text: "ขI hate, hate, HATE it all!"
     - utf16_bytes:
         - 0
   talk23:
@@ -122,7 +114,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "But I'll eat some cake if you have some."
+    - text: "But I'll eat some cake if you have some."
     - utf16_bytes:
         - 0
   talk24:
@@ -131,14 +123,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "What's that? "
+    - text: "ขWhat's that? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I don't care!"
+    - text: "I don't care!"
     - utf16_bytes:
         - 0
   talk25:
@@ -148,11 +139,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I don't want you to come here, anyway!"
+    - text: "I don't want you to come here, anyway!"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Pheew...pheew...
+    - text: Pheew...pheew...
     - utf16_bytes:
         - 0
   talk26:
@@ -162,21 +153,18 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "It's the traveler girl!"
+    - text: "It's the traveler girl!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWell then..."
+    - text: "\nWell then..."
     - utf16_bytes:
         - 0
   near01:
+    - text: ♪Doot doo...♪
     - utf16_bytes:
-        - 9834
-    - ascii: Doot doo...
-    - utf16_bytes:
-        - 9834
         - 0
   talk27:
     - utf16_bytes:
@@ -184,8 +172,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "What? That's boring!"
+    - text: "ขWhat? That's boring!"
     - utf16_bytes:
         - 0
   talk28:
@@ -195,13 +182,13 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "I'm going to sleep!"
+    - text: "I'm going to sleep!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nMama says I gotta!"
+    - text: "\nMama says I gotta!"
     - utf16_bytes:
         - 0
   talk00:
@@ -210,18 +197,19 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: PHooooo...hooooo...
+    - text: ℀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: PHooooo...hooooo...
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   talk29:
@@ -230,18 +218,17 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I'm gonna sleep, OK?"
+    - text: "ȀI'm gonna sleep, OK?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nTalk to me later!"
+    - text: "\nTalk to me later!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   talk01:
@@ -251,11 +238,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good morning!
+    - text: Good morning!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Bye bye.
+    - text: Bye bye.
     - utf16_bytes:
         - 0
   talk02:
@@ -265,11 +252,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hi!
+    - text: Hi!
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "It's pretty fun."
+    - text: "It's pretty fun."
     - utf16_bytes:
         - 0
   talk03:
@@ -279,15 +266,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Good evening!
+    - text: Good evening!
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "Actually, it's tough."
+    - text: "Actually, it's tough."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Absolutely.
+    - text: Absolutely.
     - utf16_bytes:
         - 0
   talk05:
@@ -297,19 +284,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Are you a traveler?
+    - text: Are you a traveler?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 0
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   "0005":
-    - ascii: Monster what-nows?
+    - text: Monster what-nows?
     - utf16_bytes:
         - 0
   talk06:
@@ -318,8 +305,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: Is it fun?
+    - text: ကIs it fun?
     - utf16_bytes:
         - 14
         - 1
@@ -327,14 +313,15 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: How are you feeling?
+    - text: How are you feeling?
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Whatcha like eating?
+    - text: Whatcha like eating?
     - utf16_bytes:
         - 0
   talk08:
@@ -344,11 +331,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Ah!
+    - text: Ah!
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Hear of the Calamity?
+    - text: Hear of the Calamity?
     - utf16_bytes:
         - 0
   talk09:
@@ -358,11 +345,11 @@ entries:
         - 1
         - 2
         - 2561
-    - ascii: "When I grow up, I want to go\nout all by myself!"
+    - text: "When I grow up, I want to go\nout all by myself!"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: You could say that.
+    - text: You could say that.
     - utf16_bytes:
         - 0
   talk10:
@@ -372,7 +359,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: I see!
+    - text: I see!
     - utf16_bytes:
         - 0
   talk11:
@@ -392,21 +379,21 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "Say, have you heard of a "
+    - text: "Say, have you heard of a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: monster cake
+    - text: monster cake
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -414,7 +401,8 @@ entries:
         - 6
         - 4
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk12:
     - utf16_bytes:
@@ -422,21 +410,19 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "Mama bought me one! It was so gross!\n\n\n"
+    - text: "ਇMama bought me one! It was so gross!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "But after I ate it,"
+    - text: "āBut after I ate it,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I got really strong.\nLike this!\n\nYou should try one if you wanna be\nreal strong like me!"
+    - text: " I got really strong.\nLike this!\n\nYou should try one if you wanna be\nreal strong like me!"
     - utf16_bytes:
         - 0
   talk13:
@@ -445,35 +431,33 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "Isn't it so gross? Ick!\n\n\n"
+    - text: "ਇIsn't it so gross? Ick!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I don't know if it's just because I ate the\n"
+    - text: "āI don't know if it's just because I ate the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: monster cake
+    - text: monster cake
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I have so much\nenergy now!\nIf you run out of energy, you should eat\nsome too!"
+    - text: " but I have so much\nenergy now!\nIf you run out of energy, you should eat\nsome too!"
     - utf16_bytes:
         - 0
   talk14:
@@ -483,6 +467,6 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "I don't wanna sleep!"
+    - text: "I don't wanna sleep!"
     - utf16_bytes:
         - 0

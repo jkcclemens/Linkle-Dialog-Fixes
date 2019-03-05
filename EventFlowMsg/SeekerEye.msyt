@@ -1,11 +1,11 @@
 ---
 entries:
   Talk_020:
-    - ascii: Egads!
+    - text: Egads!
     - utf16_bytes:
         - 0
   Talk_015:
-    - ascii: "I happened to notice that a section of\nthe cliff face there in the distance looks\nalmost man-made."
+    - text: "I happened to notice that a section of\nthe cliff face there in the distance looks\nalmost man-made."
     - utf16_bytes:
         - 0
   Talk_016:
@@ -15,11 +15,11 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "My smart man, tell me... You can see it\ntoo, yes? I would take a closer look\nif I could get there on my own."
+    - text: "My smart man, tell me... You can see it\ntoo, yes? I would take a closer look\nif I could get there on my own."
     - utf16_bytes:
         - 0
   Talk_017:
-    - ascii: "Ah, well if it isn't my smart man."
+    - text: "Ah, well if it isn't my smart man."
     - utf16_bytes:
         - 0
   Talk_001:
@@ -29,7 +29,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Hmm?\nWhat is it, my smart man?"
+    - text: "Hmm?\nWhat is it, my smart man?"
     - utf16_bytes:
         - 14
         - 1
@@ -37,10 +37,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_018:
-    - ascii: "That section of cliff, off in the distance...\nIt almost looks man-made, no?"
+    - text: "That section of cliff, off in the distance...\nIt almost looks man-made, no?"
     - utf16_bytes:
         - 0
   Talk_002:
@@ -49,8 +50,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Hmm... What could it be?
+    - text: ЀHmm... What could it be?
     - utf16_bytes:
         - 0
   Talk_019:
@@ -60,27 +60,27 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "If I was as chock-full of energy as an\nadventurer, I would climb that cliff\nand take a closer look in a heartbeat."
+    - text: "If I was as chock-full of energy as an\nadventurer, I would climb that cliff\nand take a closer look in a heartbeat."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Whatcha looking at?
+    - text: Whatcha looking at?
     - utf16_bytes:
         - 0
   Talk_100:
-    - ascii: "My smart man... Are you enjoying your\nday to the fullest?"
+    - text: "My smart man... Are you enjoying your\nday to the fullest?"
     - utf16_bytes:
         - 0
   Talk_006:
-    - ascii: "Hmm...\nWell, if you need anything, let me know."
+    - text: "Hmm...\nWell, if you need anything, let me know."
     - utf16_bytes:
         - 0
   Talk_012:
-    - ascii: "Hmm?\nDo you need something?"
+    - text: "Hmm?\nDo you need something?"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: You look busy.
+    - text: You look busy.
     - utf16_bytes:
         - 0
   Talk_101:
@@ -90,12 +90,12 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: My smart man...
+    - text: My smart man...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " For inquisitive minds\nsuch as ours, solving a mystery is\nmore important than stable work."
+    - text: " For inquisitive minds\nsuch as ours, solving a mystery is\nmore important than stable work."
     - utf16_bytes:
         - 0

@@ -6,50 +6,50 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I ran away from Lurelin Village just up\nthe road. "
+    - text: "ЀI ran away from Lurelin Village just up\nthe road. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "The whole place stinks of cut-\nup bait and fish guts.\nWell, that's no life for me!"
+    - text: "The whole place stinks of cut-\nup bait and fish guts.\nWell, that's no life for me!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm gonna\nmake my living as a scavenger, fishing\naround Hyrule's rubble for neat stuff!\n"
+    - text: " I'm gonna\nmake my living as a scavenger, fishing\naround Hyrule's rubble for neat stuff!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tNot much choice, really, since I..."
+        - 9
+    - text: "Not much choice, really, since I..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: uh...
+    - text: uh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "Pcan't swim..."
+    - text: "Pcan't swim..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Guardian00:
@@ -58,8 +58,7 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: Guardian! Guardian coming!
+    - text: ⨃Guardian! Guardian coming!
     - utf16_bytes:
         - 0
   After00:
@@ -69,19 +68,19 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Go ahead, laugh! I don't care! "
+    - text: "Go ahead, laugh! I don't care! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Fishing\nis for suckers. "
+    - text: "Fishing\nis for suckers. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I can make plenty of\nmoney without sitting on a dock all day!"
+    - text: "I can make plenty of\nmoney without sitting on a dock all day!"
     - utf16_bytes:
         - 0
   Failed00:
@@ -90,7 +89,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOwwww...what did they have to go and\ndo that for?"
+        - 9
+    - text: "Owwww...what did they have to go and\ndo that for?"
     - utf16_bytes:
         - 0
   After01:
@@ -99,7 +99,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThere I go, needing someone to bail me\nout again."
+        - 9
+    - text: "There I go, needing someone to bail me\nout again."
     - utf16_bytes:
         - 14
         - 0
@@ -110,7 +111,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "But there's no way I'm going back to\nLurelin Village! I gotta strike it rich so\nI can rub it in everyone's faces!"
+    - text: "But there's no way I'm going back to\nLurelin Village! I gotta strike it rich so\nI can rub it in everyone's faces!"
     - utf16_bytes:
         - 0
   Failed01:
@@ -119,7 +120,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOw! Ow ow ow! How come nothing\never goes my way?"
+        - 9
+    - text: "Ow! Ow ow ow! How come nothing\never goes my way?"
     - utf16_bytes:
         - 0
   After02:
@@ -129,19 +131,19 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "The best part about scavenging is you\nnever know what kinda crazy stuff you'll\nfind if you poke around long enough.\nBusted Guardians..."
+    - text: "The best part about scavenging is you\nnever know what kinda crazy stuff you'll\nfind if you poke around long enough.\nBusted Guardians..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "old ruins... "
+    - text: "old ruins... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's all\nchock-full of neat gizmos you can sell\nfor beaucoup bucks!"
+    - text: "It's all\nchock-full of neat gizmos you can sell\nfor beaucoup bucks!"
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -151,7 +153,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Whoa... Way to bail me out. This is\nall I have for a reward, but it's yours!"
+    - text: "Whoa... Way to bail me out. This is\nall I have for a reward, but it's yours!"
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -161,13 +163,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "Whoa. "
+    - text: "Whoa. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I was NOT looking forward to the\nrest of my life in that thing's stomach."
+    - text: "I was NOT looking forward to the\nrest of my life in that thing's stomach."
     - utf16_bytes:
         - 14
         - 0
@@ -177,14 +179,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I don't have any fancy reward for you,\nbut I do have this. "
+    - text: "ĀI don't have any fancy reward for you,\nbut I do have this. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "And now it's yours."
+    - text: "And now it's yours."
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -193,20 +194,19 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "It blows my mind that anyone bothered\nto save a sad sack like me."
+    - text: "इIt blows my mind that anyone bothered\nto save a sad sack like me."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " How can I\never thank you?"
+    - text: " How can I\never thank you?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Uh...do you want this?"
+    - text: " Uh...do you want this?"
     - utf16_bytes:
         - 0
   SavedLv1_01:
@@ -215,26 +215,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4865
-    - ascii: "Dang... "
+    - text: "ጁDang... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "How did I miss those monsters\ncoming at me? "
+    - text: "How did I miss those monsters\ncoming at me? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Well, they're gone now,\nand that's what matters. "
+    - text: "Well, they're gone now,\nand that's what matters. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Thanks, bud!"
+    - text: "Thanks, bud!"
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -244,7 +243,7 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "You sure saved my neck... "
+    - text: "You sure saved my neck... "
     - utf16_bytes:
         - 14
         - 5
@@ -254,14 +253,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Too bad I got\nnothing to pay you back with but pocket\nlint. "
+    - text: "ĀToo bad I got\nnothing to pay you back with but pocket\nlint. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Oh, and this, I guess."
+    - text: "Oh, and this, I guess."
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -270,20 +268,19 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I've never seen ANYONE take down one\nof those things! "
+    - text: "इI've never seen ANYONE take down one\nof those things! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Wh-who ARE you?!
+    - text: Wh-who ARE you?!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWell, whoever you are, this is all yours!"
+    - text: "\nWell, whoever you are, this is all yours!"
     - utf16_bytes:
         - 0
   Near00:
@@ -292,12 +289,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: That was too close...
+    - text: 촐That was too close...
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Where to scrounge next?
+    - text: Where to scrounge next?
     - utf16_bytes:
         - 0
   Atacked00:
@@ -306,8 +302,7 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: No... All my stuff...
+    - text: ⨃No... All my stuff...
     - utf16_bytes:
         - 0
   Atacked01:
@@ -317,12 +312,6 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: What the
-    - utf16_bytes:
-        - 8212
-    - ascii: " Hey! Not cool! Don't just\nstand there"
-    - utf16_bytes:
-        - 8212
-    - ascii: do something!
+    - text: "What the— Hey! Not cool! Don't just\nstand there—do something!"
     - utf16_bytes:
         - 0

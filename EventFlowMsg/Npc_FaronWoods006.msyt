@@ -6,27 +6,26 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĊYou won't change the world by jumping\ncarelessly to your doom, don't ya know!\n\nThat would only do one thing..."
+    - text: "ĊYou won't change the world by jumping\ncarelessly to your doom, don't ya know!\n\nThat would only do one thing..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nAnd that's...\n\n"
+    - text: "\nAnd that's...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "Drive me batty!\n\n\n"
+    - text: "Drive me batty!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Seriously! Think of the shock I'd suffer,\nseeing something like that!"
+    - text: "ĀSeriously! Think of the shock I'd suffer,\nseeing something like that!"
     - utf16_bytes:
         - 0
   RunRain00:
@@ -36,7 +35,7 @@ entries:
         - 1
         - 2
         - 3584
-    - ascii: "Not now. Talk to me where it's dry!"
+    - text: "Not now. Talk to me where it's dry!"
     - utf16_bytes:
         - 0
   Warning04:
@@ -46,13 +45,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Now calm down and climb off that rail.\n"
+    - text: "Now calm down and climb off that rail.\n"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "And don't climb down THAT way.\nClimb down THIS way!"
+    - text: "And don't climb down THAT way.\nClimb down THIS way!"
     - utf16_bytes:
         - 0
   Warning05:
@@ -62,13 +61,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "You're fine. Just don't be so careless."
+    - text: "You're fine. Just don't be so careless."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThere are too many enjoyable things in\nthe world to gamble with your life!"
+    - text: "\nThere are too many enjoyable things in\nthe world to gamble with your life!"
     - utf16_bytes:
         - 0
   TalkLoop00:
@@ -77,14 +76,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Ask me whatever you want!
+    - text: ЀAsk me whatever you want!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm happy to\nchat with you awhile."
+    - text: " I'm happy to\nchat with you awhile."
     - utf16_bytes:
         - 14
         - 1
@@ -93,7 +91,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   GoodBye00:
     - utf16_bytes:
@@ -101,14 +100,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: See ya.
+    - text: ĀSee ya.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Let's wish each other good luck,\neh? We'll need it!"
+    - text: " Let's wish each other good luck,\neh? We'll need it!"
     - utf16_bytes:
         - 0
   GoodBye01:
@@ -117,8 +115,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Why not kill some time here?
+    - text: ĀWhy not kill some time here?
     - utf16_bytes:
         - 0
   Wander00:
@@ -128,13 +125,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Hello?
+    - text: Hello?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Are you looking for someone to\nchat with too?"
+    - text: " Are you looking for someone to\nchat with too?"
     - utf16_bytes:
         - 14
         - 1
@@ -143,7 +140,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Wander01:
     - utf16_bytes:
@@ -152,7 +150,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Just patrolling. This bridge is an\nimportant route.\n\nI keep really busy making sure monsters\ndon't nest here by chasing them off the\nbridge and stuff."
+    - text: "Just patrolling. This bridge is an\nimportant route.\n\nI keep really busy making sure monsters\ndon't nest here by chasing them off the\nbridge and stuff."
     - utf16_bytes:
         - 0
   Hyrule00:
@@ -161,7 +159,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nHyrule Castle?!\n\n\nI don't know how many lives you've got,\nbut in a place with that many Guardians,\nI guarantee you it's not enough!"
+    - text: "\nHyrule Castle?!\n\n\nI don't know how many lives you've got,\nbut in a place with that many Guardians,\nI guarantee you it's not enough!"
     - utf16_bytes:
         - 0
   Talk01_1:
@@ -170,26 +168,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "We're doomed! "
+    - text: "؆We're doomed! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I mean, don't panic!\nSorry, who are you? Have we met?\n\nWell, doesn't matter who you are, really."
+    - text: "I mean, don't panic!\nSorry, who are you? Have we met?\n\nWell, doesn't matter who you are, really."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI was getting tired of talking to myself,\nso you've come at a good time.\nBy the by, those strange things that\npopped out of the ground..."
+    - text: "\nI was getting tired of talking to myself,\nso you've come at a good time.\nBy the by, those strange things that\npopped out of the ground..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nDid you see them?"
+    - text: "\nDid you see them?"
     - utf16_bytes:
         - 0
   WanderRain00:
@@ -198,8 +195,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: So... Think the rain will let up soon?
+    - text: ȀSo... Think the rain will let up soon?
     - utf16_bytes:
         - 14
         - 1
@@ -207,7 +203,8 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Wander02:
     - utf16_bytes:
@@ -215,13 +212,12 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: Where do you want to go?
+    - text: ċWhere do you want to go?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 3
         - 4
@@ -236,13 +232,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: See that? You can see it in the distance.
+    - text: See that? You can see it in the distance.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHonestly, I think you're better off just\nlooking at it from here."
+    - text: "\nHonestly, I think you're better off just\nlooking at it from here."
     - utf16_bytes:
         - 0
   Talk01_2:
@@ -251,8 +247,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm not talking about mushrooms here!\nI'm talking about those towers!\n\nThey seem to have popped up all over\nthe place!"
+    - text: "ĀI'm not talking about mushrooms here!\nI'm talking about those towers!\n\nThey seem to have popped up all over\nthe place!"
     - utf16_bytes:
         - 0
   Talk01_3:
@@ -261,38 +256,37 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "And that's not the only strange thing\nthat's happened."
+    - text: "ĀAnd that's not the only strange thing\nthat's happened."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Those long-deserted\nshrines suddenly started glowing!\n"
+    - text: " Those long-deserted\nshrines suddenly started glowing!\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-    - ascii: "촊You know what this means, don't you?"
+    - text: "촊You know what this means, don't you?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThe end is here!"
+    - text: "\nThe end is here!"
     - utf16_bytes:
         - 0
   "1000":
-    - ascii: What thing?
+    - text: What thing?
     - utf16_bytes:
         - 0
   "1001":
-    - ascii: "Yeah, good idea."
+    - text: "Yeah, good idea."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: What are you doing?
+    - text: What are you doing?
     - utf16_bytes:
         - 0
   Talk00:
@@ -302,17 +296,17 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "I may be somewhat used to seeing bad\nomens by now, but that..."
+    - text: "I may be somewhat used to seeing bad\nomens by now, but that..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Well, let's just\nsay it's badder than most."
+    - text: " Well, let's just\nsay it's badder than most."
     - utf16_bytes:
         - 0
   "1002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Action5_00:
@@ -321,8 +315,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "Ahhh... I'm exhausted."
+    - text: "ሀAhhh... I'm exhausted."
     - utf16_bytes:
         - 14
         - 1
@@ -330,10 +323,11 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: I need directions.
+    - text: I need directions.
     - utf16_bytes:
         - 0
   Colony00:
@@ -343,17 +337,17 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "The Great Plateau? \n\n\nWhy would you possibly need to go to an\nabandoned place like that?"
+    - text: "The Great Plateau? \n\n\nWhy would you possibly need to go to an\nabandoned place like that?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How would\nyou even begin to scale that cliff?"
+    - text: " How would\nyou even begin to scale that cliff?"
     - utf16_bytes:
         - 0
   "1003":
-    - ascii: This one here?
+    - text: This one here?
     - utf16_bytes:
         - 0
   Action5_01:
@@ -363,13 +357,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Hello?
+    - text: Hello?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Are you taking a break?"
+    - text: " Are you taking a break?"
     - utf16_bytes:
         - 14
         - 1
@@ -377,10 +371,11 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Colony01:
@@ -390,13 +385,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, in any case, it's over there."
+    - text: "Well, in any case, it's over there."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThere are quite a few monsters about,\nthough. So be careful."
+    - text: "\nThere are quite a few monsters about,\nthough. So be careful."
     - utf16_bytes:
         - 0
   WarningClear00:
@@ -405,7 +400,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ሉMan! Don't ever do something like that\nagain, got it? You almost gave me a\nheart attack. Seriously!"
+    - text: "ሉMan! Don't ever do something like that\nagain, got it? You almost gave me a\nheart attack. Seriously!"
     - utf16_bytes:
         - 0
   Talk02:
@@ -415,26 +410,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "With all this craziness happening,\nI've been keeping an eye on\nthat thing.\n"
+    - text: "With all this craziness happening,\nI've been keeping an eye on\nthat thing.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Just to see if it suddenly starts moving,\nya know?"
+    - text: "ĀJust to see if it suddenly starts moving,\nya know?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: Kakariko Village.
+    - text: Kakariko Village.
     - utf16_bytes:
         - 0
   WarningClear01:
@@ -443,7 +435,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ሉPhew! You had me worried there. \nDon't mess with people like that."
+    - text: "ሉPhew! You had me worried there. \nDon't mess with people like that."
     - utf16_bytes:
         - 0
   Talk03:
@@ -452,32 +444,31 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "I'm talking about that "
+    - text: "ᐄI'm talking about that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guardian
+    - text: Guardian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nof course!"
+    - text: ",\nof course!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Haven't you heard the\nold stories about Hyrule?"
+    - text: " Haven't you heard the\nold stories about Hyrule?"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Hyrule Castle.
+    - text: Hyrule Castle.
     - utf16_bytes:
         - 0
   WarningClear02:
@@ -487,7 +478,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "I'll stay here and chat with you for a bit,\nif you'd like."
+    - text: "I'll stay here and chat with you for a bit,\nif you'd like."
     - utf16_bytes:
         - 14
         - 1
@@ -496,7 +487,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk04:
     - utf16_bytes:
@@ -504,26 +496,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Yeah, that "
+    - text: "ЀYeah, that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Guardian "
+    - text: "Guardian "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is worth watching.\nIt's just like the ones from those\nold stories."
+    - text: "is worth watching.\nIt's just like the ones from those\nold stories."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Great Plateau.
+    - text: Great Plateau.
     - utf16_bytes:
         - 0
   Talk05:
@@ -533,13 +524,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: See that thing over there?
+    - text: See that thing over there?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " The one\nshaped like an overturned urn?\nTHAT is what I'm talking about."
+    - text: " The one\nshaped like an overturned urn?\nTHAT is what I'm talking about."
     - utf16_bytes:
         - 0
   Talk06:
@@ -549,15 +540,14 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Did you know some of them can move?\nOne of them once chased me down and\ntried to kill me!"
+    - text: "Did you know some of them can move?\nOne of them once chased me down and\ntried to kill me!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1003
-        - 1002
-        - 256
+    - text: ϫϪĀ
+    - utf16_bytes:
         - 0
   Kakariko00:
     - utf16_bytes:
@@ -565,8 +555,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Ah, I see. Kakariko Village is that way."
+    - text: "ЀAh, I see. Kakariko Village is that way."
     - utf16_bytes:
         - 0
   Talk07:
@@ -575,22 +564,20 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "No, it was a different one.\n\n\nThat one was closer to the castle but\nbefore the forest...\n\n"
+    - text: "ċNo, it was a different one.\n\n\nThat one was closer to the castle but\nbefore the forest...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "When they spot you, they shoot blue\nbeams of light at you!\n\nMan, I was so sure that was the end\nfor me. I was prepared for the worst.\n\nBut I somehow managed to escape into\nthe nearby woods.\n\n"
+    - text: "When they spot you, they shoot blue\nbeams of light at you!\n\nMan, I was so sure that was the end\nfor me. I was prepared for the worst.\n\nBut I somehow managed to escape into\nthe nearby woods.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "You think it was my lightning-fast\nreflexes that saved me?\n\nHa, I wish. Truth is, I just got lucky.\n\n\nAnyway, I hear Guardians like that still\nwander around Hyrule Castle."
+    - text: "؋You think it was my lightning-fast\nreflexes that saved me?\n\nHa, I wish. Truth is, I just got lucky.\n\n\nAnyway, I hear Guardians like that still\nwander around Hyrule Castle."
     - utf16_bytes:
         - 0
   Kakariko01:
@@ -600,7 +587,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "On the other side of the Dueling Peaks,\nthere's a stable. Stop there and ask\nsomeone for further directions."
+    - text: "On the other side of the Dueling Peaks,\nthere's a stable. Stop there and ask\nsomeone for further directions."
     - utf16_bytes:
         - 0
   Talk08:
@@ -609,7 +596,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t*siiigh* Just when I find someone to\ntalk to... I wonder what I did to make\nhim hate me..."
+        - 9
+    - text: "*siiigh* Just when I find someone to\ntalk to... I wonder what I did to make\nhim hate me..."
     - utf16_bytes:
         - 0
   Talk09:
@@ -618,8 +606,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Be careful.
+    - text: ĀBe careful.
     - utf16_bytes:
         - 0
   Near00:
@@ -628,7 +615,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촊The end is here...
+    - text: 촊The end is here...
     - utf16_bytes:
         - 0
   Warning00:
@@ -637,19 +624,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Hey! Don't be rash!"
+    - text: "}Hey! Don't be rash!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Near01:
@@ -658,11 +645,8 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-        - 9834
-    - ascii: Hm hm hmmmm...
+    - text: 촘♪Hm hm hmmmm...♪
     - utf16_bytes:
-        - 9834
         - 0
   Warning01:
     - utf16_bytes:
@@ -670,19 +654,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dWait a minute! Please, think about what\nyou're doing!"
+    - text: "dWait a minute! Please, think about what\nyou're doing!"
     - utf16_bytes:
         - 0
   Warning02:
@@ -691,19 +675,18 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĊI'm young, but you're even younger.\n\n\nI'm trying my best out here, but I get the\nfeeling you're going to end up trying\neven harder in this world.\n"
+    - text: "ĊI'm young, but you're even younger.\n\n\nI'm trying my best out here, but I get the\nfeeling you're going to end up trying\neven harder in this world.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "That's the feeling I get when I look at\nyour face..."
+    - text: "ĀThat's the feeling I get when I look at\nyour face..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " But maybe I'm nuts."
+    - text: " But maybe I'm nuts."
     - utf16_bytes:
         - 0

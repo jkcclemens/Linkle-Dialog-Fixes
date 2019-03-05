@@ -7,18 +7,21 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: "What's wrong?"
+    - text: "What's wrong?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Do you need something?"
+    - text: " Do you need something?"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "4\t\"Npc_Zora034_Shido"
+    - text: "4"
+    - utf16_bytes:
+        - 9
+    - text: "\"Npc_Zora034_Shido"
     - utf16_bytes:
         - 5
         - 0
@@ -34,8 +37,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1280
-    - ascii: Hm.
+    - text: ԀHm.
     - utf16_bytes:
         - 0
   talk09:
@@ -44,22 +46,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "To get to King Dorephan's throne room,\n"
+    - text: "ĀTo get to King Dorephan's throne room,\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "go up that big staircase and then up\none more floor.\nTake care to mind your manners!"
+    - text: "go up that big staircase and then up\none more floor.\nTake care to mind your manners!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Yes, please."
+    - text: "Yes, please."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk20:
@@ -69,21 +70,21 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "I wonder if "
+    - text: "I wonder if "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Ruta
+    - text: Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has stopped spouting\nwater everywhere..."
+    - text: " has stopped spouting\nwater everywhere..."
     - utf16_bytes:
         - 0
   talk21:
@@ -92,8 +93,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4352
-    - ascii: "A Hylian, eh?"
+    - text: "ᄀA Hylian, eh?"
     - utf16_bytes:
         - 0
   talk22:
@@ -102,8 +102,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Ah, so you're the Hylian that Prince\nSidon brought..."
+    - text: "ЀAh, so you're the Hylian that Prince\nSidon brought..."
     - utf16_bytes:
         - 0
   talk10:
@@ -112,14 +111,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5888
-    - ascii: "Recently the weather "
+    - text: "ᜀRecently the weather "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: has let up a bit.
+    - text: has let up a bit.
     - utf16_bytes:
         - 0
   talk23:
@@ -128,24 +126,23 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "At any rate,"
+    - text: "ကAt any rate,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Prince Sidon summoned\nyou here. Did he not? \n\nIf so, you should hurry to the\nthrone room of King Dorephan."
+    - text: " Prince Sidon summoned\nyou here. Did he not? \n\nIf so, you should hurry to the\nthrone room of King Dorephan."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDon't you think?"
+    - text: "\nDon't you think?"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: King Dorephan?
+    - text: King Dorephan?
     - utf16_bytes:
         - 0
   talk11:
@@ -154,16 +151,15 @@ entries:
         - 3
         - 1
         - 2
-        - 5888
-    - ascii: "It's been a while since we've seen the\nsun here..."
+    - text: "ᜀIt's been a while since we've seen the\nsun here..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "You're female, right?"
+    - text: "You're female, right?"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: How old are you?
+    - text: How old are you?
     - utf16_bytes:
         - 0
   talk00:
@@ -172,8 +168,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Ah, a Hylian..."
+    - text: "ЀAh, a Hylian..."
     - utf16_bytes:
         - 0
   talk13:
@@ -182,39 +177,39 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᜊSo...
+    - text: ᜊSo...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "you're the one who appeased the\n"
+    - text: "you're the one who appeased the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Ruta
+    - text: Divine Beast Vah Ruta
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nI heard from my father..."
+    - text: "!\n\nI heard from my father..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "that you're\nactually the same Hylian Champion\nfrom 100 years ago. Or something.\nI should have expected as much from the\nHylian Champion..."
+    - text: "that you're\nactually the same Hylian Champion\nfrom 100 years ago. Or something.\nI should have expected as much from the\nHylian Champion..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I will continue to pray\nfor good fortune in the coming war."
+    - text: " I will continue to pray\nfor good fortune in the coming war."
     - utf16_bytes:
         - 0
   talk01:
@@ -223,8 +218,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Well, hello there."
+    - text: "ጀWell, hello there."
     - utf16_bytes:
         - 0
   talk14:
@@ -233,26 +227,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1280
-    - ascii: "You are no ordinary woman...\n\n\nYou are always welcome here in\n"
+    - text: "ԀYou are no ordinary woman...\n\n\nYou are always welcome here in\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Prince Sidon?
+    - text: Prince Sidon?
     - utf16_bytes:
         - 0
   talk02:
@@ -261,14 +254,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "It looks like Father was rather excited to\nspeak with you..."
+    - text: "ကIt looks like Father was rather excited to\nspeak with you..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Oh, well."
+    - text: " Oh, well."
     - utf16_bytes:
         - 0
   talk15:
@@ -277,28 +269,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "King Dorephan is the regal ruler of\n"
+    - text: "ЀKing Dorephan is the regal ruler of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " He is also the father\nof Prince Sidon and Lady Mipha."
+    - text: " He is also the father\nof Prince Sidon and Lady Mipha."
     - utf16_bytes:
         - 0
   talk03:
@@ -307,22 +298,22 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "I believe this is our first meeting, yes?"
+    - text: "ጀI believe this is our first meeting, yes?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nMy name is Dunma."
+    - text: "\nMy name is Dunma."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk16:
     - utf16_bytes:
@@ -330,7 +321,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ഉHow many times do I have to tell you?!\nI'm less than 100 years old!\n\nYou can tell, can't you?"
+    - text: "ഉHow many times do I have to tell you?!\nI'm less than 100 years old!\n\nYou can tell, can't you?"
     - utf16_bytes:
         - 0
   talk04:
@@ -339,16 +330,16 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "...My, how observant you are.\nIs there a problem?"
+    - text: "ข...My, how observant you are.\nIs there a problem?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 7
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk17:
     - utf16_bytes:
@@ -356,20 +347,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Prince Sidon is King Dorephan's son.\n\n\nDespite his position as true successor \nto the throne...he's very sociable."
+    - text: "ЀPrince Sidon is King Dorephan's son.\n\n\nDespite his position as true successor \nto the throne...he's very sociable."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat makes him popular with the youth.\nHowever, there are those among the\nelders"
+    - text: "\nThat makes him popular with the youth.\nHowever, there are those among the\nelders"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " who do not comprehend why\nhe behaves as he does."
+    - text: " who do not comprehend why\nhe behaves as he does."
     - utf16_bytes:
         - 0
   talk05:
@@ -378,14 +368,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĉThat is NOT an appropriate question to\nask a lady you've just met!\n\n"
+    - text: "ĉThat is NOT an appropriate question to\nask a lady you've just met!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4352
-    - ascii: "*sigh* Let's just say I'm less than\n100 years old. Can't you tell?\n\nI'm so much less formal than the elders...\naren't I?"
+    - text: "ᄀ*sigh* Let's just say I'm less than\n100 years old. Can't you tell?\n\nI'm so much less formal than the elders...\naren't I?"
     - utf16_bytes:
         - 0
   talk18:
@@ -395,12 +384,15 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Do you have any more questions?
+    - text: Do you have any more questions?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "4\t\"Npc_Zora034_Shido"
+    - text: "4"
+    - utf16_bytes:
+        - 9
+    - text: "\"Npc_Zora034_Shido"
     - utf16_bytes:
         - 5
         - 0
@@ -416,15 +408,14 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "At any rate, right now "
+    - text: "ကAt any rate, right now "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
@@ -435,13 +426,13 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "\nis looking for a Hylian warrior.\n\nFor more detailed information, "
+    - text: "\nis looking for a Hylian warrior.\n\nFor more detailed information, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "please go\nspeak with King Dorephan in the back."
+    - text: "please go\nspeak with King Dorephan in the back."
     - utf16_bytes:
         - 0
   talk19:
@@ -451,12 +442,15 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "By the way, did you need something\nfrom me?"
+    - text: "By the way, did you need something\nfrom me?"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "4\t\"Npc_Zora034_Shido"
+    - text: "4"
+    - utf16_bytes:
+        - 9
+    - text: "\"Npc_Zora034_Shido"
     - utf16_bytes:
         - 5
         - 0

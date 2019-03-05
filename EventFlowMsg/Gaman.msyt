@@ -1,21 +1,21 @@
 ---
 entries:
   Npc_Gaman01_S2_001:
-    - ascii: "This "
+    - text: "This "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "contest "
+    - text: "contest "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is really tough!\nNo one's passed it yet!"
+    - text: "is really tough!\nNo one's passed it yet!"
     - utf16_bytes:
         - 0
   Event_S1_002_03_01:
@@ -24,26 +24,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4102
-    - ascii: "It's where our ancestors trained...\nIt's considered the toughest test known\nto Goron kind!"
+    - text: "ဆIt's where our ancestors trained...\nIt's considered the toughest test known\nto Goron kind!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_S2_002:
-    - ascii: "Welcome back! Do ya wanna try the\n"
+    - text: "Welcome back! Do ya wanna try the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of ultimate endurance
+    - text: contest of ultimate endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 1
@@ -51,10 +50,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Event_S1_002_03_02:
-    - ascii: "That special training area is even harder\nthan the last ring..."
+    - text: "That special training area is even harder\nthan the last ring..."
     - utf16_bytes:
         - 0
   Npc_Gaman01_S2_003:
@@ -63,8 +63,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1026
-    - ascii: "That's the spirit! Now then, go climb\ninto the ring."
+    - text: "ЂThat's the spirit! Now then, go climb\ninto the ring."
     - utf16_bytes:
         - 0
   Event_S2_001_01_01:
@@ -73,7 +72,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉More heat, sister!"
+    - text: "촉More heat, sister!"
     - utf16_bytes:
         - 0
   Event_S1_003_03_01:
@@ -82,21 +81,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ဉIt's way too bad things turned out this\nway, sister. But I'm afraid the "
+    - text: "ဉIt's way too bad things turned out this\nway, sister. But I'm afraid the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "contest\nof endurance"
+    - text: "contest\nof endurance"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " ends here."
+    - text: " ends here."
     - utf16_bytes:
         - 0
   Npc_Gaman01_S2_004:
@@ -105,26 +104,25 @@ entries:
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "The "
+    - text: "ĂThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of ultimate endurance
+    - text: contest of ultimate endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nbegins as soon as ya climb into\nthe ring, sister!"
+    - text: "\nbegins as soon as ya climb into\nthe ring, sister!"
     - utf16_bytes:
         - 0
   Event_S2_001_01_02:
-    - ascii: "FIRE, sister!"
+    - text: "FIRE, sister!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_S2_005:
@@ -133,7 +131,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ࠊWhat?! Ya don't wanna challenge\nyourself? Disappointing, sister...\nI was gettin' all fired up too!"
+    - text: "ࠊWhat?! Ya don't wanna challenge\nyourself? Disappointing, sister...\nI was gettin' all fired up too!"
     - utf16_bytes:
         - 0
   Event_S2_001_01_03:
@@ -142,8 +140,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
-    - ascii: "Hot like lava, sister!"
+    - text: "촁Hot like lava, sister!"
     - utf16_bytes:
         - 0
   Event_S2_002_01_01:
@@ -152,12 +149,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5384
+    - text: ᔈ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}RAAAAARRRGGGGHHH!!"
+    - text: "}RAAAAARRRGGGGHHH!!"
     - utf16_bytes:
         - 14
         - 0
@@ -168,13 +166,13 @@ entries:
         - 1
         - 2
         - 2561
-    - ascii: "SO EPIC, SISTER!!"
+    - text: "SO EPIC, SISTER!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_Gaman01_S2_006:
@@ -184,28 +182,27 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "This contest won't just challenge you\nwith heat...but also with fire!\n\n"
+    - text: "This contest won't just challenge you\nwith heat...but also with fire!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "If ya lose your focus, "
+    - text: "ĂIf ya lose your focus, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "your body will\ncatch fire"
+    - text: "your body will\ncatch fire"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! Make sure you're prepared\nfor this, sister!"
+    - text: "! Make sure you're prepared\nfor this, sister!"
     - utf16_bytes:
         - 0
   Event_S2_002_01_02:
@@ -214,26 +211,27 @@ entries:
         - 3
         - 1
         - 2
-        - 2824
+    - text: ଈ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}You won the "
+    - text: "}You won the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "contest of ultimate\nendurance"
+    - text: "contest of ultimate\nendurance"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", little man!"
+    - text: ", little man!"
     - utf16_bytes:
         - 14
         - 0
@@ -243,14 +241,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "You're amazing!"
+    - text: "ਇYou're amazing!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Event_S2_001:
@@ -260,64 +257,64 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "You're standing up there, which can only\nmean one thing... "
+    - text: "You're standing up there, which can only\nmean one thing... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You ready to push\nyourself to your limits, sister?!\nThe rules for this "
+    - text: "You ready to push\nyourself to your limits, sister?!\nThe rules for this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "contest of ultimate\nendurance"
+    - text: "contest of ultimate\nendurance"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " are the same as ever.\nLeave the ring or faint, and it's over!\n"
+    - text: " are the same as ever.\nLeave the ring or faint, and it's over!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 776
-    - ascii: OK! Time for the world famous...
+    - text: OK! Time for the world famous...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: CONTEST OF ULTIMATE ENDURANCE
+    - text: CONTEST OF ULTIMATE ENDURANCE
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!!"
+    - text: "!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nGOOOOOO!"
+    - text: "\nGOOOOOO!"
     - utf16_bytes:
         - 0
   Npc_Gaman03_R_Near:
-    - ascii: "I'll do...my best..."
+    - text: "I'll do...my best..."
     - utf16_bytes:
         - 0
   Event_S2_001_02_01:
@@ -326,15 +323,15 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉No fear!
+    - text: 촉No fear!
     - utf16_bytes:
         - 0
   Event_S2_001_02_02:
-    - ascii: "Seize the heat, sister!"
+    - text: "Seize the heat, sister!"
     - utf16_bytes:
         - 0
   Npc_Gaman03_S1_001:
-    - ascii: Are you...any good?
+    - text: Are you...any good?
     - utf16_bytes:
         - 0
   Event_S2_001_02_03:
@@ -343,8 +340,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
-    - ascii: "A real trial by fire, sister!"
+    - text: "촁A real trial by fire, sister!"
     - utf16_bytes:
         - 0
   Event_S2_002_02_01:
@@ -354,7 +350,7 @@ entries:
         - 1
         - 2
         - 2561
-    - ascii: "What a powerful display! What fire!\nThat was somethin' else, sister!"
+    - text: "What a powerful display! What fire!\nThat was somethin' else, sister!"
     - utf16_bytes:
         - 0
   Event_S1_001_01_01:
@@ -363,7 +359,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촢Not yeett!!
+    - text: 촢Not yeett!!
     - utf16_bytes:
         - 0
   Event_S1_001_01_02:
@@ -372,11 +368,11 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촩Piece of...cake!
+    - text: 촩Piece of...cake!
     - utf16_bytes:
         - 0
   Npc_Gaman02_S1_001:
-    - ascii: "That fire in your eyes! I can almost see\nthe passion in your tiny belly!"
+    - text: "That fire in your eyes! I can almost see\nthe passion in your tiny belly!"
     - utf16_bytes:
         - 0
   Event_S1_002_01_01:
@@ -385,19 +381,17 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "You're amazing! I never woulda thought\nthe three Goron Blood Brothers could\nlose to you, sister!"
+    - text: "ขYou're amazing! I never woulda thought\nthe three Goron Blood Brothers could\nlose to you, sister!"
     - utf16_bytes:
         - 0
   Event_S1_002_01_02:
-    - ascii: "You see the ring behind me? The one\nsurrounded in fire? Do ya feel it in your\ngut"
+    - text: "You see the ring behind me? The one\nsurrounded in fire? Do ya feel it in your\ngut—"
     - utf16_bytes:
-        - 8212
         - 14
         - 5
         - 1
         - 0
-    - ascii: what a bad idea it is to go there?
+    - text: what a bad idea it is to go there?
     - utf16_bytes:
         - 0
   Event_S1_002_01_03:
@@ -407,48 +401,47 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "It's said that passin' this test will\nreveal a "
+    - text: "It's said that passin' this test will\nreveal a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: shrine
+    - text: shrine
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "or some such!\n\n"
+    - text: "or some such!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 258
-    - ascii: "If ya think you're ready, climb into the\nring. Do that, and our special "
+    - text: "ĂIf ya think you're ready, climb into the\nring. Do that, and our special "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "contest\nof ultimate endurance "
+    - text: "contest\nof ultimate endurance "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: will begin!
+    - text: will begin!
     - utf16_bytes:
         - 0
   Event_S1_003_01_01:
@@ -457,7 +450,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWhat's that about, sister?\nWhy'd ya leave the ring?!"
+        - 9
+    - text: "What's that about, sister?\nWhy'd ya leave the ring?!"
     - utf16_bytes:
         - 0
   Event_S1_003_01_02:
@@ -466,7 +460,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWhat's that about, sister? Ya tried to\nget away from the ring!"
+        - 9
+    - text: "What's that about, sister? Ya tried to\nget away from the ring!"
     - utf16_bytes:
         - 0
   Event_S2_001_03_01:
@@ -475,15 +470,15 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉My soul is on FIRE...
+    - text: 촉My soul is on FIRE...
     - utf16_bytes:
         - 0
   Npc_Gaman02_R_Near:
-    - ascii: Not yet! Not yet!
+    - text: Not yet! Not yet!
     - utf16_bytes:
         - 0
   Event_S2_001_03_02:
-    - ascii: Burning...soul...
+    - text: Burning...soul...
     - utf16_bytes:
         - 0
   Event_S2_001_03_03:
@@ -492,8 +487,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: Gonna get...burned out...
+    - text: 촀Gonna get...burned out...
     - utf16_bytes:
         - 0
   Talk_00:
@@ -502,12 +496,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -517,30 +512,31 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dOh! It's the fourth Goron Blood Sister!\nThe one who somehow beat our famous\nGut Check Challenge!\nThis is our ancestral training ground,\nlittle girl! We're smack in the middle\nof a "
+    - text: "dOh! It's the fourth Goron Blood Sister!\nThe one who somehow beat our famous\nGut Check Challenge!\nThis is our ancestral training ground,\nlittle girl! We're smack in the middle\nof a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of endurance
+    - text: contest of endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Sure, I'll give it a try."
+    - text: "Sure, I'll give it a try."
     - utf16_bytes:
         - 0
   Talk_01:
@@ -549,12 +545,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}FEEL THE BURN, SISTER!"
+    - text: "}FEEL THE BURN, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -564,30 +561,31 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dWe're trainin' to become even manlier\nGoron men, sister! Right now we're\ncompetin' to see who can "
+    - text: "dWe're trainin' to become even manlier\nGoron men, sister! Right now we're\ncompetin' to see who can "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: beat the heat
+    - text: beat the heat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Anything but that.
+    - text: Anything but that.
     - utf16_bytes:
         - 0
   Talk_02:
@@ -596,50 +594,51 @@ entries:
         - 3
         - 1
         - 2
-        - 4102
+    - text: ဆ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PSo sweaty...
+    - text: PSo sweaty...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Brother..."
+    - text: " Brother..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 4
-        - 0
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "dOf course, since ya beat the Gut Check\nChallenge, you'll wanna try this too.\n\nWe're Gorons, but we can't really stand\nthis extreme heat either..."
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "That's why we came here to train!\nAfter this, we'll be able to handle the\nextra heat in Goron City, no problem."
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "dOf course, since ya beat the Gut Check\nChallenge, you'll wanna try this too.\n\nWe're Gorons, but we can't really stand\nthis extreme heat either..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "That's why we came here to train!\nAfter this, we'll be able to handle the\nextra heat in Goron City, no problem."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Bring it.
+    - text: Bring it.
     - utf16_bytes:
         - 0
   Talk_03:
@@ -648,12 +647,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -663,12 +663,13 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dOh! It's the fourth Goron Blood Sister!\nThe one who beat our famous Gut Check\nChallenge!"
+    - text: "dOh! It's the fourth Goron Blood Sister!\nThe one who beat our famous Gut Check\nChallenge!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_R_Near:
@@ -677,7 +678,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Uuurrrrggggh!!
+    - text: 촉Uuurrrrggggh!!
     - utf16_bytes:
         - 0
   Event_S1_001_02_01:
@@ -686,11 +687,11 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촢Someone's wavin'..."
+    - text: "촢Someone's wavin'..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "Actually, no."
+    - text: "Actually, no."
     - utf16_bytes:
         - 0
   Talk_10:
@@ -699,12 +700,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -714,26 +716,27 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dHm? Ah! You're the little girl who\nattempted the Gut Check Challenge!\n\nThis here is our ancestral training\nground, sister! We're havin' a\n"
+    - text: "dHm? Ah! You're the little girl who\nattempted the Gut Check Challenge!\n\nThis here is our ancestral training\nground, sister! We're havin' a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of endurance
+    - text: contest of endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Event_S1_001_02_02:
@@ -742,8 +745,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: Is that...Grandpa?
+    - text: 촐Is that...Grandpa?
     - utf16_bytes:
         - 0
   Talk_11:
@@ -752,12 +754,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}FEEL THE BURN, SISTER!"
+    - text: "}FEEL THE BURN, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -767,26 +770,27 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dBut does someone who abandoned the\nGut Check Challenge really stand a\nchance of "
+    - text: "dBut does someone who abandoned the\nGut Check Challenge really stand a\nchance of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "beatin' the heat"
+    - text: "beatin' the heat"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 0
   Event_S1_002_02_01:
@@ -795,29 +799,25 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "In fact, I'm grantin' you the highest\nhonor"
-    - utf16_bytes:
-        - 8212
-    - ascii: "the chance to participate in\nthe "
+    - text: "ขIn fact, I'm grantin' you the highest\nhonor—the chance to participate in\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of ULTIMATE endurance
+    - text: contest of ULTIMATE endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Npc_Gaman03_S2_001:
-    - ascii: "A Goron's heart burns with passion...\nCompared to that, fire is nothin'..."
+    - text: "A Goron's heart burns with passion...\nCompared to that, fire is nothin'..."
     - utf16_bytes:
         - 0
   Talk_12:
@@ -826,50 +826,51 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
+    - text: ሆ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PSo sweaty...
+    - text: PSo sweaty...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Brother..."
+    - text: " Brother..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 4
-        - 0
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "dYou should train here before ya try to\ntake on the Gut Check Challenge.\n\nWe're Gorons, but we can't really stand\nthis extreme heat either..."
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "That's why we came here to train!\nAfter this, we'll be able to handle the\nextreme heat in Goron City, no problem."
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "dYou should train here before ya try to\ntake on the Gut Check Challenge.\n\nWe're Gorons, but we can't really stand\nthis extreme heat either..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "That's why we came here to train!\nAfter this, we'll be able to handle the\nextreme heat in Goron City, no problem."
     - utf16_bytes:
         - 0
   Event_S1_002_02_02:
-    - ascii: "Your gut is dead on, sister!"
+    - text: "Your gut is dead on, sister!"
     - utf16_bytes:
         - 0
   Event_S1_003_02_01:
@@ -878,21 +879,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ఉThe rules say ya have to complete the\n"
+    - text: "ఉThe rules say ya have to complete the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "contest "
+    - text: "contest "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in the ring! Leavin' is the\nexact opposite of that!"
+    - text: "in the ring! Leavin' is the\nexact opposite of that!"
     - utf16_bytes:
         - 0
   Talk_20:
@@ -901,12 +902,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -916,12 +918,13 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dHey! You're the little girl who's tryin' to\nbeat the Gut Check Challenge and the\ncontest of endurance!"
+    - text: "dHey! You're the little girl who's tryin' to\nbeat the Gut Check Challenge and the\ncontest of endurance!"
     - utf16_bytes:
         - 0
   Event_S1_003_02_02:
@@ -930,21 +933,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ఉThe rules say ya have to complete the\n"
+    - text: "ఉThe rules say ya have to complete the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "contest "
+    - text: "contest "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in the ring! Leavin' isn't part\nof it!"
+    - text: "in the ring! Leavin' isn't part\nof it!"
     - utf16_bytes:
         - 0
   Talk_21:
@@ -953,38 +956,37 @@ entries:
         - 3
         - 1
         - 2
-        - 1544
-    - ascii: HUH?!
+    - text: ؈HUH?!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Is that heat-resistant gear ya\nhave there, sister?\n\nA real Goron woman shouldn't have to rely\non wussy stuff like that!"
+    - text: " Is that heat-resistant gear ya\nhave there, sister?\n\nA real Goron woman shouldn't have to rely\non wussy stuff like that!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Goron up and\ntake the challenge without any help!"
+    - text: " Goron up and\ntake the challenge without any help!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_S1_001:
-    - ascii: The
+    - text: The
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " contest"
+    - text: " contest"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " will begin when ya climb\ninto the ring, sister!"
+    - text: " will begin when ya climb\ninto the ring, sister!"
     - utf16_bytes:
         - 0
   Talk_22:
@@ -993,19 +995,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWait..."
+        - 9
+    - text: Wait...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How did this happen?!"
+    - text: " How did this happen?!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " When did\nya pull the ol' switcheroo and put on\nheat-resistant gear, sister?"
+    - text: " When did\nya pull the ol' switcheroo and put on\nheat-resistant gear, sister?"
     - utf16_bytes:
         - 0
   Npc_Gaman01_R_001:
@@ -1014,12 +1017,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -1029,26 +1033,27 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dThis is our ancestral training ground!\nUs three Goron Blood Brothers are in the\nmidst of a "
+    - text: "dThis is our ancestral training ground!\nUs three Goron Blood Brothers are in the\nmidst of a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of endurance
+    - text: contest of endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Event_S2_002_03_01:
@@ -1057,28 +1062,27 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "⨊Whoa! That's a "
+    - text: "⨊Whoa! That's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: shrine
+    - text: shrine
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...or some such!\nIt really appeared, just like that!\n\n"
+    - text: "...or some such!\nIt really appeared, just like that!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "So the legend is true, sister!!"
+    - text: "āSo the legend is true, sister!!"
     - utf16_bytes:
         - 0
   Talk_23:
@@ -1087,32 +1091,31 @@ entries:
         - 3
         - 1
         - 2
-        - 3080
-    - ascii: "Our sacred "
+    - text: "ఈOur sacred "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of endurance
+    - text: contest of endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is a test\nof grit, sister! "
+    - text: " is a test\nof grit, sister! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Use that heat-resistant\nnonsense, and you'll be disqualified!"
+    - text: "Use that heat-resistant\nnonsense, and you'll be disqualified!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_R_002:
-    - ascii: "Hey, I have an idea!"
+    - text: "Hey, I have an idea!"
     - utf16_bytes:
         - 0
   Npc_Gaman02_R_001:
@@ -1121,12 +1124,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}FEEL THE BURN, SISTER!"
+    - text: "}FEEL THE BURN, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -1136,26 +1140,27 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dWe're trainin' to become strong and\npowerful Gorons! Right now we're\ncompetin' to "
+    - text: "dWe're trainin' to become strong and\npowerful Gorons! Right now we're\ncompetin' to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: beat the heat
+    - text: beat the heat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_R_003:
@@ -1164,12 +1169,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}PUMP IT UP, SISTER!"
+    - text: "}PUMP IT UP, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -1179,20 +1185,21 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dOh, you're the one who was here before!"
+    - text: "dOh, you're the one who was here before!"
     - utf16_bytes:
         - 0
   Npc_Gaman02_R_002:
-    - ascii: Come join us!
+    - text: Come join us!
     - utf16_bytes:
         - 0
   Npc_Gaman01_R_004:
-    - ascii: Good answer!
+    - text: Good answer!
     - utf16_bytes:
         - 0
   Npc_Gaman03_R_001:
@@ -1201,46 +1208,47 @@ entries:
         - 3
         - 1
         - 2
-        - 11014
+    - text: ⬆
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PSo sweaty... "
+    - text: "PSo sweaty... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Brother...
+    - text: Brother...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 4
-        - 0
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "dWe're Gorons...but the heat is too much\nfor us these days..."
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "It's too hot to handle in Goron City...\nso we came here to train ourselves..."
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "dWe're Gorons...but the heat is too much\nfor us these days..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "It's too hot to handle in Goron City...\nso we came here to train ourselves..."
     - utf16_bytes:
         - 0
   Npc_Gaman02_R_003:
@@ -1249,12 +1257,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
+    - text: จ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}FEEL THE BURN, SISTER!"
+    - text: "}FEEL THE BURN, SISTER!"
     - utf16_bytes:
         - 14
         - 0
@@ -1264,12 +1273,13 @@ entries:
         - 3
         - 1
         - 2
-        - 258
+    - text: Ă
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dIf you've come back here, then that\ncan only mean one thing..."
+    - text: "dIf you've come back here, then that\ncan only mean one thing..."
     - utf16_bytes:
         - 0
   Npc_Gaman01_R_005:
@@ -1278,22 +1288,21 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "When you're ready, step up onto this\nplatform! Then the "
+    - text: "촂When you're ready, step up onto this\nplatform! Then the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: contest of endurance
+    - text: contest of endurance
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwill commence!"
+    - text: "\nwill commence!"
     - utf16_bytes:
         - 0
   Event_S1_001_03_01:
@@ -1302,25 +1311,25 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촩Phew! Phew!
+    - text: 촩Phew! Phew!
     - utf16_bytes:
         - 0
   Npc_Gaman03_R_002:
-    - ascii: Yeah! Come try the
+    - text: Yeah! Come try the
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " contest of endurance"
+    - text: " contest of endurance"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nyourself...sister!"
+    - text: "\nyourself...sister!"
     - utf16_bytes:
         - 14
         - 1
@@ -1328,10 +1337,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Gaman02_R_004:
-    - ascii: "A girl like you has a burning passion\nin her belly!"
+    - text: "A girl like you has a burning passion\nin her belly!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_R_006:
@@ -1340,7 +1350,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat a wobbly-kneed way of thinkin'!"
+    - text: "\nWhat a wobbly-kneed way of thinkin'!"
     - utf16_bytes:
         - 0
   Event_S1_001_03_02:
@@ -1349,7 +1359,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촠I can't...go on..."
+    - text: "촠I can't...go on..."
     - utf16_bytes:
         - 0
   Npc_Gaman03_R_003:
@@ -1358,30 +1368,31 @@ entries:
         - 3
         - 1
         - 2
-        - 11014
+    - text: ⬆
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PSo sweaty...
+    - text: PSo sweaty...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Brother..."
+    - text: " Brother..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
@@ -1391,7 +1402,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dAre you in the mood...to test your\nendurance with us...sister?"
+    - text: "dAre you in the mood...to test your\nendurance with us...sister?"
     - utf16_bytes:
         - 14
         - 1
@@ -1399,7 +1410,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Gaman02_R_005:
     - utf16_bytes:
@@ -1407,7 +1419,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nAnd we thought you were a girl who\nhad her priorities straight!"
+    - text: "\nAnd we thought you were a girl who\nhad her priorities straight!"
     - utf16_bytes:
         - 0
   Npc_Gaman01_R_007:
@@ -1416,12 +1428,11 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: "If ya change your mind, come right\nback here!"
+    - text: "ĈIf ya change your mind, come right\nback here!"
     - utf16_bytes:
         - 0
   Npc_Gaman03_R_004:
-    - ascii: "It's inspiring...sister!"
+    - text: "It's inspiring...sister!"
     - utf16_bytes:
         - 0
   Npc_Gaman02_R_006:
@@ -1430,8 +1441,7 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: "We'll be here, waitin' on ya to grow\nsome grit."
+    - text: "ĈWe'll be here, waitin' on ya to grow\nsome grit."
     - utf16_bytes:
         - 0
   Event_S1_001:
@@ -1440,7 +1450,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촌If ya leave the ring or pass out,\nit's all over! You lose! Got it?\n\nOK... Now prepare yourself for the..."
+    - text: "촌If ya leave the ring or pass out,\nit's all over! You lose! Got it?\n\nOK... Now prepare yourself for the..."
     - utf16_bytes:
         - 14
         - 0
@@ -1450,26 +1460,27 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: CONTEST OF ENDURANCE
+    - text: CONTEST OF ENDURANCE
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!!"
+    - text: "!!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nGOOOOOO!"
+    - text: "\nGOOOOOO!"
     - utf16_bytes:
         - 0
   Npc_Gaman03_R_005:
@@ -1478,8 +1489,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3078
-    - ascii: How could we have...been so wrong?
+    - text: ఆHow could we have...been so wrong?
     - utf16_bytes:
         - 0
   Npc_Gaman02_R_007:
@@ -1488,22 +1498,23 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}BEYOND MACHO!"
+    - text: ข
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: "}BEYOND MACHO!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   Npc_Gaman03_R_006:
-    - ascii: "When ya do...come show us what...\nyou're made of!"
+    - text: "When ya do...come show us what...\nyou're made of!"
     - utf16_bytes:
         - 0
   Npc_Gaman03_R_007:
@@ -1512,27 +1523,28 @@ entries:
         - 3
         - 1
         - 2
-        - 4102
+    - text: ဆ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PI'm a manly Goron man... "
+    - text: "PI'm a manly Goron man... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Brother...
+    - text: Brother...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_Gaman02_S2_001:
-    - ascii: "That place is hotter than a freshly grilled\nrock roast! You really think you can\nhandle it, sister?"
+    - text: "That place is hotter than a freshly grilled\nrock roast! You really think you can\nhandle it, sister?"
     - utf16_bytes:
         - 0

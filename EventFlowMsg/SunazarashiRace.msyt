@@ -1,7 +1,7 @@
 ---
 entries:
   Npc_oasis039_R_Near:
-    - ascii: "Finally, Tali!"
+    - text: "Finally, Tali!"
     - utf16_bytes:
         - 0
   Npc_oasis039_S1_100:
@@ -11,42 +11,42 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ride the "
+    - text: "Ride the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand seal "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to compete for the\nbest time while also going through\nthe marked arches.\nIf you get off your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "shield or leave the\ncourse bounds"
+    - text: "sand seal "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you're disqualified.\n\n"
+    - text: "to compete for the\nbest time while also going through\nthe marked arches.\nIf you get off your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "shield or leave the\ncourse bounds"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you're disqualified.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you beat the champion's record\nof "
+    - text: "If you beat the champion's record\nof "
     - utf16_bytes:
         - 14
         - 0
@@ -56,25 +56,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: 84SunazarashiRace_BestTime_L
-    - utf16_bytes:
-        - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ":"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-        - 14
-        - 2
-        - 14
-    - ascii: 84SunazarashiRace_BestTime_M
+    - text: 84SunazarashiRace_BestTime_L
     - utf16_bytes:
         - 0
         - 14
@@ -82,34 +64,51 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: ", you become the new\nworld champion!\nNot only that, but you'll also receive the\ngrand trophy, which has been passed\ndown for generations!"
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 14
+    - text: 84SunazarashiRace_BestTime_M
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you become the new\nworld champion!\nNot only that, but you'll also receive the\ngrand trophy, which has been passed\ndown for generations!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nBut that's enough talk. Time to put your\nrupees where your mouth is.\n\n"
+    - text: "\nBut that's enough talk. Time to put your\nrupees where your mouth is.\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "It costs "
+    - text: "촂It costs "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 50 rupees
+    - text: 50 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " per attempt. Are you\nready to challenge the champion's time?"
+    - text: " per attempt. Are you\nready to challenge the champion's time?"
     - utf16_bytes:
         - 14
         - 1
@@ -117,9 +116,9 @@ entries:
         - 8
         - 8
         - 18
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   Npc_oasis039_S1_001:
     - utf16_bytes:
@@ -132,34 +131,35 @@ entries:
         - 4
         - 1
         - 2
-        - 52480
+    - text: 촀
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sand-seal racing
+    - text: Sand-seal racing
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", the traditional\nGerudo sport!\n\nBeat the great Tali's time and walk away\nwith the one and only trophy! Just\n"
+    - text: ", the traditional\nGerudo sport!\n\nBeat the great Tali's time and walk away\nwith the one and only trophy! Just\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 50 rupees
+    - text: 50 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " per race. How about it?"
+    - text: " per race. How about it?"
     - utf16_bytes:
         - 14
         - 1
@@ -167,9 +167,9 @@ entries:
         - 8
         - 8
         - 18
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   Talk_0000:
     - utf16_bytes:
@@ -177,8 +177,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "..."
+    - text: Ā...
     - utf16_bytes:
         - 14
         - 5
@@ -192,21 +191,21 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Excellent. A good answer is a rare thing\nthese days. That'll be "
+    - text: "Excellent. A good answer is a rare thing\nthese days. That'll be "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 50 rupees
+    - text: 50 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Npc_oasis039_S1_003:
@@ -215,14 +214,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hehe, these stomach butterflies before a\nrace..."
+    - text: "ĀHehe, these stomach butterflies before a\nrace..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nI never get sick of it."
+    - text: "\n\nI never get sick of it."
     - utf16_bytes:
         - 0
   Talk_0005:
@@ -232,95 +230,90 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: What do you want?
+    - text: What do you want?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The great Tali\ndoesn't have time to chat with just\nanyone!\nYou see, now that the "
+    - text: " The great Tali\ndoesn't have time to chat with just\nanyone!\nYou see, now that the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is\ngone, we can finally use the race course.\n\n"
+    - text: " is\ngone, we can finally use the race course.\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tali
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is busy focusing her energy for the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand-seal race
+    - text: Tali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " is busy focusing her energy for the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sand-seal race
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: Actually...
+    - text: ᤀActually...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Did you want to try to beat Tali's record?"
+    - text: "ĀDid you want to try to beat Tali's record?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll warn you"
-    - utf16_bytes:
-        - 8212
-    - ascii: "they don't call her Dame\nof the Dunes for nothing."
+    - text: "\nI'll warn you—they don't call her Dame\nof the Dunes for nothing."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 11
         - 21
@@ -328,7 +321,7 @@ entries:
         - 768
         - 0
   "0008":
-    - ascii: "Let's do this."
+    - text: "Let's do this."
     - utf16_bytes:
         - 0
   Npc_oasis039_S1_007:
@@ -338,55 +331,55 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey, hey, hey! You don't have a "
+    - text: "Hey, hey, hey! You don't have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: shield
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "!\n\n\nDidn't they teach you in school that you\nneed a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "shield "
+    - text: shield
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: to sand-seal surf?
+    - text: "!\n\n\nDidn't they teach you in school that you\nneed a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "shield "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: to sand-seal surf?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat's basic knowledge!\nCome back when you've got a "
+    - text: "\nThat's basic knowledge!\nCome back when you've got a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: shield
+    - text: shield
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Talk_0006:
@@ -395,26 +388,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1032
-    - ascii: "Hey, hey now!\nTali is Tali!\n\nTali is the "
+    - text: "ЈHey, hey now!\nTali is Tali!\n\nTali is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-seal-racing world\nchampion"
+    - text: "sand-seal-racing world\nchampion"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! Who else would Tali be?"
+    - text: "! Who else would Tali be?"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Hold on.
+    - text: Hold on.
     - utf16_bytes:
         - 0
   Npc_oasis038_Demo330_1_530:
@@ -423,8 +415,7 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "...Just three years?"
+    - text: ą...Just three years?
     - utf16_bytes:
         - 14
         - 5
@@ -437,25 +428,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ጊYou've never heard of Hyrule's pastime?\nThe world-famous "
+    - text: "ጊYou've never heard of Hyrule's pastime?\nThe world-famous "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sand-seal racing
+    - text: sand-seal racing
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Sand-seal race?
+    - text: Sand-seal race?
     - utf16_bytes:
         - 0
   Talk_0008:
@@ -464,19 +455,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you must know, I am the one who\nraised Tali into a world champion.\n\n"
+    - text: "ЀIf you must know, I am the one who\nraised Tali into a world champion.\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52503
-    - ascii: "She's always been shy, but for some \nreason she opened up to me.\nIsn't that right, Tali?"
+    - text: "촗She's always been shy, but for some \nreason she opened up to me.\nIsn't that right, Tali?"
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Tali?
+    - text: Tali?
     - utf16_bytes:
         - 0
   Talk_0009:
@@ -486,26 +475,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Now we ride!\nNow that the "
+    - text: "Now we ride!\nNow that the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is gone, we\ncan take the seals out again.\nI doubt anyone in the world can beat\nTali's time, though."
+    - text: " is gone, we\ncan take the seals out again.\nI doubt anyone in the world can beat\nTali's time, though."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 11
         - 21
@@ -523,8 +512,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: I need to sit down for a moment...
+    - text: 촄I need to sit down for a moment...
     - utf16_bytes:
         - 0
   Talk_0010:
@@ -534,13 +522,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey, are you really just going to leave?!"
+    - text: "Hey, are you really just going to leave?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nTali wants to see what you've got.\n\nA true vai never backs down from a\nchallenge."
+    - text: "\nTali wants to see what you've got.\n\nA true vai never backs down from a\nchallenge."
     - utf16_bytes:
         - 0
   Talk_0011:
@@ -549,40 +537,39 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The competition will, of course, be\na "
+    - text: "ĀThe competition will, of course, be\na "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sand-seal
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: race
+    - text: sand-seal
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: race
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: Of course.
+    - text: Of course.
     - utf16_bytes:
         - 0
   Talk_0012:
@@ -592,39 +579,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You surf with a "
+    - text: "You surf with a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand seal "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to compete for\nthe best time while also going through\nthe marked arches.\nIt's been a traditional Gerudo sport since\ntime immemorial!\n\nOh, yes. And if you get off your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "shield or\nleave the course bounds"
+    - text: "sand seal "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you're\ndisqualified."
+    - text: "to compete for\nthe best time while also going through\nthe marked arches.\nIt's been a traditional Gerudo sport since\ntime immemorial!\n\nOh, yes. And if you get off your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "shield or\nleave the course bounds"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you're\ndisqualified."
     - utf16_bytes:
         - 0
   "0015":
-    - ascii: "I'll pass."
+    - text: "I'll pass."
     - utf16_bytes:
         - 0
   Talk_0013:
@@ -634,7 +621,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Tali's record is "
+    - text: "Tali's record is "
     - utf16_bytes:
         - 14
         - 0
@@ -644,25 +631,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: 84SunazarashiRace_BestTime_L
-    - utf16_bytes:
-        - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ":"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-        - 14
-        - 2
-        - 14
-    - ascii: 84SunazarashiRace_BestTime_M
+    - text: 84SunazarashiRace_BestTime_L
     - utf16_bytes:
         - 0
         - 14
@@ -670,25 +639,43 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "!\nIf you can beat that record,\nthat "
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 14
+    - text: 84SunazarashiRace_BestTime_M
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nIf you can beat that record,\nthat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: trophy
+    - text: trophy
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is yours. "
+    - text: " is yours. "
     - utf16_bytes:
         - 0
   "0016":
-    - ascii: OK.
+    - text: OK.
     - utf16_bytes:
         - 0
   Npc_oasis038_AfterGoal_010:
@@ -698,13 +685,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, you passed through all of the\narches..."
+    - text: "Well, you passed through all of the\narches..."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "But you didn't break the champ's\nrecord of "
+    - text: "But you didn't break the champ's\nrecord of "
     - utf16_bytes:
         - 14
         - 0
@@ -714,25 +701,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: 84SunazarashiRace_BestTime_L
-    - utf16_bytes:
-        - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ":"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-        - 14
-        - 2
-        - 14
-    - ascii: 84SunazarashiRace_BestTime_M
+    - text: 84SunazarashiRace_BestTime_L
     - utf16_bytes:
         - 0
         - 14
@@ -740,7 +709,25 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: ".\nToo bad."
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 14
+    - text: 84SunazarashiRace_BestTime_M
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nToo bad."
     - utf16_bytes:
         - 0
   Talk_0014:
@@ -749,26 +736,25 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "This is the "
+    - text: "촂This is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: grand trophy
+    - text: grand trophy
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that's been\npassed down by ten thousand years of\nsand-seal-racing champions."
+    - text: " that's been\npassed down by ten thousand years of\nsand-seal-racing champions."
     - utf16_bytes:
         - 0
   "0017":
-    - ascii: Forget it.
+    - text: Forget it.
     - utf16_bytes:
         - 0
   Talk_0015:
@@ -777,8 +763,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Tali here is the current champion.\nWill you try challenging her record?"
+    - text: "ĀTali here is the current champion.\nWill you try challenging her record?"
     - utf16_bytes:
         - 14
         - 1
@@ -786,10 +771,11 @@ entries:
         - 6
         - 14
         - 15
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0018":
-    - ascii: Tell me the rules.
+    - text: Tell me the rules.
     - utf16_bytes:
         - 0
   Npc_oasis039_S3_001:
@@ -799,13 +785,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Oh...
+    - text: Oh...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nI guess you're the new champion now.\n\n\nThere's a legend shared among sand-\nseal racers that the grand trophy is the\nkey to finding an ancient treasure.\n...But that's a load of seal snot if you ask\nme."
+    - text: "\n\n\nI guess you're the new champion now.\n\n\nThere's a legend shared among sand-\nseal racers that the grand trophy is the\nkey to finding an ancient treasure.\n...But that's a load of seal snot if you ask\nme."
     - utf16_bytes:
         - 0
   Talk_0016:
@@ -814,44 +800,41 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊWha
-    - utf16_bytes:
-        - 8212
-    - ascii: "?\n\n\n...\n\n\n"
+    - text: "ᔊWha—?\n\n\n...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Oh, well. No point in having some\nnobody try to beat Tali's record anyway.\n\n"
+    - text: "Oh, well. No point in having some\nnobody try to beat Tali's record anyway.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "She'd sweep the floor with you...\nand mop it, too!"
+    - text: "She'd sweep the floor with you...\nand mop it, too!"
     - utf16_bytes:
         - 0
   "0019":
-    - ascii: I want to try again.
+    - text: I want to try again.
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: Not right now.
+    - text: Not right now.
     - utf16_bytes:
         - 0
   "0021":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   "0022":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   "0023":
-    - ascii: "I'm ready to race. "
+    - text: "I'm ready to race. "
     - utf16_bytes:
         - 0
   Talk_0022:
@@ -860,22 +843,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I forgot to mention...\nSince you're racing against the champ's\nrecord, it'll be "
+    - text: "ЀI forgot to mention...\nSince you're racing against the champ's\nrecord, it'll be "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 50 rupees
+    - text: 50 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " per race."
+    - text: " per race."
     - utf16_bytes:
         - 14
         - 1
@@ -883,7 +865,8 @@ entries:
         - 6
         - 16
         - 17
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_0023:
     - utf16_bytes:
@@ -891,8 +874,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: All right. Payday!
+    - text: इAll right. Payday!
     - utf16_bytes:
         - 0
   Npc_oasis038_AfterGoal_020:
@@ -902,21 +884,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You'll have to pass through all "
+    - text: "You'll have to pass through all "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: seven
+    - text: seven
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\narches on the course, or you'll be\ndisqualified.\nDon't forget!"
+    - text: "\narches on the course, or you'll be\ndisqualified.\nDon't forget!"
     - utf16_bytes:
         - 0
   Talk_0025:
@@ -926,49 +908,49 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You surf with a "
+    - text: "You surf with a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand seal "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and race to the\nfinish line while also going through the\narches. That's "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand-seal racing
+    - text: "sand seal "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nAnd if you get off your "
+    - text: "and race to the\nfinish line while also going through the\narches. That's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: "shield or\nleave the course bounds"
+        - 2
+    - text: sand-seal racing
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you're\ndisqualified."
+    - text: "!\nAnd if you get off your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "shield or\nleave the course bounds"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you're\ndisqualified."
     - utf16_bytes:
         - 0
   Talk_0026:
@@ -977,36 +959,33 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊWha
-    - utf16_bytes:
-        - 8212
-    - ascii: "?!"
+    - text: ᔊWha—?!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " HAHA!"
+    - text: " HAHA!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "You can't even afford the modest price to\nchallenge the champ's time?\n\n"
+    - text: "You can't even afford the modest price to\nchallenge the champ's time?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "The race is off! It'd be a waste of time\nfor some scrub like you to take on the\ngreat Tali!"
+    - text: "The race is off! It'd be a waste of time\nfor some scrub like you to take on the\ngreat Tali!"
     - utf16_bytes:
         - 0
   Talk_0027:
@@ -1016,13 +995,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey, are you really just going to leave?!"
+    - text: "Hey, are you really just going to leave?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nTali wants to see what you've got.\n\nA voe's voe wouldn't back down."
+    - text: "\nTali wants to see what you've got.\n\nA voe's voe wouldn't back down."
     - utf16_bytes:
         - 0
   Talk_0028:
@@ -1032,89 +1011,84 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: You again!
+    - text: You again!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Don't bother "
+    - text: " Don't bother "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tali
+    - text: Tali
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " while she's\ngetting pumped up for the\n"
+    - text: " while she's\ngetting pumped up for the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sand-seal race
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "!\nNow that the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast
+    - text: sand-seal race
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is gone, we\ncan finally use the race course!\n\n"
+    - text: "!\nNow that the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is gone, we\ncan finally use the race course!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: Actually...
+    - text: ᤀActually...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Did you want to try to beat Tali's record?"
+    - text: "ĀDid you want to try to beat Tali's record?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll warn you"
-    - utf16_bytes:
-        - 8212
-    - ascii: "they don't call her Dame\nof the Dunes for nothing."
+    - text: "\nI'll warn you—they don't call her Dame\nof the Dunes for nothing."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 11
         - 21
@@ -1127,8 +1101,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6407
-    - ascii: "Haha!\nYou're so funny, Tali."
+    - text: "ᤇHaha!\nYou're so funny, Tali."
     - utf16_bytes:
         - 0
   Npc_oasis038_S1_001:
@@ -1137,8 +1110,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I didn't think you were a quitter."
+    - text: "इI didn't think you were a quitter."
     - utf16_bytes:
         - 0
   Talk_0030:
@@ -1148,44 +1120,42 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: You again!
+    - text: You again!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Tali is too important to be\nmingling with common folk."
+    - text: " Tali is too important to be\nmingling with common folk."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " She's the\nsand-seal racing champion!\n"
+    - text: " She's the\nsand-seal racing champion!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: Or...
+    - text: ᤀOr...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "So you do want to challenge the\nchampion's record after all?"
+    - text: "ĀSo you do want to challenge the\nchampion's record after all?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 23
         - 21
@@ -1199,26 +1169,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Now we ride!\nNow that the "
+    - text: "Now we ride!\nNow that the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is gone, we\ncan take the seals out again.\nI doubt anyone in the world can beat\nTali's time, though."
+    - text: " is gone, we\ncan take the seals out again.\nI doubt anyone in the world can beat\nTali's time, though."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 23
         - 21
@@ -1231,8 +1201,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I thought everyone knew about it.\nIsn't that shocking, Tali?"
+    - text: "ĀI thought everyone knew about it.\nIsn't that shocking, Tali?"
     - utf16_bytes:
         - 0
   Npc_oasis038_AfterGoal_030:
@@ -1246,8 +1215,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "...Come show us your funky seal\ntechnique again sometime..."
+    - text: "촇...Come show us your funky seal\ntechnique again sometime..."
     - utf16_bytes:
         - 0
   Npc_oasis039_R_005:
@@ -1257,7 +1225,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Then let's do this!"
+    - text: "Then let's do this!"
     - utf16_bytes:
         - 0
   Npc_oasis039_Demo330_1_510:
@@ -1271,8 +1239,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52503
-    - ascii: "Never thought I'd see that record broken\nin my lifetime."
+    - text: "촗Never thought I'd see that record broken\nin my lifetime."
     - utf16_bytes:
         - 0
   Npc_oasis039_S2_001:
@@ -1282,21 +1249,21 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey, hey, HEY! I told you, "
+    - text: "Hey, hey, HEY! I told you, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "you can't get\noff your shield"
+    - text: "you can't get\noff your shield"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nThat's it. The race is over!"
+    - text: "!\n\nThat's it. The race is over!"
     - utf16_bytes:
         - 0
   Npc_oasis039_S2_002:
@@ -1305,13 +1272,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Pfft... You need some training wheels on\nthat sand seal?"
+    - text: "촇Pfft... You need some training wheels on\nthat sand seal?"
     - utf16_bytes:
         - 0
   Npc_oasis039_S2_003:
@@ -1321,21 +1288,21 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey, hey, hey! I told you, "
+    - text: "Hey, hey, hey! I told you, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "you can't leave\nthe course bounds"
+    - text: "you can't leave\nthe course bounds"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nThat's it. This race is over!"
+    - text: "!\n\nThat's it. This race is over!"
     - utf16_bytes:
         - 0
   Npc_oasis039_S2_004:
@@ -1345,7 +1312,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey, hey, hey!\n\n\nIf you need something, you talk to me.\n\n\nTali is the world champion! You can't\njust walk up and talk to her!"
+    - text: "Hey, hey, hey!\n\n\nIf you need something, you talk to me.\n\n\nTali is the world champion! You can't\njust walk up and talk to her!"
     - utf16_bytes:
         - 0
   Talk_0040:
@@ -1355,7 +1322,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hey, hey, hey!\nYou don't have the 'pees!"
+    - text: "Hey, hey, hey!\nYou don't have the 'pees!"
     - utf16_bytes:
         - 0
   Npc_oasis039_S2_005:
@@ -1369,22 +1336,21 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "You want to try again? It'll be another\n"
+    - text: "촂You want to try again? It'll be another\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 50 rupees
+    - text: 50 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -1392,7 +1358,8 @@ entries:
         - 6
         - 19
         - 20
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_0041:
     - utf16_bytes:
@@ -1400,8 +1367,7 @@ entries:
         - 3
         - 1
         - 2
-        - 264
-    - ascii: "How dare you bring chump change\nto the house of Tali!"
+    - text: "ĈHow dare you bring chump change\nto the house of Tali!"
     - utf16_bytes:
         - 0
   Npc_oasis038_S3_001:
@@ -1410,21 +1376,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "..."
+    - text: Ā...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: That was some solid riding...
+    - text: 촂That was some solid riding...
     - utf16_bytes:
         - 0
   Npc_oasis039_S2_006:
@@ -1438,8 +1402,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Heh, I see you now understand how\ndifficult the record is to crack.\n\nOur Tali is a world champion!\nCome back after you get some practice."
+    - text: "촇Heh, I see you now understand how\ndifficult the record is to crack.\n\nOur Tali is a world champion!\nCome back after you get some practice."
     - utf16_bytes:
         - 0
   Talk_0042:
@@ -1449,7 +1412,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Enough talk!\nLet's begin!"
+    - text: "Enough talk!\nLet's begin!"
     - utf16_bytes:
         - 0
   Npc_oasis038_S3_002:
@@ -1458,14 +1421,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nHeh...\n\n\n"
+    - text: "\nHeh...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The champion talking to someone\nbesides me? I must admit...\nI'm a little jealous."
+    - text: "The champion talking to someone\nbesides me? I must admit...\nI'm a little jealous."
     - utf16_bytes:
         - 0
   Npc_oasis039_Demo330_1_520:
@@ -1479,10 +1442,6 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: I got so excited seeing a run that good
-    - utf16_bytes:
-        - 8212
-    - ascii: "\nit probably shaved three years off of my\nlife."
+    - text: "초I got so excited seeing a run that good—\nit probably shaved three years off of my\nlife."
     - utf16_bytes:
         - 0

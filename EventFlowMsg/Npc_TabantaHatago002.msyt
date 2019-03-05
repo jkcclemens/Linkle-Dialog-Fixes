@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Ugh, why do some people equate the\nunnecessary pursuit of power with\nsome childish dream of adventure?\nThat sword may be good for slaying\nmonsters, sure, but it's not like a\nsword alone makes a heroine. Ya know?"
+    - text: "Ugh, why do some people equate the\nunnecessary pursuit of power with\nsome childish dream of adventure?\nThat sword may be good for slaying\nmonsters, sure, but it's not like a\nsword alone makes a heroine. Ya know?"
     - utf16_bytes:
         - 14
         - 1
@@ -15,10 +15,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: I love adventure...
+    - text: I love adventure...
     - utf16_bytes:
         - 0
   talk_0002:
@@ -28,17 +29,17 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Huh?
+    - text: Huh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Oh, I guess you did venture all the\nway out to a stable in the mountains,\ndidn't you..."
+    - text: " Oh, I guess you did venture all the\nway out to a stable in the mountains,\ndidn't you..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: I guess.
+    - text: I guess.
     - utf16_bytes:
         - 0
   talk_0003:
@@ -47,22 +48,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If the "
+    - text: "ЀIf the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sword that seals the darkness
+    - text: sword that seals the darkness
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nor whatever it's called really exists...\n\nI hope a kind swordsman like you will be\nthe one to wield it."
+    - text: "\nor whatever it's called really exists...\n\nI hope a kind swordsman like you will be\nthe one to wield it."
     - utf16_bytes:
         - 0
   talk_5000:
@@ -72,7 +72,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I overheard what you and Danton were\ntalking about.\n\nI can't do much to help, but...I'll keep\nthis stable clean and tidy, so please\ncome rest here when you need to."
+    - text: "I overheard what you and Danton were\ntalking about.\n\nI can't do much to help, but...I'll keep\nthis stable clean and tidy, so please\ncome rest here when you need to."
     - utf16_bytes:
         - 0
   talk_1000:
@@ -82,7 +82,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I've got to clean while it's still dark...\nMust clean..."
+    - text: "I've got to clean while it's still dark...\nMust clean..."
     - utf16_bytes:
         - 0
   talk_2000:
@@ -92,26 +92,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Welcome to "
+    - text: "Welcome to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Snowfield Stable
+    - text: Snowfield Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "If you're planning to head deeper into\nthe snow, I recommend resting in one\nof our soft beds first."
+    - text: "If you're planning to head deeper into\nthe snow, I recommend resting in one\nof our soft beds first."
     - utf16_bytes:
         - 0

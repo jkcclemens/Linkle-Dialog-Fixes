@@ -6,12 +6,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Tonight's moon will be a little smaller\nthan yesterday's full moon. It's nice in\nits own way, really..."
+    - text: "ЀTonight's moon will be a little smaller\nthan yesterday's full moon. It's nice in\nits own way, really..."
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: Rain!
+    - text: Rain!
     - utf16_bytes:
         - 0
   Moon02:
@@ -20,14 +19,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Tonight is the third-quarter moon.
+    - text: ЀTonight is the third-quarter moon.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nLike a bow aiming for the heavens above."
+    - text: "\nLike a bow aiming for the heavens above."
     - utf16_bytes:
         - 0
   Near05:
@@ -36,7 +34,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촠I'm sleeping..."
+    - text: "촠I'm sleeping..."
     - utf16_bytes:
         - 0
   Moon03:
@@ -45,14 +43,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Tonight is the 26th-day moon...
+    - text: ЀTonight is the 26th-day moon...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIts sloping line is really wonderful."
+    - text: "\nIts sloping line is really wonderful."
     - utf16_bytes:
         - 0
   Near06:
@@ -61,13 +58,14 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
+    - text: 초
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: BLOOD!
+    - text: BLOOD!
     - utf16_bytes:
         - 14
         - 0
@@ -82,35 +80,35 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Whenever the clock strikes midnight on\nunlucky nights, the sky turns blood red.\nThat's the "
+    - text: "Whenever the clock strikes midnight on\nunlucky nights, the sky turns blood red.\nThat's the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blood moon
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nWhen that happens, "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: monsters
+    - text: blood moon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " come back\nto life, no matter how many times you've\ndefeated them.\nIt's happened for so long now that no\none really pays it any mind, but I have no\nplans to give up on my research."
+    - text: ".\nWhen that happens, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: monsters
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " come back\nto life, no matter how many times you've\ndefeated them.\nIt's happened for so long now that no\none really pays it any mind, but I have no\nplans to give up on my research."
     - utf16_bytes:
         - 0
   Moon04:
@@ -119,14 +117,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Tonight is a new moon...
+    - text: ЀTonight is a new moon...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nEven though we can't see it, isn't it\ngreat just knowing it's there?"
+    - text: "\nEven though we can't see it, isn't it\ngreat just knowing it's there?"
     - utf16_bytes:
         - 0
   BloodyTalk00:
@@ -140,7 +137,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
@@ -151,19 +148,20 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
+    - text: ਇ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "It's...so...RED!\nSo gloriously RED!"
+    - text: "It's...so...RED!\nSo gloriously RED!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -177,13 +175,14 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
+    - text: 초
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Here...it...COMES!
+    - text: Here...it...COMES!
     - utf16_bytes:
         - 14
         - 0
@@ -197,14 +196,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Tonight is a crescent moon...
+    - text: ЀTonight is a crescent moon...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThat shape makes me hungry for some\nreason..."
+    - text: "\nThat shape makes me hungry for some\nreason..."
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -213,22 +211,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "Hmm...\n\n\n"
+    - text: "ဋHmm...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 260
-    - ascii: "Oh, I'm sorry...\n\n\n"
+    - text: "ĄOh, I'm sorry...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I spend so much time thinking about the\nmoon that it's all I can talk about."
+    - text: "ĀI spend so much time thinking about the\nmoon that it's all I can talk about."
     - utf16_bytes:
         - 0
   BloodyTalk01:
@@ -242,7 +237,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
@@ -253,19 +248,20 @@ entries:
         - 3
         - 1
         - 2
-        - 9223
+    - text: ␇
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "My blood...it's boiling!"
+    - text: "My blood...it's boiling!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -279,36 +275,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊOh...
+    - text: ᔊOh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You were researching the\n"
+    - text: " You were researching the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blood moon
+    - text: blood moon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", as well?"
+    - text: ", as well?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   Moon06:
     - utf16_bytes:
@@ -316,8 +310,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Tonight is a seven-day moon...\nLike a bow aiming for the land below,\nit really is quite beautiful."
+    - text: "ЀTonight is a seven-day moon...\nLike a bow aiming for the land below,\nit really is quite beautiful."
     - utf16_bytes:
         - 0
   GoodBye01:
@@ -326,8 +319,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: Hmm...
+    - text: ဋHmm...
     - utf16_bytes:
         - 0
   BloodyTalk02:
@@ -341,20 +333,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "Arise, monsters!"
+    - text: "ਇArise, monsters!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -368,14 +359,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Tonight is the 13th-day moon...
+    - text: ЀTonight is the 13th-day moon...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nNow it will slowly expand. So beautiful..."
+    - text: "\nNow it will slowly expand. So beautiful..."
     - utf16_bytes:
         - 0
   BloodyTalk03:
@@ -389,20 +379,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 9224
-    - ascii: Gr...gr...gr...
+    - text: ␈Gr...gr...gr...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -416,8 +405,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: Hmm...
+    - text: ဋHmm...
     - utf16_bytes:
         - 0
   FirstTalk01:
@@ -426,33 +414,31 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Oh, sorry...\n\n\n"
+    - text: "ጄOh, sorry...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I didn't notice you... I was a bit lost in\nthought there."
+    - text: "ĀI didn't notice you... I was a bit lost in\nthought there."
     - utf16_bytes:
         - 0
   FirstTalk02:
-    - ascii: "I've been doing rigorous research day\nand night to figure out the mystery of \nthat "
+    - text: "I've been doing rigorous research day\nand night to figure out the mystery of \nthat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blood moon
+    - text: blood moon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -461,10 +447,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "1000":
-    - ascii: Blood moon?
+    - text: Blood moon?
     - utf16_bytes:
         - 0
   FirstTalk03:
@@ -473,23 +460,21 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "You don't know it?\n\n\n"
+    - text: "ᐄYou don't know it?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "That's inexcusable. Listen up and I'll tell\nyou about it."
+    - text: "ĀThat's inexcusable. Listen up and I'll tell\nyou about it."
     - utf16_bytes:
         - 0
   "1001":
-    - ascii: "Tonight's moon?"
+    - text: "Tonight's moon?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Blood moon?
+    - text: Blood moon?
     - utf16_bytes:
         - 0
   FirstTalk04:
@@ -499,20 +484,19 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: Hmmm...
+    - text: Hmmm...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Are you just pretending to\nknow what I was talking about?\n\n"
+    - text: " Are you just pretending to\nknow what I was talking about?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "That's fine, so long as you'll listen to me\nnow while I tell you about it."
+    - text: "ĀThat's fine, so long as you'll listen to me\nnow while I tell you about it."
     - utf16_bytes:
         - 0
   Talk00:
@@ -522,23 +506,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, you again...\nAre you interested in my research?"
+    - text: "Oh, you again...\nAre you interested in my research?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   "1002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I've seen it."
+    - text: "I've seen it."
     - utf16_bytes:
         - 0
   FirstTalk05:
@@ -548,13 +530,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nAll the same, take a minute and listen\nwhile I tell you about it."
+    - text: "\nAll the same, take a minute and listen\nwhile I tell you about it."
     - utf16_bytes:
         - 0
   Talk01:
@@ -564,16 +546,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, ask me anything."
+    - text: "Well, ask me anything."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   Rain00:
     - utf16_bytes:
@@ -582,25 +562,23 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Can't see the moon like this."
+    - text: " Can't see the moon like this."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   FirstTalk06:
@@ -609,22 +587,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "For 100 years now, every so often when\nthe clock strikes midnight, the sky turns\nred and a full moon rises...\nAt that moment, "
+    - text: "ĀFor 100 years now, every so often when\nthe clock strikes midnight, the sky turns\nred and a full moon rises...\nAt that moment, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: monsters
+    - text: monsters
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that had been\npreviously defeated will come back\nto life."
+    - text: " that had been\npreviously defeated will come back\nto life."
     - utf16_bytes:
         - 0
   Talk02:
@@ -634,22 +611,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, you again."
+    - text: "Oh, you again."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThe moon is about to come out..."
+    - text: "\nThe moon is about to come out..."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   Rain01:
     - utf16_bytes:
@@ -658,7 +633,7 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "I'm taking cover from the rain!\nWe'll talk later!"
+    - text: "I'm taking cover from the rain!\nWe'll talk later!"
     - utf16_bytes:
         - 0
   FirstTalk07:
@@ -667,32 +642,33 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
+    - text: ଇ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}And that's what is known as the\n"
+    - text: "}And that's what is known as the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blood moon
+    - text: blood moon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk03:
@@ -702,22 +678,20 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Oh, you again."
+    - text: "Oh, you again."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nA beautiful moon tonight, isn't it?"
+    - text: "\nA beautiful moon tonight, isn't it?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   Rain02:
     - utf16_bytes:
@@ -725,8 +699,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "Can't see anything in this rain!"
+    - text: "ขCan't see anything in this rain!"
     - utf16_bytes:
         - 0
   FirstTalk08:
@@ -735,49 +708,48 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Why do the "
+    - text: "ĀWhy do the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: monsters
+    - text: monsters
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " return to life? "
+    - text: " return to life? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWhy does it only happen when the sky\nturns red?\nNo one really has the answers to those\nquestions. It's a mysterious\nphenomenon...\n"
+    - text: "\nWhy does it only happen when the sky\nturns red?\nNo one really has the answers to those\nquestions. It's a mysterious\nphenomenon...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "If you learn anything about the "
+    - text: "If you learn anything about the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "blood\nmoon"
+    - text: "blood\nmoon"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " as you travel, be sure to come\nback and tell me."
+    - text: " as you travel, be sure to come\nback and tell me."
     - utf16_bytes:
         - 0
   Talk04:
@@ -787,16 +759,14 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "Oh...\nIt looks like the moon has already\ndisappeared today..."
+    - text: "Oh...\nIt looks like the moon has already\ndisappeared today..."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   Talk05:
     - utf16_bytes:
@@ -804,17 +774,14 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Anything else you want to ask?
+    - text: ĀAnything else you want to ask?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   Talk06:
     - utf16_bytes:
@@ -823,16 +790,14 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "What is it? I was just about to get some\nsleep so I can be rested for researching\nthe moon tonight..."
+    - text: "What is it? I was just about to get some\nsleep so I can be rested for researching\nthe moon tonight..."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   Talk07:
     - utf16_bytes:
@@ -841,16 +806,14 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "What is it? I was just sleeping so I'd be\nwell rested for researching the moon\ntonight..."
+    - text: "What is it? I was just sleeping so I'd be\nwell rested for researching the moon\ntonight..."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-        - 1000
-        - 1001
-        - 1002
-        - 512
+    - text: ϨϩϪȀ
+    - utf16_bytes:
         - 0
   Near00:
     - utf16_bytes:
@@ -858,8 +821,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Hmm...
+    - text: 촎Hmm...
     - utf16_bytes:
         - 0
   FirstTalk01_1:
@@ -868,8 +830,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "What's up?"
+    - text: "ЀWhat's up?"
     - utf16_bytes:
         - 0
   Moon00_Full:
@@ -878,12 +839,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Tonight is a full moon...\n\n\nLooks like it could come falling down any\nminute. I can't take my eyes off of it."
+    - text: "ЀTonight is a full moon...\n\n\nLooks like it could come falling down any\nminute. I can't take my eyes off of it."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: ZZZzzz...
+    - text: ZZZzzz...
     - utf16_bytes:
         - 0
   Moon00_Befor:
@@ -892,20 +852,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "I'm getting that feeling again..."
+    - text: "ဋI'm getting that feeling again..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSomething is going to happen tonight."
+    - text: "\nSomething is going to happen tonight."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI can taste it!"
+    - text: "\nI can taste it!"
     - utf16_bytes:
         - 0
   Near02:
@@ -914,8 +873,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Tonight...
+    - text: 촎Tonight...
     - utf16_bytes:
         - 0
   Moon00:
@@ -925,21 +883,21 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "Tonight is the "
+    - text: "Tonight is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: blood moon
+    - text: blood moon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", at last..."
+    - text: ", at last..."
     - utf16_bytes:
         - 0
   Moon00_After:
@@ -949,21 +907,21 @@ entries:
         - 1
         - 2
         - 3
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "blood moon "
+    - text: "blood moon "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has come and gone.\nTime to start waiting for the next one..."
+    - text: "has come and gone.\nTime to start waiting for the next one..."
     - utf16_bytes:
         - 0
   Near03:
@@ -972,6 +930,6 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촊Rain...
+    - text: 촊Rain...
     - utf16_bytes:
         - 0

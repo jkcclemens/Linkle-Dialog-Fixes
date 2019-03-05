@@ -6,14 +6,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: Thank you!
+    - text: ЇThank you!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Can...can you go right away?"
+    - text: " Can...can you go right away?"
     - utf16_bytes:
         - 14
         - 1
@@ -21,9 +20,8 @@ entries:
         - 8
         - 7
         - 8
-    - ascii: "\n"
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   talk16:
     - utf16_bytes:
@@ -31,14 +29,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "You look handy with a bow. "
+    - text: "ĀYou look handy with a bow. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Mind helping\na poor farmer out?"
+    - text: "Mind helping\na poor farmer out?"
     - utf16_bytes:
         - 14
         - 1
@@ -46,7 +43,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk17:
     - utf16_bytes:
@@ -54,20 +52,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh. "
+    - text: "ĀOh. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Well, shucks."
+    - text: "Well, shucks."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Let me know if you\never change your mind."
+    - text: " Let me know if you\never change your mind."
     - utf16_bytes:
         - 0
   talk18:
@@ -77,47 +74,47 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "About that "
+    - text: "About that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: deer hunting
+    - text: deer hunting
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " No time like\nthe present, right? "
+    - text: " No time like\nthe present, right? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Go get started, and\nI'll call you once your "
+    - text: "Go get started, and\nI'll call you once your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "minute "
+    - text: "minute "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is up, OK?"
+    - text: "is up, OK?"
     - utf16_bytes:
         - 0
   talk19:
@@ -130,14 +127,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "So? "
+    - text: "ĀSo? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: You think you can do it?
+    - text: You think you can do it?
     - utf16_bytes:
         - 14
         - 1
@@ -145,9 +141,9 @@ entries:
         - 8
         - 7
         - 8
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   talk22:
     - utf16_bytes:
@@ -156,13 +152,13 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "That's time! "
+    - text: "That's time! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Come back, wanderer!"
+    - text: "Come back, wanderer!"
     - utf16_bytes:
         - 0
   talk23:
@@ -171,20 +167,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4875
-    - ascii: Huh?
+    - text: ጋHuh?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You didn't even get ONE? "
+    - text: " You didn't even get ONE? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Sorry,\nbut no results, no reward."
+    - text: "Sorry,\nbut no results, no reward."
     - utf16_bytes:
         - 0
   talk24:
@@ -193,14 +188,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The thing with these deer, though...\nWe really have to get their numbers\nunder control."
+    - text: "ĀThe thing with these deer, though...\nWe really have to get their numbers\nunder control."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Hey, wanderer, can I ask you to\ngo again?"
+    - text: "Hey, wanderer, can I ask you to\ngo again?"
     - utf16_bytes:
         - 14
         - 1
@@ -208,7 +202,8 @@ entries:
         - 6
         - 2
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk25:
     - utf16_bytes:
@@ -217,39 +212,39 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: You got
+    - text: You got
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 2
         - 14
-    - ascii: JFMiniGame_TimeLimitHunting_HuntedNum
+    - text: JFMiniGame_TimeLimitHunting_HuntedNum
     - utf16_bytes:
         - 0
-    - ascii: " deer"
+    - text: " deer"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThanks for doing your part!"
+    - text: "\nThanks for doing your part!"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Here we go...
+    - text: Here we go...
     - utf16_bytes:
         - 0
   talk26:
@@ -258,8 +253,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "You got "
+    - text: "ЁYou got "
     - utf16_bytes:
         - 14
         - 0
@@ -269,23 +263,23 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: JFMiniGame_TimeLimitHunting_HuntedNum
+    - text: JFMiniGame_TimeLimitHunting_HuntedNum
     - utf16_bytes:
         - 0
-    - ascii: " deer"
+    - text: " deer"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou're downright vicious with that bow,\nwanderer!"
+    - text: "\nYou're downright vicious with that bow,\nwanderer!"
     - utf16_bytes:
         - 0
   talk27:
@@ -294,7 +288,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᔊYou got "
+    - text: "ᔊYou got "
     - utf16_bytes:
         - 14
         - 0
@@ -304,42 +298,41 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: JFMiniGame_TimeLimitHunting_HuntedNum
+    - text: JFMiniGame_TimeLimitHunting_HuntedNum
     - utf16_bytes:
         - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: deer
-    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: deer
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I knew you were a go-getter, but this is\nmore than I ever dreamed of!"
+    - text: "āI knew you were a go-getter, but this is\nmore than I ever dreamed of!"
     - utf16_bytes:
         - 0
   talk28:
@@ -349,29 +342,29 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: You got
+    - text: You got
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 2
         - 14
-    - ascii: JFMiniGame_TimeLimitHunting_HuntedNum
+    - text: JFMiniGame_TimeLimitHunting_HuntedNum
     - utf16_bytes:
         - 0
-    - ascii: " deer"
+    - text: " deer"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 5
@@ -385,8 +378,7 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Easy there, wanderer. I didn't think I'd\nbe saying this, but there's such a thing\nas being TOO good a hunter."
+    - text: "ĆEasy there, wanderer. I didn't think I'd\nbe saying this, but there's such a thing\nas being TOO good a hunter."
     - utf16_bytes:
         - 0
   talk00:
@@ -395,28 +387,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Old lady Purah used to carry a "
+    - text: "؋Old lady Purah used to carry a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flame
+    - text: flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nof that color..."
+    - text: "\nof that color..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You think? Nah..."
+    - text: " You think? Nah..."
     - utf16_bytes:
         - 0
   talk29:
@@ -425,12 +416,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Here's a reward for you..."
+    - text: "ĀHere's a reward for you..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: What do you need?
+    - text: What do you need?
     - utf16_bytes:
         - 0
   talk01:
@@ -439,22 +429,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Shouldn't you deliver that "
+    - text: "ĀShouldn't you deliver that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "flame "
+    - text: "flame "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to old\nlady Purah up in her lab?"
+    - text: "to old\nlady Purah up in her lab?"
     - utf16_bytes:
         - 0
   talk30:
@@ -463,12 +452,11 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "I won't skimp on it this time!"
+    - text: "āI won't skimp on it this time!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Not today.
+    - text: Not today.
     - utf16_bytes:
         - 0
   talk02:
@@ -477,28 +465,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "The director used to carry a "
+    - text: "؋The director used to carry a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flame
+    - text: flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nof that color..."
+    - text: "\nof that color..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You think? Nah..."
+    - text: " You think? Nah..."
     - utf16_bytes:
         - 0
   talk31:
@@ -508,17 +495,17 @@ entries:
         - 1
         - 2
         - 768
-    - ascii: "You've gone too far!"
+    - text: "You've gone too far!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Come back!"
+    - text: " Come back!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: OK!
+    - text: OK!
     - utf16_bytes:
         - 0
   talk03:
@@ -527,26 +514,25 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Shouldn't you deliver that "
+    - text: "ĀShouldn't you deliver that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "flame "
+    - text: "flame "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to the\ndirector up in the lab?"
+    - text: "to the\ndirector up in the lab?"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: I should be going.
+    - text: I should be going.
     - utf16_bytes:
         - 0
   talk04:
@@ -555,12 +541,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I don't know what a stranger like you\nis doing with it, but you'd better hurry\nalong now."
+    - text: "ĀI don't know what a stranger like you\nis doing with it, but you'd better hurry\nalong now."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: No way.
+    - text: No way.
     - utf16_bytes:
         - 0
   talk05:
@@ -570,13 +555,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ho there! "
+    - text: "Ho there! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You're up early!"
+    - text: "You're up early!"
     - utf16_bytes:
         - 0
   talk06:
@@ -586,13 +571,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh! "
+    - text: "Oh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Good day, stranger!"
+    - text: "Good day, stranger!"
     - utf16_bytes:
         - 0
   talk07:
@@ -602,17 +587,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "'Lo there! "
+    - text: "'Lo there! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Nice evening, isn't it?"
+    - text: "Nice evening, isn't it?"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk08:
@@ -622,15 +607,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hey! Come to visit?
+    - text: Hey! Come to visit?
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Is there a trick to this?
+    - text: Is there a trick to this?
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "I'm out."
+    - text: "I'm out."
     - utf16_bytes:
         - 0
   talk10:
@@ -640,17 +625,17 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "What a trooper! "
+    - text: "What a trooper! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm counting on you!"
+    - text: "I'm counting on you!"
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: "Actually, no."
+    - text: "Actually, no."
     - utf16_bytes:
         - 0
   talk11:
@@ -659,14 +644,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "Hrm? "
+    - text: "؆Hrm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Are you some kinda wanderer?
+    - text: Are you some kinda wanderer?
     - utf16_bytes:
         - 14
         - 0
@@ -676,24 +660,25 @@ entries:
         - 3
         - 1
         - 2
-        - 267
+    - text: ċ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PHrm, interesting..."
+    - text: "PHrm, interesting..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This could work out..."
+    - text: " This could work out..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk12:
@@ -702,14 +687,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "A trick? "
+    - text: "ĀA trick? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Well, I guess it helps to have\na strong bow to take 'em down with\none shot.\nAnd of course, you want to get close\nenough to the deer to line up your shot\nwithout them noticing you."
+    - text: "Well, I guess it helps to have\na strong bow to take 'em down with\none shot.\nAnd of course, you want to get close\nenough to the deer to line up your shot\nwithout them noticing you."
     - utf16_bytes:
         - 0
   talk13:
@@ -719,13 +703,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Woo-hoo! "
+    - text: "Woo-hoo! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I had a lucky feeling you were\nthe answer to my prayers!"
+    - text: "I had a lucky feeling you were\nthe answer to my prayers!"
     - utf16_bytes:
         - 14
         - 0
@@ -735,82 +719,81 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "So what I need is for you to hunt some\n"
+    - text: "ĆSo what I need is for you to hunt some\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: deer
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " out in "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Retsam Forest
+    - text: deer
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " out in "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Retsam Forest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "They're overpopulated these days, and\nit's destroying the forest."
+    - text: "They're overpopulated these days, and\nit's destroying the forest."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "That's why I was hoping you could hunt\nall the "
+    - text: "That's why I was hoping you could hunt\nall the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: deer
+    - text: deer
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " you can..."
+    - text: " you can..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "in "
+    - text: "in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: one minute
+    - text: one minute
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -818,7 +801,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk14:
     - utf16_bytes:
@@ -826,22 +810,21 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "Will you "
+    - text: "ċWill you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "hunt some deer "
+    - text: "hunt some deer "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: for me?
+    - text: for me?
     - utf16_bytes:
         - 14
         - 1
@@ -849,5 +832,6 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

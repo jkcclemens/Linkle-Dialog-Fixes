@@ -6,51 +6,51 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "5... "
+    - text: "5... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "15... "
+    - text: "15... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "25... "
+    - text: "25... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: 35...
+    - text: 35...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " 55..."
+    - text: " 55..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2304
-    - ascii: "Yesss. That's what I like to see!"
+    - text: "Yesss. That's what I like to see!"
     - utf16_bytes:
         - 14
         - 5
@@ -63,20 +63,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52511
-    - ascii: Rush... Rush...
+    - text: 촟Rush... Rush...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_011:
@@ -86,35 +85,36 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Lady...
+    - text: Lady...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nGot any "
+    - text: "\n\n\nGot any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rushrooms
+    - text: rushrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_060:
     - utf16_bytes:
@@ -123,7 +123,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Heyyy...
+    - text: Heyyy...
     - utf16_bytes:
         - 14
         - 5
@@ -136,48 +136,47 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The deal's for "
+    - text: "ЀThe deal's for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "..."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: " It might be a pain to\nget 'em all, but I hear "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "diamonds "
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "have a\npretty high value throughout Hyrule.\nNot a bad deal, eh?"
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " And I'm always\nwaiting right here when you're ready\nto do business."
+    - text: " It might be a pain to\nget 'em all, but I hear "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "diamonds "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "have a\npretty high value throughout Hyrule.\nNot a bad deal, eh?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " And I'm always\nwaiting right here when you're ready\nto do business."
     - utf16_bytes:
         - 0
   Talk_001:
@@ -187,29 +186,30 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hey...\n\n\nGot any "
+    - text: "Hey...\n\n\nGot any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rushrooms
+    - text: rushrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_062:
     - utf16_bytes:
@@ -218,7 +218,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "...Zero."
+    - text: "...Zero."
     - utf16_bytes:
         - 14
         - 5
@@ -232,65 +232,66 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4098
+    - text: ဂ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d...Hey.
+    - text: d...Hey.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Lady."
+    - text: " Lady."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The deal was for "
+    - text: " The deal was for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n\n\nI have no use for jokes. They're a waste\nof both breath and time.\n\n"
+    - text: "...\n\n\nI have no use for jokes. They're a waste\nof both breath and time.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you want to make a deal with me,\nbring me "
+    - text: "If you want to make a deal with me,\nbring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: 55 rushrooms
+    - text: 55 rushrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Near01:
@@ -299,12 +300,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52491
-    - ascii: Not enough...
+    - text: 촋Not enough...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "What's the matter?"
+    - text: "What's the matter?"
     - utf16_bytes:
         - 0
   Talk_002:
@@ -313,103 +313,104 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tSee, I... I'm tired.\n\n\nTired of going normal speed, I mean...\n\n\nI first tried "
+        - 9
+    - text: "See, I... I'm tired.\n\n\nTired of going normal speed, I mean...\n\n\nI first tried "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "rushrooms "
+    - text: "rushrooms "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "when I was five\nyears old...\n\nAnd come to think of it, I ate them every\nday since without fail...\n\n"
+    - text: "when I was five\nyears old...\n\nAnd come to think of it, I ate them every\nday since without fail...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Back in the day, I'd win every race I ran\nthanks to those things...\n\n"
+    - text: "Back in the day, I'd win every race I ran\nthanks to those things...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tCut to 55 years later..."
+        - 9
+    - text: Cut to 55 years later...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nNow I can barely drag these bones off\nthe ground without those "
+    - text: "\n\n\nNow I can barely drag these bones off\nthe ground without those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rushrooms
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nBut no matter how many I eat to fortify\nmyself...\n\nI'm just too old to get up the cliffs to\npick "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: rushrooms
+    - text: rushrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " where they grow...\n\n"
+    - text: ".\n\nBut no matter how many I eat to fortify\nmyself...\n\nI'm just too old to get up the cliffs to\npick "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " where they grow...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That's why I'm letting all able-bodied\nsorts know that I'm in the market for 'em.\n\nI'll give a "
+    - text: "ЀThat's why I'm letting all able-bodied\nsorts know that I'm in the market for 'em.\n\nI'll give a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: diamond
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " for "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: 55 rushrooms
+    - text: diamond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". \nThat's worth the effort, right?\n\nIf you want to do business, just come\ntalk to me. I'm always here."
+    - text: " for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: 55 rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". \nThat's worth the effort, right?\n\nIf you want to do business, just come\ntalk to me. I'm always here."
     - utf16_bytes:
         - 0
   Talk_050:
@@ -418,8 +419,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I thought you'd come back...\n\n\nYou bring the stuff?"
+    - text: "ЀI thought you'd come back...\n\n\nYou bring the stuff?"
     - utf16_bytes:
         - 14
         - 1
@@ -428,7 +428,8 @@ entries:
         - 4
         - 5
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_063:
     - utf16_bytes:
@@ -437,7 +438,7 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "I'll happily take another batch anytime\nyou've got one. I'll always be right here."
+    - text: "I'll happily take another batch anytime\nyou've got one. I'll always be right here."
     - utf16_bytes:
         - 0
   Talk_051:
@@ -451,92 +452,91 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "P5... "
+    - text: "P5... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "15... "
+    - text: "15... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "25... "
+    - text: "25... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: 35...
+    - text: 35...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " 55..."
+    - text: " 55..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2304
-    - ascii: "Heh, yep, they're all here..."
+    - text: "Heh, yep, they're all here..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nI left that rock I promised you "
+    - text: "\n\n\nI left that rock I promised you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "behind the\nstable"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 4101
-    - ascii: "Beats me why anyone would go to such\ntrouble for a little ol' rock...\n\n"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 0
-    - ascii: "I'd rather have "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: rushrooms
+    - text: "behind the\nstable"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " any day."
+    - text: ".\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "စBeats me why anyone would go to such\ntrouble for a little ol' rock...\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I'd rather have "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " any day."
     - utf16_bytes:
         - 0
   Talk_052:
@@ -546,35 +546,34 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "Heh. Come back when you get more.\nI'm always here.\n\n"
+    - text: "Heh. Come back when you get more.\nI'm always here.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I can't give you any more diamonds,\nbut I CAN offer twice the market value\nfor 'em.\n"
+    - text: "စI can't give you any more diamonds,\nbut I CAN offer twice the market value\nfor 'em.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Just remember that I won't deal in any\nvolume other than "
+    - text: "Just remember that I won't deal in any\nvolume other than "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " at a time."
+    - text: " at a time."
     - utf16_bytes:
         - 0
   Talk_053:
@@ -583,81 +582,80 @@ entries:
         - 3
         - 1
         - 2
-        - 4098
-    - ascii: "...Lady."
+    - text: ဂ...Lady.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You know the deal was for "
+    - text: " You know the deal was for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\n\n\nI have no use for a random number of\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: rushrooms
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Just can't do it.\n\n"
+    - text: "...\n\n\nI have no use for a random number of\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Just can't do it.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you want to make a deal with me,\nbring me "
+    - text: "If you want to make a deal with me,\nbring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: rushrooms
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "I brought 'em."
+    - text: "I brought 'em."
     - utf16_bytes:
         - 0
   Talk_054:
@@ -666,128 +664,128 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d5... "
+    - text: "d5... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: 15...
+    - text: 15...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Uh..."
+    - text: " Uh..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Huh."
+    - text: " Huh."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4098
-    - ascii: "...Hey. "
+    - text: "ဂ...Hey. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Buddy.
+    - text: Buddy.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The deal was for "
+    - text: " The deal was for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
+    - text: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rushrooms
+    - text: rushrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n"
+    - text: "?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you want to make a deal with me,\nbring me "
+    - text: "If you want to make a deal with me,\nbring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: rushrooms
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Where are they?
+    - text: Where are they?
     - utf16_bytes:
         - 0
   Talk_055:
@@ -796,40 +794,39 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You want to know where to pick\n"
+    - text: "ЀYou want to know where to pick\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rushrooms
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "?\n\nThey grow all over the place.\n\n\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Rushrooms "
+    - text: rushrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "tend to grow on cliffs, \nso they'll be everywhere around here.\nNo shortage of cliffs.\nIf I was five years younger, I'd be picking\nthem myself..."
+    - text: "?\n\nThey grow all over the place.\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Rushrooms "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "tend to grow on cliffs, \nso they'll be everywhere around here.\nNo shortage of cliffs.\nIf I was five years younger, I'd be picking\nthem myself..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Not yet.
+    - text: Not yet.
     - utf16_bytes:
         - 0
   Talk_056:
@@ -838,140 +835,142 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d5... "
+    - text: "d5... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "15... "
+    - text: "15... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: 25...
+    - text: 25...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Uh..."
+    - text: " Uh..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Huh."
+    - text: " Huh."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4098
+    - text: ဂ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d...Hey. "
+    - text: "d...Hey. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Buddy.
+    - text: Buddy.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The deal was for "
+    - text: " The deal was for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
+    - text: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rushrooms
+    - text: rushrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n"
+    - text: "?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you want to make a deal with me,\nbring me "
+    - text: "If you want to make a deal with me,\nbring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: rushrooms
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   Talk_057:
@@ -980,139 +979,141 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d5... "
+    - text: "d5... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "15... "
+    - text: "15... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: 25... 35...
+    - text: 25... 35...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Uh..."
+    - text: " Uh..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Huh."
+    - text: " Huh."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4098
+    - text: ဂ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d...Hey. "
+    - text: "d...Hey. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Buddy.
+    - text: Buddy.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The deal was for "
+    - text: " The deal was for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
+    - text: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: rushrooms
+    - text: rushrooms
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n"
+    - text: "?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If you want to make a deal with me,\nbring me "
+    - text: "If you want to make a deal with me,\nbring me "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "55"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: rushrooms
+    - text: "55"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0

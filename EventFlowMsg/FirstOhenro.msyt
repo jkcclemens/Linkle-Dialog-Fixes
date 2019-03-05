@@ -6,19 +6,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Waaaah?!"
+    - text: "}Waaaah?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -29,21 +29,21 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "What are you doing, sneaking up on me\nlike that? You scared me!\n\nLeave me be, OK? I'm gonna do the"
+    - text: "What are you doing, sneaking up on me\nlike that? You scared me!\n\nLeave me be, OK? I'm gonna do the"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " trial"
+    - text: " trial"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nall on my own! I've made up my mind!"
+    - text: "\nall on my own! I've made up my mind!"
     - utf16_bytes:
         - 0
   Npc_Kokiri001_S1_001:
@@ -53,21 +53,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh! How's the "
+    - text: "Oh! How's the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trial
+    - text: trial
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nRemember not to get caught by Oaki!"
+    - text: "?\nRemember not to get caught by Oaki!"
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near006_01:
@@ -76,12 +76,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Oooh, pretty flowers!"
+    - text: "촇Oooh, pretty flowers!"
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near008:
-    - ascii: AHH! A ghost!
+    - text: AHH! A ghost!
     - utf16_bytes:
         - 0
   Npc_Kokiri001_R_001:
@@ -91,21 +90,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh! You! You're Ms. Linkle, right?\nYou're gonna do the "
+    - text: "Oh! You! You're Ms. Linkle, right?\nYou're gonna do the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Korok Trial
+    - text: Korok Trial
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nyes, yes?"
+    - text: ",\nyes, yes?"
     - utf16_bytes:
         - 14
         - 1
@@ -113,7 +112,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri009_R_002:
     - utf16_bytes:
@@ -121,13 +121,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Hogeez!"
+    - text: "}Hogeez!"
     - utf16_bytes:
         - 14
         - 0
@@ -137,7 +137,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: dI... I told you to stop scaring me!
+    - text: dI... I told you to stop scaring me!
     - utf16_bytes:
         - 0
   Npc_Kokiri001_S1_002:
@@ -147,26 +147,26 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Oooh, Oaki saw you, huh?\nOaki can get a little nervous or antsy\nsometimes, that's for sure...\n"
+    - text: "Oooh, Oaki saw you, huh?\nOaki can get a little nervous or antsy\nsometimes, that's for sure...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Luckily, Oaki is planning on going to do\nthe trial again,"
+    - text: "Luckily, Oaki is planning on going to do\nthe trial again,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so you've got another\nchance to stealthily follow.\nThat's OK, right? It's OK? Good!"
+    - text: " so you've got another\nchance to stealthily follow.\nThat's OK, right? It's OK? Good!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm counting on you!"
+    - text: "\nI'm counting on you!"
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near006_02:
@@ -175,8 +175,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52481
-    - ascii: Halfway there!
+    - text: 촁Halfway there!
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near009:
@@ -185,8 +184,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: Oh. It was just a shadow...
+    - text: 촐Oh. It was just a shadow...
     - utf16_bytes:
         - 0
   Npc_Kokiri001_R_002:
@@ -196,13 +194,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: I knew it!
+    - text: I knew it!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'd like to ask you a favor, then!"
+    - text: "\nI'd like to ask you a favor, then!"
     - utf16_bytes:
         - 0
   Npc_Kokiri001_S1_003:
@@ -212,13 +210,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ahh, are you OK? It seems like you got\nturned around and lost in the woods.\n\nI was actually a bit surprised when Oaki\nbrought you back!\n\nAnyway, Oaki is going to head out alone\nagain. I was thinking you could try\nfollowing one more time...\nThat's OK, right? It's OK? Good!"
+    - text: "Ahh, are you OK? It seems like you got\nturned around and lost in the woods.\n\nI was actually a bit surprised when Oaki\nbrought you back!\n\nAnyway, Oaki is going to head out alone\nagain. I was thinking you could try\nfollowing one more time...\nThat's OK, right? It's OK? Good!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm counting on you!"
+    - text: "\nI'm counting on you!"
     - utf16_bytes:
         - 0
   Npc_Kokiri001_R_003:
@@ -227,29 +225,27 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "My little Oaki just now set off to do the\n"
+    - text: "ċMy little Oaki just now set off to do the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Korok Trial
+    - text: Korok Trial
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n\nNormally I'd go along, too, but Oaki\ninsisted on going alone. I let Oaki go,\nbut...well, I'm just getting worried!\n"
+    - text: "...\n\nNormally I'd go along, too, but Oaki\ninsisted on going alone. I let Oaki go,\nbut...well, I'm just getting worried!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2310
-    - ascii: "Could you please follow Oaki without\nbeing seen? I want to be sure nothing\nbad happens..."
+    - text: "आCould you please follow Oaki without\nbeing seen? I want to be sure nothing\nbad happens..."
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near010_01:
@@ -258,25 +254,25 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촨This isn't so bad..."
+    - text: "촨This isn't so bad..."
     - utf16_bytes:
         - 0
   Npc_Kokiri001_S1_004:
-    - ascii: "Oh! How goes the "
+    - text: "Oh! How goes the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trial
+    - text: trial
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -284,7 +280,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri001_R_004:
     - utf16_bytes:
@@ -293,11 +290,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh! I was wrong?\nSo, so sorry."
+    - text: "Oh! I was wrong?\nSo, so sorry."
     - utf16_bytes:
         - 0
   Npc_Kokiri001_R_Near:
-    - ascii: Going alone? I dunno...
+    - text: Going alone? I dunno...
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near010_02:
@@ -306,7 +303,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊I'm not scared one bit."
+    - text: "촊I'm not scared one bit."
     - utf16_bytes:
         - 0
   Npc_Kokiri001_S1_005:
@@ -315,13 +312,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ᔊWhat?! You lost sight of him?!
+    - text: ᔊWhat?! You lost sight of him?!
     - utf16_bytes:
         - 14
         - 0
@@ -331,20 +328,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Oaki might have gotten lost...
+    - text: Oaki might have gotten lost...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'll be\nright back. I've got to go check on him!"
+    - text: " I'll be\nright back. I've got to go check on him!"
     - utf16_bytes:
         - 0
   Npc_Kokiri001_R_005:
@@ -354,27 +351,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, the girl from before!"
+    - text: "Oh, the girl from before!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDid you change your mind? Do you\nwant to do the "
+    - text: "\nDid you change your mind? Do you\nwant to do the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Korok Trial "
+    - text: "Korok Trial "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: after all?
+    - text: after all?
     - utf16_bytes:
         - 14
         - 1
@@ -382,7 +379,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_Kokiri001_S1_006:
     - utf16_bytes:
@@ -390,32 +388,31 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: "*sigh*"
+    - text: ሆ*sigh*
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " The sound of the wind had him so\nscared, he couldn't move a muscle."
+    - text: " The sound of the wind had him so\nscared, he couldn't move a muscle."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nPoor kid...\nOaki's talking about trying again,\nthough... I'd be really happy if you could\ngo with him again, too!\nThat's OK, right?"
+    - text: "\nPoor kid...\nOaki's talking about trying again,\nthough... I'd be really happy if you could\ngo with him again, too!\nThat's OK, right?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I knew it would be."
+    - text: " I knew it would be."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThank you so much!"
+    - text: "\nThank you so much!"
     - utf16_bytes:
         - 0
   Npc_Kokiri001_R_006:
@@ -425,7 +422,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yay, that's neat to hear! And since you're\ngoing to, I'd also like to ask you a favor!"
+    - text: "Yay, that's neat to hear! And since you're\ngoing to, I'd also like to ask you a favor!"
     - utf16_bytes:
         - 0
   Npc_Kokiri001_S1_007:
@@ -440,14 +437,14 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: "Make sure Oaki doesn't see you"
+    - text: "Make sure Oaki doesn't see you"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", OK?"
+    - text: ", OK?"
     - utf16_bytes:
         - 0
   Npc_Kokiri001_R_007:
@@ -457,7 +454,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, I was wrong again!\nSorry, sorry!"
+    - text: "Oh, I was wrong again!\nSorry, sorry!"
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_001:
@@ -466,13 +463,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᘊ
+    - text: ᘊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}KYAAH! A ghost!"
+    - text: "}KYAAH! A ghost!"
     - utf16_bytes:
         - 14
         - 0
@@ -482,25 +479,25 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d...Wait, you're not a ghost!"
+    - text: "d...Wait, you're not a ghost!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWere you following me? I said I could do\nthis by myself!\nUgh, and now I'm not by myself...\nI'll have to do it all over again."
+    - text: "\nWere you following me? I said I could do\nthis by myself!\nUgh, and now I'm not by myself...\nI'll have to do it all over again."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Sure.
+    - text: Sure.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Not right now.
+    - text: Not right now.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I'll do it."
+    - text: "I'll do it."
     - utf16_bytes:
         - 0
   Npc_Kokiri009_R_Near:
@@ -509,11 +506,11 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊I'm not scared. I'm not..."
+    - text: "촊I'm not scared. I'm not..."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "I still don't want to."
+    - text: "I still don't want to."
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near011:
@@ -522,12 +519,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52510
-    - ascii: "OK... I'm a little bit scared."
+    - text: "촞OK... I'm a little bit scared."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "Good, so far."
+    - text: "Good, so far."
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near012:
@@ -536,12 +532,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: "I'm almost there!"
+    - text: "촀I'm almost there!"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: I lost sight of him...
+    - text: I lost sight of him...
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near013:
@@ -550,8 +545,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Aha! There's the shrine!"
+    - text: "촇Aha! There's the shrine!"
     - utf16_bytes:
         - 0
   Npc_Kokiri009_F1_001:
@@ -560,32 +554,33 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
+    - text: ਇ
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Yay! I made it! I finished\nthe "
+    - text: "}Yay! I made it! I finished\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trial
+    - text: trial
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near001:
@@ -594,7 +589,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촊The trial is this way...right?
+    - text: 촊The trial is this way...right?
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near014:
@@ -603,7 +598,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Woo! I've finally made it!"
+    - text: "촉Woo! I've finally made it!"
     - utf16_bytes:
         - 0
   Npc_Kokiri009_F1_002:
@@ -612,78 +607,73 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ᔊ
+    - text: ᔊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dWha? Who's there?"
+    - text: "dWha? Who's there?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHey!"
+    - text: "\nHey!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Are you that heroine chick?"
+    - text: " Are you that heroine chick?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou know"
-    - utf16_bytes:
-        - 8212
-    - ascii: "Ms. Linkle?\n"
+    - text: "\nYou know—Ms. Linkle?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Guess what, Ms. Linkle!"
+    - text: "ĀGuess what, Ms. Linkle!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI did the trial all by myself!"
+    - text: "\nI did the trial all by myself!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAren't I brave?\n"
+    - text: "\nAren't I brave?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ጊOh, yeah! You're probably here for the\nshrine.\n\n"
+    - text: "ጊOh, yeah! You're probably here for the\nshrine.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "The Great Deku Tree said that the monk's\nblessing is waiting in the shrine ahead!"
+    - text: "ćThe Great Deku Tree said that the monk's\nblessing is waiting in the shrine ahead!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWhy don't you go take a look?"
+    - text: "\nWhy don't you go take a look?"
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near002:
@@ -692,8 +682,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52498
-    - ascii: What was that?
+    - text: 촒What was that?
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near003:
@@ -702,7 +691,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촨Everything is A-OK!
+    - text: 촨Everything is A-OK!
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near004:
@@ -711,8 +700,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: I remember this tree!
+    - text: 촂I remember this tree!
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near005:
@@ -721,8 +709,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: This is the right way...
+    - text: 촀This is the right way...
     - utf16_bytes:
         - 0
   Npc_Kokiri009_S1_Near007:
@@ -731,6 +718,6 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촪Is... Is someone there?
+    - text: 촪Is... Is someone there?
     - utf16_bytes:
         - 0

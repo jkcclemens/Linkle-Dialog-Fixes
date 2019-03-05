@@ -6,37 +6,37 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ἉDespite all that,"
+    - text: "ἉDespite all that,"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " only one has returned\nto me!\n\nMy poor little Cuccos..."
+    - text: " only one has returned\nto me!\n\nMy poor little Cuccos..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm sure that\nwherever they are, they're as lonely\nas I am... "
+    - text: " I'm sure that\nwherever they are, they're as lonely\nas I am... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Please find them quickly!\n"
+    - text: "Please find them quickly!\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PFor their sake...and for mine, as well..."
+    - text: "PFor their sake...and for mine, as well..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk22:
@@ -45,7 +45,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᐊReally?
+    - text: ᐊReally?
     - utf16_bytes:
         - 14
         - 5
@@ -58,31 +58,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMy poor little Cuccos..."
+        - 9
+    - text: My poor little Cuccos...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI hope they aren't scared..."
+    - text: "\nI hope they aren't scared..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P*sniffle*
+    - text: P*sniffle*
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk23:
@@ -91,19 +92,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMy poor little Cuccos..."
+        - 9
+    - text: My poor little Cuccos...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThey must feel so alone and afraid.\n\nBah,"
+    - text: "\nThey must feel so alone and afraid.\n\nBah,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I need to get back to work."
+    - text: " I need to get back to work."
     - utf16_bytes:
         - 0
   Talk11:
@@ -112,76 +114,74 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The Sheikah tribe has been serving\nHyrule's royal family for ages.\n\n"
+    - text: "ЀThe Sheikah tribe has been serving\nHyrule's royal family for ages.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 3077
-    - ascii: "But after the Great Calamity and the\nking's death,"
+    - text: "అBut after the Great Calamity and the\nking's death,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " the Sheikah tribe was\nsplit in two.\nSome became part of the dishonorable\n"
+    - text: " the Sheikah tribe was\nsplit in two.\nSome became part of the dishonorable\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Yiga Clan
+    - text: Yiga Clan
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "and those fiends are after\nour beloved leader, "
+    - text: "and those fiends are after\nour beloved leader, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady Impa
+    - text: Lady Impa
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "That's why we stand guard every day.\nWe must protect "
+    - text: "That's why we stand guard every day.\nWe must protect "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady Impa
+    - text: Lady Impa
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -189,7 +189,8 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk12:
     - utf16_bytes:
@@ -197,13 +198,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ἉMy poor Cuccos...
+    - text: ἉMy poor Cuccos...
     - utf16_bytes:
         - 14
         - 5
@@ -213,7 +214,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
@@ -221,7 +222,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk13:
     - utf16_bytes:
@@ -234,7 +236,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Thank you so much!!"
+    - text: "}Thank you so much!!"
     - utf16_bytes:
         - 14
         - 5
@@ -244,21 +246,21 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nI have "
+    - text: "d\n\n\nI have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "Cuccos total. Hopefully you'll\nbe able to find them all..."
+    - text: "Cuccos total. Hopefully you'll\nbe able to find them all..."
     - utf16_bytes:
         - 0
   Talk01:
@@ -267,20 +269,19 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "Ma'am... "
+    - text: "ăMa'am... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Ms. Linkle...
+    - text: Ms. Linkle...
     - utf16_bytes:
         - 14
         - 5
@@ -290,7 +291,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk14:
@@ -299,37 +300,37 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ἉBut I don't have even a single one left..."
+    - text: "ἉBut I don't have even a single one left..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nSomewhere out there,"
+    - text: "\n\n\nSomewhere out there,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " my poor Cuccos\nare lost and lonely..."
+    - text: " my poor Cuccos\nare lost and lonely..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Please! Hurry up\nand bring them back to me!\n"
+    - text: " Please! Hurry up\nand bring them back to me!\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PFor their sake...and for mine, as well..."
+    - text: "PFor their sake...and for mine, as well..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk15:
@@ -338,31 +339,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI should have "
+        - 9
+    - text: "I should have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: Cuccos total.
+    - text: Cuccos total.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Even just\none unaccounted for won't do!"
+    - text: " Even just\none unaccounted for won't do!"
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: How could this happen...
+    - text: How could this happen...
     - utf16_bytes:
         - 0
   Talk16:
@@ -371,31 +373,31 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĉNow that my wife wants nothing to do\nwith me,"
+    - text: "ĉNow that my wife wants nothing to do\nwith me,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " my Cuccos are my only\nemotional support...\n"
+    - text: " my Cuccos are my only\nemotional support...\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PWaaaah... "
+    - text: "PWaaaah... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: What do I doooo...
+    - text: What do I doooo...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk03:
@@ -404,23 +406,23 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊ
+    - text: ᔊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}WHAAA?!"
+    - text: "}WHAAA?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: My precious Cuccos...
+    - text: My precious Cuccos...
     - utf16_bytes:
         - 0
   Talk17:
@@ -429,19 +431,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: Ἁ
+    - text: Ἁ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}AAAARRRRGH!!"
+    - text: "}AAAARRRRGH!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
@@ -453,10 +455,11 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'll go find them!"
+    - text: "I'll go find them!"
     - utf16_bytes:
         - 0
   Talk04:
@@ -465,25 +468,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "Ċ...Oh. "
+    - text: "Ċ...Oh. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I see.\n\n\n"
+    - text: "I see.\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PI just want...to go home.
+    - text: PI just want...to go home.
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk05:
@@ -492,13 +495,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ĉMy Cuccos...
+    - text: ĉMy Cuccos...
     - utf16_bytes:
         - 14
         - 5
@@ -508,13 +511,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n"
+    - text: "d\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}\nMy precious Cuccos..."
+    - text: "}\nMy precious Cuccos..."
     - utf16_bytes:
         - 14
         - 5
@@ -524,11 +527,11 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "They'll come back..."
+    - text: "They'll come back..."
     - utf16_bytes:
         - 0
   Talk18:
@@ -537,32 +540,33 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMy little Cuccos..."
+        - 9
+    - text: My little Cuccos...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " They're probably so\nscared and lonely...\n\n"
+    - text: " They're probably so\nscared and lonely...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: NO!
+    - text: NO!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I must stay focused."
+    - text: " I must stay focused."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I must fulfill\nmy duty no matter what!"
+    - text: " I must fulfill\nmy duty no matter what!"
     - utf16_bytes:
         - 0
   Talk19:
@@ -571,19 +575,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: Ἁ
+    - text: Ἁ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}They haven't come home yet!"
+    - text: "}They haven't come home yet!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 5
@@ -596,35 +600,36 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWaaahhh... "
+        - 9
+    - text: "Waaahhh... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Ms. Linkle...\n\n\nCould it be that my little Cuccos have\nstopped loving me"
+    - text: "Ms. Linkle...\n\n\nCould it be that my little Cuccos have\nstopped loving me"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " just like my wife?"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: "\n\nMy Cuccos... It can't be so..."
+    - text: " just like my wife?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWhere are you, my sweet Cuccos..."
+    - text: "\n\nMy Cuccos... It can't be so..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nWhere are you, my sweet Cuccos..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Cucco update!
+    - text: Cucco update!
     - utf16_bytes:
         - 0
   Talk07:
@@ -633,31 +638,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI should have "
+        - 9
+    - text: "I should have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: Cuccos total.
+    - text: Cuccos total.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Even just\none unaccounted for won't do!"
+    - text: " Even just\none unaccounted for won't do!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Stay strong.
+    - text: Stay strong.
     - utf16_bytes:
         - 0
   Talk08:
@@ -666,27 +672,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI should have "
+        - 9
+    - text: "I should have "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: Cuccos total.
+    - text: Cuccos total.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Even just\none unaccounted for won't do!"
+    - text: " Even just\none unaccounted for won't do!"
     - utf16_bytes:
         - 0
   Talk09:
@@ -695,31 +702,32 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMy wife left me a while ago..."
+        - 9
+    - text: My wife left me a while ago...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAll this time I've been waiting\nfor her to come back.\nHa. Joke's on me."
+    - text: "\nAll this time I've been waiting\nfor her to come back.\nHa. Joke's on me."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PHa... Ha ha...
+    - text: PHa... Ha ha...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk20:
@@ -728,44 +736,44 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ἉSadly, only "
+    - text: "ἉSadly, only "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "0,Kakariko_Kokko_Counter"
+    - text: "0,Kakariko_Kokko_Counter"
     - utf16_bytes:
         - 0
-    - ascii: " have returned to me."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: "\n\n\nTo think that somewhere out there,"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "\neven one of my poor Cuccos\ncould be lost and lonely..."
+    - text: " have returned to me."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nPlease! Hurry up and bring them back to\nme!\n\n"
+    - text: "\n\n\nTo think that somewhere out there,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\neven one of my poor Cuccos\ncould be lost and lonely..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nPlease! Hurry up and bring them back to\nme!\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "PFor their sake...and for mine, as well..."
+    - text: "PFor their sake...and for mine, as well..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0

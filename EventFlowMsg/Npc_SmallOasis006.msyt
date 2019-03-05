@@ -6,13 +6,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊ
+    - text: ᔊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Oh, w-w-w-wow!"
+    - text: "}Oh, w-w-w-wow!"
     - utf16_bytes:
         - 14
         - 5
@@ -22,7 +22,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n"
+    - text: "d\n"
     - utf16_bytes:
         - 14
         - 0
@@ -33,45 +33,45 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "PThis beautiful lady is totally my type! Don't mess\nthis up, don't mess this up..."
+    - text: "PThis beautiful lady is totally my type! Don't mess\nthis up, don't mess this up..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 6
-    - ascii: "H-h-h-hey there! Date you want a go\ndo on to?!"
+    - text: "H-h-h-hey there! Date you want a go\ndo on to?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P...*sigh*...
+    - text: P...*sigh*...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_01:
@@ -80,14 +80,15 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI waited for a really long time, but...\nI couldn't find the man who was able to\nsneak into Gerudo Town.\n"
+        - 9
+    - text: "I waited for a really long time, but...\nI couldn't find the man who was able to\nsneak into Gerudo Town.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The desert can be so unpleasant, and\nwaiting around in it is hard work."
+    - text: "The desert can be so unpleasant, and\nwaiting around in it is hard work."
     - utf16_bytes:
         - 0
   Talk_04:
@@ -96,25 +97,24 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Gerudo Town...
+    - text: ℀Gerudo Town...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " So many girls..."
+    - text: " So many girls..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0

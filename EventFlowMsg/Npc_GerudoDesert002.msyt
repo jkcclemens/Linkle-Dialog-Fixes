@@ -6,22 +6,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I ask you, Furosa, is there anything\nbetter than a taste of "
+    - text: "ЀI ask you, Furosa, is there anything\nbetter than a taste of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Noble Pursuit
+    - text: Noble Pursuit
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   Talk_02:
@@ -30,8 +29,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "You were at death's door and you ran\nall the way here for that! Good grief... \nYou're in incredible shape...\nDoes that mean you don't plan to\ninvestigate that shrine anymore?"
+    - text: "ᤀYou were at death's door and you ran\nall the way here for that! Good grief... \nYou're in incredible shape...\nDoes that mean you don't plan to\ninvestigate that shrine anymore?"
     - utf16_bytes:
         - 0
   Talk_03:
@@ -40,7 +38,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tDefinitely. I never dreamed that kind of\nwork would be so dull..."
+        - 9
+    - text: "Definitely. I never dreamed that kind of\nwork would be so dull..."
     - utf16_bytes:
         - 0
   Talk_04:
@@ -49,8 +48,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I'm not surprised you found it dull.\nThat sort of thing isn't really \"you.\""
+    - text: "ȀI'm not surprised you found it dull.\nThat sort of thing isn't really \"you.\""
     - utf16_bytes:
         - 0
   Talk_05:
@@ -59,7 +57,6 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Yeah, you know what really is \"me\"?\nDrinking."
+    - text: "ЀYeah, you know what really is \"me\"?\nDrinking."
     - utf16_bytes:
         - 0

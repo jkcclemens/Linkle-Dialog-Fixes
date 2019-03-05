@@ -1,13 +1,13 @@
 ---
 entries:
   talk_24:
-    - ascii: Huh.
+    - text: Huh.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Seems like you don't have a horse\nin need of reviving. Well,"
+    - text: " Seems like you don't have a horse\nin need of reviving. Well,"
     - utf16_bytes:
         - 14
         - 1
@@ -15,21 +15,21 @@ entries:
         - 4
         - 30
         - 0
-    - ascii: " that was\nwell-intended all the same.\nIf your horse ever dies, come back with\nan "
+    - text: " that was\nwell-intended all the same.\nIf your horse ever dies, come back with\nan "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: endura carrot
+    - text: endura carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -37,61 +37,62 @@ entries:
         - 4
         - 30
         - 0
-    - ascii: " Farewell."
+    - text: " Farewell."
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: I have one now!
+    - text: I have one now!
     - utf16_bytes:
         - 0
   talk_25:
-    - ascii: "Huh, you..."
+    - text: "Huh, you..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If you would like to revive\na horse, you will need an "
+    - text: " If you would like to revive\na horse, you will need an "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: endura carrot
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nI assume you brought an "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: endura carrot
+    - text: endura carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: ".\n\nI assume you brought an "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: endura carrot
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0011":
-    - ascii: "That's some request..."
+    - text: "That's some request..."
     - utf16_bytes:
         - 0
   talk_13_01:
@@ -100,38 +101,37 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Hrm...
+    - text: 촎Hrm...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Would you like to revive\nthis horse?\n\nOh, goodness!"
+    - text: " Would you like to revive\nthis horse?\n\nOh, goodness!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It was caught in an\nexplosion? Poor soul...\n\nNot to cast suspicion where none is\nwarranted, but..."
+    - text: " It was caught in an\nexplosion? Poor soul...\n\nNot to cast suspicion where none is\nwarranted, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "you didn't kill the horse,\ndid you?"
+    - text: "you didn't kill the horse,\ndid you?"
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: "That's fair. I have one."
+    - text: "That's fair. I have one."
     - utf16_bytes:
         - 0
   talk_10:
-    - ascii: Select a loyal friend to bring back...
+    - text: Select a loyal friend to bring back...
     - utf16_bytes:
         - 0
   talk_13_02:
-    - ascii: "It couldn't be the case.\nI'll give you the benefit of the doubt.\nWould you like to revive this horse?"
+    - text: "It couldn't be the case.\nI'll give you the benefit of the doubt.\nWould you like to revive this horse?"
     - utf16_bytes:
         - 14
         - 1
@@ -139,10 +139,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0013":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   talk_11:
@@ -151,20 +152,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Hrm.
+    - text: 촎Hrm.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can tell that this horse died due to\nan unexpected accident. Worry not, this\nhappens from time to time.\nThe horse knows that you did not mean\nfor this to happen."
+    - text: " I can tell that this horse died due to\nan unexpected accident. Worry not, this\nhappens from time to time.\nThe horse knows that you did not mean\nfor this to happen."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Would you like for me\nto revive this horse?"
+    - text: " Would you like for me\nto revive this horse?"
     - utf16_bytes:
         - 14
         - 1
@@ -172,16 +172,17 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_03_00:
-    - ascii: "I see. "
+    - text: "I see. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Well, if you ever feel something\nin your soul that resembles equine\nheartbreak...you know where to find me."
+    - text: "Well, if you ever feel something\nin your soul that resembles equine\nheartbreak...you know where to find me."
     - utf16_bytes:
         - 0
   talk_03_01:
@@ -190,32 +191,32 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 4
         - 1
         - 2
-    - ascii: 촌To feel so...
+    - text: 촌To feel so...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: is unforgivable!
+    - text: is unforgivable!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk_03_02:
@@ -224,18 +225,17 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: I jest...
+    - text: 초I jest...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Feel free to return to me\nwhenever you'd like."
+    - text: " Feel free to return to me\nwhenever you'd like."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Yes, please."
+    - text: "Yes, please."
     - utf16_bytes:
         - 0
   talk_15:
@@ -244,36 +244,35 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Ah, understood!\nLet me bring back this horse!"
+    - text: "촂Ah, understood!\nLet me bring back this horse!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "No, thank you."
+    - text: "No, thank you."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk_00:
-    - ascii: Ho ho ho...
+    - text: Ho ho ho...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " At last!"
+    - text: " At last!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Free of that tiny\nbud after so long! If my arms were\ncorporeal, they'd have cramped for sure!\nAnd you're the one who set me free, are\nyou not?"
+    - text: " Free of that tiny\nbud after so long! If my arms were\ncorporeal, they'd have cramped for sure!\nAnd you're the one who set me free, are\nyou not?"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk_01:
@@ -282,22 +281,21 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "...Hrm! I see you're good with horses.\nAll seems to be well.\n\nThe friendship you established with\na horse really is extraordinary.\n\nRemember that such a friendship is\na two-way road. Horses care for you\nas much as you do for them."
+    - text: "촎...Hrm! I see you're good with horses.\nAll seems to be well.\n\nThe friendship you established with\na horse really is extraordinary.\n\nRemember that such a friendship is\na two-way road. Horses care for you\nas much as you do for them."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Let me check...
+    - text: Let me check...
     - utf16_bytes:
         - 0
   talk_16_01:
-    - ascii: "I was successfully able to bring back \nthe horse!\n\nNext time, don't let the horse die!\nHorses are your partners."
+    - text: "I was successfully able to bring back \nthe horse!\n\nNext time, don't let the horse die!\nHorses are your partners."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Don't forget \nthat.\nIf you're careless with their lives, \nyou may regret it..."
+    - text: " Don't forget \nthat.\nIf you're careless with their lives, \nyou may regret it..."
     - utf16_bytes:
         - 0
   talk_00_1:
@@ -306,50 +304,49 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "My name is "
+    - text: "촂My name is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Malanya
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ". \nI am the god who watches over the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: horses
+    - text: Malanya
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of this world. \nI suppose you deserve a "
+    - text: ". \nI am the god who watches over the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: reward
+    - text: horses
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for\nsetting me free... What shall I do..."
+    - text: " of this world. \nI suppose you deserve a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: reward
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " for\nsetting me free... What shall I do..."
     - utf16_bytes:
         - 0
   talk_02:
@@ -358,30 +355,29 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "...Whoa."
+    - text: 촎...Whoa.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Do you really not own a single\nhorse?\n\nI can't imagine going through the world\nwithout a faithful steed to keep me\ncompany..."
+    - text: " Do you really not own a single\nhorse?\n\nI can't imagine going through the world\nwithout a faithful steed to keep me\ncompany..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " To each their own, I suppose.\nIn that case, I, the god of horses, can\nnot do much for you who avoids horses\nfor some reason.\nIf you ever do bond with a horse"
+    - text: " To each their own, I suppose.\nIn that case, I, the god of horses, can\nnot do much for you who avoids horses\nfor some reason.\nIf you ever do bond with a horse"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and\nthen tragedy strikes that proud friend,\nyou should come see me."
+    - text: " and\nthen tragedy strikes that proud friend,\nyou should come see me."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   talk_16_02:
@@ -390,38 +386,38 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-    - ascii: 촌
+    - text: 촌
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}UNDERSTAND?"
+    - text: "}UNDERSTAND?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk_00_2:
@@ -430,26 +426,26 @@ entries:
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 4
         - 1
         - 2
-    - ascii: 촌
+    - text: 촌
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Shall I make you my meal?!"
+    - text: "}Shall I make you my meal?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk_16_03:
@@ -458,8 +454,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: "I jest...\n"
+    - text: "초I jest...\n"
     - utf16_bytes:
         - 14
         - 1
@@ -467,11 +462,11 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: For now!
+    - text: For now!
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Some...thing?
+    - text: Some...thing?
     - utf16_bytes:
         - 0
   talk_00_3:
@@ -480,8 +475,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: "Hahaha, I only jest...\n\n\nIf a horse you love passes away from\nsome sort of tragic, fatal accident, it is\nwithin my power to revive that horse...\nHowever..."
+    - text: "초Hahaha, I only jest...\n\n\nIf a horse you love passes away from\nsome sort of tragic, fatal accident, it is\nwithin my power to revive that horse...\nHowever..."
     - utf16_bytes:
         - 14
         - 1
@@ -489,22 +483,21 @@ entries:
         - 4
         - 30
         - 0
-    - ascii: " If I detect vile intent behind\nthe death of your horse"
+    - text: " If I detect vile intent behind\nthe death of your horse"
     - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
-        - 52429
-        - 15948
-    - ascii: "..."
+    - text: 쳍㹌...
     - utf16_bytes:
         - 14
         - 1
         - 1
         - 4
         - 0
-        - 16256
+    - text: 㾀
+    - utf16_bytes:
         - 0
   talk_04:
     - utf16_bytes:
@@ -512,14 +505,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Hrm... "
+    - text: "촎Hrm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It seems like you have too many \nhorses registered.\n\nYou do know you are only allowed to\nown five horses in this world, right? It is\na rule that not even I can change...\nWould you like to set a horse free?"
+    - text: "It seems like you have too many \nhorses registered.\n\nYou do know you are only allowed to\nown five horses in this world, right? It is\na rule that not even I can change...\nWould you like to set a horse free?"
     - utf16_bytes:
         - 14
         - 1
@@ -527,7 +519,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_00_4:
     - utf16_bytes:
@@ -535,30 +528,30 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 4
         - 1
         - 2
-    - ascii: 촌You will suffer my wrath!
+    - text: 촌You will suffer my wrath!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk_05:
-    - ascii: "I see. Letting go of something you love\nis always so bittersweet...\nWhich horse would you like to set free?"
+    - text: "I see. Letting go of something you love\nis always so bittersweet...\nWhich horse would you like to set free?"
     - utf16_bytes:
         - 0
   talk_00_5:
@@ -568,17 +561,17 @@ entries:
         - 1
         - 2
         - 2560
-    - ascii: "I only jest...\nLet me see..."
+    - text: "I only jest...\nLet me see..."
     - utf16_bytes:
         - 0
   talk_06:
-    - ascii: Huh?
+    - text: Huh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " So...you sure you don't need to\nrevive a horse?"
+    - text: " So...you sure you don't need to\nrevive a horse?"
     - utf16_bytes:
         - 14
         - 1
@@ -586,7 +579,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_12_00:
     - utf16_bytes:
@@ -594,44 +588,43 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "So... You would like to revive this horse?\nThis one, specifically?\n\nI can do that, of course!"
+    - text: "촎So... You would like to revive this horse?\nThis one, specifically?\n\nI can do that, of course!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nBut... "
+    - text: "\nBut... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "What is this...\n\nThis horse says that YOU killed it!"
+    - text: "What is this...\n\nThis horse says that YOU killed it!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You!\n"
+    - text: " You!\n"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: How could you?!
+    - text: How could you?!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Do you plan to revive it\njust to kill it again?\nAre horses only a tool to you?"
+    - text: " Do you plan to revive it\njust to kill it again?\nAre horses only a tool to you?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Do you\ntreat their noble lives so casually that\nyou'd use them and throw them away?\nIf I were a horse right now..."
+    - text: " Do you\ntreat their noble lives so casually that\nyou'd use them and throw them away?\nIf I were a horse right now..."
     - utf16_bytes:
         - 0
   talk_14_01:
@@ -640,30 +633,29 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Hrm...
+    - text: 촎Hrm...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You want to revive this horse?\n\n\nIt seems this brave animal spent its last\nmoments in a fight with a Guardian."
+    - text: " You want to revive this horse?\n\n\nIt seems this brave animal spent its last\nmoments in a fight with a Guardian."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt served its master well. "
+    - text: "\nIt served its master well. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm so moved...\nAlas, if you had managed to control this\nloyal beast with more skill..."
+    - text: "I'm so moved...\nAlas, if you had managed to control this\nloyal beast with more skill..."
     - utf16_bytes:
         - 0
   talk_07:
-    - ascii: "Hrm, you understand that you may never\nget to see the horse again? You're sure?"
+    - text: "Hrm, you understand that you may never\nget to see the horse again? You're sure?"
     - utf16_bytes:
         - 14
         - 1
@@ -671,7 +663,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_12_01:
     - utf16_bytes:
@@ -679,38 +672,38 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-    - ascii: 촌
+    - text: 촌
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}I'd kick you in the chest!"
+    - text: "}I'd kick you in the chest!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk_14_02:
@@ -719,38 +712,38 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 4
         - 1
         - 2
-    - ascii: 촌
+    - text: 촌
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}I wouldn't have to revive it!"
+    - text: "}I wouldn't have to revive it!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk_08:
@@ -759,14 +752,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Then I shall free this horse.\n\n\nNo need to worry..."
+    - text: "촂Then I shall free this horse.\n\n\nNo need to worry..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " They are\nstrong-willed creatures and more than\ncapable of surviving on their own."
+    - text: " They are\nstrong-willed creatures and more than\ncapable of surviving on their own."
     - utf16_bytes:
         - 0
   talk_12_02:
@@ -775,14 +767,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: I...
+    - text: 초I...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "jest.\n\n\nYou accidentally struck the horse, I'm\nsure. Would you like to revive this loyal,\ntemporarily betrayed friend?"
+    - text: "jest.\n\n\nYou accidentally struck the horse, I'm\nsure. Would you like to revive this loyal,\ntemporarily betrayed friend?"
     - utf16_bytes:
         - 14
         - 1
@@ -790,7 +781,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_14_03:
     - utf16_bytes:
@@ -798,8 +790,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: "I jest...\n\n\nThis must have been one brave friend.\nWould you like to revive it and return\nit to your side?"
+    - text: "초I jest...\n\n\nThis must have been one brave friend.\nWould you like to revive it and return\nit to your side?"
     - utf16_bytes:
         - 14
         - 1
@@ -807,20 +798,21 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_09:
-    - ascii: Then let me ask you again...
+    - text: Then let me ask you again...
     - utf16_bytes:
         - 0
   talk_17_01:
-    - ascii: "Oh, you again..."
+    - text: "Oh, you again..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou didn't come here to revive a\nhorse again, did you?\nI felt I was in your debt before since you\nfreed me from that bud and all...but you\ndidn't think I'd always help out, right?"
+    - text: "\nYou didn't come here to revive a\nhorse again, did you?\nI felt I was in your debt before since you\nfreed me from that bud and all...but you\ndidn't think I'd always help out, right?"
     - utf16_bytes:
         - 0
   talk_17_02:
@@ -829,38 +821,38 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-    - ascii: 촌
+    - text: 촌
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}I'm very busy!"
+    - text: "}I'm very busy!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk_02_00:
@@ -869,14 +861,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "...Neigh! "
+    - text: "촄...Neigh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "A horse, loyal and true, has\nfallen during your adventures!"
+    - text: "A horse, loyal and true, has\nfallen during your adventures!"
     - utf16_bytes:
         - 0
   talk_17_03:
@@ -885,16 +876,16 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: "I jest.\n\n\nI feel that there is respect in your\nheart... If you can bring me something,\nI would consider helping you once more."
+    - text: "초I jest.\n\n\nI feel that there is respect in your\nheart... If you can bring me something,\nI would consider helping you once more."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk_02_01:
     - utf16_bytes:
@@ -902,30 +893,30 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 14
         - 4
         - 1
         - 2
-    - ascii: "촌I could end you, right here\nand now!"
+    - text: "촌I could end you, right here\nand now!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk_09_01:
-    - ascii: Which horse do you wish to revive?
+    - text: Which horse do you wish to revive?
     - utf16_bytes:
         - 0
   talk_20:
@@ -934,22 +925,21 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "I may not look the part, but I am the "
+    - text: "촎I may not look the part, but I am the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "god\nof horses"
+    - text: "god\nof horses"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". I need that uh..."
+    - text: ". I need that uh..."
     - utf16_bytes:
         - 14
         - 1
@@ -957,7 +947,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: "that thing...\n\nA kind of carrot..."
+    - text: "that thing...\n\nA kind of carrot..."
     - utf16_bytes:
         - 14
         - 1
@@ -965,19 +955,19 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: " One I've only eaten\nonce in all my many years..."
+    - text: " One I've only eaten\nonce in all my many years..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAn "
+    - text: "\nAn "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
@@ -988,21 +978,20 @@ entries:
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: endura carrot
+    - text: 촀endura carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 1
@@ -1010,19 +999,20 @@ entries:
         - 4
         - 30
         - 0
-    - ascii: "\nThat is what I ask of you. Fulfill this\nrequest and I will consider helping you."
+    - text: "\nThat is what I ask of you. Fulfill this\nrequest and I will consider helping you."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_00_01:
-    - ascii: "It's you again... "
+    - text: "It's you again... "
     - utf16_bytes:
         - 14
         - 1
@@ -1030,7 +1020,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: "\n\n\nWhy have you sought me out? Surely\nno ill has befallen your beloved, faithful\nsteeds... "
+    - text: "\n\n\nWhy have you sought me out? Surely\nno ill has befallen your beloved, faithful\nsteeds... "
     - utf16_bytes:
         - 14
         - 1
@@ -1038,7 +1028,7 @@ entries:
         - 4
         - 20
         - 0
-    - ascii: Let me see...
+    - text: Let me see...
     - utf16_bytes:
         - 0
   talk_02_02:
@@ -1047,18 +1037,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52488
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: "I jest, of course..."
+    - text: 초
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nShall I bring a companion back to\ntravel with you once more?"
+    - text: "I jest, of course..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nShall I bring a companion back to\ntravel with you once more?"
     - utf16_bytes:
         - 14
         - 1
@@ -1066,38 +1057,40 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk_21:
-    - ascii: "I make it look easy, but it takes a lot of\nenergy to revive horses. Sometimes I just\nneed a boost before I undo"
+    - text: "I make it look easy, but it takes a lot of\nenergy to revive horses. Sometimes I just\nneed a boost before I undo"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " DEATH!\nSo are you going to hand over an\n"
+    - text: " DEATH!\nSo are you going to hand over an\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: endura carrot
+    - text: endura carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\f\r"
+        - 12
+        - 13
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   talk_22:
     - utf16_bytes:
@@ -1105,51 +1098,50 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "I see you have an "
+    - text: "촂I see you have an "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: endura carrot
+    - text: endura carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nAllow me to revive your horse."
+    - text: ".\nAllow me to revive your horse."
     - utf16_bytes:
         - 0
   talk_23:
-    - ascii: "No you don't! "
+    - text: "No you don't! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I can tell! "
+    - text: "I can tell! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "You don't even\nhave one "
+    - text: "You don't even\nhave one "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: endura carrot
+    - text: endura carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nDo you take me for a fool?\nCome back when you aren't a liar!"
+    - text: "!\nDo you take me for a fool?\nCome back when you aren't a liar!"
     - utf16_bytes:
         - 0

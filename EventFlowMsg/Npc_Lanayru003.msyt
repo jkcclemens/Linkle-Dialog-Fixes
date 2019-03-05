@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: Good evening!
+    - text: ȁGood evening!
     - utf16_bytes:
         - 0
   talk15:
@@ -16,22 +15,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I've arrived at "
+    - text: "ĀI've arrived at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", so now I\ncan take a break and enjoy the sights."
+    - text: ", so now I\ncan take a break and enjoy the sights."
     - utf16_bytes:
         - 0
   talk03:
@@ -40,8 +38,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: Hi there.
+    - text: ȁHi there.
     - utf16_bytes:
         - 0
   talk16:
@@ -50,14 +47,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "OK, I need to take a break now..."
+    - text: "ሀOK, I need to take a break now..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nTime for some sightseeing!"
+    - text: "\nTime for some sightseeing!"
     - utf16_bytes:
         - 0
   talk04:
@@ -66,14 +62,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "Zzz... "
+    - text: "℀Zzz... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk17:
@@ -82,14 +77,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: I purchased enough for today...
+    - text: ሀI purchased enough for today...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nTime to take a break!"
+    - text: "\nTime to take a break!"
     - utf16_bytes:
         - 0
   talk05:
@@ -98,14 +92,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8707
-    - ascii: "I'm going to sleep now..."
+    - text: "∃I'm going to sleep now..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nSee ya later."
+    - text: "\nSee ya later."
     - utf16_bytes:
         - 0
   talk18:
@@ -115,16 +108,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "I'm going to work now."
+    - text: "I'm going to work now."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Don't follow me"
-    - utf16_bytes:
-        - 8212
-    - ascii: "\nI'd just bore you."
+    - text: " Don't follow me—\nI'd just bore you."
     - utf16_bytes:
         - 0
   talk06:
@@ -133,14 +123,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8707
-    - ascii: "I'm going to bed now."
+    - text: "∃I'm going to bed now."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nPlease don't follow me."
+    - text: "\nPlease don't follow me."
     - utf16_bytes:
         - 0
   talk19:
@@ -149,14 +138,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Work, work, work... Every day..."
+    - text: "ကWork, work, work... Every day..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHmm, I wonder if the general store has\nanything good today!"
+    - text: "\nHmm, I wonder if the general store has\nanything good today!"
     - utf16_bytes:
         - 0
   talk07:
@@ -165,20 +153,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Huh?! "
+    - text: "ጄHuh?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Aren't you..."
+    - text: "Aren't you..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "that lying little worm\nfrom last time?"
+    - text: "that lying little worm\nfrom last time?"
     - utf16_bytes:
         - 0
   talk08:
@@ -187,16 +174,16 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "It's rare to see a Hylian here."
+    - text: "ጄIt's rare to see a Hylian here."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk09:
     - utf16_bytes:
@@ -204,49 +191,47 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: The rain stopped!
+    - text: ሁThe rain stopped!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That's why I was\nfinally able to reach "
+    - text: " That's why I was\nfinally able to reach "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n"
+    - text: "!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Now I'm gonna stock up on rare\ngoods at the general store here."
+    - text: "ЀNow I'm gonna stock up on rare\ngoods at the general store here."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDon't get in my way, understand?"
+    - text: "\nDon't get in my way, understand?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Back at ya.
+    - text: Back at ya.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Her name is Mipha.
+    - text: Her name is Mipha.
     - utf16_bytes:
         - 0
   talk21:
@@ -255,41 +240,39 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Sasan said...
+    - text: ĀSasan said...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "he was going to stock up on\n"
+    - text: "he was going to stock up on\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian rice
+    - text: Hylian rice
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I didn't have the heart to tell him..."
+    - text: "စI didn't have the heart to tell him..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nthey sell that stuff everywhere!"
+    - text: "\nthey sell that stuff everywhere!"
     - utf16_bytes:
         - 0
   talk22:
@@ -298,22 +281,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "You can't go wrong by buying some \n"
+    - text: "ЁYou can't go wrong by buying some \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sizzlefin trout
+    - text: sizzlefin trout
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " here."
+    - text: " here."
     - utf16_bytes:
         - 0
   talk10:
@@ -322,20 +304,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Huh?! "
+    - text: "ጄHuh?! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "You're..."
+    - text: "You're..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: that girl from last time!
+    - text: that girl from last time!
     - utf16_bytes:
         - 0
   talk23:
@@ -344,28 +325,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "If I were to buy something myself, it'd be\nthe "
+    - text: "ЁIf I were to buy something myself, it'd be\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: chillfin trout
+    - text: chillfin trout
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You can't easily find\nthat anywhere else!"
+    - text: " You can't easily find\nthat anywhere else!"
     - utf16_bytes:
         - 0
   talk11:
@@ -374,27 +354,26 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "I'm a traveling merchant. "
+    - text: "ЁI'm a traveling merchant. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I'm everywhere!\n\n\n"
+    - text: "I'm everywhere!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "Oh! I should introduce myself...\n\n\nI'm Douma! "
+    - text: "Oh! I should introduce myself...\n\n\nI'm Douma! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Nice to meet ya!\n\n\nYa know, it used to rain aaaall the time\naround here."
+    - text: "Nice to meet ya!\n\n\nYa know, it used to rain aaaall the time\naround here."
     - utf16_bytes:
         - 0
   talk12:
@@ -404,21 +383,22 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: The statue of that girl
+    - text: The statue of that girl
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " is pretty cute!"
+    - text: " is pretty cute!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 1
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk00:
     - utf16_bytes:
@@ -426,8 +406,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "Mornin'!"
+    - text: "ȁMornin'!"
     - utf16_bytes:
         - 0
   talk13:
@@ -437,7 +416,7 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: How would I know?!
+    - text: How would I know?!
     - utf16_bytes:
         - 0
   talk01:
@@ -446,8 +425,7 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: Hello!
+    - text: ȁHello!
     - utf16_bytes:
         - 0
   talk14:
@@ -456,7 +434,6 @@ entries:
         - 3
         - 1
         - 2
-        - 3592
-    - ascii: "You don't need to keep telling me that!"
+    - text: "จYou don't need to keep telling me that!"
     - utf16_bytes:
         - 0

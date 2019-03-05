@@ -1,7 +1,7 @@
 ---
 entries:
   talk80:
-    - ascii: "What's this?"
+    - text: "What's this?"
     - utf16_bytes:
         - 14
         - 5
@@ -11,35 +11,35 @@ entries:
         - 0
         - 4
         - 0
-    - ascii: "You haven't received even one more\n"
+    - text: "You haven't received even one more\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Heart Container "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "or "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Stamina Vessel
+    - text: "Heart Container "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "or "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Stamina Vessel
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
@@ -49,123 +49,123 @@ entries:
         - 0
         - 4
         - 0
-    - ascii: "Such a pity... I was eager to help you\nwith a minor "
+    - text: "Such a pity... I was eager to help you\nwith a minor "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: transaction
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " But not if you\nhave nothing to trade.\nConsult a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Goddess Statue "
+    - text: transaction
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to improve\nyourself,"
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and then return here to pray."
+    - text: " But not if you\nhave nothing to trade.\nConsult a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Goddess Statue "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "to improve\nyourself,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " and then return here to pray."
     - utf16_bytes:
         - 0
   talk82:
-    - ascii: Fa ha ha...
+    - text: Fa ha ha...
     - utf16_bytes:
         - 0
   talk84:
-    - ascii: Fa ha ha...
+    - text: Fa ha ha...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Did you think I'd\ndeceived you?"
+    - text: " Did you think I'd\ndeceived you?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Perish the thought. "
+    - text: "Perish the thought. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I hope that ours\nwill be a long and profitable relationship.\nSo which will it be?"
+    - text: "I hope that ours\nwill be a long and profitable relationship.\nSo which will it be?"
     - utf16_bytes:
         - 0
   talk85:
-    - ascii: "As I may have mentioned once or twice,\nI'm a dealer in life and power. "
+    - text: "As I may have mentioned once or twice,\nI'm a dealer in life and power. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I can\nprovide a valuable service to you."
+    - text: "I can\nprovide a valuable service to you."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I take "
+    - text: "I take "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Heart Containers "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "or "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Stamina\nVessels "
+    - text: "Heart Containers "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: from you...
+    - text: "or "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Stamina\nVessels "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: from you...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "and then, for a price,\nreturn whichever of the two you like."
+    - text: "and then, for a price,\nreturn whichever of the two you like."
     - utf16_bytes:
         - 14
         - 1
@@ -174,10 +174,11 @@ entries:
         - 18
         - 19
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk86:
-    - ascii: "Which type of essence would you like\nin return?"
+    - text: "Which type of essence would you like\nin return?"
     - utf16_bytes:
         - 14
         - 1
@@ -186,160 +187,161 @@ entries:
         - 18
         - 19
         - 20
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk87:
-    - ascii: "A wise choice. Now, remain still."
+    - text: "A wise choice. Now, remain still."
     - utf16_bytes:
         - 0
   talk88:
-    - ascii: "You look skeptical. "
+    - text: "You look skeptical. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Not to worry.
+    - text: Not to worry.
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: Money and life are all as one to me.
+    - text: Money and life are all as one to me.
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "If you're ready to begin, then first you\nmust sell me either type of "
+    - text: "If you're ready to begin, then first you\nmust sell me either type of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "essence "
+    - text: "essence "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "for\n"
+    - text: "for\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 100 rupees
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nIf you want to buy an essence back,\nthe price rises to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 120 rupees
+    - text: 100 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ".\nIf you want to buy an essence back,\nthe price rises to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 120 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Before you cry foul, know that you may\nchoose which one I return to you:"
+    - text: "Before you cry foul, know that you may\nchoose which one I return to you:"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\na "
+    - text: "\na "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Heart Container "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "or a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Stamina Vessel
+    - text: "Heart Container "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI'm eager to help tamper with your\nessence anytime you want to return\nand pray here."
+    - text: "or a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Stamina Vessel
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nI'm eager to help tamper with your\nessence anytime you want to return\nand pray here."
     - utf16_bytes:
         - 0
   talk89:
-    - ascii: "Now then, shall we strike a bargain?"
+    - text: "Now then, shall we strike a bargain?"
     - utf16_bytes:
         - 0
   talk40:
-    - ascii: "I don't see how you can increase your\n"
+    - text: "I don't see how you can increase your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Stamina Vessels "
+    - text: "Stamina Vessels "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: any further.
+    - text: any further.
     - utf16_bytes:
         - 0
   talk65:
-    - ascii: My touch is as subtle as ever...
+    - text: My touch is as subtle as ever...
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Note how I took that "
+    - text: "Note how I took that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: essence
+    - text: essence
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " from you"
+    - text: " from you"
     - utf16_bytes:
         - 14
         - 0
@@ -351,79 +353,79 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "\nwithout leaving a mark."
+    - text: "\nwithout leaving a mark."
     - utf16_bytes:
         - 0
   talk41:
-    - ascii: "Careful... Give away any more of your\n"
+    - text: "Careful... Give away any more of your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Heart Containers
+    - text: Heart Containers
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and it could have a\nfatal effect on your health."
+    - text: ", and it could have a\nfatal effect on your health."
     - utf16_bytes:
         - 0
   talk42:
-    - ascii: "Have a care... Give me any more of your\n"
+    - text: "Have a care... Give me any more of your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Stamina Vessels
+    - text: Stamina Vessels
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and you may not have\nthe strength to stand."
+    - text: ", and you may not have\nthe strength to stand."
     - utf16_bytes:
         - 0
   talk43:
-    - ascii: "No, no... I'm afraid you already have all\nthe "
+    - text: "No, no... I'm afraid you already have all\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Heart Containers "
+    - text: "Heart Containers "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: you possibly can.
+    - text: you possibly can.
     - utf16_bytes:
         - 0
   talk68:
-    - ascii: "Which type of "
+    - text: "Which type of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "essence "
+    - text: "essence "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "will you surrender\nto me?"
+    - text: "will you surrender\nto me?"
     - utf16_bytes:
         - 14
         - 1
@@ -431,44 +433,44 @@ entries:
         - 8
         - 4
         - 5
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   talk44:
-    - ascii: "No, no... I'm afraid you already have all\nthe "
+    - text: "No, no... I'm afraid you already have all\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Stamina Vessels "
+    - text: "Stamina Vessels "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: you possibly can.
+    - text: you possibly can.
     - utf16_bytes:
         - 0
   talk69:
-    - ascii: "Which type of "
+    - text: "Which type of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "essence "
+    - text: "essence "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: shall I grant you?
+    - text: shall I grant you?
     - utf16_bytes:
         - 14
         - 1
@@ -476,64 +478,64 @@ entries:
         - 8
         - 4
         - 5
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   "0010":
-    - ascii: A different container.
+    - text: A different container.
     - utf16_bytes:
         - 0
   talk20:
-    - ascii: "The price to return a "
+    - text: "The price to return a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Heart Container
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " to\nyou will be "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 120 rupees
+    - text: Heart Container
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " to\nyou will be "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 120 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 11
-    - ascii: 
+        - 12
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   talk45:
-    - ascii: Then the bargain is struck!
+    - text: Then the bargain is struck!
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk21:
-    - ascii: "I'll gladly pay you "
+    - text: "I'll gladly pay you "
     - utf16_bytes:
         - 14
         - 0
@@ -545,105 +547,105 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: 100 rupees
+    - text: 100 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "for one\nof your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Heart Containers
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Is that what\nyou want?"
+    - text: "for one\nof your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Heart Containers
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Is that what\nyou want?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 11
-    - ascii: 
+        - 12
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   "0012":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk22:
-    - ascii: "The price to return a "
+    - text: "The price to return a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Stamina Vessel
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " to\nyou will be "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 120 rupees
+    - text: Stamina Vessel
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " to\nyou will be "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 120 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 11
-    - ascii: 
+        - 12
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   talk47:
-    - ascii: "I'm currently without any of your\n"
+    - text: "I'm currently without any of your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: essences
+    - text: essences
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Are you in the mood to sell?"
+    - text: ". Are you in the mood to sell?"
     - utf16_bytes:
         - 14
         - 1
@@ -651,14 +653,15 @@ entries:
         - 6
         - 11
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0013":
-    - ascii: Tell me more...
+    - text: Tell me more...
     - utf16_bytes:
         - 0
   talk23:
-    - ascii: "I'll gladly pay you "
+    - text: "I'll gladly pay you "
     - utf16_bytes:
         - 14
         - 0
@@ -670,55 +673,55 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: 100 rupees
+    - text: 100 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "for one\nof your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Stamina Vessels
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Is that what\nyou want?"
+    - text: "for one\nof your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Stamina Vessels
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Is that what\nyou want?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 11
-    - ascii: 
+        - 12
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   "0015":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk01:
-    - ascii: "What's the worst that could happen?"
+    - text: "What's the worst that could happen?"
     - utf16_bytes:
         - 0
   talk26:
-    - ascii: "I have "
+    - text: "I have "
     - utf16_bytes:
         - 14
         - 0
@@ -728,29 +731,29 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: 2.NpcDemonStatue_UtuwaSum
+    - text: 2.NpcDemonStatue_UtuwaSum
     - utf16_bytes:
         - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "essences "
-    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "so far.\nWhat now, hmmmm?"
+    - text: " of your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "essences "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "so far.\nWhat now, hmmmm?"
     - utf16_bytes:
         - 14
         - 1
@@ -758,52 +761,52 @@ entries:
         - 8
         - 26
         - 27
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   "0017":
-    - ascii: Give it back.
+    - text: Give it back.
     - utf16_bytes:
         - 0
   "0018":
-    - ascii: Give me a heart.
+    - text: Give me a heart.
     - utf16_bytes:
         - 0
   "0019":
-    - ascii: Give me stamina.
+    - text: Give me stamina.
     - utf16_bytes:
         - 0
   talk04:
-    - ascii: "Very interesting choice... Just don't\ncome crying to me later."
+    - text: "Very interesting choice... Just don't\ncome crying to me later."
     - utf16_bytes:
         - 0
   talk05:
-    - ascii: "I know from swindles, girl, and I can\nplainly tell that you don't have the\n"
+    - text: "I know from swindles, girl, and I can\nplainly tell that you don't have the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 120 rupees
+    - text: 120 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " required."
+    - text: " required."
     - utf16_bytes:
         - 0
   talk52:
-    - ascii: "Ahhhh... "
+    - text: "Ahhhh... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "So there are some who still\npay me homage."
+    - text: "So there are some who still\npay me homage."
     - utf16_bytes:
         - 14
         - 5
@@ -811,64 +814,65 @@ entries:
         - 0
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 25
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk77:
-    - ascii: "A dealer in life and power...\nThat was me, once."
+    - text: "A dealer in life and power...\nThat was me, once."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Alas, my life-for-money bargains didn't\nsit well with the "
+    - text: "Alas, my life-for-money bargains didn't\nsit well with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goddess Hylia
+    - text: Goddess Hylia
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "She trapped me in this stone statue\nlong, long ago."
+    - text: "She trapped me in this stone statue\nlong, long ago."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "The villagers here call me the Horned\nStatue"
+    - text: "The villagers here call me the Horned\nStatue"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and don't even bother to wipe\naway the bird droppings.\nOne would think years upon years of\nsuch treatment would have made me\nmend my ways...\nOne would think wrongly."
+    - text: " and don't even bother to wipe\naway the bird droppings.\nOne would think years upon years of\nsuch treatment would have made me\nmend my ways...\nOne would think wrongly."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I have only been biding my time for the\nmoment someone who can hear me\nappears. "
+    - text: "I have only been biding my time for the\nmoment someone who can hear me\nappears. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Someone such as you.\nBut I've said enough."
+    - text: "Someone such as you.\nBut I've said enough."
     - utf16_bytes:
         - 14
         - 5
@@ -876,90 +880,90 @@ entries:
         - 0
         - 0
   talk53:
-    - ascii: "You don't say... You can hear my voice?"
+    - text: "You don't say... You can hear my voice?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 11
-    - ascii: 
+        - 12
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   talk78:
-    - ascii: "Then stay that way. No further action on\nyour part is required."
+    - text: "Then stay that way. No further action on\nyour part is required."
     - utf16_bytes:
         - 0
   talk54:
-    - ascii: "Now, that is a surprise."
+    - text: "Now, that is a surprise."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "What were you praying for? Long life? \nWealth, like so many of your kind?"
+    - text: "What were you praying for? Long life? \nWealth, like so many of your kind?"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Whichever it was, you came to the\nright place."
+    - text: "Whichever it was, you came to the\nright place."
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: "I'm all right for now."
+    - text: "I'm all right for now."
     - utf16_bytes:
         - 0
   talk31:
-    - ascii: "Come to tamper with your "
+    - text: "Come to tamper with your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: essence
+    - text: essence
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", yes?"
+    - text: ", yes?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 0
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk32:
-    - ascii: "No, eh? "
+    - text: "No, eh? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Fa ha ha... If you say so.
+    - text: Fa ha ha... If you say so.
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Just know that I'm willing to strike a\nbargain with anyone who can hear\nmy voice."
+    - text: "Just know that I'm willing to strike a\nbargain with anyone who can hear\nmy voice."
     - utf16_bytes:
         - 0
   talk57:
-    - ascii: "You came to pray, then... You want what\neveryone wants. Long life and wealth."
+    - text: "You came to pray, then... You want what\neveryone wants. Long life and wealth."
     - utf16_bytes:
         - 0
   talk33:
-    - ascii: "I still have "
+    - text: "I still have "
     - utf16_bytes:
         - 14
         - 0
@@ -969,62 +973,63 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: 2.NpcDemonStatue_UtuwaSum
+    - text: 2.NpcDemonStatue_UtuwaSum
     - utf16_bytes:
         - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: essences
-    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " of your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: essences
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nShall I return another "
+    - text: "\nShall I return another "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Heart Container
+    - text: Heart Container
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nto you?"
+    - text: "\nto you?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 15
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk58:
-    - ascii: "What's wrong, then? Have your prayers\ngone unanswered?"
+    - text: "What's wrong, then? Have your prayers\ngone unanswered?"
     - utf16_bytes:
         - 14
         - 1
@@ -1032,53 +1037,55 @@ entries:
         - 6
         - 17
         - 24
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0024":
-    - ascii: Ugh...
+    - text: Ugh...
     - utf16_bytes:
         - 0
   talk34:
-    - ascii: "I wouldn't object if you wanted to give\nme more "
+    - text: "I wouldn't object if you wanted to give\nme more "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Heart Containers
+    - text: Heart Containers
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 15
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk59:
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Yes, please."
+    - text: "Yes, please."
     - utf16_bytes:
         - 0
   "0025":
-    - ascii: You can talk?!
+    - text: You can talk?!
     - utf16_bytes:
         - 0
   talk35:
-    - ascii: "I still have "
+    - text: "I still have "
     - utf16_bytes:
         - 14
         - 0
@@ -1088,307 +1095,309 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: 2.NpcDemonStatue_UtuwaSum
+    - text: 2.NpcDemonStatue_UtuwaSum
     - utf16_bytes:
         - 0
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: essences
-    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " of your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: essences
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nShall I return another "
+    - text: "\nShall I return another "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Stamina Vessel
+    - text: Stamina Vessel
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nto you?"
+    - text: "\nto you?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 15
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Thanks, but no."
+    - text: "Thanks, but no."
     - utf16_bytes:
         - 0
   "0026":
-    - ascii: Have another one.
+    - text: Have another one.
     - utf16_bytes:
         - 0
   talk36:
-    - ascii: "I wouldn't object if you wanted to give\nme more "
+    - text: "I wouldn't object if you wanted to give\nme more "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Stamina Vessels
+    - text: Stamina Vessels
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 15
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0027":
-    - ascii: I want one back.
+    - text: I want one back.
     - utf16_bytes:
         - 0
   talk37:
-    - ascii: "I don't see how you can reduce your\n"
+    - text: "I don't see how you can reduce your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Heart Containers "
+    - text: "Heart Containers "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: any further.
+    - text: any further.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   talk38:
-    - ascii: "I don't see how you can reduce your\n"
+    - text: "I don't see how you can reduce your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Stamina Vessels "
+    - text: "Stamina Vessels "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: any further.
+    - text: any further.
     - utf16_bytes:
         - 0
   near00:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Heart Container.
+    - text: Heart Container.
     - utf16_bytes:
         - 0
   talk39:
-    - ascii: "I don't see how you can increase your\n"
+    - text: "I don't see how you can increase your\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Heart Containers "
+    - text: "Heart Containers "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: any further.
+    - text: any further.
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Stamina Vessel.
+    - text: Stamina Vessel.
     - utf16_bytes:
         - 0
   talk16:
-    - ascii: Then...
+    - text: Then...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What are you still doing here?"
+    - text: " What are you still doing here?"
     - utf16_bytes:
         - 0
   talk17:
-    - ascii: You...
+    - text: You...
     - utf16_bytes:
         - 0
   talk18:
-    - ascii: "It's simple. "
+    - text: "It's simple. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'll give you "
+    - text: "I'll give you "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "100 rupees "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to\ntake one of your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Heart Containers "
+    - text: "100 rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "or a\n"
+    - text: "to\ntake one of your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Stamina Vessel
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " off your hands.\nYou can have one back for "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 120 rupees
+    - text: "Heart Containers "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "or a\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Stamina Vessel
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " off your hands.\nYou can have one back for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 120 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAnd if it's not the same one you gave\nme, why, I won't tell a soul.\nExchanging a "
+    - text: "\nAnd if it's not the same one you gave\nme, why, I won't tell a soul.\nExchanging a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Heart Container
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " for a\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Stamina Vessel
+    - text: Heart Container
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", or vice versa, for only\n"
+    - text: " for a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: "20 rupees "
+        - 2
+    - text: Stamina Vessel
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "sounds good, doesn't it?\nYou must be salivating at the idea, so\nlet's go ahead and strike our bargain."
+    - text: ", or vice versa, for only\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "20 rupees "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "sounds good, doesn't it?\nYou must be salivating at the idea, so\nlet's go ahead and strike our bargain."
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 0
-    - ascii: "\r"
-    - utf16_bytes:
+        - 13
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0009":
-    - ascii: "I've had enough."
+    - text: "I've had enough."
     - utf16_bytes:
         - 0

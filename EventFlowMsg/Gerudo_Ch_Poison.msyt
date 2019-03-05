@@ -6,59 +6,59 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "┉*sniff*\nI wanted to plant an orchard, so...\n\nI picked up trash... I pulled the weeds...\nI tilled the ground...\n\nI did all the stuff you're supposed to do\nto make the soil happy...\n\nBut..."
+    - text: "┉*sniff*\nI wanted to plant an orchard, so...\n\nI picked up trash... I pulled the weeds...\nI tilled the ground...\n\nI did all the stuff you're supposed to do\nto make the soil happy...\n\nBut..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " But..."
+    - text: " But..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nThe "
+    - text: "\n\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trash
+    - text: trash
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-    - ascii: "촣All this "
+    - text: "촣All this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trash
+    - text: trash
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " keeps getting washed down\ninto the water trough, and now I can't\nuse the water there anymore.\nAnd if I can't use the water anymore... \nmy orchard is doomed!"
+    - text: " keeps getting washed down\ninto the water trough, and now I can't\nuse the water there anymore.\nAnd if I can't use the water anymore... \nmy orchard is doomed!"
     - utf16_bytes:
         - 0
   oasis016_Talk01:
@@ -68,7 +68,7 @@ entries:
         - 1
         - 2
         - 1538
-    - ascii: "I need to go see the orchard plot!\nMaybe there's no more garbage!"
+    - text: "I need to go see the orchard plot!\nMaybe there's no more garbage!"
     - utf16_bytes:
         - 0
   oasis016_Talk02:
@@ -77,13 +77,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tTime to go back to Mother..."
+        - 9
+    - text: Time to go back to Mother...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nI hope the trash is all gone tomorrow..."
+    - text: "\n\n\nI hope the trash is all gone tomorrow..."
     - utf16_bytes:
         - 0
   oasis016_Talk20:
@@ -92,7 +93,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAh... Vai-from-out-of-town...\nSav'otta..."
+        - 9
+    - text: "Ah... Vai-from-out-of-town...\nSav'otta..."
     - utf16_bytes:
         - 0
   oasis016_Talk03:
@@ -101,13 +103,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "P...Dalia's orchard... *sniff...*"
+    - text: "P...Dalia's orchard... *sniff...*"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   oasis016_Talk21:
@@ -116,11 +118,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAh... Vai-from-out-of-town...\nSav'aaq..."
+        - 9
+    - text: "Ah... Vai-from-out-of-town...\nSav'aaq..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Why not?
+    - text: Why not?
     - utf16_bytes:
         - 0
   oasis016_Talk22:
@@ -129,11 +132,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAh... Vai-from-out-of-town...\nSav'saaba..."
+        - 9
+    - text: "Ah... Vai-from-out-of-town...\nSav'saaba..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'll leave you alone..."
+    - text: "I'll leave you alone..."
     - utf16_bytes:
         - 0
   oasis016_Talk23:
@@ -143,11 +147,11 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Ah, vai-from-out-of-town!\nSav'otta!"
+    - text: "Ah, vai-from-out-of-town!\nSav'otta!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Actually...
+    - text: Actually...
     - utf16_bytes:
         - 0
   oasis016_Talk24:
@@ -157,7 +161,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Ah, vai-from-out-of-town!\nSav'aaq!"
+    - text: "Ah, vai-from-out-of-town!\nSav'aaq!"
     - utf16_bytes:
         - 0
   oasis016_Talk07:
@@ -167,30 +171,30 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Hey!
+    - text: Hey!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You! Listen to this!\nSome other vai I've never met before\nhelped me clean up the trash!\nAnd now the water trough is \ncompletely back to normal!\n\nYou told her about the trash, didn't you?\nSarqso!"
+    - text: " You! Listen to this!\nSome other vai I've never met before\nhelped me clean up the trash!\nAnd now the water trough is \ncompletely back to normal!\n\nYou told her about the trash, didn't you?\nSarqso!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "Oh! I also got a hydromelon from the\nlady who cleaned it up! I'll share!\n\nIt's a sarqso for caring about me!"
+    - text: "Oh! I also got a hydromelon from the\nlady who cleaned it up! I'll share!\n\nIt's a sarqso for caring about me!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Got it.
+    - text: Got it.
     - utf16_bytes:
         - 0
   Talk10:
@@ -199,88 +203,89 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Wildberries
+    - text: Wildberries
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " grow in the "
+    - text: " grow in the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "snowy areas of\nthe Gerudo Highlands"
+    - text: "snowy areas of\nthe Gerudo Highlands"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "It's a dangerous region, so the fruit is\nkind of rare and hardly ever shows up at\nmarket...\n"
+    - text: "It's a dangerous region, so the fruit is\nkind of rare and hardly ever shows up at\nmarket...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Ah. "
+    - text: "Ah. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nNow that I think on it, there's barely a\npoint if you only bring me one...\n\n"
+    - text: "\n\n\nNow that I think on it, there's barely a\npoint if you only bring me one...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Let's see..."
+    - text: "Let's see..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Yes, I'll need at least "
+    - text: "Yes, I'll need at least "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   oasis016_Talk25:
@@ -290,11 +295,11 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Ah, vai-from-out-of-town!\nSav'saaba!"
+    - text: "Ah, vai-from-out-of-town!\nSav'saaba!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "I don't know..."
+    - text: "I don't know..."
     - utf16_bytes:
         - 0
   Talk11:
@@ -304,49 +309,49 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Whaah?\n\n\nHow can you ask me to forgo my one\ngreat pleasure in life without offering a\nreplacement? It's common sense.\nNow, "
+    - text: "Whaah?\n\n\nHow can you ask me to forgo my one\ngreat pleasure in life without offering a\nreplacement? It's common sense.\nNow, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: wildberries
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " grow in the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "snows of\nthe Gerudo Highlands"
+    - text: wildberries
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\nAnd I'm not talking about just one!\nThat's wildberries, plural! I'll need at\nleast "
+    - text: " grow in the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
+    - text: "snows of\nthe Gerudo Highlands"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " if we're going to do this!\nYou got it? Good. Now scram!"
+    - text: "!\n\nAnd I'm not talking about just one!\nThat's wildberries, plural! I'll need at\nleast "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "10"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " if we're going to do this!\nYou got it? Good. Now scram!"
     - utf16_bytes:
         - 0
   oasis016_Talk09:
@@ -355,19 +360,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI..."
+        - 9
+    - text: I...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "can't grow my orchard..."
+    - text: "can't grow my orchard..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: ever?
+    - text: ever?
     - utf16_bytes:
         - 14
         - 1
@@ -375,7 +381,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   oasis016_Talk26:
     - utf16_bytes:
@@ -384,13 +391,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh, yeah, "
+    - text: "Oh, yeah, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "the lady who helped clean\ngave me some wildberries!\n\nSo now my field is gonna be a\nwildberry patch!\n\nYou can come eat the berries anytime\nyou like! It'll be great!"
+    - text: "the lady who helped clean\ngave me some wildberries!\n\nSo now my field is gonna be a\nwildberry patch!\n\nYou can come eat the berries anytime\nyou like! It'll be great!"
     - utf16_bytes:
         - 0
   Talk12:
@@ -399,59 +406,58 @@ entries:
         - 3
         - 1
         - 2
-        - 1035
-    - ascii: "I can't believe the rinds I've been tossing\nare such a problem... They're organic!"
+    - text: "ЋI can't believe the rinds I've been tossing\nare such a problem... They're organic!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "And secretly eating melons here is my\none guilty pleasure.\n\nI feel bad about that little vai, but I'm\ngoing to need at least "
+    - text: "And secretly eating melons here is my\none guilty pleasure.\n\nI feel bad about that little vai, but I'm\ngoing to need at least "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 10 wildberrie
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: s
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: " "
+    - text: 10 wildberrie
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "if\nyou want me to stop."
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: s
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "if\nyou want me to stop."
     - utf16_bytes:
         - 14
         - 1
@@ -459,14 +465,15 @@ entries:
         - 6
         - 5
         - 6
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: Where are they?
+    - text: Where are they?
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "I'll go look for some."
+    - text: "I'll go look for some."
     - utf16_bytes:
         - 0
   Talk13:
@@ -480,46 +487,47 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Wildberries
+    - text: Ѐ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " grow in the "
-    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: "snows of the\nGerudo Highlands"
+        - 2
+    - text: Wildberries
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: " grow in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "snows of the\nGerudo Highlands"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "It's a dangerous region, so the fruit is\nkind of rare and hardly ever shows up at\nmarket..."
+    - text: "It's a dangerous region, so the fruit is\nkind of rare and hardly ever shows up at\nmarket..."
     - utf16_bytes:
         - 0
   Talk14:
@@ -533,41 +541,42 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "The "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "Gerudo Highlands "
+    - text: Ѐ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "are pretty far.\nYou'll probably want to rent a "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: sand seal
+        - 0
+    - text: "Gerudo Highlands "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: "are pretty far.\nYou'll probably want to rent a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sand seal
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 0
@@ -578,13 +587,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PAnd I want to eat sooner rather than later...
+    - text: PAnd I want to eat sooner rather than later...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -597,11 +606,11 @@ entries:
         - 0
         - 0
   "0007":
-    - ascii: Berry delivery!
+    - text: Berry delivery!
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: STILL with the rinds?
+    - text: STILL with the rinds?
     - utf16_bytes:
         - 0
   Talk16:
@@ -610,20 +619,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4866
-    - ascii: Huh?
+    - text: ጂHuh?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: POne... Two... Three... Four...
+    - text: POne... Two... Three... Four...
     - utf16_bytes:
         - 14
         - 5
@@ -633,46 +641,46 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "Wait! This isn't even enough! \nWhat kind of berry scam are you trying\nto pull here?\nOur bargain was for "
+    - text: "Wait! This isn't even enough! \nWhat kind of berry scam are you trying\nto pull here?\nOur bargain was for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", right?\nYou bring me "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 10 at once
+    - text: "10"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " or no deal!"
+    - text: ", right?\nYou bring me "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 10 at once
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " or no deal!"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: So...the wildberries?
+    - text: So...the wildberries?
     - utf16_bytes:
         - 0
   Talk18:
@@ -682,15 +690,16 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "I mean it! I can't enjoy this snack with\nsomeone staring at me!\n\nGo away!"
+    - text: "I mean it! I can't enjoy this snack with\nsomeone staring at me!\n\nGo away!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk19:
     - utf16_bytes:
@@ -698,21 +707,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "*chomp...chomp*"
+    - text: "*chomp...chomp*"
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: I did it!
+    - text: I did it!
     - utf16_bytes:
         - 0
   Cariban_Talk00:
@@ -722,7 +731,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "What's with you? How am I supposed to\nenjoy eating with you staring at me?\nBuzz off."
+    - text: "What's with you? How am I supposed to\nenjoy eating with you staring at me?\nBuzz off."
     - utf16_bytes:
         - 0
   Cariban_Talk01:
@@ -732,7 +741,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "I mean it! I can't eat with your\njudgmental eyes on me!\n\nGo away!"
+    - text: "I mean it! I can't eat with your\njudgmental eyes on me!\n\nGo away!"
     - utf16_bytes:
         - 0
   oasis016_Talk10:
@@ -741,27 +750,27 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "┉I...wanted to use that water and work\nreally hard to plant a fruit orchard...\n\nBut all this "
+    - text: "┉I...wanted to use that water and work\nreally hard to plant a fruit orchard...\n\nBut all this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trash
+    - text: trash
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " keeps flowing down...\n\n\nNo matter how many times I scoop it out,\nthere's always more...\n\nSometimes I think I should just give up\non the whole stupid thing..."
+    - text: " keeps flowing down...\n\n\nNo matter how many times I scoop it out,\nthere's always more...\n\nSometimes I think I should just give up\non the whole stupid thing..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nBut I don't wanna give up..."
+    - text: "\n\nBut I don't wanna give up..."
     - utf16_bytes:
         - 0
   oasis016_Talk11:
@@ -770,49 +779,49 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ┉
+    - text: ┉
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}WAHHHH!"
+    - text: "}WAHHHH!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nWhy is so much "
+    - text: "d\n\n\nWhy is so much "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trash
+    - text: trash
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " flowing down the\nwaterway?\n\n"
+    - text: " flowing down the\nwaterway?\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}WHY?!"
+    - text: "}WHY?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk01:
@@ -821,29 +830,28 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I haven't been thinking about trash at all.\nWho can think while in a melon trance?\n\n"
+    - text: "ЀI haven't been thinking about trash at all.\nWho can think while in a melon trance?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "I just can't believe the rinds I'm tossing\nare such a problem... It's all organic\nmaterial, right?\n"
+    - text: "I just can't believe the rinds I'm tossing\nare such a problem... It's all organic\nmaterial, right?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Well, anyway, I feel bad about the little\nvai, but I'm going to need at least \n"
+    - text: "Well, anyway, I feel bad about the little\nvai, but I'm going to need at least \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "10 "
+    - text: "10 "
     - utf16_bytes:
         - 14
         - 0
@@ -860,29 +868,30 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: wildberries
+    - text: wildberries
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: if you want me to stop.
+    - text: if you want me to stop.
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 7
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   oasis016_Talk16:
     - utf16_bytes:
@@ -890,13 +899,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P...Wildberries...so many...
+    - text: P...Wildberries...so many...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk02:
@@ -906,15 +915,16 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "What's with you? How can I enjoy my\nsnack with you staring at me, huh?!\nBuzz off!"
+    - text: "What's with you? How can I enjoy my\nsnack with you staring at me, huh?!\nBuzz off!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   oasis016_Talk17:
     - utf16_bytes:
@@ -923,52 +933,52 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nHuh?"
+    - text: "\nHuh?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nWell, vai... You seem to have a lot of\n"
+    - text: "\n\n\nWell, vai... You seem to have a lot of\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: hydromelons
+    - text: hydromelons
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " already.\n\n"
+    - text: " already.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "You don't need any more..."
+    - text: "You don't need any more..."
     - utf16_bytes:
         - 0
   Talk03:
@@ -977,32 +987,33 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}SWEEEETNESS!"
+    - text: ਇ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nSo that's a "
+    - text: "}SWEEEETNESS!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\nSo that's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: wildberry
+    - text: wildberry
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n\n\nIt's delicious! And no rind to toss!\nWhat a magical fruit!"
+    - text: "...\n\n\nIt's delicious! And no rind to toss!\nWhat a magical fruit!"
     - utf16_bytes:
         - 0
   Talk20:
@@ -1011,13 +1022,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!"
+    - text: "촚Sav'aaq!"
     - utf16_bytes:
         - 0
   Talk04:
@@ -1026,8 +1037,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: Huh? Really?
+    - text: ጄHuh? Really?
     - utf16_bytes:
         - 0
   Talk21:
@@ -1036,13 +1046,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 0
   oasis016_Talk19:
@@ -1051,59 +1061,59 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "┉*sniff*\n\n\nI wanted to plant an orchard here...\n\n\nI picked up trash... I pulled the weeds...\nI tilled the ground...\n\nI did all the stuff you're supposed to do\nto make the earth happy...\n\nBut..."
+    - text: "┉*sniff*\n\n\nI wanted to plant an orchard here...\n\n\nI picked up trash... I pulled the weeds...\nI tilled the ground...\n\nI did all the stuff you're supposed to do\nto make the earth happy...\n\nBut..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " But..."
+    - text: " But..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nThe "
+    - text: "\n\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trash
+    - text: trash
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-    - ascii: "촣All this "
+    - text: "촣All this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: trash
+    - text: trash
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " keeps getting washed down\ninto the water trough, and now I can't\nuse the water there anymore.\nAnd if I can't use the water anymore... \nmy orchard is doomed!"
+    - text: " keeps getting washed down\ninto the water trough, and now I can't\nuse the water there anymore.\nAnd if I can't use the water anymore... \nmy orchard is doomed!"
     - utf16_bytes:
         - 0
   Talk22:
@@ -1113,19 +1123,19 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Oh, my, I sure caused a lot of trouble for\nyou, didn't I?\n\nAfter I saw that water trough completely\nfilled with trash and that poor little vai\ncrying for her lost orchard...\nI had a change of heart.\n\n\nI'll never litter again!"
+    - text: "Oh, my, I sure caused a lot of trouble for\nyou, didn't I?\n\nAfter I saw that water trough completely\nfilled with trash and that poor little vai\ncrying for her lost orchard...\nI had a change of heart.\n\n\nI'll never litter again!"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
-    - ascii: "\t\n"
+        - 9
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   oasis016_Near00:
-    - ascii: Unnh... Why...
+    - text: Unnh... Why...
     - utf16_bytes:
         - 0
   Talk06:
@@ -1134,14 +1144,15 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tBut...now I feel bad for the little vai.\n\n\n"
+        - 9
+    - text: "But...now I feel bad for the little vai.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Now that my craving's been satisfied,\nI realize just how horribly selfish I've\nbeen... Shame on me.\nI'm going to go help clean up the trash!\n\n\nI've really caused a lot of trouble...but\nnow I'm going to make it right!\nSarqso!"
+    - text: "Now that my craving's been satisfied,\nI realize just how horribly selfish I've\nbeen... Shame on me.\nI'm going to go help clean up the trash!\n\n\nI've really caused a lot of trouble...but\nnow I'm going to make it right!\nSarqso!"
     - utf16_bytes:
         - 0
   Talk23:
@@ -1150,8 +1161,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Hey, don't judge. It'd be a pain to toss\nthese a rind at a time.\n\nI'll just collect a bunch of them and\nthrow them away all at once later."
+    - text: "ЀHey, don't judge. It'd be a pain to toss\nthese a rind at a time.\n\nI'll just collect a bunch of them and\nthrow them away all at once later."
     - utf16_bytes:
         - 0
   Talk07:
@@ -1161,7 +1171,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "What? Garbage?!\n\n\nA small vai is having trouble?"
+    - text: "What? Garbage?!\n\n\nA small vai is having trouble?"
     - utf16_bytes:
         - 0
   Talk24:
@@ -1171,7 +1181,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Why are you looking at me like that?!\n\n\nI stopped littering! I'm going to throw\nthese away later, all right? Calm down!"
+    - text: "Why are you looking at me like that?!\n\n\nI stopped littering! I'm going to throw\nthese away later, all right? Calm down!"
     - utf16_bytes:
         - 0
   Talk08:
@@ -1181,7 +1191,7 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Oh, sure, you spring this on me out of\nnowhere and expect me to change MY\nlifestyle. Well, no. I do what I want!"
+    - text: "Oh, sure, you spring this on me out of\nnowhere and expect me to change MY\nlifestyle. Well, no. I do what I want!"
     - utf16_bytes:
         - 0
   Talk25:
@@ -1190,50 +1200,49 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "I gave those "
+    - text: "ЁI gave those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: wildberries
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " to the little vai\nto apologize for causing her so much\ntrouble with my rinds.\nI was completely satisfied with being able\nto try a single "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: wildberry
+    - text: wildberries
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " after wondering\nabout it for so long. No regrets.\nBesides, I guess I prefer "
+    - text: " to the little vai\nto apologize for causing her so much\ntrouble with my rinds.\nI was completely satisfied with being able\nto try a single "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "hydromelons "
+    - text: wildberry
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to\nanything, and I always will.\n\nThey were being sold at the fruit shop,\nso I bought some more."
+    - text: " after wondering\nabout it for so long. No regrets.\nBesides, I guess I prefer "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "hydromelons "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "to\nanything, and I always will.\n\nThey were being sold at the fruit shop,\nso I bought some more."
     - utf16_bytes:
         - 0
   Talk09:
@@ -1242,43 +1251,42 @@ entries:
         - 3
         - 1
         - 2
-        - 1544
-    - ascii: "Aww... Don't look at me like that!\n\n\nFine! FINE! I get it!\n\n\nBut I need something from you in return.\nAltruism is for suckers.\n\n"
+    - text: "؈Aww... Don't look at me like that!\n\n\nFine! FINE! I get it!\n\n\nBut I need something from you in return.\nAltruism is for suckers.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Just once...I'd like to eat a "
+    - text: "Just once...I'd like to eat a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: wildberry
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\n\nYou bring me a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: wildberry
+    - text: wildberry
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and I can hold\noff on eating so many melons."
+    - text: ".\n\n\nYou bring me a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: wildberry
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", and I can hold\noff on eating so many melons."
     - utf16_bytes:
         - 14
         - 1
@@ -1286,7 +1294,8 @@ entries:
         - 6
         - 3
         - 4
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk26:
     - utf16_bytes:
@@ -1295,7 +1304,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Sav'orq!"
+    - text: "Sav'orq!"
     - utf16_bytes:
         - 0
   Talk27:
@@ -1305,16 +1314,16 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Eating hydromelons while looking down\non everyone from a high place was nice\nand all, but...\nEating while watching people coming\nand going down the path here is pretty\nnice, too!"
+    - text: "Eating hydromelons while looking down\non everyone from a high place was nice\nand all, but...\nEating while watching people coming\nand going down the path here is pretty\nnice, too!"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
         - 8
-    - ascii: "\t\n"
+        - 9
+    - text: "\nȀ"
     - utf16_bytes:
-        - 512
         - 0
   Talk28:
     - utf16_bytes:
@@ -1322,8 +1331,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "If I have these, I might just give up on \nother fruit entirely!"
+    - text: "इIf I have these, I might just give up on \nother fruit entirely!"
     - utf16_bytes:
         - 14
         - 5

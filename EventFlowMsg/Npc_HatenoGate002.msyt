@@ -7,26 +7,26 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hey, don't be shy. "
+    - text: "Hey, don't be shy. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm here for the same\nreason, after all. "
+    - text: "I'm here for the same\nreason, after all. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Why else would anyone\ncome all the way out here?\n"
+    - text: "Why else would anyone\ncome all the way out here?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "To be honest, though, I've been waiting\nfor a pretty long time, and...well..."
+    - text: "To be honest, though, I've been waiting\nfor a pretty long time, and...well..."
     - utf16_bytes:
         - 14
         - 0
@@ -36,17 +36,18 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tNobody's shown up yet."
+        - 9
+    - text: "Nobody's shown up yet."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I thought this was the \"sweetheart's\npond\" everyone talks about, but maybe\nI'm in the wrong place?"
+    - text: "I thought this was the \"sweetheart's\npond\" everyone talks about, but maybe\nI'm in the wrong place?"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Believe in yourself!
+    - text: Believe in yourself!
     - utf16_bytes:
         - 0
   talk04:
@@ -56,19 +57,19 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Where's that special someone I've been\nwaiting for?"
+    - text: "Where's that special someone I've been\nwaiting for?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Is this a sign?"
+    - text: " Is this a sign?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Should I put\nmyself out there more?"
+    - text: " Should I put\nmyself out there more?"
     - utf16_bytes:
         - 14
         - 1
@@ -76,10 +77,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: Try another pond.
+    - text: Try another pond.
     - utf16_bytes:
         - 0
   talk05:
@@ -88,8 +90,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Are you trying to cheer me up?
+    - text: ĀAre you trying to cheer me up?
     - utf16_bytes:
         - 14
         - 0
@@ -99,15 +100,14 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Because don't worry about me! My mom\nalways said, \"You can do anything you\nput your mind to, Mimos.\"\n"
+    - text: "इBecause don't worry about me! My mom\nalways said, \"You can do anything you\nput your mind to, Mimos.\"\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Anyway, what about you? Putting your\nfaith in some silly legend won't make the\nladies come calling!"
+    - text: "Anyway, what about you? Putting your\nfaith in some silly legend won't make the\nladies come calling!"
     - utf16_bytes:
         - 0
   talk06:
@@ -117,7 +117,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hmm. Hmmmmm...
+    - text: Hmm. Hmmmmm...
     - utf16_bytes:
         - 14
         - 0
@@ -127,7 +127,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nYou really think that'll help?"
+    - text: "\nYou really think that'll help?"
     - utf16_bytes:
         - 14
         - 5
@@ -141,7 +141,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You here to meet your soul mate too?
+    - text: You here to meet your soul mate too?
     - utf16_bytes:
         - 14
         - 1
@@ -149,7 +149,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk07:
     - utf16_bytes:
@@ -158,15 +159,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You must really be hungry for love,\ncoming out here in this weather."
+    - text: "You must really be hungry for love,\ncoming out here in this weather."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Huh?
+    - text: Huh?
     - utf16_bytes:
         - 0
   talk02:
@@ -176,7 +177,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Yeah, same."
+    - text: "Yeah, same."
     - utf16_bytes:
         - 14
         - 0
@@ -187,7 +188,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There's just one problem..."
+    - text: "There's just one problem..."
     - utf16_bytes:
         - 14
         - 0
@@ -197,12 +198,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tNobody's shown up yet."
+        - 9
+    - text: "Nobody's shown up yet."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I thought this was the \"sweetheart's\npond\" everyone talks about, but maybe\nI'm in the wrong place?"
+    - text: "I thought this was the \"sweetheart's\npond\" everyone talks about, but maybe\nI'm in the wrong place?"
     - utf16_bytes:
         - 0

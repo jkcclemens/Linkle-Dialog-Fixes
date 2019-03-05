@@ -6,7 +6,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm worried about my precious wares."
+        - 9
+    - text: "I'm worried about my precious wares."
     - utf16_bytes:
         - 0
   Com_Talk_00:
@@ -15,8 +16,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: "Whatcha sellin'?"
+    - text: "촄Whatcha sellin'?"
     - utf16_bytes:
         - 0
   RetMSG_Kyu_00_1:
@@ -26,35 +26,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you're fixin' to travel west beyond the\n"
+    - text: "If you're fixin' to travel west beyond the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Great Bridge
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", be sure to keep\nan eye out for them "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: flying Guardians
+    - text: Tabantha Great Bridge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ", be sure to keep\nan eye out for them "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: flying Guardians
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   Com_Talk_01:
@@ -74,13 +74,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If that's what you're thinking,\ndoes "
+    - text: " If that's what you're thinking,\ndoes "
     - utf16_bytes:
         - 14
         - 0
@@ -90,28 +90,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees "
+    - text: " rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: sound fair?
+    - text: sound fair?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02:
     - utf16_bytes:
@@ -119,14 +118,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Thank you kindly!
+    - text: 촂Thank you kindly!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Is there anything else?"
+    - text: " Is there anything else?"
     - utf16_bytes:
         - 0
   Com_Talk_04:
@@ -135,38 +133,35 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Oooh, but I really want it!"
+    - text: "촎Oooh, but I really want it!"
     - utf16_bytes:
         - 0
   Com_Talk_10:
-    - ascii: "Lookin' to buy\n"
+    - text: "Lookin' to buy\n"
     - utf16_bytes:
         - 14
         - 2
         - 11
-    - ascii: "*&Shop_SelectItemName"
+    - text: "*&Shop_SelectItemName"
     - utf16_bytes:
         - 0
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_05:
-    - ascii: "I'll buy anything you've got."
+    - text: "I'll buy anything you've got."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Just try me!"
+    - text: " Just try me!"
     - utf16_bytes:
         - 0
   Com_Talk_11:
@@ -175,12 +170,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Thank you kindly!
+    - text: 촂Thank you kindly!
     - utf16_bytes:
         - 0
   Com_Talk_06:
-    - ascii: "Whatcha lookin' to buy?"
+    - text: "Whatcha lookin' to buy?"
     - utf16_bytes:
         - 0
   Com_Talk_12:
@@ -189,14 +183,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "If it's rice you need, I'm your gal!"
+    - text: "촂If it's rice you need, I'm your gal!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nTake your time browsing!"
+    - text: "\nTake your time browsing!"
     - utf16_bytes:
         - 0
   Com_Talk_02b:
@@ -205,7 +198,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thank you kindly!
+    - text: 촉Thank you kindly!
     - utf16_bytes:
         - 0
   Com_Talk_07:
@@ -214,28 +207,24 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Oh, so sorry!"
+    - text: "촎Oh, so sorry!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Looks like I'm fresh out of\nthat one."
+    - text: " Looks like I'm fresh out of\nthat one."
     - utf16_bytes:
         - 0
   Com_Talk_13:
-    - ascii: How many you looking to sell?
+    - text: How many you looking to sell?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Com_Talk_02c:
     - utf16_bytes:
@@ -243,7 +232,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thank you very much!
+    - text: 촉Thank you very much!
     - utf16_bytes:
         - 0
   Com_Talk_08:
@@ -252,32 +241,31 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Looks like you're a bit short on rupees."
+    - text: "촎Looks like you're a bit short on rupees."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nFind me the next time I come around."
+    - text: "\nFind me the next time I come around."
     - utf16_bytes:
         - 0
   Com_Talk_14:
-    - ascii: "Hmm... You wanna sell "
+    - text: "Hmm... You wanna sell "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
@@ -287,7 +275,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\nI can go as high as "
+    - text: "d\nI can go as high as "
     - utf16_bytes:
         - 14
         - 0
@@ -297,28 +285,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_20:
     - utf16_bytes:
@@ -326,28 +313,27 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Be sure to check out my rainy-day\nspecial: "
+    - text: "촂Be sure to check out my rainy-day\nspecial: "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Goron spice
+    - text: Goron spice
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's handier than\na Cucco on a rooftop if it's cold out!"
+    - text: " It's handier than\na Cucco on a rooftop if it's cold out!"
     - utf16_bytes:
         - 0
   Com_Talk_02d:
@@ -356,8 +342,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Your business made it worth walking all\nthe way out here!"
+    - text: "촂Your business made it worth walking all\nthe way out here!"
     - utf16_bytes:
         - 0
   Com_Talk_09:
@@ -366,14 +351,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Looks like your bag is a mite full.
+    - text: 촎Looks like your bag is a mite full.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nJust sell or toss a few things to free\nup some space."
+    - text: "\nJust sell or toss a few things to free\nup some space."
     - utf16_bytes:
         - 0
   Com_Talk_15:
@@ -382,8 +366,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "I couldn't possibly buy that from you."
+    - text: "촎I couldn't possibly buy that from you."
     - utf16_bytes:
         - 0
   Thanks00:
@@ -392,14 +375,13 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Here, take this."
+    - text: "āHere, take this."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's a token of\nmy gratitude."
+    - text: " It's a token of\nmy gratitude."
     - utf16_bytes:
         - 0
   Com_Talk_16:
@@ -408,14 +390,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "I can't literally buy the clothes off your\nback. Go ahead and change first."
+    - text: "촎I can't literally buy the clothes off your\nback. Go ahead and change first."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nDon't worry, I ain't peekin'!"
+    - text: "\nDon't worry, I ain't peekin'!"
     - utf16_bytes:
         - 0
   RetMSG_Kyu_04_1:
@@ -424,26 +405,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "This here donkey's been carrying all this\nwheat and rice for days."
+    - text: "ကThis here donkey's been carrying all this\nwheat and rice for days."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If only I could\nlighten his load, even just a mite!"
+    - text: " If only I could\nlighten his load, even just a mite!"
     - utf16_bytes:
         - 0
   Com_Talk_30:
-    - ascii: "Well, "
+    - text: "Well, "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " will cost ya "
+    - text: " will cost ya "
     - utf16_bytes:
         - 14
         - 0
@@ -453,42 +433,37 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_31:
-    - ascii: How many can I do ya for?
+    - text: How many can I do ya for?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   RetMSG_Kyu_00:
     - utf16_bytes:
@@ -497,35 +472,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you're fixin' to travel west beyond\nthe "
+    - text: "If you're fixin' to travel west beyond\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Great Bridge
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", you'd best\nbe wary of what's over there.\nThese ancient weapons, some sort of\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: flying Guardians
+    - text: Tabantha Great Bridge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", have been a real\nmenace to travelers that far out."
+    - text: ", you'd best\nbe wary of what's over there.\nThese ancient weapons, some sort of\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: flying Guardians
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", have been a real\nmenace to travelers that far out."
     - utf16_bytes:
         - 0
   Atacked00:
@@ -534,18 +509,17 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: "I'll just wait here until the monsters go\naway on their own..."
+    - text: "⨃I'll just wait here until the monsters go\naway on their own..."
     - utf16_bytes:
         - 0
   Com_Talk_33:
-    - ascii: Just one?
+    - text: Just one?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll buy it for "
+    - text: " I'll buy it for "
     - utf16_bytes:
         - 14
         - 0
@@ -555,28 +529,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nSound fair?"
+    - text: ".\nSound fair?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   MSG_Kyu_03_1:
     - utf16_bytes:
@@ -590,13 +563,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This ain't much my business, but..."
+    - text: "This ain't much my business, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI heard there's some treasure hidden\nin Hyrule Castle."
+    - text: "\nI heard there's some treasure hidden\nin Hyrule Castle."
     - utf16_bytes:
         - 0
   RetMSG_Kyu_01:
@@ -606,54 +579,54 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you ever cross "
+    - text: "If you ever cross "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Great Bridge
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nkeep your ears open for a right ghastly\nvoice echoing from the valley below.\nThey say a Goron once lost his footing\nand fell off that bridge, all the way\ndown into "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Tanagar Canyon
+    - text: Tabantha Great Bridge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ",\nkeep your ears open for a right ghastly\nvoice echoing from the valley below.\nThey say a Goron once lost his footing\nand fell off that bridge, all the way\ndown into "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tanagar Canyon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "\nAnd they say that his ghost..."
+    - text: "\nAnd they say that his ghost..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nhaunts all who cross the bridge!"
+    - text: "\nhaunts all who cross the bridge!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nMwahahahaaaa!"
+    - text: "\nMwahahahaaaa!"
     - utf16_bytes:
         - 0
   Atacked01:
@@ -662,20 +635,19 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: "I think I'd better just stay here."
+    - text: "⨃I think I'd better just stay here."
     - utf16_bytes:
         - 0
   Com_Talk_34:
-    - ascii: "Well, well...I may close early today.\nI've got "
+    - text: "Well, well...I may close early today.\nI've got "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: ", so that'll be "
+    - text: ", so that'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -685,28 +657,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   RetMSG_Kyu_01_1:
     - utf16_bytes:
@@ -720,35 +691,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you ever cross "
+    - text: "If you ever cross "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Great Bridge
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nkeep your ears open for a right ghastly\nvoice echoing from the valley below.\nThey say a Goron once lost his footing\nand fell off that bridge, all the way\ndown into "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Tanagar Canyon
+    - text: Tabantha Great Bridge
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ",\nkeep your ears open for a right ghastly\nvoice echoing from the valley below.\nThey say a Goron once lost his footing\nand fell off that bridge, all the way\ndown into "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tanagar Canyon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   RetMSG_Kyu_02:
@@ -757,30 +728,29 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Say, do you have any..."
+    - text: "ကSay, do you have any..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "expensive metal\ngear on you?"
+    - text: "expensive metal\ngear on you?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWait, what?\n"
+    - text: "\nWait, what?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ᔊNo, no, it's not like that!\nIt's just, lightning strikes these here\nparts pretty often, you see?\nSo if you hear a rumblin' up in the sky,\nyou'd best be unequipping any metal\ngear. That's all I was meanin'!"
+    - text: "ᔊNo, no, it's not like that!\nIt's just, lightning strikes these here\nparts pretty often, you see?\nSo if you hear a rumblin' up in the sky,\nyou'd best be unequipping any metal\ngear. That's all I was meanin'!"
     - utf16_bytes:
         - 0
   Com_Talk_35:
-    - ascii: "I'll give you "
+    - text: "I'll give you "
     - utf16_bytes:
         - 14
         - 0
@@ -790,28 +760,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for the lot.\nSound fair?"
+    - text: " for the lot.\nSound fair?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   RetMSG_Kyu_03:
     - utf16_bytes:
@@ -819,24 +788,19 @@ entries:
         - 3
         - 1
         - 2
-        - 6656
-        - 9834
-    - ascii: "Ooohhh, Hyrule Castle tooown!"
+    - text: "ᨀ♪Ooohhh, Hyrule Castle tooown!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThere's treasure to be foooound!"
-    - utf16_bytes:
-        - 9834
-    - ascii: "\n\nOh, this song?"
+    - text: "\nThere's treasure to be foooound!♪\n\nOh, this song?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Some singin' traveler\nwandered past and I've had it stuck in\nmy head since! No idea what it means..."
+    - text: " Some singin' traveler\nwandered past and I've had it stuck in\nmy head since! No idea what it means..."
     - utf16_bytes:
         - 0
   Com_Talk_36:
@@ -845,7 +809,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Phew, that was the last of them.\nI'm glad you bought me out!"
+    - text: "촉Phew, that was the last of them.\nI'm glad you bought me out!"
     - utf16_bytes:
         - 0
   RetMSG_Kyu_04:
@@ -855,27 +819,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This here donkey clip-clopped his way\nfrom "
+    - text: "This here donkey clip-clopped his way\nfrom "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Bridge Stable
+    - text: Tabantha Bridge Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", full bags on\nhis back every clippin'-clop of the way.\nI can't help but feel bad for the guy."
+    - text: ", full bags on\nhis back every clippin'-clop of the way.\nI can't help but feel bad for the guy."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIf only I could lighten his load, even\njust a mite!"
+    - text: "\nIf only I could lighten his load, even\njust a mite!"
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -884,12 +848,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: Phew... You saved me.
+    - text: ሁPhew... You saved me.
     - utf16_bytes:
         - 0
   Com_Talk_05b:
-    - ascii: Just leave the buying to me!
+    - text: Just leave the buying to me!
     - utf16_bytes:
         - 0
   Com_Talk_11b:
@@ -898,8 +861,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: Thank you much!
+    - text: 촇Thank you much!
     - utf16_bytes:
         - 0
   Com_Talk_37:
@@ -908,22 +870,20 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Sorry, looks like I'm all sold out for the\nday."
+    - text: "촎Sorry, looks like I'm all sold out for the\nday."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Want a sneak peek of what I'll\nhave in stock next time?"
+    - text: " Want a sneak peek of what I'll\nhave in stock next time?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Talk01:
     - utf16_bytes:
@@ -931,20 +891,19 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Oh, hey!"
+    - text: "āOh, hey!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Got enough foodstuffs for your\njourney?"
+    - text: " Got enough foodstuffs for your\njourney?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Best not tempt runnin' low, so\nwhy not take a look at what I've got?"
+    - text: " Best not tempt runnin' low, so\nwhy not take a look at what I've got?"
     - utf16_bytes:
         - 14
         - 1
@@ -953,7 +912,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   SavedLv1_01:
     - utf16_bytes:
@@ -961,12 +921,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: Much obliged.
+    - text: ሁMuch obliged.
     - utf16_bytes:
         - 0
   Com_Talk_05c:
-    - ascii: "I'll be more than glad to buy anything\nyou don't want."
+    - text: "I'll be more than glad to buy anything\nyou don't want."
     - utf16_bytes:
         - 0
   Com_Talk_11c:
@@ -975,7 +934,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Much obliged!
+    - text: 촉Much obliged!
     - utf16_bytes:
         - 0
   MSG_Kyu_00_1:
@@ -985,35 +944,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm passing through "
+    - text: "I'm passing through "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Serenne Stable
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " on\nmy way to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Snowfield Stable
+    - text: Serenne Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " myself."
+    - text: " on\nmy way to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Snowfield Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " myself."
     - utf16_bytes:
         - 0
   Talk02:
@@ -1022,8 +981,7 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "Fixin' on anything else?"
+    - text: "āFixin' on anything else?"
     - utf16_bytes:
         - 14
         - 1
@@ -1032,16 +990,17 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Com_Talk_05d:
-    - ascii: "I'll buy anything."
+    - text: "I'll buy anything."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Seriously!"
+    - text: " Seriously!"
     - utf16_bytes:
         - 0
   Com_Talk_11d:
@@ -1050,7 +1009,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Thank you!
+    - text: 촉Thank you!
     - utf16_bytes:
         - 0
   Rest_00:
@@ -1060,13 +1019,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm a donkey-totin' merchant, ya see,\nspecializin' in all sorts of grain."
+    - text: "I'm a donkey-totin' merchant, ya see,\nspecializin' in all sorts of grain."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Peddlin'\nrice for rice fans, wheat for bread fans!"
+    - text: " Peddlin'\nrice for rice fans, wheat for bread fans!"
     - utf16_bytes:
         - 0
   Rest_01:
@@ -1075,24 +1034,23 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Rain ain't welcome by most travelin'\nmerchants, ya see."
+    - text: "ကRain ain't welcome by most travelin'\nmerchants, ya see."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " But it ain't all bad."
+    - text: " But it ain't all bad."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nGives us a chance to take a rest!"
+    - text: "\nGives us a chance to take a rest!"
     - utf16_bytes:
         - 0
   "5500":
-    - ascii: Sounds good!
+    - text: Sounds good!
     - utf16_bytes:
         - 0
   Rest_02:
@@ -1101,18 +1059,17 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "I ain't mindin' the rain. Gettin' a little wet\nain't never hurt anyone."
+    - text: "ကI ain't mindin' the rain. Gettin' a little wet\nain't never hurt anyone."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's the lightning\nyou best be lookin' out for.\nEspecially if you're wearin' metal!"
+    - text: " It's the lightning\nyou best be lookin' out for.\nEspecially if you're wearin' metal!"
     - utf16_bytes:
         - 0
   Com_Talk_56:
-    - ascii: "Just one, is that right?\nThat'll be "
+    - text: "Just one, is that right?\nThat'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -1122,52 +1079,50 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Sound good?"
+    - text: ". Sound good?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "5501":
-    - ascii: Maybe not...
+    - text: Maybe not...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Fixin' to buy."
+    - text: "Fixin' to buy."
     - utf16_bytes:
         - 0
   "5502":
-    - ascii: "I'll take it."
+    - text: "I'll take it."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Lookin' to sell."
+    - text: "Lookin' to sell."
     - utf16_bytes:
         - 0
   "5503":
-    - ascii: On second thought...
+    - text: On second thought...
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Not right now.
+    - text: Not right now.
     - utf16_bytes:
         - 0
   Near00:
@@ -1176,11 +1131,8 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-        - 9834
-    - ascii: "La-la-la, da-donkey."
+    - text: "촘♪La-la-la, da-donkey.♪"
     - utf16_bytes:
-        - 9834
         - 0
   SavedLv2_00:
     - utf16_bytes:
@@ -1188,14 +1140,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: You saved me...
+    - text: ሁYou saved me...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Not sure how I can repay\nyou, though."
+    - text: " Not sure how I can repay\nyou, though."
     - utf16_bytes:
         - 0
   Near01:
@@ -1204,11 +1155,8 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-        - 9834
-    - ascii: "Donkey-dee, la-la-la."
+    - text: "촘♪Donkey-dee, la-la-la.♪"
     - utf16_bytes:
-        - 9834
         - 0
   SavedLv2_01:
     - utf16_bytes:
@@ -1216,8 +1164,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: Nice and safe again thanks to you.
+    - text: ሁNice and safe again thanks to you.
     - utf16_bytes:
         - 0
   Near02:
@@ -1226,11 +1173,8 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-        - 9834
-    - ascii: "Tra-li-la, da-donkey."
+    - text: "촘♪Tra-li-la, da-donkey.♪"
     - utf16_bytes:
-        - 9834
         - 0
   MSG_Kyu_04_1:
     - utf16_bytes:
@@ -1238,36 +1182,35 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: "Sure is a cold one, ain't it?\n\n\nThe trip from "
+    - text: "⨃Sure is a cold one, ain't it?\n\n\nThe trip from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Serenne Stable "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Snowfield Stable
+    - text: "Serenne Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " always gets me. The\nchange in weather is so drastic!"
+    - text: "to\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Snowfield Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " always gets me. The\nchange in weather is so drastic!"
     - utf16_bytes:
         - 0
   Near03:
@@ -1276,14 +1219,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-        - 9834
-    - ascii: "La-li-lu-li, da-donkey."
+    - text: "촘♪La-li-lu-li, da-donkey.♪"
     - utf16_bytes:
-        - 9834
         - 0
   "5507":
-    - ascii: "I'll take 'em all!"
+    - text: "I'll take 'em all!"
     - utf16_bytes:
         - 0
   RetMSG_Kyu_02_1:
@@ -1293,7 +1233,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So if you hear a rumblin' up in the sky,\nyou'd best be unequipping any metal\ngear. Armor, swords, and the like!"
+    - text: "So if you hear a rumblin' up in the sky,\nyou'd best be unequipping any metal\ngear. Armor, swords, and the like!"
     - utf16_bytes:
         - 0
   Near04:
@@ -1302,14 +1242,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52504
-        - 9834
-    - ascii: "Li-li, rain, da-donkey."
+    - text: "촘♪Li-li, rain, da-donkey.♪"
     - utf16_bytes:
-        - 9834
         - 0
   "5508":
-    - ascii: "I'll sell them all!"
+    - text: "I'll sell them all!"
     - utf16_bytes:
         - 0
   Guardian00:
@@ -1318,22 +1255,21 @@ entries:
         - 3
         - 1
         - 2
-        - 5636
-    - ascii: "A "
+    - text: "ᘄA "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guardian
+    - text: Guardian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... We need to hightail it\nwhile we can!"
+    - text: "... We need to hightail it\nwhile we can!"
     - utf16_bytes:
         - 0
   MSG_Kyu_00:
@@ -1343,41 +1279,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Say, are you a traveler too?"
+    - text: "Say, are you a traveler too?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWhere you headed?\n\nI'm passing through "
+    - text: "\nWhere you headed?\n\nI'm passing through "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Serenne Stable
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " on\nmy way to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Snowfield Stable
+    - text: Serenne Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " myself."
+    - text: " on\nmy way to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Snowfield Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " myself."
     - utf16_bytes:
         - 0
   MSG_Kyu_01_1:
@@ -1387,7 +1323,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You'd best unequip your metal gear\nwhen there's a lightning storm a-brewin'.\nAt least, that's what they say!"
+    - text: "You'd best unequip your metal gear\nwhen there's a lightning storm a-brewin'.\nAt least, that's what they say!"
     - utf16_bytes:
         - 0
   MSG_Kyu_01:
@@ -1396,21 +1332,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "Maybe you're already knowin' this, but..."
+    - text: "ဋMaybe you're already knowin' this, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nlightning strikes ain't exactly uncommon\naround these here parts.\n"
+    - text: "\nlightning strikes ain't exactly uncommon\naround these here parts.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "You'd best unequip your metal gear\nwhen there's a lightning storm a-brewin'.\nAt least, that's what they say!"
+    - text: "ĀYou'd best unequip your metal gear\nwhen there's a lightning storm a-brewin'.\nAt least, that's what they say!"
     - utf16_bytes:
         - 0
   MSG_Kyu_02:
@@ -1419,8 +1353,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "My donkey is plum tuckered out, so\nI'm fixin' to spend a few nights at\nthis here stable."
+    - text: "ကMy donkey is plum tuckered out, so\nI'm fixin' to spend a few nights at\nthis here stable."
     - utf16_bytes:
         - 0
   MSG_Kyu_03:
@@ -1430,13 +1363,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This ain't much my business, but..."
+    - text: "This ain't much my business, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI heard there's some treasure hidden\nin Hyrule Castle.\nTreasure hunting ain't much my thing,\nbut you look like the adventuring sort.\nThought you'd hanker a know!"
+    - text: "\nI heard there's some treasure hidden\nin Hyrule Castle.\nTreasure hunting ain't much my thing,\nbut you look like the adventuring sort.\nThought you'd hanker a know!"
     - utf16_bytes:
         - 0
   MSG_Kyu_04:
@@ -1445,48 +1378,47 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "⨉*shiver...*\n\n\n"
+    - text: "⨉*shiver...*\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "N-n-no, I'm not scared."
+    - text: "ăN-n-no, I'm not scared."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'm c-c-cold.\n\nThe trip from "
+    - text: "\nI'm c-c-cold.\n\nThe trip from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Serenne Stable "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "to\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Snowfield Stable
+    - text: "Serenne Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " always gets me. The\nchange in weather is so drastic!"
+    - text: "to\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Snowfield Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " always gets me. The\nchange in weather is so drastic!"
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -1496,7 +1428,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Phew, you're stronger than you look!"
+    - text: "Phew, you're stronger than you look!"
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -1505,20 +1437,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: "You saved me? I don't know what to say."
+    - text: "ሁYou saved me? I don't know what to say."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nExcept..."
+    - text: "\nExcept..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: sorry I interrupted your journey.
+    - text: sorry I interrupted your journey.
     - utf16_bytes:
         - 0
   RetMSG_Kyu_03_1:
@@ -1527,17 +1458,14 @@ entries:
         - 3
         - 1
         - 2
-        - 6656
-        - 9834
-    - ascii: "Ooohhh, Hyrule Castle tooown!"
+    - text: "ᨀ♪Ooohhh, Hyrule Castle tooown!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThere's treasure to be foooound!"
+    - text: "\nThere's treasure to be foooound!♪"
     - utf16_bytes:
-        - 9834
         - 0
   GoodBye00:
     - utf16_bytes:
@@ -1545,8 +1473,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1025
-    - ascii: "Thanks for stoppin' by.\nSee you down the road!"
+    - text: "ЁThanks for stoppin' by.\nSee you down the road!"
     - utf16_bytes:
         - 0
   Failed00:
@@ -1555,7 +1482,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThat had me so scared I reckoned my\nlegs wouldn't be movin' again!"
+        - 9
+    - text: "That had me so scared I reckoned my\nlegs wouldn't be movin' again!"
     - utf16_bytes:
         - 0
   MSG_Kyu_02_1:
@@ -1564,7 +1492,6 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "My donkey is plum tuckered out, so\nI'm fixin' to spend a few nights at\nthis here stable."
+    - text: "ကMy donkey is plum tuckered out, so\nI'm fixin' to spend a few nights at\nthis here stable."
     - utf16_bytes:
         - 0

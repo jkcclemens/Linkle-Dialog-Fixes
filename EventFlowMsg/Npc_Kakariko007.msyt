@@ -6,120 +6,118 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "There's a "
+    - text: "ЀThere's a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "shrine "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "right above this hill,\nguarding the Sheikah tribe. Sometimes\nfrom "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: the forest behind it
+    - text: "shrine "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you can hear..."
+    - text: "right above this hill,\nguarding the Sheikah tribe. Sometimes\nfrom "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: the forest behind it
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you can hear..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 260
-    - ascii: a woman sobbing!
+    - text: Ąa woman sobbing!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "...Heh! "
+    - text: "...Heh! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "That's the story I'm telling the\nchildren right now, anyway.\n\n"
+    - text: "That's the story I'm telling the\nchildren right now, anyway.\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Actually, the location I speak of is where the\nvillage's "
+    - text: "Actually, the location I speak of is where the\nvillage's "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "guardian spirit "
+    - text: "guardian spirit "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "resides.\n\nBut lately monsters have been lurking there,\nand it's become quite dangerous. "
+    - text: "resides.\n\nBut lately monsters have been lurking there,\nand it's become quite dangerous. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I'm scaring my\ndaughters so they won't go near that forest..."
+    - text: "I'm scaring my\ndaughters so they won't go near that forest..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n"
+    - text: "d\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "It works on Koko, but for some reason,\nthose stories just excite Cottla..."
+    - text: "It works on Koko, but for some reason,\nthose stories just excite Cottla..."
     - utf16_bytes:
         - 0
   Talk00:
@@ -128,8 +126,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It's said that she offers a special blessing\nto those that visit her... You should go\nthere and see for yourself."
+    - text: "ЀIt's said that she offers a special blessing\nto those that visit her... You should go\nthere and see for yourself."
     - utf16_bytes:
         - 0
   Talk13:
@@ -139,21 +136,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There's an "
+    - text: "There's an "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: inn
+    - text: inn
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in this village. Why not go\nrest there until the morning?"
+    - text: " in this village. Why not go\nrest there until the morning?"
     - utf16_bytes:
         - 14
         - 1
@@ -161,7 +158,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   SupriseHouse_00:
     - utf16_bytes:
@@ -169,18 +167,17 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ሉOh! It's you. You shouldn't scare me\nlike that.\n\n"
+    - text: "ሉOh! It's you. You shouldn't scare me\nlike that.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: I thought it was...them.
+    - text: ċI thought it was...them.
     - utf16_bytes:
         - 0
   TerrorEnemy:
-    - ascii: Danger!
+    - text: Danger!
     - utf16_bytes:
         - 0
   Talk01:
@@ -190,21 +187,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "There's an "
+    - text: "There's an "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: inn
+    - text: inn
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " in this village. Why not go\nrest there until morning?"
+    - text: " in this village. Why not go\nrest there until morning?"
     - utf16_bytes:
         - 0
   Talk14:
@@ -214,14 +211,14 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Ha, so that's how it looks! Makes sense.\nPlease allow me to explain.\n\n"
+    - text: "Ha, so that's how it looks! Makes sense.\nPlease allow me to explain.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The Sheikah tribe was once quite\ntechnologically advanced.\n\nThis outfit I wear was specially made\nusing Sheikah technology. It keeps the\nrain off and also wards off lightning.\nI may look soaking wet, but I assure\nyou, I'm actually quite comfortable."
+    - text: "The Sheikah tribe was once quite\ntechnologically advanced.\n\nThis outfit I wear was specially made\nusing Sheikah technology. It keeps the\nrain off and also wards off lightning.\nI may look soaking wet, but I assure\nyou, I'm actually quite comfortable."
     - utf16_bytes:
         - 0
   Talk15:
@@ -230,8 +227,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It's said that she offers a special blessing\nto those that visit her... You should go\nthere and see for yourself."
+    - text: "ЀIt's said that she offers a special blessing\nto those that visit her... You should go\nthere and see for yourself."
     - utf16_bytes:
         - 14
         - 1
@@ -239,7 +235,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk02:
     - utf16_bytes:
@@ -247,21 +244,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tMy wife...the mother of my children...\nshe was killed by the "
+        - 9
+    - text: "My wife...the mother of my children...\nshe was killed by the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Yiga Clan
+    - text: Yiga Clan
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". That is\nwhy Koko now acts as Cottla's mother.\nIf only... If only I had been able to\nstop them..."
+    - text: ". That is\nwhy Koko now acts as Cottla's mother.\nIf only... If only I had been able to\nstop them..."
     - utf16_bytes:
         - 0
   Talk16:
@@ -270,99 +268,97 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you need anything, please find it here\nin our village.\n\nThe "
+    - text: "ЀIf you need anything, please find it here\nin our village.\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: clothing shop
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: materials shop
+    - text: clothing shop
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\n"
+    - text: ", "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: general shop
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", and "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "inn "
+    - text: materials shop
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "should be able\nto provide everything you need.\nOh, and just between you and me,\nthere's also a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "shrine "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "in the hills\nof this village.\nThey say up and behind those hills\nresides Kakariko's "
+    - text: ",\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: guardian spirit
+    - text: general shop
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI hear she's incredibly beautiful.\n"
+    - text: ", and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "inn "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "should be able\nto provide everything you need.\nOh, and just between you and me,\nthere's also a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "shrine "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "in the hills\nof this village.\nThey say up and behind those hills\nresides Kakariko's "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: guardian spirit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nI hear she's incredibly beautiful.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "I'm too intimidated to go see\nfor myself, though..."
+    - text: "ċI'm too intimidated to go see\nfor myself, though..."
     - utf16_bytes:
         - 0
   Talk03:
@@ -372,7 +368,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's gotten so late."
+    - text: "It's gotten so late."
     - utf16_bytes:
         - 0
   Talk17:
@@ -381,12 +377,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "What are you doing up so late?\nMonsters roam about at night. It's way\ntoo dangerous to wander around."
+    - text: "ЀWhat are you doing up so late?\nMonsters roam about at night. It's way\ntoo dangerous to wander around."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Aren't you drenched?"
+    - text: "Aren't you drenched?"
     - utf16_bytes:
         - 0
   Talk04:
@@ -396,25 +391,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh! Well, if it isn't Lady Linkle.\nI'll go back to guarding Lady Impa's\nhome now.\nThe "
+    - text: "Oh! Well, if it isn't Lady Linkle.\nI'll go back to guarding Lady Impa's\nhome now.\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Yiga Clan
+    - text: Yiga Clan
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has been snooping around,\nso please be careful, Lady Linkle."
+    - text: " has been snooping around,\nso please be careful, Lady Linkle."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Understood.
+    - text: Understood.
     - utf16_bytes:
         - 0
   Talk18:
@@ -423,8 +418,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Ah, Lady Linkle..."
+    - text: "ЀAh, Lady Linkle..."
     - utf16_bytes:
         - 0
   Talk05:
@@ -433,12 +427,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: I should get some sleep...
+    - text: ЀI should get some sleep...
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: "Please, stop!"
+    - text: "Please, stop!"
     - utf16_bytes:
         - 0
   Talk19:
@@ -447,8 +440,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It's gotten so late."
+    - text: "ЀIt's gotten so late."
     - utf16_bytes:
         - 0
   Talk06:
@@ -457,21 +449,20 @@ entries:
         - 3
         - 1
         - 2
-        - 3083
-    - ascii: "Lady Linkle...\n\n\nI've had a lot on my mind lately, "
+    - text: "ఋLady Linkle...\n\n\nI've had a lot on my mind lately, "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "so it's\nbeen difficult to sleep well.\n\n"
+    - text: "so it's\nbeen difficult to sleep well.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Same for you, I imagine? Well, in any\ncase, you should get some rest at the\ninn when you're tired."
+    - text: "Same for you, I imagine? Well, in any\ncase, you should get some rest at the\ninn when you're tired."
     - utf16_bytes:
         - 0
   Talk07:
@@ -480,8 +471,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm off to meet my daughters. I'm going\nto tell them stories about our village\nunder the tree my wife so loved.\nMy stories are always the same though.\nI hope they don't mind!"
+    - text: "ЀI'm off to meet my daughters. I'm going\nto tell them stories about our village\nunder the tree my wife so loved.\nMy stories are always the same though.\nI hope they don't mind!"
     - utf16_bytes:
         - 0
   Talk08:
@@ -490,16 +480,15 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "My wife used to tell all kinds of stories\nunder this tree... Now it's up to me to\npass those stories on to our children.\nI'm not as good at it as she was,\nthough..."
+    - text: "ЀMy wife used to tell all kinds of stories\nunder this tree... Now it's up to me to\npass those stories on to our children.\nI'm not as good at it as she was,\nthough..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: What stories?
+    - text: What stories?
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: L-Lady Linkle?!
+    - text: L-Lady Linkle?!
     - utf16_bytes:
         - 0
   Talk09:
@@ -508,8 +497,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Are you taking a break as well,\nLady Linkle? If so, allow me to introduce\nmy precious daughters, Koko and Cottla.\nAny moment I can spend with my girls\nis a gift. I always end up boring them\nwith the same stories, though."
+    - text: "ЀAre you taking a break as well,\nLady Linkle? If so, allow me to introduce\nmy precious daughters, Koko and Cottla.\nAny moment I can spend with my girls\nis a gift. I always end up boring them\nwith the same stories, though."
     - utf16_bytes:
         - 14
         - 1
@@ -517,10 +505,11 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: Have fun!
+    - text: Have fun!
     - utf16_bytes:
         - 0
   SupriseHouse:
@@ -529,25 +518,25 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ᔊWh-who's there?!"
+    - text: "ᔊWh-who's there?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " What do you want?!\n\n\n..."
+    - text: " What do you want?!\n\n\n..."
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: What are you doing?!
+    - text: What are you doing?!
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: I hear a woman crying...
+    - text: I hear a woman crying...
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: Danger!
+    - text: Danger!
     - utf16_bytes:
         - 0
   Talk20:
@@ -556,14 +545,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Are you taking a break as well,\nLady Linkle? If so, allow me to introduce\nmy precious daughters, Koko and Cottla.\nThe weather is rather unfortunate today,\nbut we won't let that bring us down!\n\nAny moment I can spend with my girls\nis a gift. "
+    - text: "ЀAre you taking a break as well,\nLady Linkle? If so, allow me to introduce\nmy precious daughters, Koko and Cottla.\nThe weather is rather unfortunate today,\nbut we won't let that bring us down!\n\nAny moment I can spend with my girls\nis a gift. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "It's something I make time for\nevery day, no matter what.\nI always end up boring them with the\nsame stories, though."
+    - text: "It's something I make time for\nevery day, no matter what.\nI always end up boring them with the\nsame stories, though."
     - utf16_bytes:
         - 14
         - 1
@@ -571,5 +559,6 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

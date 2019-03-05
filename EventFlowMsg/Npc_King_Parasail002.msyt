@@ -6,30 +6,29 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Here, on this isolated plateau, "
+    - text: "ĀHere, on this isolated plateau, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "we are\nsurrounded on all sides by steep cliffs,\nwith no way down."
+    - text: "we are\nsurrounded on all sides by steep cliffs,\nwith no way down."
     - utf16_bytes:
         - 0
   Appear17:
-    - ascii: "If you were to try to jump off, well..."
+    - text: "If you were to try to jump off, well..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nno death could be more certain."
+    - text: "\nno death could be more certain."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nOr more foolish."
+    - text: "\nOr more foolish."
     - utf16_bytes:
         - 0
   Appear18:
@@ -38,8 +37,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Of course, if you had a paraglider\nlike mine, that would be quite\nanother story."
+    - text: "ЀOf course, if you had a paraglider\nlike mine, that would be quite\nanother story."
     - utf16_bytes:
         - 14
         - 1
@@ -47,10 +45,11 @@ entries:
         - 6
         - 6
         - 7
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "1000":
-    - ascii: And you are?
+    - text: And you are?
     - utf16_bytes:
         - 0
   Appear19:
@@ -59,14 +58,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: Oho!
+    - text: ਇOho!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Certainly! Why not?"
+    - text: " Certainly! Why not?"
     - utf16_bytes:
         - 14
         - 5
@@ -76,8 +74,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: " But there is no\nsuch thing as a free item in this world,\nyou know."
+    - text: "Ā But there is no\nsuch thing as a free item in this world,\nyou know."
     - utf16_bytes:
         - 0
   Talk00:
@@ -87,11 +84,11 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "Don't be hasty now. Just follow me."
+    - text: "Don't be hasty now. Just follow me."
     - utf16_bytes:
         - 0
   "1001":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   Talk01:
@@ -100,8 +97,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Do you see that structure there?\nThe one shining with a strange light?"
+    - text: "ЀDo you see that structure there?\nThe one shining with a strange light?"
     - utf16_bytes:
         - 0
   Talk02:
@@ -110,12 +106,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "It began glowing at the exact moment\nthose towers rose up from the ground."
+    - text: "ĀIt began glowing at the exact moment\nthose towers rose up from the ground."
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: What is it?!
+    - text: What is it?!
     - utf16_bytes:
         - 0
   Talk03:
@@ -124,13 +119,14 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: "CustomLaughI would think such a place might house\nsome sort of treasure, wouldn't you?"
+    - text: "CustomLaughI would think such a place might house\nsome sort of treasure, wouldn't you?"
     - utf16_bytes:
         - 0
   Talk04:
@@ -139,12 +135,11 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I want you to go there and fetch me\nany treasure you find inside."
+    - text: "ȀI want you to go there and fetch me\nany treasure you find inside."
     - utf16_bytes:
         - 0
   TerrorEnemy:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   Talk05:
@@ -153,16 +148,14 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I want you to go to that shrine there and\nfetch me any treasure you find inside."
+    - text: "ȀI want you to go to that shrine there and\nfetch me any treasure you find inside."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1000
-        - 1001
-        - 256
+    - text: ϨϩĀ
+    - utf16_bytes:
         - 0
   Appear01:
     - utf16_bytes:
@@ -170,14 +163,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "My, my..."
+    - text: "ĀMy, my..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It would seem we have\nquite the enigma here."
+    - text: " It would seem we have\nquite the enigma here."
     - utf16_bytes:
         - 0
   Talk06:
@@ -186,8 +178,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Go on! Fetch me any treasure you find\ninside that shrine."
+    - text: "ЀGo on! Fetch me any treasure you find\ninside that shrine."
     - utf16_bytes:
         - 0
   Appear02:
@@ -197,17 +188,17 @@ entries:
         - 1
         - 2
         - 3328
-    - ascii: "This tower and others just like it\nhave erupted across the land,\none after another.\nIt is almost as though..."
+    - text: "This tower and others just like it\nhave erupted across the land,\none after another.\nIt is almost as though..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "a long-dormant\npower has awoken quite suddenly."
+    - text: "a long-dormant\npower has awoken quite suddenly."
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: What is this?!
+    - text: What is this?!
     - utf16_bytes:
         - 0
   Appear03:
@@ -216,14 +207,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you do not mind me asking...\nDid anything..."
+    - text: "ĀIf you do not mind me asking...\nDid anything..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "odd occur while\nyou were atop that tower?"
+    - text: "odd occur while\nyou were atop that tower?"
     - utf16_bytes:
         - 14
         - 1
@@ -231,7 +221,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Appear04:
     - utf16_bytes:
@@ -239,13 +230,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Well now! "
+    - text: "촉Well now! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "A voice, you say?"
+    - text: "A voice, you say?"
     - utf16_bytes:
         - 0
   Appear05:
@@ -254,16 +245,15 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "You need not conceal the truth from me.\nTruth be told, I saw the whole thing\nunfold from afar."
+    - text: "촂You need not conceal the truth from me.\nTruth be told, I saw the whole thing\nunfold from afar."
     - utf16_bytes:
         - 0
   Appear06:
-    - ascii: "Although I could not hear anything, I did\nsee you react as if you heard something\ncoming from the direction of the castle..."
+    - text: "Although I could not hear anything, I did\nsee you react as if you heard something\ncoming from the direction of the castle..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I heard a voice.
+    - text: I heard a voice.
     - utf16_bytes:
         - 0
   Appear07:
@@ -272,12 +262,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Hit the nail on the head, did I?"
+    - text: "촇Hit the nail on the head, did I?"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Appear08:
@@ -286,8 +275,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "And did you happen to recognize this\nmysterious voice?"
+    - text: "ĀAnd did you happen to recognize this\nmysterious voice?"
     - utf16_bytes:
         - 14
         - 1
@@ -295,10 +283,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   Appear09:
@@ -307,14 +296,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52491
-    - ascii: I see.
+    - text: 촋I see.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Well, that is unfortunate."
+    - text: " Well, that is unfortunate."
     - utf16_bytes:
         - 0
   Appear20:
@@ -323,34 +311,29 @@ entries:
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "Oho! Piqued your interest, have I?"
+    - text: "ਇOho! Piqued your interest, have I?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYes, I didn't come soaring down here\non my own feathery wings, you know!\n"
+    - text: "\nYes, I didn't come soaring down here\non my own feathery wings, you know!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1281
-    - ascii: Worry not
-    - utf16_bytes:
-        - 8212
-    - ascii: "I will happily agree to give\nyou my paraglider."
+    - text: "ԁWorry not—I will happily agree to give\nyou my paraglider."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " But not for nothing."
+    - text: " But not for nothing."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Appear21:
@@ -359,20 +342,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Let's see now...\n\n\nHow about I trade it for a bit of treasure\nthat slumbers nearby?"
+    - text: "촎Let's see now...\n\n\nHow about I trade it for a bit of treasure\nthat slumbers nearby?"
     - utf16_bytes:
         - 0
   TerrorImpulse:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   TerrorInsect:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: I do.
+    - text: I do.
     - utf16_bytes:
         - 0
   Appear22:
@@ -381,16 +363,15 @@ entries:
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: Come. Let me show you something.
+    - text: 촀Come. Let me show you something.
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Hand it over!
+    - text: Hand it over!
     - utf16_bytes:
         - 0
   Anataha00:
@@ -399,28 +380,27 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: Only now you want to know who I am?!
+    - text: 촄Only now you want to know who I am?!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWell..."
+    - text: "\nWell..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm just an old man. One who has\nroamed this land for a long, long time."
+    - text: "I'm just an old man. One who has\nroamed this land for a long, long time."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Paraglider?
+    - text: Paraglider?
     - utf16_bytes:
         - 0
   ClearTerrorEnemy:
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   Near00:
@@ -430,23 +410,23 @@ entries:
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Huh?!
+    - text: Huh?!
     - utf16_bytes:
         - 0
   NakedPlayer:
-    - ascii: "Aren't you...a bit chilly?"
+    - text: "Aren't you...a bit chilly?"
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Easy there!
+    - text: Easy there!
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: Toasty...
+    - text: Toasty...
     - utf16_bytes:
         - 0
   Appear10:
@@ -455,18 +435,17 @@ entries:
         - 4
         - 1
         - 2
-        - 52491
-    - ascii: "It seems I have some work to do as far as\nearning your trust goes. "
+    - text: "촋It seems I have some work to do as far as\nearning your trust goes. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I suppose that is\nunderstandable."
+    - text: "I suppose that is\nunderstandable."
     - utf16_bytes:
         - 0
   Appear11:
-    - ascii: "I assume you caught sight of that\natrocity enshrouding the castle."
+    - text: "I assume you caught sight of that\natrocity enshrouding the castle."
     - utf16_bytes:
         - 0
   Appear12:
@@ -475,60 +454,59 @@ entries:
         - 3
         - 1
         - 2
-        - 1280
-    - ascii: That...
+    - text: ԀThat...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "is "
+    - text: "is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Calamity Ganon
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\nOne hundred years ago, that vile entity \nbrought the kingdom of "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Hyrule "
+    - text: Calamity Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to ruin.\nIt appeared suddenly"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " and destroyed\neverything in its path. So many innocent\nlives were lost in its wake.\nFor a century, the very symbol of our\nkingdom, Hyrule Castle, has managed\nto contain that evil. "
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "But just barely.\nThere it festers, building its strength for\nthe moment it will unleash its blight upon\nthe land once again.\nIt would appear that moment is fast\napproaching..."
+    - text: "\nOne hundred years ago, that vile entity \nbrought the kingdom of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Hyrule "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "to ruin.\nIt appeared suddenly"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " and destroyed\neverything in its path. So many innocent\nlives were lost in its wake.\nFor a century, the very symbol of our\nkingdom, Hyrule Castle, has managed\nto contain that evil. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "But just barely.\nThere it festers, building its strength for\nthe moment it will unleash its blight upon\nthe land once again.\nIt would appear that moment is fast\napproaching..."
     - utf16_bytes:
         - 0
   Appear13:
@@ -537,14 +515,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I must ask you, courageous one..."
+    - text: "ЀI must ask you, courageous one..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nDo you intend to make your way to\nthe castle?"
+    - text: "\nDo you intend to make your way to\nthe castle?"
     - utf16_bytes:
         - 14
         - 1
@@ -552,7 +529,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Appear14:
     - utf16_bytes:
@@ -560,13 +538,14 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughI had a feeling you would say that.
+    - text: CustomLaughI had a feeling you would say that.
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -575,22 +554,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Treasure for the "
+    - text: "ĀTreasure for the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: paraglider
+    - text: paraglider
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nA fair exchange, I believe."
+    - text: ".\nA fair exchange, I believe."
     - utf16_bytes:
         - 0
   Appear15:
@@ -599,19 +577,20 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughYou need not say a word.
+    - text: CustomLaughYou need not say a word.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Your eyes\nreveal the determination within."
+    - text: " Your eyes\nreveal the determination within."
     - utf16_bytes:
         - 0
   GoodBye01:
@@ -620,7 +599,6 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I am looking forward to your\nsuccessful return."
+    - text: "ĀI am looking forward to your\nsuccessful return."
     - utf16_bytes:
         - 0

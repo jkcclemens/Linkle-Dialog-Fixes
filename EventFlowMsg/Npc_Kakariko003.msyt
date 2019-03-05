@@ -11,34 +11,33 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
+        - 9
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "Koko wants to cook a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: hot buttered apple
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "Koko wants to cook a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: hot buttered apple
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nbut forgot the goat butter?!\n\nKoko is a bad daughter who can't\ndo anything right..."
+    - text: "\nbut forgot the goat butter?!\n\nKoko is a bad daughter who can't\ndo anything right..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Koko will never\nbe like Mother..."
+    - text: " Koko will never\nbe like Mother..."
     - utf16_bytes:
         - 14
         - 1
@@ -46,7 +45,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk33:
     - utf16_bytes:
@@ -59,48 +59,47 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
+        - 9
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "ARGH! Koko wants to cook\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: tough meat-stuffed pumpkin
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "ARGH! Koko wants to cook\n"
+    - text: "\nbut forgot the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: tough meat-stuffed pumpkin
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nbut forgot the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: raw meat
+    - text: raw meat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!\nKoko is a bad daughter who can't do\nanything right."
+    - text: "?!\nKoko is a bad daughter who can't do\nanything right."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Koko will never be\nlike Mother..."
+    - text: " Koko will never be\nlike Mother..."
     - utf16_bytes:
         - 14
         - 1
@@ -108,7 +107,8 @@ entries:
         - 6
         - 4
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk34:
     - utf16_bytes:
@@ -121,42 +121,41 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
+        - 9
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "Koko wanted to make a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: honeyed apple
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "Koko wanted to make a "
+    - text: ",\nbut Koko forgot the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: honeyed apple
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nbut Koko forgot the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: courser bee honey
+    - text: courser bee honey
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!\n\nKoko is a bad daughter who can't do\nanything right. Koko will never be\nlike Mother..."
+    - text: "?!\n\nKoko is a bad daughter who can't do\nanything right. Koko will never be\nlike Mother..."
     - utf16_bytes:
         - 14
         - 1
@@ -164,7 +163,8 @@ entries:
         - 6
         - 5
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk00:
     - utf16_bytes:
@@ -172,14 +172,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Sorry! Koko is in a bit of a rush!
+    - text: ЀSorry! Koko is in a bit of a rush!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nKoko has to go visit Mother before \nCottla gets home."
+    - text: "\nKoko has to go visit Mother before \nCottla gets home."
     - utf16_bytes:
         - 0
   Talk35:
@@ -189,46 +188,45 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh! It's you!"
+    - text: "Oh! It's you!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Koko has made a decision!\n\n\nKoko will become a chef when Koko\ngrows up!"
+    - text: " Koko has made a decision!\n\n\nKoko will become a chef when Koko\ngrows up!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That way, Koko can make\neveryone happy with yummy food!\n"
+    - text: " That way, Koko can make\neveryone happy with yummy food!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "This whole time, Koko has been\nrelying on Mother's recipes.\n\n"
+    - text: "This whole time, Koko has been\nrelying on Mother's recipes.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "But from now on, "
+    - text: "But from now on, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Koko will come up with\nher own recipes too!\n\n"
+    - text: "Koko will come up with\nher own recipes too!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "To be honest...coming up with recipes\nis hard!"
+    - text: "ċTo be honest...coming up with recipes\nis hard!"
     - utf16_bytes:
         - 0
   Talk01:
@@ -237,13 +235,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊWaaaaah!
+    - text: ᔊWaaaaah!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You scared Koko!"
+    - text: " You scared Koko!"
     - utf16_bytes:
         - 0
   Talk36:
@@ -252,21 +250,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tYour sweet words aren't helping...\nWhat Koko needs is some sweet\n"
+        - 9
+    - text: "Your sweet words aren't helping...\nWhat Koko needs is some sweet\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: courser bee honey
+    - text: courser bee honey
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Talk37:
@@ -275,21 +274,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWithout "
+        - 9
+    - text: "Without "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: raw meat
+    - text: raw meat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nKoko feels so empty..."
+    - text: "...\nKoko feels so empty..."
     - utf16_bytes:
         - 0
   Talk38:
@@ -299,13 +299,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Koko isn't... *sniffle* "
+    - text: "Koko isn't... *sniffle* "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Koko isn't crying!\nKoko needs to be strong for Mother..."
+    - text: "Koko isn't crying!\nKoko needs to be strong for Mother..."
     - utf16_bytes:
         - 14
         - 1
@@ -313,7 +313,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk03:
     - utf16_bytes:
@@ -321,32 +322,33 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tKoko..."
+        - 9
+    - text: Koko...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "used to not like the rain.\n\n\n"
+    - text: "used to not like the rain.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But now Koko doesn't mind it so much.\n\n\nThe rain is a veil. It hides many things..."
+    - text: "But now Koko doesn't mind it so much.\n\n\nThe rain is a veil. It hides many things..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nOn a rainy day, Koko can cry"
+    - text: "\n\n\nOn a rainy day, Koko can cry"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nwithout Mother seeing."
+    - text: "\nwithout Mother seeing."
     - utf16_bytes:
         - 0
   Talk04:
@@ -356,39 +358,39 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: Mother is...sleeping here.
+    - text: Mother is...sleeping here.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " She's probably\nmaking friends in heaven..."
+    - text: " She's probably\nmaking friends in heaven..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Father thinks it's best not to tell us\nshe's gone.\n\n"
+    - text: "Father thinks it's best not to tell us\nshe's gone.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: But Koko knows.
+    - text: But Koko knows.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That's why Koko\nmust be strong!"
+    - text: " That's why Koko\nmust be strong!"
     - utf16_bytes:
         - 0
   Talk39:
@@ -397,14 +399,14 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Huh? Your pouch is full!\n\n\n"
+    - text: "ጄHuh? Your pouch is full!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut Koko can't give you any food if you\ndon't have room for it!\n\nKoko worked so hard to make it.\nKoko wanted to thank you..."
+        - 9
+    - text: "But Koko can't give you any food if you\ndon't have room for it!\n\nKoko worked so hard to make it.\nKoko wanted to thank you..."
     - utf16_bytes:
         - 0
   Talk05:
@@ -414,21 +416,21 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "Father is bad at lying.\n\n\n"
+    - text: "Father is bad at lying.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Cottla is just too young to realize it...\n\n\n"
+    - text: "Cottla is just too young to realize it...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 3
-    - ascii: "Oh! Please don't tell Cottla you saw\nKoko here today!"
+    - text: "Oh! Please don't tell Cottla you saw\nKoko here today!"
     - utf16_bytes:
         - 0
   Talk06:
@@ -437,8 +439,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1028
-    - ascii: "It's already this late?! Koko's gotta\nget home before it's dark!"
+    - text: "ЄIt's already this late?! Koko's gotta\nget home before it's dark!"
     - utf16_bytes:
         - 0
   Talk07:
@@ -447,37 +448,37 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촊Must...
+    - text: 촊Must...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: stay awake...
+    - text: stay awake...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "until Father's home..."
-    - utf16_bytes:
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "\nKoko..."
+    - text: "until Father's home..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: must stay...
+    - text: "\nKoko..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: awake...
+    - text: must stay...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: awake...
     - utf16_bytes:
         - 0
   Talk08:
@@ -486,8 +487,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Koko is meeting Father soon.\nKoko has to go!"
+    - text: "ЀKoko is meeting Father soon.\nKoko has to go!"
     - utf16_bytes:
         - 0
   Talk09:
@@ -496,8 +496,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "Mother loved this tree!\n\n\nShe said it's big and kind,\njust like Father!"
+    - text: "ЇMother loved this tree!\n\n\nShe said it's big and kind,\njust like Father!"
     - utf16_bytes:
         - 0
   Talk20:
@@ -507,13 +506,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Koko will work hard
+    - text: Koko will work hard
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " to get better\nand better at cooking!"
+    - text: " to get better\nand better at cooking!"
     - utf16_bytes:
         - 0
   Talk21:
@@ -522,7 +521,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tKoko knows when someone is lying.\nFather isn't good at lying either..."
+        - 9
+    - text: "Koko knows when someone is lying.\nFather isn't good at lying either..."
     - utf16_bytes:
         - 0
   Talk22:
@@ -532,13 +532,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Hmm, what should Koko make now..."
+    - text: "Hmm, what should Koko make now..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -549,46 +549,46 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}OH!!"
+    - text: "}OH!!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dKoko will make Father's favorite!\n"
+    - text: "dKoko will make Father's favorite!\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tough meat-stuffed pumpkin
+    - text: Tough meat-stuffed pumpkin
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nIt's great for an energy boost.\n"
+    - text: "!\nIt's great for an energy boost.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Let's see..."
+    - text: "Let's see..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " The ingredients are..."
+    - text: " The ingredients are..."
     - utf16_bytes:
         - 14
         - 5
@@ -598,59 +598,59 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "fortified pumpkin "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "and "
+    - text: "d\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: raw meat
+    - text: "fortified pumpkin "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: "and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: raw meat
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\nHrm?"
+    - text: "d\nHrm?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 5
@@ -660,25 +660,25 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d ...
+    - text: d ...
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Raw meat
+    - text: Raw meat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: For Mother?
+    - text: For Mother?
     - utf16_bytes:
         - 0
   Talk23:
@@ -687,47 +687,48 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tKoko could use a different kind of meat,\nbut...without "
+        - 9
+    - text: "Koko could use a different kind of meat,\nbut...without "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: raw meat
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", Koko can't\nre-create Mother's recipe...\nFather used to go hunting to make sure\nwe always had "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: raw meat
+    - text: raw meat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ", Koko can't\nre-create Mother's recipe...\nFather used to go hunting to make sure\nwe always had "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: raw meat
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " But he's at\nwork right now...\nKoko is a bad daughter who can't do\nanything right."
+    - text: " But he's at\nwork right now...\nKoko is a bad daughter who can't do\nanything right."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Koko will never be\nlike Mother..."
+    - text: " Koko will never be\nlike Mother..."
     - utf16_bytes:
         - 14
         - 1
@@ -735,10 +736,11 @@ entries:
         - 6
         - 4
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: I see...
+    - text: I see...
     - utf16_bytes:
         - 0
   Talk24:
@@ -747,26 +749,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: Is this...
+    - text: ጄIs this...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ᘊraw meat?!
+    - text: ᘊraw meat?!
     - utf16_bytes:
         - 14
         - 5
@@ -776,33 +777,30 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: Are you sure about this? Really?
+    - text: Are you sure about this? Really?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThank you so much! Koko means it!"
+    - text: "\nThank you so much! Koko means it!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nStay right there for a second!"
+    - text: "\nStay right there for a second!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Voil
-    - utf16_bytes:
-        - 224
-    - ascii: "! Goat butter!"
+    - text: Voilà! Goat butter!
     - utf16_bytes:
         - 0
   Talk25:
@@ -812,23 +810,23 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Mmm!
+    - text: Mmm!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " What a scrumptious smell!\n\n\nOh, and that savory meat pairs SO well\nwith the sweetness of the pumpkin!"
+    - text: " What a scrumptious smell!\n\n\nOh, and that savory meat pairs SO well\nwith the sweetness of the pumpkin!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThis is just how Mother made it!\nHere, have some! It's so good!"
+    - text: "\nThis is just how Mother made it!\nHere, have some! It's so good!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Cheer up!
+    - text: Cheer up!
     - utf16_bytes:
         - 0
   Talk26:
@@ -837,29 +835,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ┉
+    - text: ┉
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Waaah! Mother!!"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "d\n\n\nKoko..."
-    - utf16_bytes:
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}"
+    - text: "}Waaah! Mother!!"
     - utf16_bytes:
         - 14
         - 5
@@ -869,24 +851,37 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nKoko..."
+    - text: "d\n\n\nKoko..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\nKoko..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "will do her best and try to be as\ngood as you one day! Koko will get\nbetter and better! Koko promises!"
+    - text: "will do her best and try to be as\ngood as you one day! Koko will get\nbetter and better! Koko promises!"
     - utf16_bytes:
         - 0
   near_00:
-    - ascii: Waaah!
+    - text: Waaah!
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Voil
-    - utf16_bytes:
-        - 224
-    - ascii: "! Raw meat!"
+    - text: Voilà! Raw meat!
     - utf16_bytes:
         - 0
   Talk27:
@@ -896,13 +891,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: What should Koko make for dessert?
+    - text: What should Koko make for dessert?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -913,58 +908,58 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}OH!"
+    - text: "}OH!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "dKoko will cook a "
+    - text: "dKoko will cook a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: honeyed apple
+    - text: honeyed apple
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nMother loved those!"
+    - text: "!\nMother loved those!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It melts in your\nmouth and is sooo delicious!\n"
+    - text: " It melts in your\nmouth and is sooo delicious!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Let's see..."
+    - text: "Let's see..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " The ingredients are..."
+    - text: " The ingredients are..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 5
@@ -974,71 +969,71 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\nan "
+    - text: "d\nan "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: apple
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " and "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: courser bee honey
+    - text: apple
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: courser bee honey
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}\n\nHrm? "
+    - text: "}\n\nHrm? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Courser bee honey
+    - text: Courser bee honey
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   near_01:
-    - ascii: "Ghosts aren't real..."
+    - text: "Ghosts aren't real..."
     - utf16_bytes:
         - 0
   Talk28:
@@ -1047,13 +1042,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThe bees attack you when you get close\nto their hives. It's too dangerous for\nKoko to go get more...\nKoko wanted to make some for Mother\nin heaven... But..."
+        - 9
+    - text: "The bees attack you when you get close\nto their hives. It's too dangerous for\nKoko to go get more...\nKoko wanted to make some for Mother\nin heaven... But..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Koko is a bad daughter\nwho can't do anything right."
+    - text: "Koko is a bad daughter\nwho can't do anything right."
     - utf16_bytes:
         - 14
         - 1
@@ -1061,17 +1057,15 @@ entries:
         - 6
         - 5
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0005":
-    - ascii: Voil
-    - utf16_bytes:
-        - 224
-    - ascii: "! Honey!"
+    - text: Voilà! Honey!
     - utf16_bytes:
         - 0
   near_02:
-    - ascii: Koko must cook dinner!
+    - text: Koko must cook dinner!
     - utf16_bytes:
         - 0
   Talk29:
@@ -1080,32 +1074,31 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Wait... "
+    - text: "ጄWait... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Is this...
+    - text: Is this...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ᘊcourser bee honey!!
+    - text: ᘊcourser bee honey!!
     - utf16_bytes:
         - 14
         - 5
@@ -1115,30 +1108,30 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: Are you sure about this? Really?
+    - text: Are you sure about this? Really?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThank you so much! Koko means it!"
+    - text: "\nThank you so much! Koko means it!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nJust stay right there a second!"
+    - text: "\nJust stay right there a second!"
     - utf16_bytes:
         - 0
   near_03:
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 0
   Talk40:
@@ -1148,7 +1141,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "You made space in your pouch for Koko?\nOh, you've made Koko so happy!\nThank you so much!\nKoko worked really hard to make this!\nPlease, try a bite!"
+    - text: "You made space in your pouch for Koko?\nOh, you've made Koko so happy!\nThank you so much!\nKoko worked really hard to make this!\nPlease, try a bite!"
     - utf16_bytes:
         - 0
   Talk41:
@@ -1157,15 +1150,16 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tIt's raining now, so Koko can't cook..."
+        - 9
+    - text: "It's raining now, so Koko can't cook..."
     - utf16_bytes:
         - 0
   near_04:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   near_05:
-    - ascii: "It's raining..."
+    - text: "It's raining..."
     - utf16_bytes:
         - 0
   Talk42:
@@ -1174,21 +1168,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "That pot lid...\n\n\n"
+    - text: "ጄThat pot lid...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "It found its owner! "
+    - text: "It found its owner! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Koko has been\nwondering who it belonged to for\na while now!"
+    - text: "Koko has been\nwondering who it belonged to for\na while now!"
     - utf16_bytes:
         - 0
   Talk43:
@@ -1197,21 +1190,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĊKoko is out of "
+    - text: "ĊKoko is out of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: goat butter
+    - text: goat butter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   Talk44:
@@ -1220,21 +1213,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĊKoko is out of "
+    - text: "ĊKoko is out of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: raw meat
+    - text: raw meat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
@@ -1247,22 +1240,21 @@ entries:
         - 3
         - 1
         - 2
-        - 260
-    - ascii: "Koko is all out of "
+    - text: "ĄKoko is all out of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: courser bee honey
+    - text: courser bee honey
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
@@ -1275,13 +1267,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊWaaaaah!
+    - text: ᔊWaaaaah!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What is it?!"
+    - text: " What is it?!"
     - utf16_bytes:
         - 0
   Talk12:
@@ -1290,8 +1282,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Time to cook a meal for Cottla...
+    - text: ЀTime to cook a meal for Cottla...
     - utf16_bytes:
         - 14
         - 5
@@ -1304,19 +1295,19 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊Father... "
+    - text: "촊Father... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Koko waited...
+    - text: Koko waited...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: for you...
+    - text: for you...
     - utf16_bytes:
         - 14
         - 5
@@ -1330,13 +1321,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: What should Koko make now...
+    - text: What should Koko make now...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -1347,66 +1338,66 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}OH!"
+    - text: "}OH!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hot buttered apple "
+    - text: "Hot buttered apple "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "sounds good!\nMother used to make it all the time!"
+    - text: "sounds good!\nMother used to make it all the time!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nCottla loves it too!\n"
+    - text: "\nCottla loves it too!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Let's see... The ingredients are..."
+    - text: "Let's see... The ingredients are..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " \nsome "
+    - text: " \nsome "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "apples "
+    - text: "apples "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: and...
+    - text: and...
     - utf16_bytes:
         - 14
         - 5
@@ -1417,14 +1408,14 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: goat butter
+    - text: goat butter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   Talk14:
@@ -1433,23 +1424,23 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: Ἂ
+    - text: Ἂ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}OH, NO!!"
+    - text: "}OH, NO!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   near:
-    - ascii: Hurry!
+    - text: Hurry!
     - utf16_bytes:
         - 0
   Talk15:
@@ -1458,7 +1449,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tKoko is a bad daughter who can't\ndo anything right. Koko will never\nbe like Mother..."
+        - 9
+    - text: "Koko is a bad daughter who can't\ndo anything right. Koko will never\nbe like Mother..."
     - utf16_bytes:
         - 14
         - 1
@@ -1466,7 +1458,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk16:
     - utf16_bytes:
@@ -1474,45 +1467,44 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Is this...\n\n\n"
+    - text: "ጄIs this...\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: ᘊgoat butter?!
+    - text: ᘊgoat butter?!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: Are you sure about this? Really?
+    - text: Are you sure about this? Really?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThank you so much! Koko means it!"
+    - text: "\nThank you so much! Koko means it!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nStay right there for a second!"
+    - text: "\nStay right there for a second!"
     - utf16_bytes:
         - 0
   Talk17:
@@ -1521,7 +1513,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tKoko doesn't need your sympathy.\nKoko needs some goat butter!"
+        - 9
+    - text: "Koko doesn't need your sympathy.\nKoko needs some goat butter!"
     - utf16_bytes:
         - 0
   Talk19:
@@ -1531,25 +1524,25 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Mmm!
+    - text: Mmm!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " What a yummy smell!"
+    - text: " What a yummy smell!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " And that hint\nof butter makes all the difference!\n\nOh! Oh! And the apples are superbly\nsweet too! "
+    - text: " And that hint\nof butter makes all the difference!\n\nOh! Oh! And the apples are superbly\nsweet too! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Here, take some. It's really\nsomething else."
+    - text: "Here, take some. It's really\nsomething else."
     - utf16_bytes:
         - 0
   Talk30:
@@ -1558,32 +1551,32 @@ entries:
         - 3
         - 1
         - 2
-        - 1028
-    - ascii: This...
+    - text: ЄThis...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " This is..."
+    - text: " This is..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tKoko..."
+        - 9
+    - text: Koko...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "remembers...\n\n\nWhen Koko had a fever, Mother would\nalways cook this just for Koko.\n\nWhen Mother made her special dessert,\nshe always put some of this in it."
+    - text: "remembers...\n\n\nWhen Koko had a fever, Mother would\nalways cook this just for Koko.\n\nWhen Mother made her special dessert,\nshe always put some of this in it."
     - utf16_bytes:
         - 0
   Talk31:
@@ -1593,13 +1586,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Koko was able to re-create Mother's\ndishes! Koko...feels better now!\n\n"
+    - text: "Koko was able to re-create Mother's\ndishes! Koko...feels better now!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "It's all thanks to you!\nPlease, take this!"
+    - text: "ЇIt's all thanks to you!\nPlease, take this!"
     - utf16_bytes:
         - 0

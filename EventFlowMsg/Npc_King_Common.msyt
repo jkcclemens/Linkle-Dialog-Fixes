@@ -6,16 +6,14 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "What brings a bright-eyed young girl\nlike you to a place like this?"
+    - text: "ĀWhat brings a bright-eyed young girl\nlike you to a place like this?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 2001
-        - 2003
-        - 256
+    - text: ߑߓĀ
+    - utf16_bytes:
         - 0
   FirstTalk03:
     - utf16_bytes:
@@ -23,22 +21,20 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I hope you'll permit me a question..."
+    - text: "ĀI hope you'll permit me a question..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIf I may be so bold...are you not chilly?"
+    - text: "\nIf I may be so bold...are you not chilly?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 2001
-        - 2003
-        - 256
+    - text: ߑߓĀ
+    - utf16_bytes:
         - 0
   FirstTalk05:
     - utf16_bytes:
@@ -47,13 +43,13 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: "Answering a question with a question.\nThat is fair enough.\n\nAs I cannot imagine our meeting to be a\nsimple coincidence..."
+    - text: "Answering a question with a question.\nThat is fair enough.\n\nAs I cannot imagine our meeting to be a\nsimple coincidence..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: I shall tell you.
+    - text: I shall tell you.
     - utf16_bytes:
         - 0
   Kokoha00:
@@ -62,28 +58,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "This is the "
+    - text: "ĀThis is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Great Plateau
+    - text: Great Plateau
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " According to\nlegend, this is the birthplace of the\nentire kingdom of Hyrule."
+    - text: " According to\nlegend, this is the birthplace of the\nentire kingdom of Hyrule."
     - utf16_bytes:
         - 0
   Kokoha01:
@@ -92,18 +87,17 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: That temple there...
+    - text: 촂That temple there...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Long ago,\nit was the site of many sacred\nceremonies.\nEver since the decline of the kingdom\n100 years ago, it has sat abandoned,\nin a state of decay."
+    - text: " Long ago,\nit was the site of many sacred\nceremonies.\nEver since the decline of the kingdom\n100 years ago, it has sat abandoned,\nin a state of decay."
     - utf16_bytes:
         - 0
   TerrorEnemy:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   Kokoha02:
@@ -112,17 +106,17 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊Yet another forgotten entity. "
+    - text: "촊Yet another forgotten entity. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "A mere\nghost of its former self..."
+    - text: "A mere\nghost of its former self..."
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: What is this?!
+    - text: What is this?!
     - utf16_bytes:
         - 0
   FirstGoodBye00:
@@ -131,16 +125,15 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Wait.
+    - text: ЀWait.
     - utf16_bytes:
         - 0
   TerrorImpulse:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   ClearTerrorGuardian:
-    - ascii: That was close...
+    - text: That was close...
     - utf16_bytes:
         - 0
   FirstGoodBye01:
@@ -149,14 +142,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Where are you rushing off to now?
+    - text: ĀWhere are you rushing off to now?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIs speaking with a strange old man truly\nsuch an awful use of your time?"
+    - text: "\nIs speaking with a strange old man truly\nsuch an awful use of your time?"
     - utf16_bytes:
         - 0
   FirstGoodBye02:
@@ -166,7 +158,7 @@ entries:
         - 1
         - 2
         - 3584
-    - ascii: "Hmph. Well, do as you like, then."
+    - text: "Hmph. Well, do as you like, then."
     - utf16_bytes:
         - 0
   Bokangi10:
@@ -175,19 +167,20 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It suits you quite well!"
+    - text: " It suits you quite well!"
     - utf16_bytes:
         - 0
   Bokangi11:
@@ -197,19 +190,19 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "I assume you will want to try it on\nright away, yes?"
+    - text: "I assume you will want to try it on\nright away, yes?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\nI thought you might be eager to see\nhow it looks... It's quite fetching!\n\nWell, I suppose it matters not. It is\nyours now."
+    - text: "\n\nI thought you might be eager to see\nhow it looks... It's quite fetching!\n\nWell, I suppose it matters not. It is\nyours now."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Do take care to put it on\nbefore you get too cold, though."
+    - text: " Do take care to put it on\nbefore you get too cold, though."
     - utf16_bytes:
         - 0
   Bokangi13:
@@ -218,22 +211,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "With that, you will be able to resist the\nbite of colder environments.\n\nAs for me, I know a great "
+    - text: "ЀWith that, you will be able to resist the\nbite of colder environments.\n\nAs for me, I know a great "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "spicy\nmeat and seafood fry "
+    - text: "spicy\nmeat and seafood fry "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "recipe, so I can\ndo without that warm doublet."
+    - text: "recipe, so I can\ndo without that warm doublet."
     - utf16_bytes:
         - 0
   Near00:
@@ -243,11 +235,11 @@ entries:
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 0
   TerrorInsect:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -256,12 +248,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I look forward to seeing what type of\ntreasure you secure out there."
+    - text: "ĀI look forward to seeing what type of\ntreasure you secure out there."
     - utf16_bytes:
         - 0
   ClearTerrorEnemy:
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   TalkHub1_01:
@@ -270,13 +261,14 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 0
   GoodBye01:
@@ -285,33 +277,33 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: Oho ho!
+    - text: 초Oho ho!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you still wish to acquire the\n"
+    - text: " If you still wish to acquire the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: paraglider
+    - text: paraglider
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you must put in the effort.\nI will not simply give it away, you see."
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."
     - utf16_bytes:
         - 0
   TalkHub1_02:
@@ -320,37 +312,38 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 0
   TerrorGuardian:
-    - ascii: A Guardian!
+    - text: A Guardian!
     - utf16_bytes:
         - 0
   "2000":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   "2001":
-    - ascii: Where are we?
+    - text: Where are we?
     - utf16_bytes:
         - 0
   "2003":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: Toasty...
+    - text: Toasty...
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Huh?!
+    - text: Huh?!
     - utf16_bytes:
         - 0
   Tennokoe01:
@@ -359,8 +352,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The blessing of the Goddess has made\nyou that much more resilient, I see..."
+    - text: "ĀThe blessing of the Goddess has made\nyou that much more resilient, I see..."
     - utf16_bytes:
         - 0
   Tennokoe02:
@@ -370,24 +362,21 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: Here I am...
+    - text: Here I am...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nGet up here"
-    - utf16_bytes:
-        - 8212
-    - ascii: quickly!
+    - text: "\nGet up here—quickly!"
     - utf16_bytes:
         - 0
   NakedPlayer:
-    - ascii: "Aren't you...a bit chilly?"
+    - text: "Aren't you...a bit chilly?"
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Easy there!
+    - text: Easy there!
     - utf16_bytes:
         - 0
   Anataha00:
@@ -397,21 +386,21 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Me?
+    - text: Me?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'll spare you my life story."
+    - text: " I'll spare you my life story."
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: What is it?!
+    - text: What is it?!
     - utf16_bytes:
         - 0
   Anataha01:
-    - ascii: "I'm just an old fool who has lived here,\nalone, for quite some time now."
+    - text: "I'm just an old fool who has lived here,\nalone, for quite some time now."
     - utf16_bytes:
         - 0
   FirstTalk00:
@@ -420,27 +409,27 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Well met, stranger!\nIt's rather unusual to see another soul\nin these parts."
+    - text: " Well met, stranger!\nIt's rather unusual to see another soul\nin these parts."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 2000
-        - 2003
-        - 256
+    - text: ߐߓĀ
+    - utf16_bytes:
         - 0
   FirstTalk01:
     - utf16_bytes:
@@ -448,14 +437,12 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "It is a bit strange to see another soul\nin these parts."
+    - text: "ĀIt is a bit strange to see another soul\nin these parts."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 2000
-        - 2003
-        - 256
+    - text: ߐߓĀ
+    - utf16_bytes:
         - 0

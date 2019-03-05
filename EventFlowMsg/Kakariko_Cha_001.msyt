@@ -7,21 +7,21 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Thank you! So much!\n\n\nOK, Koko just needs one "
+    - text: "Thank you! So much!\n\n\nOK, Koko just needs one "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: swift carrot
+    - text: swift carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nJust one and Koko can get cookin'!\nKoko will be waiting for you here!\n"
+    - text: "!\nJust one and Koko can get cookin'!\nKoko will be waiting for you here!\n"
     - utf16_bytes:
         - 14
         - 3
@@ -32,13 +32,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "PThough, once it gets dark out, Koko will have to\nhead home..."
+    - text: "PThough, once it gets dark out, Koko will have to\nhead home..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk04_2:
@@ -47,8 +47,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "...Huh?\n\n\n"
+    - text: "ጄ...Huh?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -59,27 +58,27 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}HUH?!"
+    - text: "}HUH?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nKoko smells "
+    - text: "d\n\n\nKoko smells "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: swift carrots
+    - text: swift carrots
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -87,18 +86,19 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: This is for you.
+    - text: This is for you.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "You're nuts."
+    - text: "You're nuts."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "You'll live."
+    - text: "You'll live."
     - utf16_bytes:
         - 0
   Talk10:
@@ -107,7 +107,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOooh, that's cold..."
+        - 9
+    - text: "Oooh, that's cold..."
     - utf16_bytes:
         - 0
   Talk01:
@@ -116,19 +117,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: Ἂ
+    - text: Ἂ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}...OH, NO!"
+    - text: "}...OH, NO!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk12:
@@ -138,13 +139,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Ooooh, it came out perfect!"
+    - text: "Ooooh, it came out perfect!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nHere, please have some!\nKoko's treat!"
+    - text: "\n\n\nHere, please have some!\nKoko's treat!"
     - utf16_bytes:
         - 0
   Talk03:
@@ -153,47 +154,48 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tKoko promised to make Cottla some\n"
+        - 9
+    - text: "Koko promised to make Cottla some\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: hasty veggie cream soup
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "... "
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: "But silly\nKoko forgot the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: swift carrots
+    - text: hasty veggie cream soup
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nKoko is supposed to take Mother's place\nfor Cottla..."
+    - text: "... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Koko is a bad big sister..."
+    - text: "But silly\nKoko forgot the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: swift carrots
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nKoko is supposed to take Mother's place\nfor Cottla..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " Koko is a bad big sister..."
     - utf16_bytes:
         - 0
   Talk13:
@@ -213,7 +215,7 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "Koko wants to try cooking different\nthings so Koko can be a great chef,\njust like Mother!"
+    - text: "Koko wants to try cooking different\nthings so Koko can be a great chef,\njust like Mother!"
     - utf16_bytes:
         - 0
   Talk04:
@@ -222,27 +224,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tKoko promised to make Cottla some\n"
+        - 9
+    - text: "Koko promised to make Cottla some\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: hasty veggie cream soup
+    - text: hasty veggie cream soup
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... But Koko\nhas no swift carrots!\nKoko is supposed to be like a mother\nfor Cottla..."
+    - text: "... But Koko\nhas no swift carrots!\nKoko is supposed to be like a mother\nfor Cottla..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Koko is a bad big sister..."
+    - text: " Koko is a bad big sister..."
     - utf16_bytes:
         - 0
   Talk15:
@@ -251,21 +254,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ĊKoko is all out of "
+    - text: "ĊKoko is all out of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: swift carrots
+    - text: swift carrots
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Talk05:
@@ -279,49 +282,49 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}Is that..."
+    - text: "}Is that..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "a "
+    - text: "a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: swift carrot
+    - text: swift carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nThank you so much!"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 2
-        - 0
-    - ascii: " So very much!\nNow Koko can make dinner for Cottla..."
+    - text: "d\n\n\nThank you so much!"
     - utf16_bytes:
         - 14
         - 5
+        - 2
+        - 0
+    - text: " So very much!\nNow Koko can make dinner for Cottla..."
+    - utf16_bytes:
+        - 14
+        - 5
         - 0
         - 0
-    - ascii: "\nYeah! Time to get cookin'!"
+    - text: "\nYeah! Time to get cookin'!"
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: Hrmmm...
+    - text: Hrmmm...
     - utf16_bytes:
         - 0
   Talk07:
@@ -331,92 +334,89 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Today's dinner is "
+    - text: "Today's dinner is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: veggie cream soup
+    - text: veggie cream soup
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n\n\n"
+    - text: "!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "It's super nourishing and fortifying!\n\n\n"
+    - text: "It's super nourishing and fortifying!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Well, that's what they say, anyhow.\nIt must be true!\n\nAll you do is toss a "
+    - text: "Well, that's what they say, anyhow.\nIt must be true!\n\nAll you do is toss a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: swift carrot
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: rock salt
+    - text: swift carrot
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and "
+    - text: ",\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "fresh milk "
+    - text: rock salt
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in a pot\nand stew it up. "
+    - text: ", and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "fresh milk "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "in a pot\nand stew it up. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Then, voil"
-    - utf16_bytes:
-        - 224
-    - ascii: "! "
+    - text: "Then, voilà! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: So yummy!
+    - text: So yummy!
     - utf16_bytes:
         - 0
   Talk08:
@@ -425,21 +425,22 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tBut...Koko promised to make Cottla\nsome "
+        - 9
+    - text: "But...Koko promised to make Cottla\nsome "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: hasty veggie cream soup
+    - text: hasty veggie cream soup
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -447,9 +448,10 @@ entries:
         - 6
         - 0
         - 4
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'll bring you some."
+    - text: "I'll bring you some."
     - utf16_bytes:
         - 0

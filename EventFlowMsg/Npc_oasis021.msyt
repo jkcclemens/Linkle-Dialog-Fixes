@@ -1,7 +1,7 @@
 ---
 entries:
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk_10:
@@ -11,7 +11,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Strange to see a tourist like you\nthese days."
+    - text: "Strange to see a tourist like you\nthese days."
     - utf16_bytes:
         - 0
   Talk_01:
@@ -21,27 +21,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Are you shopping too?
+    - text: Are you shopping too?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm seeing if\nthere are any "
+    - text: " I'm seeing if\nthere are any "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "mighty bananas "
+    - text: "mighty bananas "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: here...
+    - text: here...
     - utf16_bytes:
         - 14
         - 1
@@ -49,7 +49,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_11:
     - utf16_bytes:
@@ -58,7 +59,7 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: Another beautiful morning!
+    - text: Another beautiful morning!
     - utf16_bytes:
         - 0
   Talk_02:
@@ -72,57 +73,56 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Mighty bananas
+    - text: ЀMighty bananas
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " are absolutely loaded\nwith protein and calories, you know.\nEating them will fill you with power!\n"
+    - text: " are absolutely loaded\nwith protein and calories, you know.\nEating them will fill you with power!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "They're always up for sale at\n"
+    - text: "They're always up for sale at\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", even though\nthere may not be a ton of them.\n"
+    - text: ", even though\nthere may not be a ton of them.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I've heard about a tribe that only eats\n"
+    - text: "I've heard about a tribe that only eats\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: mighty bananas
+    - text: mighty bananas
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Whenever they're\navailable, the tribe buys all it can."
+    - text: ". Whenever they're\navailable, the tribe buys all it can."
     - utf16_bytes:
         - 0
   Talk_12:
@@ -132,14 +132,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Talking with my vai friends makes\ntime fly...\n\n"
+    - text: "Talking with my vai friends makes\ntime fly...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "But surprisingly, I've forgotten\neverything we talked about by the\nfollowing day..."
+    - text: "But surprisingly, I've forgotten\neverything we talked about by the\nfollowing day..."
     - utf16_bytes:
         - 14
         - 5
@@ -152,13 +152,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta."
+    - text: "촙Sav'otta."
     - utf16_bytes:
         - 14
         - 5
@@ -172,14 +172,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Are you a Hylian?\n\n\n"
+    - text: "Are you a Hylian?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "It's always impressive when a Hylian\nmakes it across the desert.\n"
+    - text: "It's always impressive when a Hylian\nmakes it across the desert.\n"
     - utf16_bytes:
         - 0
   Talk_14:
@@ -188,13 +188,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!"
+    - text: "촚Sav'aaq!"
     - utf16_bytes:
         - 14
         - 5
@@ -207,54 +207,53 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "They're available at "
+    - text: "ЀThey're available at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nthough there may not be a ton of them.\n\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "PIf I'm being honest, I can't "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "sand-seal "
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "surf\nat all, so I can't travel far."
+    - text: ",\nthough there may not be a ton of them.\n\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "PIf I'm being honest, I can't "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "sand-seal "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "surf\nat all, so I can't travel far."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nOh, please don't tell anyone."
+    - text: "\nOh, please don't tell anyone."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_15:
@@ -263,13 +262,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba."
+    - text: "촛Sav'saaba."
     - utf16_bytes:
         - 14
         - 5
@@ -283,21 +282,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "...Wait, if you go outside wearing that,\nyou'll freeze your bum right off.\n\n"
+    - text: "...Wait, if you go outside wearing that,\nyou'll freeze your bum right off.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I'd offer to let you stay at my house, but\nI'm already sharing my room, so I can't...\n\n"
+    - text: "I'd offer to let you stay at my house, but\nI'm already sharing my room, so I can't...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "It's possible that Romah's hotel may\nhave some open rooms tonight. You can\ngo check there. It's a very relaxing place."
+    - text: "It's possible that Romah's hotel may\nhave some open rooms tonight. You can\ngo check there. It's a very relaxing place."
     - utf16_bytes:
         - 0
   Talk_06:
@@ -306,13 +305,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PMmm...
+    - text: PMmm...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_07:
@@ -322,18 +321,18 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "My roommate Pritana used to go out\non the town and loudly get home really\nlate at night...\nBetween that and the Divine Beast's\nstomping... I really never got a good\nnight's sleep.\n"
+    - text: "My roommate Pritana used to go out\non the town and loudly get home really\nlate at night...\nBetween that and the Divine Beast's\nstomping... I really never got a good\nnight's sleep.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "But ever since the Divine Beast was\ncalmed, I wake up feeling totally\nrefreshed!"
+    - text: "But ever since the Divine Beast was\ncalmed, I wake up feeling totally\nrefreshed!"
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: Is that true?
+    - text: Is that true?
     - utf16_bytes:
         - 0
   Talk_08:
@@ -343,35 +342,35 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "We haven't seen many outsiders around\nhere lately, thanks to that "
+    - text: "We haven't seen many outsiders around\nhere lately, thanks to that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n\n"
+    - text: "...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I wish there were more brave vai like\nyou out there."
+    - text: "I wish there were more brave vai like\nyou out there."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Zzz...zzz...
+    - text: Zzz...zzz...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Mighty bananas?
+    - text: Mighty bananas?
     - utf16_bytes:
         - 0

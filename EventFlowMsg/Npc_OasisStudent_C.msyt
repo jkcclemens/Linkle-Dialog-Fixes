@@ -1,7 +1,7 @@
 ---
 entries:
   "0001":
-    - ascii: It looks good on you.
+    - text: It looks good on you.
     - utf16_bytes:
         - 0
   talk06:
@@ -10,71 +10,70 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "When you're cooking, if you add "
+    - text: "ЀWhen you're cooking, if you add "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: insects
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nor "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: monster materials
+    - text: insects
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you'll end up\nwith "
+    - text: "\nor "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dubious food
+    - text: monster materials
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ", you'll end up\nwith "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: dubious food
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Though if you ask me, there's nothing\ndubious about how absolutely inedible\nit is..."
+    - text: "Though if you ask me, there's nothing\ndubious about how absolutely inedible\nit is..."
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Wh-what?!
+    - text: Wh-what?!
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Dubious food?
+    - text: Dubious food?
     - utf16_bytes:
         - 0
   talk07:
@@ -83,8 +82,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The quickest way to someone's heart is\nthrough their stomach!\n\nAt least, that's what the teacher says..."
+    - text: "ЀThe quickest way to someone's heart is\nthrough their stomach!\n\nAt least, that's what the teacher says..."
     - utf16_bytes:
         - 0
   talk08:
@@ -93,17 +91,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk09:
@@ -112,24 +110,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!"
+    - text: "촚Sav'aaq!"
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: Get that away from me!
+    - text: Get that away from me!
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Wha
-    - utf16_bytes:
-        - 8212
-    - ascii: "?!"
+    - text: Wha—?!
     - utf16_bytes:
         - 0
   talk10:
@@ -138,13 +133,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 0
   talk00:
@@ -154,7 +149,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "What do you think of my lipstick? I think\nit'll bring me good luck!\n\nYou know that the color is especially\nimportant in bringing good luck, right?"
+    - text: "What do you think of my lipstick? I think\nit'll bring me good luck!\n\nYou know that the color is especially\nimportant in bringing good luck, right?"
     - utf16_bytes:
         - 14
         - 1
@@ -162,7 +157,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk01:
     - utf16_bytes:
@@ -171,7 +167,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The cooking class is about to start.\nI really need to pay attention this time...\n\nHow about you try taking it along\nwith us?"
+    - text: "The cooking class is about to start.\nI really need to pay attention this time...\n\nHow about you try taking it along\nwith us?"
     - utf16_bytes:
         - 0
   talk02:
@@ -181,21 +177,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This class is absolutely critical for me!\nI've tried to cook up some great meals,\nbut I only ever make "
+    - text: "This class is absolutely critical for me!\nI've tried to cook up some great meals,\nbut I only ever make "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dubious food
+    - text: dubious food
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -203,10 +199,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: Take cover!
+    - text: Take cover!
     - utf16_bytes:
         - 0
   talk03:
@@ -216,7 +213,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "It's about time for Ms. Ashai's class\nto begin.\n\nTo be honest...I think learning all this\nis a real pain in the neck. But don't\ntell anyone I said that!"
+    - text: "It's about time for Ms. Ashai's class\nto begin.\n\nTo be honest...I think learning all this\nis a real pain in the neck. But don't\ntell anyone I said that!"
     - utf16_bytes:
         - 0
   talk04:
@@ -225,22 +222,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1544
-    - ascii: "Umm... "
+    - text: "؈Umm... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I-I'm planning on learning about\nthat next..."
+    - text: "I-I'm planning on learning about\nthat next..."
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: Hey!
+    - text: Hey!
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: The color? How?
+    - text: The color? How?
     - utf16_bytes:
         - 0
   talk05:
@@ -249,7 +245,6 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "I know, right?!\nOooh, I can feel it working already!"
+    - text: "इI know, right?!\nOooh, I can feel it working already!"
     - utf16_bytes:
         - 0

@@ -7,21 +7,21 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "You brought some "
+    - text: "You brought some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fireflies
+    - text: fireflies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for me,\ndidn't you?! Show me, show me!"
+    - text: " for me,\ndidn't you?! Show me, show me!"
     - utf16_bytes:
         - 0
   Talk10:
@@ -31,33 +31,33 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Oh! "
+    - text: "Oh! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Thank you!\n\n\n"
+    - text: "Thank you!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "But...I'm afraid there aren't enough.\n"
+    - text: "But...I'm afraid there aren't enough.\n"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "There are so few, they disappear\ntoo quickly to enjoy.\n"
+    - text: "There are so few, they disappear\ntoo quickly to enjoy.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "It would be nice if you could find more\nbefore morning..."
+    - text: "It would be nice if you could find more\nbefore morning..."
     - utf16_bytes:
         - 0
   Talk23:
@@ -66,7 +66,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAhhhh, I'm sooo tired! I'm eager to relax,\nso maybe we can chat at my place?"
+        - 9
+    - text: "Ahhhh, I'm sooo tired! I'm eager to relax,\nso maybe we can chat at my place?"
     - utf16_bytes:
         - 0
   Talk11:
@@ -76,13 +77,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hm? Your pouch is...glowing? "
+    - text: "Hm? Your pouch is...glowing? "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
@@ -92,46 +93,46 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dCould it\nbe you brought me some "
+    - text: "dCould it\nbe you brought me some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fireflies
+    - text: fireflies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "P\n\n"
+    - text: "P\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'm actually crazy busy right now..."
+    - text: "I'm actually crazy busy right now..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nMaybe you could come by my house later?"
+    - text: "\nMaybe you could come by my house later?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk24:
@@ -141,13 +142,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hm? Is your pouch...glowing? "
+    - text: "Hm? Is your pouch...glowing? "
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 5
@@ -157,46 +158,46 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dCould it\nbe you caught some "
+    - text: "dCould it\nbe you caught some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fireflies
+    - text: fireflies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n"
+    - text: "d\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I just got home, so..."
+    - text: "I just got home, so..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "can you please give\nme a moment to settle in?"
+    - text: "can you please give\nme a moment to settle in?"
     - utf16_bytes:
         - 0
   Talk12:
@@ -206,13 +207,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Huh? That glowing... "
+    - text: "Huh? That glowing... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Could it be you\ncaught some?! Show me, show me!"
+    - text: "Could it be you\ncaught some?! Show me, show me!"
     - utf16_bytes:
         - 0
   Talk26:
@@ -221,13 +222,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n..."
+    - text: "\n..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PSeriously?
+    - text: PSeriously?
     - utf16_bytes:
         - 14
         - 5
@@ -237,20 +238,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Well...
+    - text: Well...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I suppose there are a lot of\ncrazy things in this world that are\nhard to grasp.\nOh, my name's Lasli. I run a clothing\nshop in the village with my older sister,\nClaree. You should stop by sometime."
+    - text: "I suppose there are a lot of\ncrazy things in this world that are\nhard to grasp.\nOh, my name's Lasli. I run a clothing\nshop in the village with my older sister,\nClaree. You should stop by sometime."
     - utf16_bytes:
         - 0
   Talk13:
@@ -259,148 +260,149 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t*sigh*\n\n\nThey say the roads are dangerous at\nnight, so I have to come straight home\nwithout searching for "
+        - 9
+    - text: "*sigh*\n\n\nThey say the roads are dangerous at\nnight, so I have to come straight home\nwithout searching for "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fireflies
+    - text: fireflies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nI miss them so much. And the night sky...\nNow it's the same tired thing every night.\nI'm so sick of it...\n"
+    - text: "...\nI miss them so much. And the night sky...\nNow it's the same tired thing every night.\nI'm so sick of it...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If only the "
+    - text: "If only the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "fireflies "
+    - text: "fireflies "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "would come to play\nhere so I could still see them..."
+    - text: "would come to play\nhere so I could still see them..."
     - utf16_bytes:
         - 0
   Talk01:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "Hey! "
+    - text: "Hey! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Who do you think you are?!
+    - text: Who do you think you are?!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nDon't you think it's rude to barge\ninto a lady's room at night?\n"
+    - text: "\nDon't you think it's rude to barge\ninto a lady's room at night?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Huh?\n\n\n"
+    - text: "Huh?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nIsn't that "
+    - text: "\nIsn't that "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "a "
+    - text: "a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\n\nCould it be "
+    - text: "?\n\n\nCould it be "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "that you're the legendary\nswordswoman grandma told me about?\n"
+    - text: "that you're the legendary\nswordswoman grandma told me about?\n"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "The one from the Great Calamity?!\n"
+    - text: "The one from the Great Calamity?!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Huh.
+    - text: Huh.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I thought you'd be A LOT older.\n"
+    - text: " I thought you'd be A LOT older.\n"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Honestly, it's hard for someone as young\nas me to imagine the Great Calamity...\n"
+    - text: "Honestly, it's hard for someone as young\nas me to imagine the Great Calamity...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1540
-    - ascii: "But...judging by the look on your face,\nI suppose it's hard for you to imagine\nit too?"
+    - text: "But...judging by the look on your face,\nI suppose it's hard for you to imagine\nit too?"
     - utf16_bytes:
         - 0
   Talk14:
@@ -410,7 +412,7 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "They glow so prettily...\nIt's magical..."
+    - text: "They glow so prettily...\nIt's magical..."
     - utf16_bytes:
         - 14
         - 1
@@ -418,18 +420,19 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Near00:
-    - ascii: "Hello, firefly..."
+    - text: "Hello, firefly..."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: "Hello, firefly..."
+    - text: "Hello, firefly..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "You're pretty too."
+    - text: "You're pretty too."
     - utf16_bytes:
         - 0
   Talk17:
@@ -439,17 +442,17 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Heehee! "
+    - text: "Heehee! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Thanks!
+    - text: Thanks!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "They don't live long."
+    - text: "They don't live long."
     - utf16_bytes:
         - 0
   Talk18:
@@ -459,13 +462,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Ugh! "
+    - text: "Ugh! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Ugh... SO unromantic...
+    - text: Ugh... SO unromantic...
     - utf16_bytes:
         - 0
   Talk07:
@@ -474,27 +477,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t*sigh* "
+        - 9
+    - text: "*sigh* "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I wish those "
+    - text: "I wish those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "fireflies "
+    - text: "fireflies "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "would come\nplay near my house..."
+    - text: "would come\nplay near my house..."
     - utf16_bytes:
         - 0
   Talk09:
@@ -504,39 +508,39 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Oh! "
+    - text: "}Oh! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Wow!
+    - text: Wow!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\nLook at all those "
+    - text: "d\n\nLook at all those "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fireflies
+    - text: fireflies
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Talk20:
@@ -546,6 +550,6 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Thank you... This is all I have to offer,\nbut please accept it with my gratitude!"
+    - text: "Thank you... This is all I have to offer,\nbut please accept it with my gratitude!"
     - utf16_bytes:
         - 0

@@ -6,36 +6,35 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Well, the "
+    - text: "ЀWell, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " probably won't\nhead in this direction... But we should\nbe on alert, just in case.\nIf you're going to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you\nshould definitely be careful... The harsh\ndesert could tear up your nice outfit."
+    - text: " probably won't\nhead in this direction... But we should\nbe on alert, just in case.\nIf you're going to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you\nshould definitely be careful... The harsh\ndesert could tear up your nice outfit."
     - utf16_bytes:
         - 14
         - 1
@@ -44,7 +43,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_016:
     - utf16_bytes:
@@ -52,22 +52,21 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Those clothes look good on you.\n\n\nAnd while the "
+    - text: "ȀThose clothes look good on you.\n\n\nAnd while the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast "
+    - text: "Divine Beast "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has settled\ndown, the desert is still full of monsters.\nYou should stay on your guard.\nOnce my shift ends, I'm thinking of\nputting on a nice outfit and going out."
+    - text: "has settled\ndown, the desert is still full of monsters.\nYou should stay on your guard.\nOnce my shift ends, I'm thinking of\nputting on a nice outfit and going out."
     - utf16_bytes:
         - 0
   Talk_017:
@@ -77,35 +76,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, the "
+    - text: "Well, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " probably won't\nhead in this direction... But we should\nbe on alert, just in case.\nIf you're thinking of going anywhere near\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you should definitely be\ncareful, too."
+    - text: " probably won't\nhead in this direction... But we should\nbe on alert, just in case.\nIf you're thinking of going anywhere near\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you should definitely be\ncareful, too."
     - utf16_bytes:
         - 14
         - 1
@@ -114,7 +113,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_004:
     - utf16_bytes:
@@ -122,22 +122,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "And while the "
+    - text: "ЀAnd while the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast "
+    - text: "Divine Beast "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has settled\ndown, the desert is still full of monsters.\nYou should stay on your guard."
+    - text: "has settled\ndown, the desert is still full of monsters.\nYou should stay on your guard."
     - utf16_bytes:
         - 0
   Talk_005:
@@ -147,49 +146,49 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is "
+    - text: "This is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\n\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is still a fair distance\nfrom here. If you're headed there, you\nshould consider resting a bit.\nAlthough... The "
+    - text: ".\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is kicking\nup a storm right now, so it would be very\ndangerous to head that way."
+    - text: " is still a fair distance\nfrom here. If you're headed there, you\nshould consider resting a bit.\nAlthough... The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is kicking\nup a storm right now, so it would be very\ndangerous to head that way."
     - utf16_bytes:
         - 14
         - 1
@@ -198,7 +197,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_018:
     - utf16_bytes:
@@ -207,29 +207,30 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "You don't know about "
+    - text: "You don't know about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah\nNaboris"
+    - text: "Divine Beast Vah\nNaboris"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here."
+    - text: "?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_006:
     - utf16_bytes:
@@ -237,22 +238,21 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Did you know that desert nights get\nincredibly cold?\n\nYou'll be fine as long as you're in\n"
+    - text: "ȀDid you know that desert nights get\nincredibly cold?\n\nYou'll be fine as long as you're in\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", but it can get really\nchilly the farther away you wander."
+    - text: ", but it can get really\nchilly the farther away you wander."
     - utf16_bytes:
         - 0
   Talk_019:
@@ -266,43 +266,37 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Gerudo Town
+    - text: ЀGerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is to the southwest. It's the\nbiggest town in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n\nHowever, there is a law forbidding voe"
-    - utf16_bytes:
-        - 8212
-    - ascii: "\nmales"
-    - utf16_bytes:
-        - 8212
-    - ascii: "from entering the city... But a\ncute vai like you would be most welcome!\nOr...this would normally be true, but that\n"
+    - text: " is to the southwest. It's the\nbiggest town in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n\nHowever, there is a law forbidding voe—\nmales—from entering the city... But a\ncute vai like you would be most welcome!\nOr...this would normally be true, but that\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is on a rampage, so I\ncan't recommend heading to town now."
+    - text: " is on a rampage, so I\ncan't recommend heading to town now."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_007:
     - utf16_bytes:
@@ -310,8 +304,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "The sun is really starting to beat down\non us now...\n\nThe desert is incredibly hot so long as\nthe sun is blazing down on it. Be sure to\nkeep yourself cool as you travel."
+    - text: "ȀThe sun is really starting to beat down\non us now...\n\nThe desert is incredibly hot so long as\nthe sun is blazing down on it. Be sure to\nkeep yourself cool as you travel."
     - utf16_bytes:
         - 0
   Talk_008:
@@ -325,15 +318,14 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Gerudo Town
+    - text: ЀGerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is to the southwest. It's the\nbiggest town in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n"
+    - text: " is to the southwest. It's the\nbiggest town in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n"
     - utf16_bytes:
         - 0
   Talk_009:
@@ -343,39 +335,39 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Well, well..."
+    - text: "Well, well..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nYou're the second Hylian I've seen\nwearing Gerudo-style clothing.\n\nThe other one looked much more Gerudo\nthough, if I'm being honest."
+    - text: "\n\n\nYou're the second Hylian I've seen\nwearing Gerudo-style clothing.\n\nThe other one looked much more Gerudo\nthough, if I'm being honest."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Not that it\ndoesn't look good on you, too.\nI didn't realize that Gerudo clothing\nwas so popular among Hylians..."
+    - text: " Not that it\ndoesn't look good on you, too.\nI didn't realize that Gerudo clothing\nwas so popular among Hylians..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Gerudo Town?
+    - text: Gerudo Town?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Divine Beast?
+    - text: Divine Beast?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Thank you.
+    - text: Thank you.
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "There's this merchant..."
+    - text: "There's this merchant..."
     - utf16_bytes:
         - 0
   Talk_020:
@@ -389,15 +381,14 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Gerudo Town
+    - text: ЀGerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is to the southwest. It's the\nbiggest village in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n"
+    - text: " is to the southwest. It's the\nbiggest village in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n"
     - utf16_bytes:
         - 0
   Talk_021:
@@ -407,7 +398,7 @@ entries:
         - 1
         - 2
         - 1537
-    - ascii: "Hah. I don't need any thanks.\nThis is my job after all.\n\nYou know, the desert is hot during the\nday and cold at night. It'll take the\nenergy out of you in no time.\nIf you plan to head out into the\ndesert, make sure you're prepared."
+    - text: "Hah. I don't need any thanks.\nThis is my job after all.\n\nYou know, the desert is hot during the\nday and cold at night. It'll take the\nenergy out of you in no time.\nIf you plan to head out into the\ndesert, make sure you're prepared."
     - utf16_bytes:
         - 0
   Talk_022:
@@ -416,13 +407,12 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The Divine Beast probably won't wander\nthis far, but we need to keep an eye on it\njust in case.\nIf you're planning to head out of town,\nyou'd better be sure you're prepared."
+    - text: "ЀThe Divine Beast probably won't wander\nthis far, but we need to keep an eye on it\njust in case.\nIf you're planning to head out of town,\nyou'd better be sure you're prepared."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
@@ -437,68 +427,68 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is "
+    - text: "This is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\n\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is still a fair distance\nfrom here. If you're headed there, you\nshould consider resting a bit.\n\nThe "
+    - text: ".\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is kicking\nup a storm right now, so I don't\nrecommend going to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " is still a fair distance\nfrom here. If you're headed there, you\nshould consider resting a bit.\n\nThe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is kicking\nup a storm right now, so I don't\nrecommend going to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
@@ -513,55 +503,55 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Oh, yes. And many, many more than just\none, to be sure.\n\nThat's because all the voe merchants are\ngathered here, hoping to get access to\n"
+    - text: "Oh, yes. And many, many more than just\none, to be sure.\n\nThat's because all the voe merchants are\ngathered here, hoping to get access to\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThey refuse to give up, even though voe\nare strictly forbidden from entering\nthe town.\nAlthough..."
+    - text: ".\nThey refuse to give up, even though voe\nare strictly forbidden from entering\nthe town.\nAlthough..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Now that you mention it, one\nmerchant in particular did stand out\nto me.\nI saw a "
+    - text: " Now that you mention it, one\nmerchant in particular did stand out\nto me.\nI saw a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian vai
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " merchant at the inn\nbefore. She was wearing traditional\nGerudo clothes, which caught my eye.\nShe's probably still around town;\nthat "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast
+    - text: Hylian vai
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is scaring a lot of\npeople out of traveling."
+    - text: " merchant at the inn\nbefore. She was wearing traditional\nGerudo clothes, which caught my eye.\nShe's probably still around town;\nthat "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is scaring a lot of\npeople out of traveling."
     - utf16_bytes:
         - 0
   Talk_011:
@@ -570,42 +560,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Even though the "
+    - text: "ЀEven though the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast "
+    - text: "Divine Beast "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has settled\ndown, the desert is still full of monsters.\nWe can't afford to be complacent!\n"
+    - text: "has settled\ndown, the desert is still full of monsters.\nWe can't afford to be complacent!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I think it's just about time for someone to\ncome relieve me...\n\n"
+    - text: "I think it's just about time for someone to\ncome relieve me...\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "I really want to get back in time to grab a drink and\nrelax at the canteen..."
+    - text: "I really want to get back in time to grab a drink and\nrelax at the canteen..."
     - utf16_bytes:
         - 14
         - 0
@@ -616,7 +605,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_012:
@@ -630,8 +619,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 0
   Talk_025:
@@ -640,13 +628,12 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If there's anything else you'd like to ask,\nfeel free.\n\nI'm on watch by myself every day,\nso it's nice to have someone to talk to."
+    - text: "ЀIf there's anything else you'd like to ask,\nfeel free.\n\nI'm on watch by myself every day,\nso it's nice to have someone to talk to."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
@@ -660,13 +647,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!"
+    - text: "촚Sav'aaq!"
     - utf16_bytes:
         - 0
   Talk_000:
@@ -676,63 +663,63 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "This is "
+    - text: "This is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kara Kara Bazaar
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\n\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: Kara Kara Bazaar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is still a fair distance\nsouthwest of here. If you're headed\nthere, you should consider resting a bit.\n\nThe "
+    - text: ".\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is kicking\nup a storm right now, so I don't\nrecommend going to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Gerudo Town
+    - text: Gerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " is still a fair distance\nsouthwest of here. If you're headed\nthere, you should consider resting a bit.\n\nThe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is kicking\nup a storm right now, so I don't\nrecommend going to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -741,7 +728,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk_026:
     - utf16_bytes:
@@ -750,21 +738,21 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "You don't know about "
+    - text: "You don't know about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah\nNaboris"
+    - text: "Divine Beast Vah\nNaboris"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here."
+    - text: "?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here."
     - utf16_bytes:
         - 0
   Talk_014:
@@ -773,13 +761,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 0
   Talk_001:
@@ -789,21 +777,21 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "You don't know about "
+    - text: "You don't know about "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah\nNaboris"
+    - text: "Divine Beast Vah\nNaboris"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here."
+    - text: "?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here."
     - utf16_bytes:
         - 14
         - 1
@@ -811,7 +799,8 @@ entries:
         - 6
         - 0
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_027:
     - utf16_bytes:
@@ -824,19 +813,18 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Gerudo Town
+    - text: ЀGerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is to the southwest. It's the\nbiggest village in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n"
+    - text: " is to the southwest. It's the\nbiggest village in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Nothing unusual here...
+    - text: Nothing unusual here...
     - utf16_bytes:
         - 0
   Talk_002:
@@ -845,8 +833,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "If you want to speak with the Gerudo,\nyou should learn some of our language.\nFor example, \"sav'orq\" is \"good-bye\"!"
+    - text: "ȀIf you want to speak with the Gerudo,\nyou should learn some of our language.\nFor example, \"sav'orq\" is \"good-bye\"!"
     - utf16_bytes:
         - 0
   Talk_015:
@@ -860,29 +847,28 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Gerudo Town
+    - text: ЀGerudo Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is to the southwest. It's the\nbiggest town in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n\nThat\n"
+    - text: " is to the southwest. It's the\nbiggest town in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n\nThat\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast
+    - text: Divine Beast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is on a rampage, so I\ncan't recommend heading to town now."
+    - text: " is on a rampage, so I\ncan't recommend heading to town now."
     - utf16_bytes:
         - 14
         - 1
@@ -890,5 +876,6 @@ entries:
         - 6
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

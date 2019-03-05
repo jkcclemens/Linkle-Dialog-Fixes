@@ -6,33 +6,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t*sigh*"
+        - 9
+    - text: "*sigh*"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I get scared in the evening..."
+    - text: " I get scared in the evening..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " \nI wonder why the "
+    - text: " \nI wonder why the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "lightning "
+    - text: "lightning "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "seems to\nhave it out for this place."
+    - text: "seems to\nhave it out for this place."
     - utf16_bytes:
         - 0
   talk04:
@@ -42,7 +43,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: I can finally relax!
+    - text: I can finally relax!
     - utf16_bytes:
         - 0
   talk05:
@@ -51,8 +52,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4099
-    - ascii: Urrrm...run away...
+    - text: ဃUrrrm...run away...
     - utf16_bytes:
         - 0
   talk06:
@@ -61,27 +61,27 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ⨉Please... Help!
+    - text: ⨉Please... Help!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Stop the"
+    - text: " Stop the"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: " lightning"
+    - text: " lightning"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nPlease find out why it keeps striking\nthis stable!"
+    - text: "!\nPlease find out why it keeps striking\nthis stable!"
     - utf16_bytes:
         - 14
         - 1
@@ -89,7 +89,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk07:
     - utf16_bytes:
@@ -97,8 +98,7 @@ entries:
         - 3
         - 1
         - 2
-        - 7939
-    - ascii: "Aiiiiieeee! I just...can't..."
+    - text: "ἃAiiiiieeee! I just...can't..."
     - utf16_bytes:
         - 14
         - 1
@@ -106,7 +106,7 @@ entries:
         - 4
         - 15
         - 0
-    - ascii: "\nI'm so scared..."
+    - text: "\nI'm so scared..."
     - utf16_bytes:
         - 14
         - 1
@@ -114,7 +114,7 @@ entries:
         - 4
         - 15
         - 0
-    - ascii: "\nPlease find out why this is happening!"
+    - text: "\nPlease find out why this is happening!"
     - utf16_bytes:
         - 0
   talk08:
@@ -123,14 +123,13 @@ entries:
         - 3
         - 1
         - 2
-        - 7939
-    - ascii: "Eeeeyah! I've had it..."
+    - text: "ἃEeeeyah! I've had it..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can't handle this\nconstant fear."
+    - text: " I can't handle this\nconstant fear."
     - utf16_bytes:
         - 14
         - 1
@@ -138,21 +137,21 @@ entries:
         - 4
         - 15
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lightning
+    - text: Lightning
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " strikes this stable really often, \nso I get scared whenever it starts to\nrain..."
+    - text: " strikes this stable really often, \nso I get scared whenever it starts to\nrain..."
     - utf16_bytes:
         - 14
         - 1
@@ -160,7 +159,7 @@ entries:
         - 4
         - 15
         - 0
-    - ascii: "\nPlease... Could you go try and find out\nwhy this keeps happening?"
+    - text: "\nPlease... Could you go try and find out\nwhy this keeps happening?"
     - utf16_bytes:
         - 14
         - 1
@@ -168,7 +167,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk09:
     - utf16_bytes:
@@ -177,35 +177,35 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "You will?! Really? I'm so happy!\nI'm counting on you."
+    - text: "You will?! Really? I'm so happy!\nI'm counting on you."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "*sigh*"
+    - text: "*sigh*"
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: "*shudder*"
+    - text: "*shudder*"
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Urrrmm...
+    - text: Urrrmm...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Leave it to me!
+    - text: Leave it to me!
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: Zzzz...
+    - text: Zzzz...
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'm a bit busy..."
+    - text: "I'm a bit busy..."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: It was a metal axe.
+    - text: It was a metal axe.
     - utf16_bytes:
         - 0
   talk10:
@@ -214,27 +214,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI see..."
+        - 9
+    - text: I see...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Well, I guess it can't be helped."
+    - text: " Well, I guess it can't be helped."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n*sigh*"
+    - text: "\n*sigh*"
     - utf16_bytes:
         - 0
   Near05:
-    - ascii: Looks like rain...
+    - text: Looks like rain...
     - utf16_bytes:
         - 0
   Near06:
-    - ascii: "*yaaawn*"
+    - text: "*yaaawn*"
     - utf16_bytes:
         - 0
   talk12:
@@ -244,35 +245,36 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: What?
+    - text: What?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " You found out what was drawing\nthe "
+    - text: " You found out what was drawing\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "lightning "
+    - text: "lightning "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: here?
+    - text: here?
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk00:
     - utf16_bytes:
@@ -280,27 +282,28 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOh dear, oh dear..."
+        - 9
+    - text: "Oh dear, oh dear..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lightning
+    - text: Lightning
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " strikes this\nstable so often, I get nervous whenever\nit rains even a little.\nI just don't understand why it strikes so\noften..."
+    - text: " strikes this\nstable so often, I get nervous whenever\nit rains even a little.\nI just don't understand why it strikes so\noften..."
     - utf16_bytes:
         - 14
         - 1
@@ -308,14 +311,13 @@ entries:
         - 4
         - 15
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Hey, it's a long shot, but if you\nhave some time, could you find out why?"
+    - text: "ĆHey, it's a long shot, but if you\nhave some time, could you find out why?"
     - utf16_bytes:
         - 14
         - 1
@@ -323,7 +325,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk13:
     - utf16_bytes:
@@ -332,13 +335,13 @@ entries:
         - 1
         - 2
         - 4
-    - ascii: "Aha! "
+    - text: "Aha! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Yeah, that's as good as a lightning\nrod, isn't it?\n\nI wonder if someone put it up there on\npurpose. How strange..."
+    - text: "Yeah, that's as good as a lightning\nrod, isn't it?\n\nI wonder if someone put it up there on\npurpose. How strange..."
     - utf16_bytes:
         - 0
   talk01:
@@ -347,33 +350,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHave you..."
+        - 9
+    - text: Have you...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "have you decided to\nhelp me? Please figure out why "
+    - text: "have you decided to\nhelp me? Please figure out why "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: lightning
+    - text: lightning
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nkeeps hitting this stable!"
+    - text: "\nkeeps hitting this stable!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Please!"
+    - text: " Please!"
     - utf16_bytes:
         - 14
         - 1
@@ -381,7 +385,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk14:
     - utf16_bytes:
@@ -390,12 +395,12 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: Thanks for looking into it for me!
+    - text: Thanks for looking into it for me!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHere's something for your trouble."
+    - text: "\nHere's something for your trouble."
     - utf16_bytes:
         - 0

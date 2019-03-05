@@ -7,19 +7,19 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Are you a traveler?
+    - text: Are you a traveler?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWelcome to Lurelin Village.\n\nI'm Rozel."
+    - text: "\nWelcome to Lurelin Village.\n\nI'm Rozel."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm the head of this village."
+    - text: " I'm the head of this village."
     - utf16_bytes:
         - 0
   talk26:
@@ -29,12 +29,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Anything else you'd like to know?"
+    - text: "Anything else you'd like to know?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 4
@@ -48,8 +48,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That's right. Cloyne runs a shop where\nyou can test your luck in his treasure-\nchest game.\nIt's fun to try every once in a while, but\ndefinitely don't go crazy with your\nsavings."
+    - text: "ЀThat's right. Cloyne runs a shop where\nyou can test your luck in his treasure-\nchest game.\nIt's fun to try every once in a while, but\ndefinitely don't go crazy with your\nsavings."
     - utf16_bytes:
         - 0
   talk10:
@@ -59,7 +58,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's a shame that it's raining."
+    - text: "It's a shame that it's raining."
     - utf16_bytes:
         - 0
   talk11:
@@ -69,21 +68,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Feel free to ask me any questions you\nmay have about local things."
+    - text: "Feel free to ask me any questions you\nmay have about local things."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
         - 4
         - 5
-        - 1024
+    - text: Ѐ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: You mean Ralera?
+    - text: You mean Ralera?
     - utf16_bytes:
         - 0
   talk12:
@@ -93,23 +93,23 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Lurelin Village is a fishing village.
+    - text: Lurelin Village is a fishing village.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhen I was younger, I used to be a\nfisherman myself.\nThe fish here are fresh and delicious!"
+    - text: "\nWhen I was younger, I used to be a\nfisherman myself.\nThe fish here are fresh and delicious!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou should try some at least once."
+    - text: "\nYou should try some at least once."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I've been there."
+    - text: "I've been there."
     - utf16_bytes:
         - 0
   talk13:
@@ -119,17 +119,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: What nice weather.
+    - text: What nice weather.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's a fine day to go\nout to sea."
+    - text: " It's a fine day to go\nout to sea."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: About the village...
+    - text: About the village...
     - utf16_bytes:
         - 0
   talk14:
@@ -139,17 +139,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: It rains pretty often around here.
+    - text: It rains pretty often around here.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou should definitely be careful if you're\nplanning on going out to sea."
+    - text: "\nYou should definitely be careful if you're\nplanning on going out to sea."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: About the ocean...
+    - text: About the ocean...
     - utf16_bytes:
         - 0
   talk15:
@@ -158,46 +158,45 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "If you walk east from the village and\nkeep going for a bit, you'll end up\nat "
+    - text: "ІIf you walk east from the village and\nkeep going for a bit, you'll end up\nat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Palmorae Beach
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\nThere are some old "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: ruins
+    - text: Palmorae Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " there."
+    - text: ".\nThere are some old "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: ruins
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " there."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " One of\nthe youths from the village, Garini, goes\nthere often to poke around."
+    - text: " One of\nthe youths from the village, Garini, goes\nthere often to poke around."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Eventide Island?
+    - text: Eventide Island?
     - utf16_bytes:
         - 0
   talk16:
@@ -207,11 +206,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Garini visits the ruins often, even when\nit rains.\n\nIf you're interested, you should\ndefinitely go check them out."
+    - text: "Garini visits the ruins often, even when\nit rains.\n\nIf you're interested, you should\ndefinitely go check them out."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Ruins?
+    - text: Ruins?
     - utf16_bytes:
         - 0
   talk17:
@@ -221,11 +220,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It isn't a large village, so take your time\nlooking around."
+    - text: "It isn't a large village, so take your time\nlooking around."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "That's it."
+    - text: "That's it."
     - utf16_bytes:
         - 0
   talk18:
@@ -235,24 +234,25 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Lurelin Village is a fishing village.
+    - text: Lurelin Village is a fishing village.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhen I was younger, I used to be a\nfisherman myself.\nBut you can't go out fishing on a rainy\nday like this. It's just too dangerous.\n\nThere are some fisherman here who\namuse themselves with a treasure-\nchest game, too."
+    - text: "\nWhen I was younger, I used to be a\nfisherman myself.\nBut you can't go out fishing on a rainy\nday like this. It's just too dangerous.\n\nThere are some fisherman here who\namuse themselves with a treasure-\nchest game, too."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 7
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0007":
-    - ascii: Treasure-chest game?
+    - text: Treasure-chest game?
     - utf16_bytes:
         - 0
   talk19:
@@ -261,28 +261,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "There may still be "
+    - text: "ІThere may still be "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: treasure
+    - text: treasure
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " submerged in\nthe ocean."
+    - text: " submerged in\nthe ocean."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\nI bet you could see it if you looked into\nthe sea really hard..."
+    - text: "\n\nI bet you could see it if you looked into\nthe sea really hard..."
     - utf16_bytes:
         - 0
   talk03:
@@ -292,21 +291,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I have a daughter. "
+    - text: "I have a daughter. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "She got married and\nwent to Hateno Village recently.\nI wonder if she's doing well."
+    - text: "She got married and\nwent to Hateno Village recently.\nI wonder if she's doing well."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk20:
     - utf16_bytes:
@@ -315,7 +315,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Have you taken a liking to this village?
+    - text: Have you taken a liking to this village?
     - utf16_bytes:
         - 0
   talk04:
@@ -325,13 +325,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Yes! Ralera!
+    - text: Yes! Ralera!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nShe's doing well? That's good to hear."
+    - text: "\nShe's doing well? That's good to hear."
     - utf16_bytes:
         - 0
   talk21:
@@ -341,7 +341,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you're interested, you should go see\nthem.\n\nGarini should be able to tell you a lot\nmore about them."
+    - text: "If you're interested, you should go see\nthem.\n\nGarini should be able to tell you a lot\nmore about them."
     - utf16_bytes:
         - 0
   talk05:
@@ -351,35 +351,36 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "The large island in the sea to the east of\nthe village..."
+    - text: "The large island in the sea to the east of\nthe village..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "is called "
+    - text: "is called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Eventide Island
+    - text: Eventide Island
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nThere are some legends about that\nisland, so the village fishermen tend to\navoid it whenever possible."
+    - text: ".\n\nThere are some legends about that\nisland, so the village fishermen tend to\navoid it whenever possible."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 1
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk22:
     - utf16_bytes:
@@ -388,12 +389,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Anything else you'd like to know?"
+    - text: "Anything else you'd like to know?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -407,19 +408,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat?"
+    - text: "\nWhat?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You've been there?"
+    - text: " You've been there?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat's amazing."
+    - text: "\nThat's amazing."
     - utf16_bytes:
         - 0
   talk23:
@@ -428,8 +429,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "All right. If you think of anything else to\nask, come on back and talk to me."
+    - text: "ЀAll right. If you think of anything else to\nask, come on back and talk to me."
     - utf16_bytes:
         - 0
   talk07:
@@ -439,13 +439,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "When you're on the island, you start\nhearing voices... "
+    - text: "When you're on the island, you start\nhearing voices... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I don't know if it's\nreal or just a dream, though."
+    - text: "I don't know if it's\nreal or just a dream, though."
     - utf16_bytes:
         - 0
   talk24:
@@ -455,12 +455,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Anything else you'd like to know?"
+    - text: "Anything else you'd like to know?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 2
         - 3
@@ -475,27 +475,27 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "The large island in the sea to the east of\nthe village..."
+    - text: "The large island in the sea to the east of\nthe village..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "is called "
+    - text: "is called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Eventide Island
+    - text: Eventide Island
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nThere are some legends about that\nisland, so the village fishermen tend to\navoid it whenever possible."
+    - text: ".\n\nThere are some legends about that\nisland, so the village fishermen tend to\navoid it whenever possible."
     - utf16_bytes:
         - 0
   talk25:
@@ -505,12 +505,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Anything else you'd like to know?"
+    - text: "Anything else you'd like to know?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 3
         - 4

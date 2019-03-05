@@ -7,36 +7,36 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Whoa. "
+    - text: "Whoa. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "That "
+    - text: "That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sword
+    - text: sword
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " you have there.\nCould it be..."
+    - text: " you have there.\nCould it be..."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 8
-    - ascii: "\t"
+        - 9
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   talk10:
     - utf16_bytes:
@@ -44,12 +44,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Anyway...
+    - text: ĀAnyway...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "I'm a humble traveler."
+    - text: "I'm a humble traveler."
     - utf16_bytes:
         - 0
   talk11:
@@ -58,12 +57,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: Hmm?
+    - text: ІHmm?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk12:
@@ -72,18 +70,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "Oh. "
+    - text: "ІOh. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's you."
+    - text: "It's you."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I'm the best!"
+    - text: "I'm the best!"
     - utf16_bytes:
         - 0
   talk13:
@@ -92,28 +89,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I take it you're looking for"
+    - text: "ĀI take it you're looking for"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " the fabled\n"
+    - text: " the fabled\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sword of legend
+    - text: sword of legend
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " too?"
+    - text: " too?"
     - utf16_bytes:
         - 14
         - 1
@@ -121,10 +117,11 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: "No, not at all."
+    - text: "No, not at all."
     - utf16_bytes:
         - 0
   talk14:
@@ -134,32 +131,31 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Well, I'm not lettin' you have it!\n\n\n"
+    - text: "Well, I'm not lettin' you have it!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "In fact, I think I'll just go ahead and\nmosey over to the "
+    - text: "ĀIn fact, I think I'll just go ahead and\nmosey over to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Woodland Stable
+    - text: Woodland Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Legendary sword?
+    - text: Legendary sword?
     - utf16_bytes:
         - 0
   talk15:
@@ -168,12 +164,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Then get outta my face!
+    - text: ĀThen get outta my face!
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "I'm not interested."
+    - text: "I'm not interested."
     - utf16_bytes:
         - 0
   talk16:
@@ -182,32 +177,31 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hmm... "
+    - text: "ĀHmm... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Maybe I'll just mosey over to\nthe "
+    - text: "Maybe I'll just mosey over to\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Woodland Stable
+    - text: Woodland Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk17:
@@ -217,17 +211,17 @@ entries:
         - 1
         - 2
         - 2561
-    - ascii: "HA! "
+    - text: "HA! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: You must be joking!
+    - text: You must be joking!
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk00:
@@ -236,8 +230,7 @@ entries:
         - 3
         - 1
         - 2
-        - 518
-    - ascii: Heyo. Who are you?!
+    - text: ȆHeyo. Who are you?!
     - utf16_bytes:
         - 14
         - 1
@@ -245,7 +238,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk18:
     - utf16_bytes:
@@ -253,12 +247,11 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Right?!
+    - text: ĀRight?!
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: "It's legendary."
+    - text: "It's legendary."
     - utf16_bytes:
         - 0
   talk01:
@@ -267,18 +260,17 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "*tsk*"
+    - text: ข*tsk*
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Ignoring me, I see."
+    - text: " Ignoring me, I see."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: "It's a fake."
+    - text: "It's a fake."
     - utf16_bytes:
         - 0
   talk02:
@@ -287,14 +279,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hmph. "
+    - text: "ĀHmph. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Show-off.
+    - text: Show-off.
     - utf16_bytes:
         - 0
   talk20:
@@ -303,28 +294,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I hear the "
+    - text: "ĀI hear the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: legendary sword
+    - text: legendary sword
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is hidden\ndeep in a forest."
+    - text: " is hidden\ndeep in a forest."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " But no one has ever\nreturned from that forest..."
+    - text: " But no one has ever\nreturned from that forest..."
     - utf16_bytes:
         - 0
   talk04:
@@ -334,13 +324,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: Traveling alone to a place like this?
+    - text: Traveling alone to a place like this?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou must be a man who sets his mind\non something and then gets it done!"
+    - text: "\nYou must be a man who sets his mind\non something and then gets it done!"
     - utf16_bytes:
         - 14
         - 1
@@ -348,7 +338,8 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk21:
     - utf16_bytes:
@@ -356,8 +347,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: How could a twig like you find it?!
+    - text: ĀHow could a twig like you find it?!
     - utf16_bytes:
         - 0
   talk05:
@@ -366,8 +356,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Your modesty is overwhelming...
+    - text: ĀYour modesty is overwhelming...
     - utf16_bytes:
         - 0
   talk22:
@@ -376,28 +365,27 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm gonna go after that "
+    - text: "ĀI'm gonna go after that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: legendary sword
+    - text: legendary sword
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nso just stay outta my way!"
+    - text: "\nso just stay outta my way!"
     - utf16_bytes:
         - 0
   talk06:
@@ -407,33 +395,33 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "That's why I thought, if I can get that\n"
+    - text: "That's why I thought, if I can get that\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: legendary sword
+    - text: legendary sword
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " maybe a new path\nwill open up for me! "
+    - text: " maybe a new path\nwill open up for me! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Whaddaya think?
+    - text: Whaddaya think?
     - utf16_bytes:
         - 14
         - 1
@@ -441,7 +429,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk07:
     - utf16_bytes:
@@ -450,48 +439,48 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "That's right!\n\n\nI finally figured out that it's near\n"
+    - text: "That's right!\n\n\nI finally figured out that it's near\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Death Mountain
+    - text: Death Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". However..."
+    - text: ". However..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "it doesn't\nseem to be in this direction.\n"
+    - text: "it doesn't\nseem to be in this direction.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Maybe it's on the opposite side,\ncloser to the "
+    - text: "Maybe it's on the opposite side,\ncloser to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Woodland Stable
+    - text: Woodland Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk08:
@@ -500,7 +489,6 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I was really into sword fighting,\nbut I'm in a bit of a rut with it.\n\nDoesn't help that the sword I'm using\nright now is way too blunt."
+    - text: "ĀI was really into sword fighting,\nbut I'm in a bit of a rut with it.\n\nDoesn't help that the sword I'm using\nright now is way too blunt."
     - utf16_bytes:
         - 0

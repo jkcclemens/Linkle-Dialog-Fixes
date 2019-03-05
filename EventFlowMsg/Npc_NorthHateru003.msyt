@@ -7,23 +7,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Heh... "
+    - text: "Heh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Prepare to be blown away.
+    - text: Prepare to be blown away.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAre you ready?"
+    - text: "\nAre you ready?"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Ha! Hep!
+    - text: Ha! Hep!
     - utf16_bytes:
         - 0
   talk03:
@@ -33,59 +33,60 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's called...\n\n\n"
+    - text: "It's called...\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}"
-    - utf16_bytes:
-        - 14
-        - 3
-        - 1
-        - 2
-        - 2567
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "dthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}MASTER TORCH!"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "d\n\n\n"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
+    - text: ਇ
+    - utf16_bytes:
+        - 14
         - 0
-    - ascii: "I'm..."
+        - 2
+        - 2
+    - text: "dthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}MASTER TORCH!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I'm..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "pretty sure that's what it's called,\nanyway.\n\nWhatever... Leave me be, commoner."
+    - text: "pretty sure that's what it's called,\nanyway.\n\nWhatever... Leave me be, commoner."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm trying to practice here!"
+    - text: "\nI'm trying to practice here!"
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Huyah!
+    - text: Huyah!
     - utf16_bytes:
         - 0
   talk04:
@@ -95,17 +96,17 @@ entries:
         - 1
         - 2
         - 2560
-    - ascii: The flame that lights the darkness...
+    - text: The flame that lights the darkness...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThe MASTER TORCH!"
+    - text: "\nThe MASTER TORCH!"
     - utf16_bytes:
         - 0
   near02:
-    - ascii: Raaargh!
+    - text: Raaargh!
     - utf16_bytes:
         - 0
   talk05:
@@ -115,15 +116,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Scram, foul wanderer!\n\n\nLest I burn you with the sacred light of\nmy Master Torch!"
+    - text: "Scram, foul wanderer!\n\n\nLest I burn you with the sacred light of\nmy Master Torch!"
     - utf16_bytes:
         - 0
   near03:
-    - ascii: Hup!
+    - text: Hup!
     - utf16_bytes:
         - 0
   near04:
-    - ascii: Must...practice...
+    - text: Must...practice...
     - utf16_bytes:
         - 0
   talk07:
@@ -133,13 +134,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Ha...hooooo...
+    - text: Ha...hooooo...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAre you some kind of wanderer?"
+    - text: "\nAre you some kind of wanderer?"
     - utf16_bytes:
         - 14
         - 1
@@ -162,7 +163,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Nice baby sword, pal.\nI bet it can't even keep a flame going.\nWhat's its name?"
+    - text: "Nice baby sword, pal.\nI bet it can't even keep a flame going.\nWhat's its name?"
     - utf16_bytes:
         - 14
         - 1
@@ -185,38 +186,35 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Wha
-    - utf16_bytes:
-        - 8212
-    - ascii: "?\nMaster Sword?\n\nHa ha!"
+    - text: "Wha—?\nMaster Sword?\n\nHa ha!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Must be some kind of off-brand\nknockoff of my legendary Master Torch!\n\nFor I am Yolero,"
+    - text: " Must be some kind of off-brand\nknockoff of my legendary Master Torch!\n\nFor I am Yolero,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " the heroine of legend\nchosen to wield the Master Torch!"
+    - text: " the heroine of legend\nchosen to wield the Master Torch!"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Amazing!
+    - text: Amazing!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Really?
+    - text: Really?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Something like that.
+    - text: Something like that.
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk10:
@@ -226,11 +224,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ha! You've got that right.\n\n\nNo ordinary sword can hold a candle\nto my legendary Master Torch!"
+    - text: "Ha! You've got that right.\n\n\nNo ordinary sword can hold a candle\nto my legendary Master Torch!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: The Master Sword.
+    - text: The Master Sword.
     - utf16_bytes:
         - 0
   talk11:
@@ -240,7 +238,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, if you'll excuse me, I need to go\nsave the world."
+    - text: "Well, if you'll excuse me, I need to go\nsave the world."
     - utf16_bytes:
         - 0
   "0005":
@@ -250,7 +248,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's not important."
+    - text: "It's not important."
     - utf16_bytes:
         - 0
   talk00:
@@ -260,27 +258,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I don't care who you are!"
+    - text: "I don't care who you are!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nJust lend me an ear!\n\n"
+    - text: "\nJust lend me an ear!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "I've finally got it in my hands"
+    - text: "I've finally got it in my hands—"
     - utf16_bytes:
-        - 8212
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nthe legendary weapon!"
+    - text: "\nthe legendary weapon!"
     - utf16_bytes:
         - 14
         - 1
@@ -288,7 +285,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk01:
     - utf16_bytes:
@@ -296,26 +294,25 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Ha! Prepare to be jealous!
+    - text: इHa! Prepare to be jealous!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI'm sure you've heard of it...\n\n"
+    - text: "\nI'm sure you've heard of it...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: You know...
+    - text: You know...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThe legendary weapon that only the\nchosen heroine can wield?"
+    - text: "\nThe legendary weapon that only the\nchosen heroine can wield?"
     - utf16_bytes:
         - 0

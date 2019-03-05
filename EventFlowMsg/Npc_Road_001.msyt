@@ -6,19 +6,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tOwww... "
+        - 9
+    - text: "Owww... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Even I can't handle a monster\nattack of such ferocity by myself!"
+    - text: "Even I can't handle a monster\nattack of such ferocity by myself!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIf only you'd fought beside me..."
+    - text: "\nIf only you'd fought beside me..."
     - utf16_bytes:
         - 0
   Com_Talk_00:
@@ -28,7 +29,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "For starters, why don't you show me\nwhat you have?"
+    - text: "For starters, why don't you show me\nwhat you have?"
     - utf16_bytes:
         - 0
   MSG_Bado_00_1:
@@ -37,24 +38,23 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm on patrol, keeping the watch!"
+    - text: "ЀI'm on patrol, keeping the watch!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nMonsters abound, so watch yourself!"
+    - text: "\nMonsters abound, so watch yourself!"
     - utf16_bytes:
         - 0
   Com_Talk_01:
-    - ascii: You want to sell that?
+    - text: You want to sell that?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHow does "
+    - text: "\nHow does "
     - utf16_bytes:
         - 14
         - 0
@@ -64,28 +64,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees "
+    - text: " rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: for it sound?
+    - text: for it sound?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02:
     - utf16_bytes:
@@ -93,14 +92,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: My thanks!
+    - text: 촂My thanks!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Is there anything else you\nwant to sell?"
+    - text: " Is there anything else you\nwant to sell?"
     - utf16_bytes:
         - 0
   RetMSG_Bado_02_1:
@@ -109,28 +107,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "They say legendary weapons sleep in the\n"
+    - text: "ЀThey say legendary weapons sleep in the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: remains of Hyrule Castle
+    - text: remains of Hyrule Castle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but it's far too\ndangerous, so don't be tempted!"
+    - text: " but it's far too\ndangerous, so don't be tempted!"
     - utf16_bytes:
         - 0
   Com_Talk_04:
@@ -139,30 +136,27 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
-    - ascii: Oh...
+    - text: 촄Oh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Very well."
+    - text: " Very well."
     - utf16_bytes:
         - 0
   Com_Talk_10:
-    - ascii: You want to buy that?
+    - text: You want to buy that?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_05:
-    - ascii: "I'll buy anything!"
+    - text: "I'll buy anything!"
     - utf16_bytes:
         - 0
   Com_Talk_11:
@@ -171,17 +165,17 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Naught to fear if you have the right gear!\n"
+    - text: "촉Naught to fear if you have the right gear!\n"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "That's an excellent purchase."
+    - text: "That's an excellent purchase."
     - utf16_bytes:
         - 0
   Com_Talk_06:
-    - ascii: Anything catch your eye?
+    - text: Anything catch your eye?
     - utf16_bytes:
         - 0
   Com_Talk_12:
@@ -190,14 +184,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: I apologize for only having arrows.
+    - text: ЀI apologize for only having arrows.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBut arrows are something that you can\nnever have too many of, am I right?"
+    - text: "\nBut arrows are something that you can\nnever have too many of, am I right?"
     - utf16_bytes:
         - 0
   Com_Talk_02b:
@@ -206,8 +199,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Very well, thanks!"
+    - text: "촂Very well, thanks!"
     - utf16_bytes:
         - 0
   Com_Talk_07:
@@ -216,22 +208,18 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Sorry, I'm out of that right now."
+    - text: "촎Sorry, I'm out of that right now."
     - utf16_bytes:
         - 0
   Com_Talk_13:
-    - ascii: "Willing to part with it, huh?\nHow many are you selling? "
+    - text: "Willing to part with it, huh?\nHow many are you selling? "
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Com_Talk_02c:
     - utf16_bytes:
@@ -239,8 +227,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: My thanks!
+    - text: 촇My thanks!
     - utf16_bytes:
         - 0
   Com_Talk_08:
@@ -249,14 +236,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "You don't have enough rupees."
+    - text: "촎You don't have enough rupees."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " \nSo I'd advise stopping shopping."
+    - text: " \nSo I'd advise stopping shopping."
     - utf16_bytes:
         - 0
   Com_Talk_20:
@@ -266,25 +252,25 @@ entries:
         - 1
         - 2
         - 2816
-    - ascii: "I'm amazed you're out adventuring in\nthis weather."
+    - text: "I'm amazed you're out adventuring in\nthis weather."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " To reward your fortitude,\nI'll throw in extra arrows today!"
+    - text: " To reward your fortitude,\nI'll throw in extra arrows today!"
     - utf16_bytes:
         - 0
   Com_Talk_14:
-    - ascii: "OK, "
+    - text: "OK, "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them. Got it.\nHow does "
+    - text: " of them. Got it.\nHow does "
     - utf16_bytes:
         - 14
         - 0
@@ -294,28 +280,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " sound?"
+    - text: " sound?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02d:
     - utf16_bytes:
@@ -323,8 +308,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: Thanks!
+    - text: 촇Thanks!
     - utf16_bytes:
         - 0
   Com_Talk_09:
@@ -333,14 +317,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "You don't have enough room, I'm afraid."
+    - text: "촎You don't have enough room, I'm afraid."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou should sell or toss some stuff."
+    - text: "\nYou should sell or toss some stuff."
     - utf16_bytes:
         - 0
   Com_Talk_15:
@@ -349,14 +332,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "I can't buy that from you."
+    - text: "촎I can't buy that from you."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Sorry..."
+    - text: " Sorry..."
     - utf16_bytes:
         - 0
   Thanks00:
@@ -365,14 +347,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Well...
+    - text: ĀWell...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I guess a token of my gratitude\nwould be appropriate."
+    - text: " I guess a token of my gratitude\nwould be appropriate."
     - utf16_bytes:
         - 0
   Com_Talk_16:
@@ -381,8 +362,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Now that's just weird. I'm not buying\nyour gear while you're still wearing it."
+    - text: "촎Now that's just weird. I'm not buying\nyour gear while you're still wearing it."
     - utf16_bytes:
         - 0
   MSG_Bado_04_1:
@@ -391,41 +371,39 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Normally, few animals make their home\naround Satori Mountain, just ahead...\n\n"
+    - text: "စNormally, few animals make their home\naround Satori Mountain, just ahead...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "But they say an appearance by the\n"
+    - text: "ĀBut they say an appearance by the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lord of the Mountain
+    - text: Lord of the Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " calls to the souls\nof the animals and makes them gather."
+    - text: " calls to the souls\nof the animals and makes them gather."
     - utf16_bytes:
         - 0
   Com_Talk_30:
-    - ascii: "OK, "
+    - text: "OK, "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them. Got it.\nHow does "
+    - text: " of them. Got it.\nHow does "
     - utf16_bytes:
         - 14
         - 0
@@ -435,48 +413,43 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " sound?"
+    - text: " sound?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_31:
-    - ascii: "Got your eye on that, huh?"
+    - text: "Got your eye on that, huh?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHow many do you need?"
+    - text: "\nHow many do you need?"
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   Atacked00:
     - utf16_bytes:
@@ -484,24 +457,23 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "So it's to be violence, then. Very well."
+    - text: "ขSo it's to be violence, then. Very well."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " \nA watchman of my caliber won't fall to \nthe likes of these louts."
+    - text: " \nA watchman of my caliber won't fall to \nthe likes of these louts."
     - utf16_bytes:
         - 0
   Com_Talk_33:
-    - ascii: Just one?
+    - text: Just one?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That'll be "
+    - text: " That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -511,28 +483,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Atacked01:
     - utf16_bytes:
@@ -540,38 +511,37 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "Curse your dark hearts, monsters!"
+    - text: "ขCurse your dark hearts, monsters!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " \nYou think me an easy mark?"
+    - text: " \nYou think me an easy mark?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI am a watchman, and I do not flee!"
+    - text: "\nI am a watchman, and I do not flee!"
     - utf16_bytes:
         - 0
   Com_Talk_34:
-    - ascii: All my stock?
+    - text: All my stock?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That's a total of "
+    - text: " That's a total of "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: ",\nso it'll be "
+    - text: ",\nso it'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -581,28 +551,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", OK?"
+    - text: ", OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   MSG_Bado_01_1:
     - utf16_bytes:
@@ -610,32 +579,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "A long time ago, there used to be an\narena for combat nearby,"
+    - text: "ЀA long time ago, there used to be an\narena for combat nearby,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but it's fallen\nto ruin and is a home for foul monsters."
+    - text: " but it's fallen\nto ruin and is a home for foul monsters."
     - utf16_bytes:
         - 0
   Com_Talk_35:
-    - ascii: "So, "
+    - text: "So, "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them?"
+    - text: " of them?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " All right, then.\nI'll buy them for "
+    - text: " All right, then.\nI'll buy them for "
     - utf16_bytes:
         - 14
         - 0
@@ -645,28 +613,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", OK?"
+    - text: ", OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_36:
     - utf16_bytes:
@@ -674,13 +641,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉And that's the last of those."
+    - text: "촉And that's the last of those."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThanks for your largesse!"
+    - text: "\nThanks for your largesse!"
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -689,18 +656,17 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: You handle yourself rather well.
+    - text: ȁYou handle yourself rather well.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou're not quite as adept as a seasoned\nwatchman like me, but really, who is?"
+    - text: "\nYou're not quite as adept as a seasoned\nwatchman like me, but really, who is?"
     - utf16_bytes:
         - 0
   Com_Talk_05b:
-    - ascii: "There's nothing I won't buy!"
+    - text: "There's nothing I won't buy!"
     - utf16_bytes:
         - 0
   Com_Talk_11b:
@@ -709,8 +675,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Use it well!
+    - text: 촂Use it well!
     - utf16_bytes:
         - 0
   Com_Talk_37:
@@ -719,22 +684,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "I'm all out of arrows for today."
+    - text: "ကI'm all out of arrows for today."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWant to see the arrows I'm planning to\nrestock later?"
+    - text: "\nWant to see the arrows I'm planning to\nrestock later?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   RetMSG_Bado_03_1:
     - utf16_bytes:
@@ -742,14 +705,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you want to keep traveling, you'd best\nprepare weapons and equipment"
+    - text: "ЀIf you want to keep traveling, you'd best\nprepare weapons and equipment"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so\nyou can defend yourself!"
+    - text: " so\nyou can defend yourself!"
     - utf16_bytes:
         - 0
   Talk01:
@@ -758,26 +720,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Say, "
+    - text: "ကSay, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: on an entirely different topic...
+    - text: on an entirely different topic...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI've recently begun selling adventuring\ngear as I travel."
+    - text: "\nI've recently begun selling adventuring\ngear as I travel."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nDoing work as a watchman certainly\nfills my soul, but not my pockets..."
+    - text: "\nDoing work as a watchman certainly\nfills my soul, but not my pockets..."
     - utf16_bytes:
         - 14
         - 1
@@ -786,7 +747,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   SavedLv1_01:
     - utf16_bytes:
@@ -794,18 +756,17 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: "I was just taking an observer role to see\nhow the situation would play out,"
+    - text: "ȁI was just taking an observer role to see\nhow the situation would play out,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " but\nyou seem to have handled it fairly well."
+    - text: " but\nyou seem to have handled it fairly well."
     - utf16_bytes:
         - 0
   Com_Talk_05c:
-    - ascii: Care to sell something?
+    - text: Care to sell something?
     - utf16_bytes:
         - 0
   Com_Talk_11c:
@@ -814,8 +775,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "I know you'll make good use of it!"
+    - text: "촂I know you'll make good use of it!"
     - utf16_bytes:
         - 0
   Talk02:
@@ -824,8 +784,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Need anything else?
+    - text: ĀNeed anything else?
     - utf16_bytes:
         - 14
         - 1
@@ -834,10 +793,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Com_Talk_05d:
-    - ascii: Anything you wish to sell?
+    - text: Anything you wish to sell?
     - utf16_bytes:
         - 0
   Com_Talk_11d:
@@ -846,13 +806,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉You're an exceptional shopper."
+    - text: "촉You're an exceptional shopper."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nOr maybe I'm an exceptional seller?"
+    - text: "\nOr maybe I'm an exceptional seller?"
     - utf16_bytes:
         - 0
   Rest_00:
@@ -862,13 +822,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "You're not a watchman like me, are you?"
+    - text: "You're not a watchman like me, are you?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYet I fear we both have the stink of long\ntravel upon us. We are fragrant."
+    - text: "\nYet I fear we both have the stink of long\ntravel upon us. We are fragrant."
     - utf16_bytes:
         - 0
   RetMSG_Bado_00_1:
@@ -877,14 +837,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Monsters of great strength lie in wait on\nthe road to the desert."
+    - text: "ЀMonsters of great strength lie in wait on\nthe road to the desert."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you insist on\ngoing, you'll have to protect yourself."
+    - text: " If you insist on\ngoing, you'll have to protect yourself."
     - utf16_bytes:
         - 0
   Rest_01:
@@ -894,13 +853,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rain obstructs one's view and steals\none's concentration."
+    - text: "Rain obstructs one's view and steals\none's concentration."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you aren't familiar\nwith the area, it's dangerous to wander!"
+    - text: " If you aren't familiar\nwith the area, it's dangerous to wander!"
     - utf16_bytes:
         - 0
   Talk01_1:
@@ -909,14 +868,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: You can really never be too prepared.
+    - text: ĀYou can really never be too prepared.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIf you need proper gear for adventuring, \nyou've come to the right fellow!"
+    - text: "\nIf you need proper gear for adventuring, \nyou've come to the right fellow!"
     - utf16_bytes:
         - 14
         - 1
@@ -925,10 +883,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "5500":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   MSG_Bado_00:
@@ -938,31 +897,31 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "...Who, me?"
+    - text: "...Who, me?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What am I doing, you ask?"
+    - text: " What am I doing, you ask?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm on patrol, keeping the watch!\nI am a watchman!"
+    - text: "\nI'm on patrol, keeping the watch!\nI am a watchman!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThis southwest corner of Hyrule Field is\nawash in monsters and suspicious types, "
+    - text: "\nThis southwest corner of Hyrule Field is\nawash in monsters and suspicious types, "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nso you've got to tread carefully!"
+    - text: "\nso you've got to tread carefully!"
     - utf16_bytes:
         - 0
   Rest_02:
@@ -972,23 +931,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rain obstructs one's view and steals\none's concentration."
+    - text: "Rain obstructs one's view and steals\none's concentration."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Why don't you take\nshelter from the rain here, too?"
+    - text: " Why don't you take\nshelter from the rain here, too?"
     - utf16_bytes:
         - 0
   Com_Talk_56:
-    - ascii: Just one?
+    - text: Just one?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That'll be "
+    - text: " That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -998,32 +957,30 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThat OK?"
+    - text: ".\nThat OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "5501":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   MSG_Bado_01:
@@ -1032,28 +989,27 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "A long time ago, there used to be an\narena for combat nearby,"
+    - text: "ȀA long time ago, there used to be an\narena for combat nearby,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but it's fallen\nto ruin and is a home for foul monsters.\nI suppose you could say"
+    - text: " but it's fallen\nto ruin and is a home for foul monsters.\nI suppose you could say"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " it still IS an\narena for combat, but more the life-or-\ndeath-against-monsters variety."
+    - text: " it still IS an\narena for combat, but more the life-or-\ndeath-against-monsters variety."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Maybe I'll buy."
+    - text: "Maybe I'll buy."
     - utf16_bytes:
         - 0
   "5502":
-    - ascii: "I'll buy, sure."
+    - text: "I'll buy, sure."
     - utf16_bytes:
         - 0
   MSG_Bado_02:
@@ -1062,54 +1018,53 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Say...
+    - text: ȀSay...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Have you heard tell of the\n"
+    - text: " Have you heard tell of the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lord of the Mountain
+    - text: Lord of the Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nThey say he appears on Satori Mountain,\nnorthwest of here..."
+    - text: "\n\nThey say he appears on Satori Mountain,\nnorthwest of here..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "but what is he?\nThe "
+    - text: "but what is he?\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lord of the Mountain
+    - text: Lord of the Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   RetMSG_Bado_00:
@@ -1118,34 +1073,33 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Hey, "
+    - text: "ȀHey, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "it's dangerous to travel alone!"
+    - text: "it's dangerous to travel alone!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nMonsters of great strength haunt the\nway to the desert.\nIf you insist on going, make sure you\nhave proper weapons equipped"
+    - text: "\nMonsters of great strength haunt the\nway to the desert.\nIf you insist on going, make sure you\nhave proper weapons equipped"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so you\ncan protect yourself."
+    - text: " so you\ncan protect yourself."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Maybe I'll sell."
+    - text: "Maybe I'll sell."
     - utf16_bytes:
         - 0
   "5503":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   MSG_Bado_03:
@@ -1154,14 +1108,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "They say the north side of the stable is\nrelatively safe,"
+    - text: "ȀThey say the north side of the stable is\nrelatively safe,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but even so, I won't shirk\nmy patrol duties! I am a watchman!"
+    - text: " but even so, I won't shirk\nmy patrol duties! I am a watchman!"
     - utf16_bytes:
         - 0
   RetMSG_Bado_01:
@@ -1170,49 +1123,47 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "On the other side of those rocky\nmountains to the east"
+    - text: "စOn the other side of those rocky\nmountains to the east"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " are the ancient\n"
+    - text: " are the ancient\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Coliseum Ruins
+    - text: Coliseum Ruins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n"
+    - text: "...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "It's a fell place, teeming with monsters."
+    - text: "ĀIt's a fell place, teeming with monsters."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nOnly scavengers hunting for weapons\ndare to go near the ruins."
+    - text: "\nOnly scavengers hunting for weapons\ndare to go near the ruins."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "Now, back to my patrol..."
+    - text: "Now, back to my patrol..."
     - utf16_bytes:
         - 0
   MSG_Bado_04:
@@ -1221,69 +1172,68 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "The "
+    - text: "ဋThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Lord of the Mountain
+    - text: Lord of the Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is said to\nmake Satori Mountain its home... \nThat's just ahead, before Hyrule Ridge.\nAnimals rarely appear there, but..."
+    - text: " is said to\nmake Satori Mountain its home... \nThat's just ahead, before Hyrule Ridge.\nAnimals rarely appear there, but..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "they\nsay if this "
+    - text: "they\nsay if this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: lord
+    - text: lord
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " appears, the animals will\nheed its call and gather.\n"
+    - text: " appears, the animals will\nheed its call and gather.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1536
-    - ascii: But just what in the world could it be?
+    - text: But just what in the world could it be?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhat is this "
+    - text: "\nWhat is this "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: lord
+    - text: lord
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " creature?!"
+    - text: " creature?!"
     - utf16_bytes:
         - 0
   RetMSG_Bado_02:
@@ -1292,40 +1242,39 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "You can see the "
+    - text: "ЀYou can see the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: remains of Hyrule Castle
+    - text: remains of Hyrule Castle
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfrom the cliff in front of the stable, right?"
+    - text: "\nfrom the cliff in front of the stable, right?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThey say legendary weapons sleep there.\nAnd not just one or two, either..."
+    - text: "\nThey say legendary weapons sleep there.\nAnd not just one or two, either..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nBut do not be tempted!"
+    - text: "\nBut do not be tempted!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's far too\ndangerous to approach, so stay away!"
+    - text: " It's far too\ndangerous to approach, so stay away!"
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -1334,23 +1283,24 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tLet's..."
+        - 9
+    - text: "Let's..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Let's just keep this \"rescue\"\nbetween us, shall we? Yes, let's do.\n"
+    - text: " Let's just keep this \"rescue\"\nbetween us, shall we? Yes, let's do.\n"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I am a watchman, after all..."
+    - text: "I am a watchman, after all..."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: A watchman watches...
+    - text: A watchman watches...
     - utf16_bytes:
         - 0
   RetMSG_Bado_03:
@@ -1360,19 +1310,19 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Ever since that earthquake when the\ntowers appeared,"
+    - text: "Ever since that earthquake when the\ntowers appeared,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " doesn't it seem like\nmonsters roam in greater numbers?\nIf you want to keep traveling, you'd do\nwell to load up on weapons and gear"
+    - text: " doesn't it seem like\nmonsters roam in greater numbers?\nIf you want to keep traveling, you'd do\nwell to load up on weapons and gear"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so\nyou can defend yourself!"
+    - text: " so\nyou can defend yourself!"
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -1381,23 +1331,24 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tIt's..."
+        - 9
+    - text: "It's..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's not as though I've started\nfearing monsters or anything like that."
+    - text: " It's not as though I've started\nfearing monsters or anything like that."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI am a watchman!"
+    - text: "\nI am a watchman!"
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Sunset pretty soon...
+    - text: Sunset pretty soon...
     - utf16_bytes:
         - 0
   RetMSG_Bado_04:
@@ -1406,62 +1357,61 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "You want to go to "
+    - text: "ȀYou want to go to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Rito Village
+    - text: Rito Village
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", right?"
+    - text: ", right?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThen just follow the road north."
+    - text: "\nThen just follow the road north."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHead for the "
+    - text: "\nHead for the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Frontier
+    - text: Tabantha Frontier
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nBut...if you don't want to run into any\nGuardians,"
+    - text: "!\nBut...if you don't want to run into any\nGuardians,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " it may be wiser to take a\ndetour to the east!"
+    - text: " it may be wiser to take a\ndetour to the east!"
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: "Ugh, night patrol..."
+    - text: "Ugh, night patrol..."
     - utf16_bytes:
         - 0
   "5507":
-    - ascii: "I'll take 'em all!"
+    - text: "I'll take 'em all!"
     - utf16_bytes:
         - 0
   MSG_Bado_02_1:
@@ -1471,35 +1421,35 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Have you heard of the "
+    - text: "Have you heard of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Lord of the\nMountain"
+    - text: "Lord of the\nMountain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's said that he appears on \nSatori Mountain, northwest of here."
+    - text: " It's said that he appears on \nSatori Mountain, northwest of here."
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: RAIN!
+    - text: RAIN!
     - utf16_bytes:
         - 0
   "5508":
-    - ascii: All of them.
+    - text: All of them.
     - utf16_bytes:
         - 0
   Guardian00:
@@ -1508,34 +1458,33 @@ entries:
         - 3
         - 1
         - 2
-        - 5640
-    - ascii: "Go! Run! "
+    - text: "ᘈGo! Run! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "A "
+    - text: "A "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guardian
+    - text: Guardian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is coming!"
+    - text: " is coming!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " \nWe don't stand a chance against the\nlikes of that thing!"
+    - text: " \nWe don't stand a chance against the\nlikes of that thing!"
     - utf16_bytes:
         - 0
   RetMSG_Bado_04_1:
@@ -1544,48 +1493,47 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If you want to go to "
+    - text: "ЀIf you want to go to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Rito Village
+    - text: Rito Village
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", follow\nthe road north."
+    - text: ", follow\nthe road north."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Cutting through the\n"
+    - text: " Cutting through the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha Frontier
+    - text: Tabantha Frontier
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is the fastest route.\nBut there are a bunch of Guardians in\nthat area,"
+    - text: " is the fastest route.\nBut there are a bunch of Guardians in\nthat area,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so it may be wiser to take a\ndetour to the east!"
+    - text: " so it may be wiser to take a\ndetour to the east!"
     - utf16_bytes:
         - 0
   RetMSG_Bado_01_1:
@@ -1594,22 +1542,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The ancient "
+    - text: "ЀThe ancient "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Coliseum Ruins
+    - text: Coliseum Ruins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " on the\nother side of those rocky mountains to\nthe east are alive with fell monsters."
+    - text: " on the\nother side of those rocky mountains to\nthe east are alive with fell monsters."
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -1618,26 +1565,25 @@ entries:
         - 3
         - 1
         - 2
-        - 5380
-    - ascii: In
+    - text: ᔄIn
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: explicable...
+    - text: explicable...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Though I nearly fell, I am\na watchman!"
+    - text: " Though I nearly fell, I am\na watchman!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " And though you saved me\ntoday, I shall save you tomorrow! Maybe."
+    - text: " And though you saved me\ntoday, I shall save you tomorrow! Maybe."
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -1646,19 +1592,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI..."
+        - 9
+    - text: I...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I am a watchman! But..."
+    - text: " I am a watchman! But..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "perhaps even\nwatchmen need watchers to watch over\nthem now and then..."
+    - text: "perhaps even\nwatchmen need watchers to watch over\nthem now and then..."
     - utf16_bytes:
         - 0
   MSG_Bado_03_1:
@@ -1667,14 +1614,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "They say it's relatively safe, but I won't\nshirk my patrol duties!"
+    - text: "ЀThey say it's relatively safe, but I won't\nshirk my patrol duties!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I always watch!\nThat's what it means to be a watchman!"
+    - text: " I always watch!\nThat's what it means to be a watchman!"
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -1683,14 +1629,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "OK! "
+    - text: "ЀOK! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Farewell!
+    - text: Farewell!
     - utf16_bytes:
         - 0
   Failed00:
@@ -1699,12 +1644,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI may be a seasoned watchman, but no\none could have handled that alone!"
+        - 9
+    - text: "I may be a seasoned watchman, but no\none could have handled that alone!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI wish you had arrived sooner..."
+    - text: "\nI wish you had arrived sooner..."
     - utf16_bytes:
         - 0

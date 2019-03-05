@@ -6,25 +6,25 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI hope you slept well!\n\nBut... Are you really planning to head\nout at this hour?"
+    - text: "\nI hope you slept well!\n\nBut... Are you really planning to head\nout at this hour?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The desert is quite\ndangerous at night, you know."
+    - text: " The desert is quite\ndangerous at night, you know."
     - utf16_bytes:
         - 0
   Talk11:
@@ -33,19 +33,19 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta! You look like the very image of\nrelaxation!"
+    - text: "촙Sav'otta! You look like the very image of\nrelaxation!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Please be careful on your\njourney... The desert is dangerous!"
+    - text: " Please be careful on your\njourney... The desert is dangerous!"
     - utf16_bytes:
         - 0
   Talk12:
@@ -54,19 +54,19 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq! You look like the very image of\nrelaxation!"
+    - text: "촚Sav'aaq! You look like the very image of\nrelaxation!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Please be careful on your\njourney... The desert is dangerous!"
+    - text: " Please be careful on your\njourney... The desert is dangerous!"
     - utf16_bytes:
         - 0
   Talk13:
@@ -75,19 +75,19 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba! You look like the very image\nof relaxation!\n\nBut... Are you really planning to head out\nat this hour?"
+    - text: "촛Sav'saaba! You look like the very image\nof relaxation!\n\nBut... Are you really planning to head out\nat this hour?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The desert is quite\ndangerous at night, you know."
+    - text: " The desert is quite\ndangerous at night, you know."
     - utf16_bytes:
         - 0
   Talk01:
@@ -96,19 +96,19 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52508
-    - ascii: Vasaaq!
+    - text: 촜Vasaaq!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Come on in and rest for a while!"
+    - text: " Come on in and rest for a while!"
     - utf16_bytes:
         - 0
   Talk14:
@@ -117,8 +117,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6404
-    - ascii: "You've...never heard of the spa plan\nat Hotel Oasis?\n\n"
+    - text: "ᤄYou've...never heard of the spa plan\nat Hotel Oasis?\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -129,20 +128,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: PI was sure it was known the world over...
+    - text: PI was sure it was known the world over...
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "The spa plan we offer will fill you with\nenergy and a truly unique feeling of\nresilience to great dangers.\nAnd as an extra bonus, it'll feel like years\nof worry have been washed away, leaving\nyour skin bright and smooth."
+    - text: "The spa plan we offer will fill you with\nenergy and a truly unique feeling of\nresilience to great dangers.\nAnd as an extra bonus, it'll feel like years\nof worry have been washed away, leaving\nyour skin bright and smooth."
     - utf16_bytes:
         - 0
   Talk02:
@@ -151,8 +150,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: "Sav'orq!"
+    - text: "᠀Sav'orq!"
     - utf16_bytes:
         - 0
   Talk15:
@@ -161,41 +159,40 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Intriguing, right? What do you think?\nThe standard stay is "
+    - text: "ЀIntriguing, right? What do you think?\nThe standard stay is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", and the\nspa plan is "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 80 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: ", and the\nspa plan is "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 80 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -209,14 +206,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4866
-    - ascii: "What's this... You don't have enough\nmoney!"
+    - text: "ጂWhat's this... You don't have enough\nmoney!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You can't stay if you can't pay\nfor it!"
+    - text: " You can't stay if you can't pay\nfor it!"
     - utf16_bytes:
         - 0
   Talk16:
@@ -225,41 +221,40 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Did you want to try a different option?\n\n\nThe standard stay is "
+    - text: "ЀDid you want to try a different option?\n\n\nThe standard stay is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", and the\nspa plan is "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 80 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: ", and the\nspa plan is "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 80 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -268,11 +263,11 @@ entries:
         - 768
         - 0
   Near01:
-    - ascii: Time to relax?
+    - text: Time to relax?
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "Standard, please."
+    - text: "Standard, please."
     - utf16_bytes:
         - 0
   Talk04:
@@ -281,13 +276,12 @@ entries:
         - 3
         - 1
         - 2
-        - 4864
-    - ascii: "Oh...just the standard stay, huh?\nThe spa plan is sure to bleed away all\nthe worry and wrinkles of life, but OK...\nWell, when would you like to be woken?"
+    - text: "ጀOh...just the standard stay, huh?\nThe spa plan is sure to bleed away all\nthe worry and wrinkles of life, but OK...\nWell, when would you like to be woken?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 3
         - 4
@@ -302,40 +296,40 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The nightly rate is "
+    - text: "The nightly rate is "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", but we\nalso offer a special spa plan that would\nbring the total to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: 80 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: ", but we\nalso offer a special spa plan that would\nbring the total to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 80 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 0
         - 1
@@ -349,51 +343,51 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52508
-    - ascii: Vasaaq!
+    - text: 촜Vasaaq!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nThe Divine Beast has stopped its\nrampage, so I'm hoping business will\npick up again!\nIt's all thanks to "
+    - text: "\n\n\nThe Divine Beast has stopped its\nrampage, so I'm hoping business will\npick up again!\nIt's all thanks to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Riju
+    - text: Lady
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", isn't it?"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Riju
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", isn't it?"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Spa plan, please!"
+    - text: "Spa plan, please!"
     - utf16_bytes:
         - 0
   Talk05:
@@ -403,12 +397,12 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "The spa plan it is!\nHeehee, I'm so excited to get to work...\n\nAnyway, when would you like to be\nwoken?"
+    - text: "The spa plan it is!\nHeehee, I'm so excited to get to work...\n\nAnyway, when would you like to be\nwoken?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 3
         - 4
@@ -422,70 +416,69 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52508
-    - ascii: Vasaaq!
+    - text: 촜Vasaaq!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh, look at this cute little vai... I bet you\nwould absolutely love what we have to\noffer, little one!\nWe're an inn, of course, but we also have\na special "
+    - text: "ЀOh, look at this cute little vai... I bet you\nwould absolutely love what we have to\noffer, little one!\nWe're an inn, of course, but we also have\na special "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: spa plan
+    - text: spa plan
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! A vacation for mind\nand body!\nIt's really, really popular. "
+    - text: "! A vacation for mind\nand body!\nIt's really, really popular. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "So popular,\nin fact, that we always have a long line of\npeople waiting to get in!\n"
+    - text: "So popular,\nin fact, that we always have a long line of\npeople waiting to get in!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Although... I don't know what it is, but\nI just feel something special from you."
+    - text: "Although... I don't know what it is, but\nI just feel something special from you."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou can cut to the front of the line!\n"
+    - text: "\nYou can cut to the front of the line!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Oh! I'm just going on and on.\nWhat can I do for you?"
+    - text: "Oh! I'm just going on and on.\nWhat can I do for you?"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Talk06:
@@ -494,12 +487,11 @@ entries:
         - 3
         - 1
         - 2
-        - 5888
-    - ascii: "Sav'orr!"
+    - text: "ᜀSav'orr!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: In the morning!
+    - text: In the morning!
     - utf16_bytes:
         - 0
   Talk07:
@@ -508,12 +500,11 @@ entries:
         - 3
         - 1
         - 2
-        - 5888
-    - ascii: "Sav'orr!"
+    - text: "ᜀSav'orr!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "Around noon, please."
+    - text: "Around noon, please."
     - utf16_bytes:
         - 0
   Talk08:
@@ -522,23 +513,23 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta! Did you sleep well?"
+    - text: "촙Sav'otta! Did you sleep well?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The desert\nis a dangerous place, but you should be\nup for anything after resting!"
+    - text: " The desert\nis a dangerous place, but you should be\nup for anything after resting!"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: After sunset.
+    - text: After sunset.
     - utf16_bytes:
         - 0
   Talk09:
@@ -547,26 +538,26 @@ entries:
         - 3
         - 1
         - 2
-        - 257
+    - text: ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq! Did you sleep well?"
+    - text: "촚Sav'aaq! Did you sleep well?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " The desert\nis a dangerous place, but you should be\nup for anything after resting!"
+    - text: " The desert\nis a dangerous place, but you should be\nup for anything after resting!"
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Actually...never mind.
+    - text: Actually...never mind.
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Spa plan?
+    - text: Spa plan?
     - utf16_bytes:
         - 0

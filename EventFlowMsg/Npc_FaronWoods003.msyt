@@ -1,7 +1,7 @@
 ---
 entries:
   near01:
-    - ascii: "Scary, isn't it?"
+    - text: "Scary, isn't it?"
     - utf16_bytes:
         - 0
   talk03:
@@ -11,25 +11,25 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Thunder sure is scary, isn't it?"
+    - text: "Thunder sure is scary, isn't it?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nSpeaking of! Have you heard the story,\nbuddy?"
+    - text: "\n\n\nSpeaking of! Have you heard the story,\nbuddy?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Some say that rumbling sound\nis the angry ranting of a dragon god!\nBut who knows if that's even true."
+    - text: " Some say that rumbling sound\nis the angry ranting of a dragon god!\nBut who knows if that's even true."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI've certainly never seen any proof!"
+    - text: "\nI've certainly never seen any proof!"
     - utf16_bytes:
         - 0
   talk00:
@@ -39,27 +39,27 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Hey, lady! "
+    - text: "Hey, lady! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Got a "
+    - text: "Got a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: map
+    - text: map
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -67,10 +67,11 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: I have one.
+    - text: I have one.
     - utf16_bytes:
         - 0
   talk01:
@@ -80,15 +81,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "HUH? What special brand of loony\ndoes it take to go traveling without\na map?!"
+    - text: "HUH? What special brand of loony\ndoes it take to go traveling without\na map?!"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: "Rain, rain, too much rain..."
+    - text: "Rain, rain, too much rain..."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I don't have one."
+    - text: "I don't have one."
     - utf16_bytes:
         - 0
   talk02:
@@ -98,46 +99,46 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "So on this map of yours, "
+    - text: "So on this map of yours, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "do you see\n"
+    - text: "do you see\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Dueling Peaks "
+    - text: "Dueling Peaks "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "to the north of here?\n\nWell, apparently that used to be just one\nmountain a really long time ago.\n\nThe legends say a dragon god split the\nmountain in half to forge a way through,"
+    - text: "to the north of here?\n\nWell, apparently that used to be just one\nmountain a really long time ago.\n\nThe legends say a dragon god split the\nmountain in half to forge a way through,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nand that's how it went from one to two.\nRecently, some are even saying they've\nseen the shadow of a large creature on\nthe surface of "
+    - text: "\nand that's how it went from one to two.\nRecently, some are even saying they've\nseen the shadow of a large creature on\nthe surface of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lake Floria
+    - text: Lake Floria
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nI wonder if any of that is true..."
+    - text: "!\nI wonder if any of that is true..."
     - utf16_bytes:
         - 0

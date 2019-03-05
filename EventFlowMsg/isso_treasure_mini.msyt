@@ -7,19 +7,19 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Whoa, lady!"
+    - text: "Whoa, lady!"
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "I don't know who you are or what kind of\npower you have..."
+    - text: "I don't know who you are or what kind of\npower you have..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "but it's awesome!"
+    - text: "but it's awesome!"
     - utf16_bytes:
         - 14
         - 0
@@ -30,19 +30,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Like...
+    - text: Like...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: REALLY AWESOME!
+    - text: REALLY AWESOME!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nNow hurry up and open that chest!"
+    - text: "\nNow hurry up and open that chest!"
     - utf16_bytes:
         - 0
   NewText_31:
@@ -52,7 +52,7 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "Whoa, lady! How did you move this\nchest?!\n\nI've been racking my brain for DAYS\ntrying to think of a way to get this chest\nout!"
+    - text: "Whoa, lady! How did you move this\nchest?!\n\nI've been racking my brain for DAYS\ntrying to think of a way to get this chest\nout!"
     - utf16_bytes:
         - 0
   NewText_20:
@@ -62,15 +62,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "...Hmm?"
+    - text: "...Hmm?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Lost in thought?
+    - text: Lost in thought?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   NewText_10:
@@ -80,13 +80,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: What should I do?
+    - text: What should I do?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I'm terrified of deep\nwater..."
+    - text: " I'm terrified of deep\nwater..."
     - utf16_bytes:
         - 0
   NewText_23:
@@ -95,20 +95,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nINCREDIBLE!"
+    - text: "\nINCREDIBLE!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I can't believe you\nmanaged to get that treasure chest out\nof there!\n"
+    - text: " I can't believe you\nmanaged to get that treasure chest out\nof there!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Hurry up and open it already!
+    - text: ĀHurry up and open it already!
     - utf16_bytes:
         - 0
   NewText_11:
@@ -117,8 +116,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "I'm so curious about what's inside that\nchest, I can't even sleep."
+    - text: "ሀI'm so curious about what's inside that\nchest, I can't even sleep."
     - utf16_bytes:
         - 0
   NewText_12:
@@ -128,17 +126,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If I had just managed to get that chest,\nI'd be rich!"
+    - text: "If I had just managed to get that chest,\nI'd be rich!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " And the ladies would be\ntripping over each other to be with me!"
+    - text: " And the ladies would be\ntripping over each other to be with me!"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: It was treasure.
+    - text: It was treasure.
     - utf16_bytes:
         - 0
   NewText_00:
@@ -147,14 +145,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Oh... Sorry.
+    - text: ȀOh... Sorry.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I was lost in thought."
+    - text: " I was lost in thought."
     - utf16_bytes:
         - 14
         - 1
@@ -162,7 +159,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   NewText_13:
     - utf16_bytes:
@@ -171,7 +169,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, I suppose you did all of the hard\nwork with that chest. At least I can\nsleep now."
+    - text: "Well, I suppose you did all of the hard\nwork with that chest. At least I can\nsleep now."
     - utf16_bytes:
         - 0
   NewText_26:
@@ -181,17 +179,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hm...
+    - text: Hm...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " How can I..."
+    - text: " How can I..."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: It was a sword.
+    - text: It was a sword.
     - utf16_bytes:
         - 0
   NewText_01:
@@ -200,8 +198,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3077
-    - ascii: "I can't believe I'm about to share this\nwith you, but I'm absolutely stumped.\n\nHave you seen that strange shape down\nat the bottom of the river?\n\nIt's hard to make out, but I'm pretty sure\nit's a treasure chest.\n\nBut I can't figure out how to fish it out of\nthere.\n\nI guess I need...some kind of machine or\nsomething to get it out."
+    - text: "అI can't believe I'm about to share this\nwith you, but I'm absolutely stumped.\n\nHave you seen that strange shape down\nat the bottom of the river?\n\nIt's hard to make out, but I'm pretty sure\nit's a treasure chest.\n\nBut I can't figure out how to fish it out of\nthere.\n\nI guess I need...some kind of machine or\nsomething to get it out."
     - utf16_bytes:
         - 0
   NewText_14:
@@ -211,7 +208,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Whatever. I didn't really even want that\nlife-changing treasure anyway..."
+    - text: "Whatever. I didn't really even want that\nlife-changing treasure anyway..."
     - utf16_bytes:
         - 0
   NewText_27:
@@ -221,13 +218,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ah. "
+    - text: "Ah. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   NewText_15:
@@ -237,13 +234,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Well, at least I can relax now that I know\nwhat was inside."
+    - text: "Well, at least I can relax now that I know\nwhat was inside."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Thanks."
+    - text: " Thanks."
     - utf16_bytes:
         - 0
   NewText_28:
@@ -253,29 +250,29 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Piques your interest, doesn't it?"
+    - text: "Piques your interest, doesn't it?"
     - utf16_bytes:
         - 0
   NewText_03:
-    - ascii: "It's hard to make out,"
+    - text: "It's hard to make out,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I'm pretty sure\nthere's a treasure chest down in the\nriverbed.\nI guess I need..."
+    - text: " but I'm pretty sure\nthere's a treasure chest down in the\nriverbed.\nI guess I need..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "some kind of machine or\nsomething"
+    - text: "some kind of machine or\nsomething"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " to get it out."
+    - text: " to get it out."
     - utf16_bytes:
         - 0
   NewText_16:
@@ -284,14 +281,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh! "
+    - text: "ĀOh! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: The treasure chest!
+    - text: The treasure chest!
     - utf16_bytes:
         - 0
   NewText_29:
@@ -301,14 +297,14 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Whoa, lady! How did you move that\nchest?!\n\n"
+    - text: "Whoa, lady! How did you move that\nchest?!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "I've been racking my brain for DAYS\ntrying to think of a way to get that chest\nout!"
+    - text: "I've been racking my brain for DAYS\ntrying to think of a way to get that chest\nout!"
     - utf16_bytes:
         - 0
   NewText_17:
@@ -318,7 +314,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: That was amazing!
+    - text: That was amazing!
     - utf16_bytes:
         - 0
   NewText_18:
@@ -328,14 +324,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Th
+    - text: Th—
     - utf16_bytes:
-        - 8212
         - 14
         - 5
         - 0
         - 0
-    - ascii: the treasure chest?!
+    - text: the treasure chest?!
     - utf16_bytes:
         - 0
   NewText_19:
@@ -344,7 +339,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat the heck?!"
+    - text: "\nWhat the heck?!"
     - utf16_bytes:
         - 0
   NewText_07:
@@ -354,20 +349,20 @@ entries:
         - 1
         - 2
         - 4
-    - ascii: "Amazing treasure?!\n\n\n"
+    - text: "Amazing treasure?!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "Ahh! "
+    - text: "Ahh! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "That's so frustrating!"
+    - text: "That's so frustrating!"
     - utf16_bytes:
         - 0
   NewText_08:
@@ -377,13 +372,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: What?
+    - text: What?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " A cool sword, you say?"
+    - text: " A cool sword, you say?"
     - utf16_bytes:
         - 0
   NewText_09:
@@ -393,19 +388,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I don't know what kind of wizardry you\nused, but that's incredible!\n\nAnd..."
+    - text: "I don't know what kind of wizardry you\nused, but that's incredible!\n\nAnd..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: yeah!
+    - text: yeah!
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " What was inside the\ntreasure chest?"
+    - text: " What was inside the\ntreasure chest?"
     - utf16_bytes:
         - 14
         - 1
@@ -413,5 +408,6 @@ entries:
         - 6
         - 4
         - 5
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0

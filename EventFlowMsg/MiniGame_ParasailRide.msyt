@@ -7,11 +7,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Here, this is for you."
+    - text: "Here, this is for you."
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: "Nah, I'll pass."
+    - text: "Nah, I'll pass."
     - utf16_bytes:
         - 0
   Initial_01_00:
@@ -21,38 +21,38 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: Then you are in for disappointment.
+    - text: Then you are in for disappointment.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThe only object to be found here is this\nstrange building.\n"
+    - text: "\nThe only object to be found here is this\nstrange building.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "What is my purpose here, you ask?"
+    - text: "What is my purpose here, you ask?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI suppose..."
+    - text: "\nI suppose..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: I am here to find my freedom.
+    - text: I am here to find my freedom.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIn a manner of speaking."
+    - text: "\nIn a manner of speaking."
     - utf16_bytes:
         - 0
   Initial_05:
@@ -61,34 +61,33 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: I think we will be fast friends.
+    - text: इI think we will be fast friends.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I've never\nfelt such kinship with a Hylian before."
+    - text: " I've never\nfelt such kinship with a Hylian before."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "Your style of wing is different than mine\nbut similar enough that I think you could\nundergo my "
+    - text: "Your style of wing is different than mine\nbut similar enough that I think you could\nundergo my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: training to become the wind
+    - text: training to become the wind
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
@@ -97,7 +96,8 @@ entries:
         - 5
         - 6
         - 7
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Initial_06:
     - utf16_bytes:
@@ -110,27 +110,28 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "Greetings, my Hylian friend. Have you\nreturned to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: train to become the wind
+    - text: ȁ
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "Greetings, my Hylian friend. Have you\nreturned to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: train to become the wind
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -139,7 +140,8 @@ entries:
         - 5
         - 6
         - 7
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Result_00_00:
     - utf16_bytes:
@@ -147,7 +149,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ఉHmm? How many rings did you achieve?\n"
+    - text: "ఉHmm? How many rings did you achieve?\n"
     - utf16_bytes:
         - 14
         - 0
@@ -157,7 +159,7 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: VRMiniGame_ParasailRide_PassedTargetNumTemp
+    - text: VRMiniGame_ParasailRide_PassedTargetNumTemp
     - utf16_bytes:
         - 0
         - 14
@@ -165,13 +167,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I appear to have overestimated\nyour skill a bit, it seems."
+    - text: " I appear to have overestimated\nyour skill a bit, it seems."
     - utf16_bytes:
         - 0
   Land:
@@ -180,14 +182,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hmmm. "
+    - text: "ĀHmmm. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Stay there and I will come\ncollect you, my flightless friend."
+    - text: "Stay there and I will come\ncollect you, my flightless friend."
     - utf16_bytes:
         - 0
   Result_00_01:
@@ -197,13 +198,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You may be unaccustomed to flying.
+    - text: You may be unaccustomed to flying.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nBut this is nothing a bit of practice on\nmy course can't correct."
+    - text: "\nBut this is nothing a bit of practice on\nmy course can't correct."
     - utf16_bytes:
         - 0
   Initial_End:
@@ -212,19 +213,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI see."
+        - 9
+    - text: I see.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " There is a gulf in our thinking on\nthe matter, then."
+    - text: " There is a gulf in our thinking on\nthe matter, then."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Please leave me in\npeace that I may hear the wind's voice."
+    - text: " Please leave me in\npeace that I may hear the wind's voice."
     - utf16_bytes:
         - 0
   Initial:
@@ -234,7 +236,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: What are you doing all the way up here?
+    - text: What are you doing all the way up here?
     - utf16_bytes:
         - 14
         - 1
@@ -242,7 +244,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Suggest_Bay:
     - utf16_bytes:
@@ -251,19 +254,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I recommend...
+    - text: I recommend...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: the route over there.
+    - text: the route over there.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt can be enjoyable to waft along on\na calm breeze."
+    - text: "\nIt can be enjoyable to waft along on\na calm breeze."
     - utf16_bytes:
         - 0
   Suggest_Peninsula:
@@ -273,19 +276,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I recommend...
+    - text: I recommend...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: the route over here.
+    - text: the route over here.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nToday is a day to cast your fate to the\nturbulent, capricious winds!"
+    - text: "\nToday is a day to cast your fate to the\nturbulent, capricious winds!"
     - utf16_bytes:
         - 0
   Result_04_00:
@@ -299,12 +302,12 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊ
+    - text: ᔊ
     - utf16_bytes:
         - 14
         - 2
         - 14
-    - ascii: VRMiniGame_ParasailRide_PassedTargetNumTemp
+    - text: VRMiniGame_ParasailRide_PassedTargetNumTemp
     - utf16_bytes:
         - 0
         - 14
@@ -312,13 +315,13 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "?! Unbelievable..."
+    - text: "?! Unbelievable..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Are you certain\nthat you're not a Rito in disguise?!"
+    - text: " Are you certain\nthat you're not a Rito in disguise?!"
     - utf16_bytes:
         - 0
   Suggest_End:
@@ -328,13 +331,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: But the choice is ultimately yours.
+    - text: But the choice is ultimately yours.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWhatever you decide, the wind will\nwelcome you."
+    - text: "\nWhatever you decide, the wind will\nwelcome you."
     - utf16_bytes:
         - 0
   Result_02_00:
@@ -343,7 +346,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nYou achieved "
+    - text: "\nYou achieved "
     - utf16_bytes:
         - 14
         - 0
@@ -353,23 +356,23 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: VRMiniGame_ParasailRide_PassedTargetNumTemp
+    - text: VRMiniGame_ParasailRide_PassedTargetNumTemp
     - utf16_bytes:
         - 0
-    - ascii: " rings"
+    - text: " rings"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!"
+    - text: "?!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " That is \nwonderful! Your score is unsurpassed,\neven by we Rito!"
+    - text: " That is \nwonderful! Your score is unsurpassed,\neven by we Rito!"
     - utf16_bytes:
         - 0
   Result_04_01:
@@ -379,17 +382,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: To see you soar was a rare treat.
+    - text: To see you soar was a rare treat.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHere, you deserve to be rewarded\nin kind."
+    - text: "\nHere, you deserve to be rewarded\nin kind."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Seeking adventure!
+    - text: Seeking adventure!
     - utf16_bytes:
         - 0
   AskMoney_00:
@@ -399,7 +402,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "It lifts my spirits to hear of your keen\ninterest."
+    - text: "It lifts my spirits to hear of your keen\ninterest."
     - utf16_bytes:
         - 0
   Talk_00:
@@ -409,22 +412,23 @@ entries:
         - 1
         - 2
         - 1541
-    - ascii: Hrm?
+    - text: Hrm?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What is wrong?"
+    - text: " What is wrong?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 11
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Result_02_01:
     - utf16_bytes:
@@ -433,7 +437,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You have truly become one with the\nwind, and so I must insist that you\naccept this reward."
+    - text: "You have truly become one with the\nwind, and so I must insist that you\naccept this reward."
     - utf16_bytes:
         - 0
   Initial_00_00:
@@ -443,23 +447,23 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: You must be drawn to heights.
+    - text: You must be drawn to heights.
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: You and I have that in common.
+    - text: You and I have that in common.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It is\nonly from here that I can properly hear\nthe wind."
+    - text: " It is\nonly from here that I can properly hear\nthe wind."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I heard there's treasure."
+    - text: "I heard there's treasure."
     - utf16_bytes:
         - 0
   AskMoney_01:
@@ -469,36 +473,36 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I require "
+    - text: "I require "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: 20 rupees
+    - text: 20 rupees
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to set up a course\nfor you to train."
+    - text: " to set up a course\nfor you to train."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Is that acceptable?"
+    - text: " Is that acceptable?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 8
-    - ascii: "\t"
+        - 9
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   ReadyStart_00:
     - utf16_bytes:
@@ -507,7 +511,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You should wait here while I prepare\nthe course for you."
+    - text: "You should wait here while I prepare\nthe course for you."
     - utf16_bytes:
         - 0
   Rain_00:
@@ -516,8 +520,7 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "Flying during a downpour is not for the\nfaint of heart. I bid you good luck."
+    - text: "ąFlying during a downpour is not for the\nfaint of heart. I bid you good luck."
     - utf16_bytes:
         - 0
   Talk_01:
@@ -527,35 +530,36 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I have already used the "
+    - text: "I have already used the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "rupees "
+    - text: "rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "you\nprovided and cannot return them to you\nnow."
+    - text: "you\nprovided and cannot return them to you\nnow."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Are you certain you want to quit?"
+    - text: " Are you certain you want to quit?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: "\f\r"
+        - 12
+        - 13
+    - text: Ā
     - utf16_bytes:
-        - 256
         - 0
   Result_01_00:
     - utf16_bytes:
@@ -563,8 +567,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: Hmm...
+    - text: ဋHmm...
     - utf16_bytes:
         - 14
         - 0
@@ -574,27 +577,27 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: VRMiniGame_ParasailRide_PassedTargetNumTemp
+    - text: VRMiniGame_ParasailRide_PassedTargetNumTemp
     - utf16_bytes:
         - 0
-    - ascii: " rings"
+    - text: " rings"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " A fair showing, but\nyou are not yet one with the wind."
+    - text: " A fair showing, but\nyou are not yet one with the wind."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: With all my heart.
+    - text: With all my heart.
     - utf16_bytes:
         - 0
   ReadyStart_01:
@@ -603,14 +606,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That took longer than I expected. My\napologies. "
+    - text: "ЀThat took longer than I expected. My\napologies. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "But it is ready now for you\nto fly whenever you are ready."
+    - text: "But it is ready now for you\nto fly whenever you are ready."
     - utf16_bytes:
         - 0
   Talk_02:
@@ -619,13 +621,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t*sigh* "
+        - 9
+    - text: "*sigh* "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I am dismayed to see that the\nfickle wind of cowardice has shaken\nyour resolve."
+    - text: "I am dismayed to see that the\nfickle wind of cowardice has shaken\nyour resolve."
     - utf16_bytes:
         - 0
   Result_01_01:
@@ -635,15 +638,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Still, I suppose you deserve this\nparticipation award."
+    - text: "Still, I suppose you deserve this\nparticipation award."
     - utf16_bytes:
         - 0
   ReadyStart_02:
-    - ascii: "I will be ready to swoop in whenever\nyou tire of flying, so do not worry\nyourself on that account."
+    - text: "I will be ready to swoop in whenever\nyou tire of flying, so do not worry\nyourself on that account."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Never occurred to me.
+    - text: Never occurred to me.
     - utf16_bytes:
         - 0
   Talk_03:
@@ -653,17 +656,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I see.
+    - text: I see.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you mean to fly, you may do so\nwhenever you like."
+    - text: " If you mean to fly, you may do so\nwhenever you like."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "I'll do it!"
+    - text: "I'll do it!"
     - utf16_bytes:
         - 0
   Again:
@@ -673,13 +676,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Are you satisfied for the day?
+    - text: Are you satisfied for the day?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Or would\nyou like to train again?"
+    - text: " Or would\nyou like to train again?"
     - utf16_bytes:
         - 14
         - 1
@@ -687,18 +690,19 @@ entries:
         - 6
         - 5
         - 14
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: Train to what?
+    - text: Train to what?
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: "I don't know..."
+    - text: "I don't know..."
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Of course!
+    - text: Of course!
     - utf16_bytes:
         - 0
   Exit_00:
@@ -708,33 +712,33 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Yes, you are much like a "
+    - text: "Yes, you are much like a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Cucco
+    - text: Cucco
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " First you\nfly, and now you cluck. Most intriguing."
+    - text: " First you\nfly, and now you cluck. Most intriguing."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: I look forward to seeing you again.
+    - text: I look forward to seeing you again.
     - utf16_bytes:
         - 0
   NoEnoughMoney_00:
@@ -744,35 +748,35 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "Hmm. "
+    - text: "Hmm. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "No. "
+    - text: "No. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I need more than what you\nhave. "
+    - text: "I need more than what you\nhave. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "For you see, I can contribute no\nresources of my own.\nFortunately for both of us, attending to\nthe voice of the wind is free."
+    - text: "For you see, I can contribute no\nresources of my own.\nFortunately for both of us, attending to\nthe voice of the wind is free."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " We can\ntrain again some other day."
+    - text: " We can\ntrain again some other day."
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Sounds like hot air.
+    - text: Sounds like hot air.
     - utf16_bytes:
         - 0
   Explain_00:
@@ -781,21 +785,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4102
-    - ascii: "The wind is stormy or calm by turns but\nalways moves as it will. "
+    - text: "ဆThe wind is stormy or calm by turns but\nalways moves as it will. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I seek to emulate\nits freedom by mimicking its movements.\nTo that end, I have devised a training\nprogram that involves flying through\nrings suspended in the air.\n"
+    - text: "I seek to emulate\nits freedom by mimicking its movements.\nTo that end, I have devised a training\nprogram that involves flying through\nrings suspended in the air.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Should you choose to undertake this\ntraining, I promise that you will find it\nenriching."
+    - text: "ЀShould you choose to undertake this\ntraining, I promise that you will find it\nenriching."
     - utf16_bytes:
         - 14
         - 1
@@ -803,22 +805,23 @@ entries:
         - 6
         - 5
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0010":
-    - ascii: "I'm tired of flying."
+    - text: "I'm tired of flying."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: Fine wind today.
+    - text: Fine wind today.
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: The wind and rain dance...
+    - text: The wind and rain dance...
     - utf16_bytes:
         - 0
   Initial_02:
@@ -828,16 +831,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I want to live as the wind does
-    - utf16_bytes:
-        - 8212
-    - ascii: "free and\nunrestricted. "
+    - text: "I want to live as the wind does—free and\nunrestricted. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "To bide here and listen to\nits voice offers a taste of that freedom.\nDon't you long to be like the wind too?"
+    - text: "To bide here and listen to\nits voice offers a taste of that freedom.\nDon't you long to be like the wind too?"
     - utf16_bytes:
         - 14
         - 1
@@ -845,14 +845,15 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0012":
-    - ascii: "I'm pretty certain."
+    - text: "I'm pretty certain."
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: "Hm...I'll keep going."
+    - text: "Hm...I'll keep going."
     - utf16_bytes:
         - 0
   Result_03_00:
@@ -861,8 +862,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "You achieved "
+    - text: "ଇYou achieved "
     - utf16_bytes:
         - 14
         - 0
@@ -872,16 +872,16 @@ entries:
         - 14
         - 2
         - 14
-    - ascii: VRMiniGame_ParasailRide_PassedTargetNumTemp
+    - text: VRMiniGame_ParasailRide_PassedTargetNumTemp
     - utf16_bytes:
         - 0
-    - ascii: " rings"
+    - text: " rings"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", hm? Very\ngood. You take to your strange wings\nquite well."
+    - text: ", hm? Very\ngood. You take to your strange wings\nquite well."
     - utf16_bytes:
         - 0

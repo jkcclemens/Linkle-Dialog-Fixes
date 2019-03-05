@@ -1,7 +1,7 @@
 ---
 entries:
   TerrorEnemy:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -10,8 +10,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I look forward to seeing what type of\ntreasure you secure out there."
+    - text: "ĀI look forward to seeing what type of\ntreasure you secure out there."
     - utf16_bytes:
         - 0
   GoodBye01:
@@ -20,33 +19,33 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: Oho ho!
+    - text: 초Oho ho!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you still wish to acquire the\n"
+    - text: " If you still wish to acquire the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: paraglider
+    - text: paraglider
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you must put in the effort.\nI will not simply give it away, you see."
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."
     - utf16_bytes:
         - 0
   GoodBye04:
@@ -55,39 +54,37 @@ entries:
         - 3
         - 1
         - 2
-        - 5893
-    - ascii: "You did well to make it this far without\nthe proper clothing.\n\n"
+    - text: "ᜅYou did well to make it this far without\nthe proper clothing.\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Please take this warm doublet as a\nreward for your tenacity."
+    - text: "촇Please take this warm doublet as a\nreward for your tenacity."
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Huh?!
+    - text: Huh?!
     - utf16_bytes:
         - 0
   ClearTerrorEnemy:
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Easy there!
+    - text: Easy there!
     - utf16_bytes:
         - 0
   NakedPlayer:
-    - ascii: "Aren't you...a bit chilly?"
+    - text: "Aren't you...a bit chilly?"
     - utf16_bytes:
         - 0
   TerrorImpulse:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: Toasty...
+    - text: Toasty...
     - utf16_bytes:
         - 0
   Talk00:
@@ -96,30 +93,29 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: Ahhh...
+    - text: 초Ahhh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I enjoy gazing out at the world\nfrom here."
+    - text: " I enjoy gazing out at the world\nfrom here."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   "1002":
-    - ascii: B-b-breathtaking view...
+    - text: B-b-breathtaking view...
     - utf16_bytes:
         - 0
   Talk01:
@@ -128,24 +124,24 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   "1003":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   Talk02:
@@ -154,8 +150,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "There are few things in life filled with\nas much mystery and wonder as the\nmoments before a sunrise..."
+    - text: "ȀThere are few things in life filled with\nas much mystery and wonder as the\nmoments before a sunrise..."
     - utf16_bytes:
         - 0
   Talk03:
@@ -164,8 +159,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "The fierce cold atop these mountains can\ntake quite a toll as the night sets in."
+    - text: "ȀThe fierce cold atop these mountains can\ntake quite a toll as the night sets in."
     - utf16_bytes:
         - 0
   Nagameru00:
@@ -174,32 +168,31 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "This may be the best place to get a full\nview of the entire plateau."
+    - text: "ЀThis may be the best place to get a full\nview of the entire plateau."
     - utf16_bytes:
         - 0
   Nagameru01:
-    - ascii: "Use your "
+    - text: "Use your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: scope
+    - text: scope
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to look for shrines."
+    - text: " to look for shrines."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWhen you locate one, place a pin\non your map as a marker."
+    - text: "\nWhen you locate one, place a pin\non your map as a marker."
     - utf16_bytes:
         - 0
   Talk05:
@@ -209,13 +202,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Have you procured the treasure from\nthe shrine yet?"
+    - text: "Have you procured the treasure from\nthe shrine yet?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm old, you know.\nWho knows how much longer I can wait..."
+    - text: " I'm old, you know.\nWho knows how much longer I can wait..."
     - utf16_bytes:
         - 0
   Talk06:
@@ -225,11 +218,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Have you found the remaining shrines?
+    - text: Have you found the remaining shrines?
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: What is this?!
+    - text: What is this?!
     - utf16_bytes:
         - 0
   Talk08:
@@ -238,13 +231,14 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 0
   Near00:
@@ -254,7 +248,7 @@ entries:
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 0
   Near01:
@@ -264,10 +258,10 @@ entries:
         - 2
         - 24
         - 22
-    - ascii: CustomLaughWhat a sight!
+    - text: CustomLaughWhat a sight!
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: What is it?!
+    - text: What is it?!
     - utf16_bytes:
         - 0

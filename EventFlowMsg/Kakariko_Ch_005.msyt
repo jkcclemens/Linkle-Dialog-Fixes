@@ -11,13 +11,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}YAAAY!"
+    - text: "}YAAAY!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\nWhat'll it be?\nWhat'll it be?"
+    - text: "d\nWhat'll it be?\nWhat'll it be?"
     - utf16_bytes:
         - 14
         - 1
@@ -26,7 +26,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Talk11:
     - utf16_bytes:
@@ -35,7 +36,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Crunchy crunchables!
+    - text: Crunchy crunchables!
     - utf16_bytes:
         - 0
   Talk12:
@@ -44,20 +45,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: Huh?
+    - text: ጄHuh?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You're outta room?\n\n\n"
+    - text: " You're outta room?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut that means...I can't give you\nmy salty crunchers..."
+        - 9
+    - text: "But that means...I can't give you\nmy salty crunchers..."
     - utf16_bytes:
         - 0
   Talk00:
@@ -67,7 +68,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "When's food?! I'm BORED!"
+    - text: "When's food?! I'm BORED!"
     - utf16_bytes:
         - 14
         - 1
@@ -75,7 +76,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk13:
     - utf16_bytes:
@@ -84,11 +86,11 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Come play with me again sometime!
+    - text: Come play with me again sometime!
     - utf16_bytes:
         - 0
   Near01_kakekko:
-    - ascii: "Run, run!"
+    - text: "Run, run!"
     - utf16_bytes:
         - 0
   Talk01:
@@ -102,7 +104,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}YAAAAY!"
+    - text: "}YAAAAY!"
     - utf16_bytes:
         - 14
         - 5
@@ -112,14 +114,14 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'll go hiiiide!\n\n\nBut I've gotta go home to Sis\nwhen it's dinnertime, OK?"
+    - text: "I'll go hiiiide!\n\n\nBut I've gotta go home to Sis\nwhen it's dinnertime, OK?"
     - utf16_bytes:
         - 0
   Talk14:
@@ -128,20 +130,20 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Huh? "
+    - text: "ጄHuh? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Your pouch is full?\n\n\n"
+    - text: "Your pouch is full?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut now I can't give you my treasure!"
+        - 9
+    - text: "But now I can't give you my treasure!"
     - utf16_bytes:
         - 0
   Talk02:
@@ -151,7 +153,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Boo! You found me!\n\n\n"
+    - text: "Boo! You found me!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -162,17 +164,17 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}THAT WAS SO FUN, THOUGH!"
+    - text: "}THAT WAS SO FUN, THOUGH!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nThis is my secret treasure...\nBut here, you can have it!"
+    - text: "d\n\n\nThis is my secret treasure...\nBut here, you can have it!"
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "Run, run!"
+    - text: "Run, run!"
     - utf16_bytes:
         - 0
   Talk03:
@@ -181,15 +183,16 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tBut...I'm bored..."
+        - 9
+    - text: "But...I'm bored..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Hide-and-seek!
+    - text: Hide-and-seek!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Tag!
+    - text: Tag!
     - utf16_bytes:
         - 0
   Talk05:
@@ -198,28 +201,28 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "Huh? "
+    - text: "ጄHuh? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Your pockets are all filled up!\n\n\n"
+    - text: "Your pockets are all filled up!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tNow I can't give you my\nsalty crunchers..."
+        - 9
+    - text: "Now I can't give you my\nsalty crunchers..."
     - utf16_bytes:
         - 0
   Near01_kakurenbo:
-    - ascii: "I'ma hide!"
+    - text: "I'ma hide!"
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I can't play right now."
+    - text: "I can't play right now."
     - utf16_bytes:
         - 0
   Talk06:
@@ -229,14 +232,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Did you make room?\n\n\n"
+    - text: "Did you make room?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "Yay! Now I can give you my\nsalty crunchers!"
+    - text: "Yay! Now I can give you my\nsalty crunchers!"
     - utf16_bytes:
         - 0
   Talk07:
@@ -250,24 +253,24 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}YAAAAY!"
+    - text: "}YAAAAY!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'll start running!\n\n\nBut I've gotta go home to Sis\nwhen it's dinnertime, OK?"
+    - text: "I'll start running!\n\n\nBut I've gotta go home to Sis\nwhen it's dinnertime, OK?"
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Wanna play?
+    - text: Wanna play?
     - utf16_bytes:
         - 0
   Talk08:
@@ -276,7 +279,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tBoo! You caught me!\n\n\n"
+        - 9
+    - text: "Boo! You caught me!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
@@ -287,17 +291,17 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}THAT WAS SO FUN THOUGH!"
+    - text: "}THAT WAS SO FUN THOUGH!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nThis is my secret treasure...\nBut here, you can have it!"
+    - text: "d\n\n\nThis is my secret treasure...\nBut here, you can have it!"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: See ya later.
+    - text: See ya later.
     - utf16_bytes:
         - 0
   Talk09:
@@ -307,6 +311,6 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Here, you can have this shiny thing!"
+    - text: "Here, you can have this shiny thing!"
     - utf16_bytes:
         - 0

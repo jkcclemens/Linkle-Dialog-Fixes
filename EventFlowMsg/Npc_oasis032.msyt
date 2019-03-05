@@ -6,56 +6,49 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "All the "
+    - text: "ЀAll the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand seals outside "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "haven't been\ntrained, which means they'll run\naway the moment you dismount.\nBut these ones"
-    - utf16_bytes:
-        - 8212
-    - ascii: "the ones that Frelly\ntrained"
-    - utf16_bytes:
-        - 8212
-    - ascii: "they'll wait patiently for their\nmaster.\nAll of the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand seals
+    - text: "sand seals outside "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " used in the "
+    - text: "haven't been\ntrained, which means they'll run\naway the moment you dismount.\nBut these ones—the ones that Frelly\ntrained—they'll wait patiently for their\nmaster.\nAll of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-\nseal races"
+    - text: sand seals
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " were trained by Frelly, too."
+    - text: " used in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "sand-\nseal races"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " were trained by Frelly, too."
     - utf16_bytes:
         - 14
         - 1
@@ -63,7 +56,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_02:
     - utf16_bytes:
@@ -71,40 +65,42 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tAnnnnd done!\n\n\n"
+        - 9
+    - text: "Annnnd done!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "What with preparing their meals, cleaning\nup after them, and everything else, the\nday just seems to fly by!\nIt never feels like I'm done, either."
+    - text: "What with preparing their meals, cleaning\nup after them, and everything else, the\nday just seems to fly by!\nIt never feels like I'm done, either."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "If I lay\nout food, they'll rush over as fast as they\ncan... "
+    - text: "If I lay\nout food, they'll rush over as fast as they\ncan... "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "Even if I just fed them!\n"
+    - text: "Even if I just fed them!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tI swear, they have bottomless pits in\nplace of stomachs..."
+        - 9
+    - text: "I swear, they have bottomless pits in\nplace of stomachs..."
     - utf16_bytes:
         - 0
   Talk_03:
@@ -114,33 +110,34 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "All right! I'm gonna do my best at my\npart-time job!\n\nIt's actually really tough taking care of\nthe "
+    - text: "All right! I'm gonna do my best at my\npart-time job!\n\nIt's actually really tough taking care of\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sand seals
+    - text: sand seals
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but seeing how happy\nthey are when their food is put out...\nAlthough, I do sometimes put out too\nmuch food...\n\n"
+    - text: " but seeing how happy\nthey are when their food is put out...\nAlthough, I do sometimes put out too\nmuch food...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tI'm so exhausted when the day is over."
+        - 9
+    - text: "I'm so exhausted when the day is over."
     - utf16_bytes:
         - 0
   Talk_10:
@@ -149,8 +146,7 @@ entries:
         - 3
         - 1
         - 2
-        - 7168
-    - ascii: "Sav'aaq!"
+    - text: "ᰀSav'aaq!"
     - utf16_bytes:
         - 0
   Talk_04:
@@ -159,42 +155,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sand seals
+    - text: sand seals
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " here were all trained\nby Frelly. They're faster, and they'll wait\nfor you to return to them.\nBy comparison, the ones outside who\nhaven't been trained will just run off the\nmoment you dismount.\nIt's definitely worth renting a trained\none! Frelly puts her heart into training\nthem!"
+    - text: " here were all trained\nby Frelly. They're faster, and they'll wait\nfor you to return to them.\nBy comparison, the ones outside who\nhaven't been trained will just run off the\nmoment you dismount.\nIt's definitely worth renting a trained\none! Frelly puts her heart into training\nthem!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nFrelly trained the sand seals used in the\n"
+    - text: "\nFrelly trained the sand seals used in the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sand-seal races
+    - text: sand-seal races
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " too, of course."
+    - text: " too, of course."
     - utf16_bytes:
         - 14
         - 1
@@ -202,7 +197,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_11:
     - utf16_bytes:
@@ -210,8 +206,7 @@ entries:
         - 3
         - 1
         - 2
-        - 7424
-    - ascii: "Sav'saaba!"
+    - text: "ᴀSav'saaba!"
     - utf16_bytes:
         - 0
   Talk_05:
@@ -220,7 +215,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI'm so tired...\nPlease let me rest right now."
+        - 9
+    - text: "I'm so tired...\nPlease let me rest right now."
     - utf16_bytes:
         - 0
   Talk_06:
@@ -229,50 +225,49 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "sand-seal races "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "are a Gerudo\ntradition...\n\nIt's pretty simple: you use a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: sand seal
+    - text: "sand-seal races "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to\nrace around a course to see who's the\nfastest.\nJust go out the "
+    - text: "are a Gerudo\ntradition...\n\nIt's pretty simple: you use a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: southeast gate
+    - text: sand seal
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of the\ntown and head to the right. You'll see\nthe starting line immediately!\nNo harm in taking a peek, right?"
+    - text: " to\nrace around a course to see who's the\nfastest.\nJust go out the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: southeast gate
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " of the\ntown and head to the right. You'll see\nthe starting line immediately!\nNo harm in taking a peek, right?"
     - utf16_bytes:
         - 0
   Talk_12:
@@ -282,7 +277,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I'm gonna work hard so that I can be\nlike Frelly someday!"
+    - text: "I'm gonna work hard so that I can be\nlike Frelly someday!"
     - utf16_bytes:
         - 0
   Talk_07:
@@ -292,13 +287,13 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: This is a bit off topic...
+    - text: This is a bit off topic...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nBut it seems like Frelly has been talking\na little strangely recently.\nI wonder what's gotten into her..."
+    - text: "\nBut it seems like Frelly has been talking\na little strangely recently.\nI wonder what's gotten into her..."
     - utf16_bytes:
         - 0
   Talk_09:
@@ -308,7 +303,7 @@ entries:
         - 1
         - 2
         - 6912
-    - ascii: "Sav'otta!"
+    - text: "Sav'otta!"
     - utf16_bytes:
         - 0
   "0000":
@@ -318,7 +313,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Sand-seal races?
+    - text: Sand-seal races?
     - utf16_bytes:
         - 0
   "0001":
@@ -328,6 +323,6 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0

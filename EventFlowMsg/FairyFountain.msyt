@@ -6,59 +6,57 @@ entries:
         - 3
         - 1
         - 2
-        - 3339
-    - ascii: Oh...I see.
+    - text: ഋOh...I see.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's not easy to find at all, \nis it?\n\n"
+    - text: " It's not easy to find at all, \nis it?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "But if you do happen to find the\n"
+    - text: "ĀBut if you do happen to find the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Great Fairy Fountain "
+    - text: "Great Fairy Fountain "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "somehow,"
+    - text: "somehow,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " be sure\nto get a "
+    - text: " be sure\nto get a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "picture "
+    - text: "picture "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "of it, OK?"
+    - text: "of it, OK?"
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   Npc_artist009_F_005:
@@ -67,47 +65,46 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Well, I'm impressed you found it.\n\n\n"
+    - text: "ĀWell, I'm impressed you found it.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "I want to give you something to show my\nappreciation, but I don't think I have\nanything on me...\n"
+    - text: "ဋI want to give you something to show my\nappreciation, but I don't think I have\nanything on me...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1031
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: "}I know!"
+    - text: Ї
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "}I know!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Is there a place you've been seeking?\nI've traveled all over Hyrule, so I might\nbe able to help you find it."
+    - text: "ĀIs there a place you've been seeking?\nI've traveled all over Hyrule, so I might\nbe able to help you find it."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 4
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Npc_artist009_F_006:
     - utf16_bytes:
@@ -115,63 +112,61 @@ entries:
         - 3
         - 1
         - 2
-        - 1035
-    - ascii: "A large gate with a snowy mountain\nbeyond it..."
+    - text: "ЋA large gate with a snowy mountain\nbeyond it..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Oh, I know that place! There\nis a big mountain east of this village...\nIt's called "
+    - text: " Oh, I know that place! There\nis a big mountain east of this village...\nIt's called "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Mount Lanayru
+    - text: Mount Lanayru
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\n"
+    - text: ".\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "At the base of "
+    - text: "ĀAt the base of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Mount Lanayru
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", on the\nwest side of "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Naydra Snowfield
+    - text: Mount Lanayru
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", lies\nthat gate. I'm almost certain!"
+    - text: ", on the\nwest side of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Naydra Snowfield
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", lies\nthat gate. I'm almost certain!"
     - utf16_bytes:
         - 0
   Npc_artist009_F_019:
@@ -180,25 +175,19 @@ entries:
         - 3
         - 1
         - 2
-        - 6144
-    - ascii: I see
-    - utf16_bytes:
-        - 8212
-    - ascii: "all in good time, then...\n\n\n"
+    - text: "᠀I see—all in good time, then...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm going to keep traveling, so it's\npossible that we'll run into each other\nagain somewhere!\n"
+    - text: "ĀI'm going to keep traveling, so it's\npossible that we'll run into each other\nagain somewhere!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "You and I are bound together by our\nlove of beautiful scenery. I can feel it!\n\nAnd you shouldn't think twice to call on\nme whenever you need some help!"
+    - text: "ਇYou and I are bound together by our\nlove of beautiful scenery. I can feel it!\n\nAnd you shouldn't think twice to call on\nme whenever you need some help!"
     - utf16_bytes:
         - 0
   Npc_artist009_F_007:
@@ -208,7 +197,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm glad I knew about that location.\nI suppose my help was useful, then?"
+    - text: "I'm glad I knew about that location.\nI suppose my help was useful, then?"
     - utf16_bytes:
         - 0
   Npc_artist009_F_009:
@@ -218,13 +207,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "What's up?"
+    - text: "What's up?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You want to know more\nabout that place in the picture?"
+    - text: " You want to know more\nabout that place in the picture?"
     - utf16_bytes:
         - 14
         - 1
@@ -232,14 +221,15 @@ entries:
         - 6
         - 7
         - 8
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_artist009_R_Near:
-    - ascii: Hrm...
+    - text: Hrm...
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "Oh, I found it."
+    - text: "Oh, I found it."
     - utf16_bytes:
         - 0
   Npc_artist009_F_011:
@@ -248,35 +238,33 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "That secret place veiled in mystery...\nThe "
+    - text: "ဋThat secret place veiled in mystery...\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Great Fairy Fountain
+    - text: Great Fairy Fountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Neither snow nor rain nor heat nor\nlightning strike stays me from swift\ncompletion of this self-appointed task!"
+    - text: "ĀNeither snow nor rain nor heat nor\nlightning strike stays me from swift\ncompletion of this self-appointed task!"
     - utf16_bytes:
         - 14
         - 1
@@ -284,18 +272,19 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: I had no luck...
+    - text: I had no luck...
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Recognize anything?
+    - text: Recognize anything?
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Not yet...
+    - text: Not yet...
     - utf16_bytes:
         - 0
   Npc_artist009_F_013:
@@ -304,15 +293,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2052
-    - ascii: "You don't need my help? Really?\n\n\n"
+    - text: "ࠄYou don't need my help? Really?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "And here I figured you needed \nsomething urgently since you came\ncalling in this terrible weather."
+    - text: "ĀAnd here I figured you needed \nsomething urgently since you came\ncalling in this terrible weather."
     - utf16_bytes:
         - 0
   LookPicture:
@@ -321,57 +308,55 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "I think the mountain right here is \n"
+    - text: "ဋI think the mountain right here is \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Mount Lanayru
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\n\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Mount Lanayru "
+    - text: Mount Lanayru
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is a big, snow-covered\npeak that's far to the east of this village.\n\n"
+    - text: "...\n\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Mount Lanayru "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "is a big, snow-covered\npeak that's far to the east of this village.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The gate that I mentioned should be to\nthe west of "
+    - text: "ĀThe gate that I mentioned should be to\nthe west of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Naydra Snowfield
+    - text: Naydra Snowfield
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", which is at\nthe foot of the mountain."
+    - text: ", which is at\nthe foot of the mountain."
     - utf16_bytes:
         - 0
   Npc_artist009_F_001:
@@ -380,22 +365,21 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "Someday I hope I can see that place\nspoken of in whispers, veiled in\nmystery...the "
+    - text: "ဋSomeday I hope I can see that place\nspoken of in whispers, veiled in\nmystery...the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Great Fairy Fountain
+    - text: Great Fairy Fountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 1
@@ -403,13 +387,11 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0006":
-    - ascii: I did
-    - utf16_bytes:
-        - 8212
-    - ascii: thanks!
+    - text: I did—thanks!
     - utf16_bytes:
         - 0
   Npc_artist009_F_014:
@@ -418,22 +400,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1031
-    - ascii: "That's great to hear!\n\n\n"
+    - text: "ЇThat's great to hear!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm going to keep traveling, so it's\npossible that we'll run into each other\nagain somewhere!\n"
+    - text: "ĀI'm going to keep traveling, so it's\npossible that we'll run into each other\nagain somewhere!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "You and I are bound together by our\nlove of beautiful scenery. I can feel it!\n\nAnd you shouldn't think twice to call on\nme whenever you need some help!"
+    - text: "ਇYou and I are bound together by our\nlove of beautiful scenery. I can feel it!\n\nAnd you shouldn't think twice to call on\nme whenever you need some help!"
     - utf16_bytes:
         - 0
   Npc_artist009_F_002:
@@ -442,67 +421,65 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: Ahhh! You...
+    - text: ċAhhh! You...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: you found it?!
+    - text: you found it?!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Really?!\n\n\n"
+    - text: " Really?!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ᘊAre you serious right now?!\n\n\n"
+    - text: "ᘊAre you serious right now?!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "And if you are, then where's the "
+    - text: "ćAnd if you are, then where's the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: picture
+    - text: picture
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou remembered to bring the "
+    - text: "\nYou remembered to bring the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: picture
+    - text: picture
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nright?"
+    - text: ",\nright?"
     - utf16_bytes:
         - 0
   Npc_artist009_F_015:
@@ -512,13 +489,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I can't believe we ran into each other\nhere."
+    - text: "I can't believe we ran into each other\nhere."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Did you make it to the place in the\npicture?"
+    - text: " Did you make it to the place in the\npicture?"
     - utf16_bytes:
         - 14
         - 1
@@ -526,9 +503,10 @@ entries:
         - 6
         - 6
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0007":
-    - ascii: Please show me.
+    - text: Please show me.
     - utf16_bytes:
         - 0

@@ -6,18 +6,17 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: "I'm the hardest working greeter there is."
+    - text: "ሆI'm the hardest working greeter there is."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThough it hardly seems like work when\nthe weather's so nice..."
+    - text: "\nThough it hardly seems like work when\nthe weather's so nice..."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Zzz... Zzzmmm...
+    - text: Zzz... Zzzmmm...
     - utf16_bytes:
         - 0
   talk03:
@@ -26,33 +25,34 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "̉HON, IT'S A CUSTOMERRRR! "
+        - 777
+    - text: "HON, IT'S A CUSTOMERRRR! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nLooks like she's hungry to have her\nclothes "
+    - text: "\nLooks like she's hungry to have her\nclothes "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: dyed
+    - text: dyed
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'll leave it to you!"
+    - text: " I'll leave it to you!"
     - utf16_bytes:
         - 0
   talk16:
@@ -62,45 +62,45 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "That's the "
+    - text: "That's the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "director's blue flame"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\n\n\nShouldn't you take it up to the \n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: research center
+    - text: "director's blue flame"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " right away?"
+    - text: "...\n\n\nShouldn't you take it up to the \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: research center
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " right away?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nUnless you don't want to. In which case,\nwhatever, I guess."
+    - text: "\n\nUnless you don't want to. In which case,\nwhatever, I guess."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Heyyyy!
+    - text: Heyyyy!
     - utf16_bytes:
         - 0
   talk04:
@@ -109,8 +109,7 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: SNRRRRHH...
+    - text: ℀SNRRRRHH...
     - utf16_bytes:
         - 0
   talk17:
@@ -119,46 +118,45 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "That "
+    - text: "ЀThat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The "
+    - text: " The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "director "
+    - text: "director "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "used\nto carry it around all the time."
+    - text: "used\nto carry it around all the time."
     - utf16_bytes:
         - 0
   near02:
-    - ascii: "Let's see..."
+    - text: "Let's see..."
     - utf16_bytes:
         - 0
   talk05:
@@ -167,32 +165,31 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "Snrrk... "
+    - text: "℀Snrrk... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Gotta greet better... "
+    - text: "Gotta greet better... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Mmmmmh...
+    - text: Mmmmmh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nGotta make the hubby proud... "
+    - text: "\n\n\nGotta make the hubby proud... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nMore enthusiasmmmmm..."
+    - text: "\nMore enthusiasmmmmm..."
     - utf16_bytes:
         - 0
   talk18:
@@ -201,18 +198,17 @@ entries:
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "You know, I haven't seen the director\ncome down to the village recently."
+    - text: "ĆYou know, I haven't seen the director\ncome down to the village recently."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI wonder what that's all about."
+    - text: "\nI wonder what that's all about."
     - utf16_bytes:
         - 0
   near03:
-    - ascii: Whew...
+    - text: Whew...
     - utf16_bytes:
         - 0
   talk06:
@@ -222,39 +218,39 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Hey, that "
+    - text: "Hey, that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "blue flame "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "belongs to \n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Grandma Purah
+    - text: "blue flame "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", right?"
+    - text: "belongs to \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Grandma Purah
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", right?"
     - utf16_bytes:
         - 0
   near04:
-    - ascii: Haah...
+    - text: Haah...
     - utf16_bytes:
         - 0
   talk07:
@@ -263,28 +259,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Mmm, that "
+    - text: "ЀMmm, that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: blue flame
+    - text: blue flame
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Grandma Purah\nused to carry it around all the time \nback in the day."
+    - text: " Grandma Purah\nused to carry it around all the time \nback in the day."
     - utf16_bytes:
         - 0
   talk08:
@@ -293,16 +288,15 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: "Yeah, yeah, you're a customer. I get it."
+    - text: "ሆYeah, yeah, you're a customer. I get it."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: My mistake.
+    - text: My mistake.
     - utf16_bytes:
         - 0
   talk10:
@@ -312,13 +306,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yeah, yeah. OK."
+    - text: "Yeah, yeah. OK."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " See you later..."
+    - text: " See you later..."
     - utf16_bytes:
         - 0
   talk11:
@@ -328,13 +322,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you want to get your clothes dyed,\npop inside and talk to my husband."
+    - text: "If you want to get your clothes dyed,\npop inside and talk to my husband."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " \nTrust me, you can't miss him."
+    - text: " \nTrust me, you can't miss him."
     - utf16_bytes:
         - 0
   talk12:
@@ -344,22 +338,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yup! "
+    - text: "Yup! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Today's greeting work is done!"
+    - text: "Today's greeting work is done!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nAnd I've got to say"
-    - utf16_bytes:
-        - 8212
-    - ascii: "I NAILED it.\nCompletely pro greeting!"
+    - text: "\nAnd I've got to say—I NAILED it.\nCompletely pro greeting!"
     - utf16_bytes:
         - 0
   talk00:
@@ -368,8 +359,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3078
-    - ascii: "OK, OK, I've got this. Greeting time.\nYou're a customer, right?"
+    - text: "ఆOK, OK, I've got this. Greeting time.\nYou're a customer, right?"
     - utf16_bytes:
         - 14
         - 1
@@ -392,13 +382,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm done greeting for the day!"
+    - text: "I'm done greeting for the day!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nTalk to the boss."
+    - text: "\nTalk to the boss."
     - utf16_bytes:
         - 0
   talk01:
@@ -407,14 +397,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I don't know about any mistake,"
+    - text: "ĀI don't know about any mistake,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but if\nyou don't need anything, move on, OK?\nI've got greeting to do."
+    - text: " but if\nyou don't need anything, move on, OK?\nI've got greeting to do."
     - utf16_bytes:
         - 0
   talk14:
@@ -423,13 +412,12 @@ entries:
         - 3
         - 1
         - 2
-        - 4614
-    - ascii: "Job's not always easy, but do I care?"
+    - text: "ሆJob's not always easy, but do I care?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nNot even weather like this can stop my\ngreetings from ringing out!"
+    - text: "\nNot even weather like this can stop my\ngreetings from ringing out!"
     - utf16_bytes:
         - 0

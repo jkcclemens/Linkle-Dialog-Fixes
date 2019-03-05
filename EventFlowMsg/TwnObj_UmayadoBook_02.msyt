@@ -1,11 +1,11 @@
 ---
 entries:
   "0000":
-    - ascii: Read.
+    - text: Read.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0
   Book00:
@@ -14,25 +14,20 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Time for gossip and news about the past\nand the future! Today's topic is...\n\n"
+    - text: "Time for gossip and news about the past\nand the future! Today's topic is...\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}The Weird and Wonderful\nSpirit Koroks!"
+    - text: "}The Weird and Wonderful\nSpirit Koroks!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\nAt the moment the night is at its\ndarkest, when even the trees have\ndrifted into slumber...\nActually, the time of day doesn't matter\nat all... Anyway...\n\nAll throughout the world, you may spot\nthese odd little spirit critters as you\nwander the land.\nThey could be under a rock, or way out\nin the wilds, or even just in a suspicious\nnook that seems slightly not right...\nReal eerie, huh?\n\n\nTraysi's Recommendation: "
+    - text: "d\n\nAt the moment the night is at its\ndarkest, when even the trees have\ndrifted into slumber...\nActually, the time of day doesn't matter\nat all... Anyway...\n\nAll throughout the world, you may spot\nthese odd little spirit critters as you\nwander the land.\nThey could be under a rock, or way out\nin the wilds, or even just in a suspicious\nnook that seems slightly not right...\nReal eerie, huh?\n\n\nTraysi's Recommendation: ★★★☆☆"
     - utf16_bytes:
-        - 9733
-        - 9733
-        - 9733
-        - 9734
-        - 9734
         - 0
   BookFirst:
     - utf16_bytes:
@@ -40,7 +35,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rumor Mill: Volume 3"
+    - text: "Rumor Mill: Volume 3"
     - utf16_bytes:
         - 14
         - 1
@@ -48,5 +43,6 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

@@ -7,13 +7,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh... "
+    - text: "Oh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Is that so?
+    - text: Is that so?
     - utf16_bytes:
         - 0
   talk10:
@@ -22,22 +22,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "By the way... I don't suppose you came\nto "
+    - text: "ĀBy the way... I don't suppose you came\nto "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tarrey Town
+    - text: Tarrey Town
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " to purchase a\nholiday home, did you?"
+    - text: " to purchase a\nholiday home, did you?"
     - utf16_bytes:
         - 14
         - 1
@@ -45,10 +44,11 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Just a traveler...
+    - text: Just a traveler...
     - utf16_bytes:
         - 0
   talk11:
@@ -58,11 +58,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Anyway, please be careful.\n\n\nMy husband is taking great care of this\narea, but there seem to be a lot of\nstrange folks just outside of town."
+    - text: "Anyway, please be careful.\n\n\nMy husband is taking great care of this\narea, but there seem to be a lot of\nstrange folks just outside of town."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: No one important...
+    - text: No one important...
     - utf16_bytes:
         - 0
   talk12:
@@ -71,19 +71,18 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Do you need me for something?
+    - text: ĀDo you need me for something?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: z
+    - text: z
     - utf16_bytes:
         - 6
-    - ascii: ".UMiiVillage_NPC008_Cook"
+    - text: ".UMiiVillage_NPC008_Cook"
     - utf16_bytes:
         - 8
-    - ascii: ":UMiiVillage_NPC027_MamonoCake"
+    - text: ":UMiiVillage_NPC027_MamonoCake"
     - utf16_bytes:
         - 4
         - 0
@@ -92,7 +91,7 @@ entries:
         - 768
         - 0
   "0002":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   talk13:
@@ -102,71 +101,71 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Strange plants and guys with ugly faces
+    - text: Strange plants and guys with ugly faces
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nlive just outside the village. There are\na lot of them, right?\nEspecially the "
+    - text: "\nlive just outside the village. There are\na lot of them, right?\nEspecially the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: big flower
+    - text: big flower
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that's to the\n"
+    - text: " that's to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: southeast
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " of "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Tarrey Town
+    - text: southeast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tarrey Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nI was chatting with my husband"
+    - text: "\n\nI was chatting with my husband"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " about\nhow there's a huge flower out there."
+    - text: " about\nhow there's a huge flower out there."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Um... No.
+    - text: Um... No.
     - utf16_bytes:
         - 0
   talk14:
@@ -175,73 +174,71 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The "
+    - text: "ĀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: big flower
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " that's to the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: southeast
+    - text: big flower
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of\n"
+    - text: " that's to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: Tarrey Town
+        - 0
+    - text: southeast
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " of\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tarrey Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "We saw it while walking the path here,"
+    - text: "ကWe saw it while walking the path here,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nand it's really quite awful..."
+    - text: "\nand it's really quite awful..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Any strange things?
+    - text: Any strange things?
     - utf16_bytes:
         - 0
   talk15:
@@ -251,11 +248,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: See you later.
+    - text: See you later.
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk16:
@@ -265,11 +262,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You really shouldn't mess with things\nyou don't understand..."
+    - text: "You really shouldn't mess with things\nyou don't understand..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "You're a chef?"
+    - text: "You're a chef?"
     - utf16_bytes:
         - 0
   talk17:
@@ -279,24 +276,23 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Cooking? Oh, my, where did you hear\nabout that?"
+    - text: "Cooking? Oh, my, where did you hear\nabout that?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " It was from my husband,\nwasn't it?\n"
+    - text: " It was from my husband,\nwasn't it?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "That man can be so misleading about\nthings sometimes..."
+    - text: "ċThat man can be so misleading about\nthings sometimes..."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: "\"Also\" what?"
+    - text: "\"Also\" what?"
     - utf16_bytes:
         - 0
   talk00:
@@ -305,19 +301,18 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Shall we talk about something else?
+    - text: ĀShall we talk about something else?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: z
+    - text: z
     - utf16_bytes:
         - 6
-    - ascii: ".UMiiVillage_NPC008_Cook"
+    - text: ".UMiiVillage_NPC008_Cook"
     - utf16_bytes:
         - 8
-    - ascii: ":UMiiVillage_NPC027_MamonoCake"
+    - text: ":UMiiVillage_NPC027_MamonoCake"
     - utf16_bytes:
         - 4
         - 0
@@ -332,24 +327,23 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "But...you don't look like someone who\nneeds sweets.\n\n"
+    - text: "But...you don't look like someone who\nneeds sweets.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: You should eat a lot of food
+    - text: ĀYou should eat a lot of food
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and put\nsome meat on your bones first!"
+    - text: " and put\nsome meat on your bones first!"
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Monster-cake recipe?
+    - text: Monster-cake recipe?
     - utf16_bytes:
         - 0
   talk01:
@@ -359,7 +353,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: And who might you be?
+    - text: And who might you be?
     - utf16_bytes:
         - 14
         - 1
@@ -367,7 +361,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   talk19:
     - utf16_bytes:
@@ -376,49 +371,50 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "For example, "
+    - text: "For example, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: carrot cake
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " or\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: pumpkin pie
+    - text: carrot cake
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: " or\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: pumpkin pie
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Also..."
+    - text: " Also..."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 7
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk02:
     - utf16_bytes:
@@ -427,7 +423,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, good morning."
+    - text: "Oh, good morning."
     - utf16_bytes:
         - 0
   talk03:
@@ -437,7 +433,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, hello."
+    - text: "Oh, hello."
     - utf16_bytes:
         - 0
   talk20:
@@ -446,109 +442,107 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Well, I was taught how to make\nsomething called a "
+    - text: "ĀWell, I was taught how to make\nsomething called a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: monster cake
+    - text: monster cake
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " too.\n\n"
+    - text: " too.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "It's easy to make."
+    - text: "It's easy to make."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You just need\n"
+    - text: " You just need\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha wheat
+    - text: Tabantha wheat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: cane sugar
+    - text: cane sugar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and\n"
+    - text: " and\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: goat butter
+    - text: goat butter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 261
-    - ascii: "And you also have to add some\n"
+    - text: "ąAnd you also have to add some\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: monster extract
+    - text: monster extract
     - utf16_bytes:
         - 14
         - 0
@@ -559,7 +553,7 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: ", but that's been\ntough to come by lately..."
+    - text: ", but that's been\ntough to come by lately..."
     - utf16_bytes:
         - 0
   talk04:
@@ -569,7 +563,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, good evening."
+    - text: "Oh, good evening."
     - utf16_bytes:
         - 0
   talk21:
@@ -578,29 +572,26 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Sure, I can keep from burning water, but\nmy real gift is baking cakes and sweets\nand the like.\n"
+    - text: "ĀSure, I can keep from burning water, but\nmy real gift is baking cakes and sweets\nand the like.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2816
-    - ascii: My grandmother
+    - text: My grandmother
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-        - 8212
-    - ascii: wonderful woman
+    - text: —wonderful woman—
     - utf16_bytes:
-        - 8212
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nran a sweet shop for the royal family.\nShe taught me everything I know!"
+    - text: "\nran a sweet shop for the royal family.\nShe taught me everything I know!"
     - utf16_bytes:
         - 0
   talk05:
@@ -610,7 +601,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Yes, yes."
+    - text: "Yes, yes."
     - utf16_bytes:
         - 0
   talk22:
@@ -619,34 +610,32 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Sure...
+    - text: ЀSure...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: sure...
+    - text: sure...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI'll teach you as many times as you like.\n\n"
+    - text: "\nI'll teach you as many times as you like.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "You need to add some "
+    - text: "ĀYou need to add some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: monster extract
+    - text: monster extract
     - utf16_bytes:
         - 14
         - 0
@@ -657,61 +646,61 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "\nto some "
+    - text: "\nto some "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Tabantha wheat
+    - text: Tabantha wheat
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: cane sugar
+    - text: cane sugar
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nand "
+    - text: "\nand "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: goat butter
+    - text: goat butter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk06:
@@ -721,7 +710,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: So...sleepy...
+    - text: So...sleepy...
     - utf16_bytes:
         - 0
   talk23:
@@ -730,32 +719,33 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Monster cake
+    - text: Monster cake
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " may look a little gross"
+    - text: " may look a little gross"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nand smell a little nauseating,"
+    - text: "\nand smell a little nauseating,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but it'll fill\nyou right up!"
+    - text: " but it'll fill\nyou right up!"
     - utf16_bytes:
         - 0
   talk07:
@@ -765,13 +755,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I have to get ready for bed.
+    - text: I have to get ready for bed.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou should do the same."
+    - text: "\nYou should do the same."
     - utf16_bytes:
         - 0
   talk08:
@@ -781,12 +771,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Now then, I've got to get to bed."
+    - text: "Now then, I've got to get to bed."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIt's rough on my body if I don't get a\ngood night's rest."
+    - text: "\nIt's rough on my body if I don't get a\ngood night's rest."
     - utf16_bytes:
         - 0

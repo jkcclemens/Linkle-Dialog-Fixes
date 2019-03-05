@@ -16,13 +16,13 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "POh, man, what should I do? THINK, Bozai!\nCan't put her in a bad mood...\n\nOK... Do NOT blow this. Just relax and work a little\nverbal magic..."
+    - text: "POh, man, what should I do? THINK, Bozai!\nCan't put her in a bad mood...\n\nOK... Do NOT blow this. Just relax and work a little\nverbal magic..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
@@ -36,14 +36,13 @@ entries:
         - 3
         - 1
         - 2
-        - 6407
-    - ascii: How could I resist a request from you?
+    - text: ᤇHow could I resist a request from you?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nNo lie, you really gave me a surprise\nearlier...and I love surprises.\nSurprise me again like that...\nand I'll give you these snow boots as a\nsurprise present!"
+    - text: "\n\n\nNo lie, you really gave me a surprise\nearlier...and I love surprises.\nSurprise me again like that...\nand I'll give you these snow boots as a\nsurprise present!"
     - utf16_bytes:
         - 0
   Talk_16:
@@ -52,21 +51,20 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "So let me ask you this: Did you notice\nthat the statue of the eighth heroine...\nisn't actually holding a sword?\nPretty weird, right? Seven other\nheroines, they all have their swords!"
+    - text: "ᤀSo let me ask you this: Did you notice\nthat the statue of the eighth heroine...\nisn't actually holding a sword?\nPretty weird, right? Seven other\nheroines, they all have their swords!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nSuspicious, y'know?\nWhich leads me to deduce that the\neighth heroine must have had a\nsword as well. Must have!\n"
+    - text: "\nSuspicious, y'know?\nWhich leads me to deduce that the\neighth heroine must have had a\nsword as well. Must have!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "To see that such a sword actually\nexists, that my deduction is right...\nThere could be no greater surprise!"
+    - text: "To see that such a sword actually\nexists, that my deduction is right...\nThere could be no greater surprise!"
     - utf16_bytes:
         - 14
         - 1
@@ -74,7 +72,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_17:
     - utf16_bytes:
@@ -82,21 +81,21 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nWhat? You're really going?\n\n\nWow, all right, then. The sword would be\npretty big, so I doubt it could have been\ncarried off too far.\nI'm betting it's probably somewhere in\nthe steeps of the "
+    - text: "\nWhat? You're really going?\n\n\nWow, all right, then. The sword would be\npretty big, so I doubt it could have been\ncarried off too far.\nI'm betting it's probably somewhere in\nthe steeps of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Gerudo Highlands
+    - text: Gerudo Highlands
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Talk_18:
@@ -106,21 +105,21 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: "And the thing is, I can't lend you the\n"
+    - text: "And the thing is, I can't lend you the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "snow boots "
+    - text: "snow boots "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "this time. Just can't do it!\nI'm really sorry."
+    - text: "this time. Just can't do it!\nI'm really sorry."
     - utf16_bytes:
         - 0
   Talk_19:
@@ -129,7 +128,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
@@ -141,7 +140,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "No way a normal person can make it through the\nGerudo Highlands without good snow boots...\n\nShe'll probably give up halfway through and come\ncrawling back..."
+    - text: "No way a normal person can make it through the\nGerudo Highlands without good snow boots...\n\nShe'll probably give up halfway through and come\ncrawling back..."
     - utf16_bytes:
         - 14
         - 0
@@ -152,7 +151,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Talk_20:
@@ -161,8 +160,7 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "Fine, you win. So headstrong!\nI love it.\n\nI'll just be waiting here, OK?\n\n\nIf you ever need me for anything above\nand beyond footwear, you just come find\nol' Bozai anytime!"
+    - text: "ᤀFine, you win. So headstrong!\nI love it.\n\nI'll just be waiting here, OK?\n\n\nIf you ever need me for anything above\nand beyond footwear, you just come find\nol' Bozai anytime!"
     - utf16_bytes:
         - 0
   Talk_21:
@@ -172,15 +170,16 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I hear you! Better to think about crazy\nsnow-boot quests than actually do 'em,\nam I right?\nInstead, how about you and I retire to\nsomeplace a bit more private and learn\nabout how witty we both no doubt are?"
+    - text: "I hear you! Better to think about crazy\nsnow-boot quests than actually do 'em,\nam I right?\nInstead, how about you and I retire to\nsomeplace a bit more private and learn\nabout how witty we both no doubt are?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 1
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_22:
     - utf16_bytes:
@@ -188,7 +187,7 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ЉKnew it...
+    - text: ЉKnew it...
     - utf16_bytes:
         - 14
         - 5
@@ -202,21 +201,22 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Y-you look as b-b-b-b-
+    - text: Y-you look as b-b-b-b-
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "beautiful as ever.\n\n\nIf you're not doing anything, how about\nwe grab a spot of sand and chitchat?"
+    - text: "beautiful as ever.\n\n\nIf you're not doing anything, how about\nwe grab a spot of sand and chitchat?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 4
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_24:
     - utf16_bytes:
@@ -225,35 +225,35 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: "Huh? But...\n\n\nRemember "
+    - text: "Huh? But...\n\n\nRemember "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "the sword of the eighth\nheroine"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "? Probably somewhere in the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Gerudo Highlands
+    - text: "the sword of the eighth\nheroine"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "? Probably somewhere in the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Gerudo Highlands
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
     - utf16_bytes:
         - 0
   Talk_25:
@@ -263,11 +263,11 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: "So sorry, but proof of that sword is the\nprice of these sweet snow boots."
+    - text: "So sorry, but proof of that sword is the\nprice of these sweet snow boots."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: "Next time, maximum woo!"
+    - text: "Next time, maximum woo!"
     - utf16_bytes:
         - 0
   Talk_26:
@@ -291,14 +291,14 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "Oh! She's wearing the sand boots!\nAdvantage, Bozai..."
+    - text: "Oh! She's wearing the sand boots!\nAdvantage, Bozai..."
     - utf16_bytes:
         - 14
         - 0
@@ -309,15 +309,16 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "d\n\nAh, sorry, sorry. You just look so \nprecious in those sand boots.\nMy mind just went POOF!\nIf you'd like, why don't we grab a spot\nby a tree and get to know each other?"
+    - text: "d\n\nAh, sorry, sorry. You just look so \nprecious in those sand boots.\nMy mind just went POOF!\nIf you'd like, why don't we grab a spot\nby a tree and get to know each other?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 4
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_27:
     - utf16_bytes:
@@ -325,14 +326,13 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: Y-
+    - text: ᐄY-
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: you!
+    - text: you!
     - utf16_bytes:
         - 14
         - 5
@@ -345,13 +345,13 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ЉUrk...
+    - text: ЉUrk...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I kind of knew you'd say that...\nbut would it have killed you to let me\nfinish the question?"
+    - text: " I kind of knew you'd say that...\nbut would it have killed you to let me\nfinish the question?"
     - utf16_bytes:
         - 14
         - 5
@@ -359,7 +359,7 @@ entries:
         - 0
         - 0
   "0000":
-    - ascii: I want snow boots.
+    - text: I want snow boots.
     - utf16_bytes:
         - 0
   Talk_00:
@@ -368,16 +368,16 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "A traveler swore he saw you in the\nGerudo Highlands, so I've been gnawing\non my fingernails with worry!\nI mean, all that talk about the sword was\njust chitchat... I didn't think you'd go up\nthere without snow boots!\nAnyway, are you OK?"
+    - text: "ሀA traveler swore he saw you in the\nGerudo Highlands, so I've been gnawing\non my fingernails with worry!\nI mean, all that talk about the sword was\njust chitchat... I didn't think you'd go up\nthere without snow boots!\nAnyway, are you OK?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_29:
     - utf16_bytes:
@@ -386,18 +386,18 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Huh? But your bag is full.\n\n\nI think it's adorable that you want MORE\nboots even with so many other clothing\noptions, but you need storage space.\nCome talk to me again once you've\norganized your bag, OK?\n\n"
+    - text: "Huh? But your bag is full.\n\n\nI think it's adorable that you want MORE\nboots even with so many other clothing\noptions, but you need storage space.\nCome talk to me again once you've\norganized your bag, OK?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "I'll be waiting!"
+    - text: "I'll be waiting!"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-BYE.
+    - text: Good-BYE.
     - utf16_bytes:
         - 0
   Talk_30:
@@ -407,26 +407,26 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I'm still so flabbergasted that the eighth\nheroine's sword actually exists...\nI can hardly believe it...\n"
+    - text: "I'm still so flabbergasted that the eighth\nheroine's sword actually exists...\nI can hardly believe it...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "And you and I share this secret, along\nwith so many other meaningful and\nromantic exchanges...\nWe must be connected by dest"
+    - text: "And you and I share this secret, along\nwith so many other meaningful and\nromantic exchanges...\nWe must be connected by dest—"
     - utf16_bytes:
-        - 8212
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I'll go look for it."
+    - text: "I'll go look for it."
     - utf16_bytes:
         - 0
   Talk_02:
@@ -436,7 +436,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "And you went searching for it without\na decent pair of snow boots...\n\nI mean, the Gerudo Highlands are\nunforgiving. I doubt I could survive\nthere, and I'm burly.\nWho ARE you?!"
+    - text: "And you went searching for it without\na decent pair of snow boots...\n\nI mean, the Gerudo Highlands are\nunforgiving. I doubt I could survive\nthere, and I'm burly.\nWho ARE you?!"
     - utf16_bytes:
         - 14
         - 5
@@ -444,14 +444,15 @@ entries:
         - 0
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0003":
-    - ascii: Let me think about it.
+    - text: Let me think about it.
     - utf16_bytes:
         - 0
   LookPicture:
@@ -460,8 +461,7 @@ entries:
         - 3
         - 1
         - 2
-        - 5632
-    - ascii: WHAAAAAT?! It really exists?!
+    - text: ᘀWHAAAAAT?! It really exists?!
     - utf16_bytes:
         - 0
   Talk_03:
@@ -470,12 +470,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Yeah... You did risk your life to fulfill\nyour promise, after all...\n\nIt'd be pretty uncouth of me to drop my \nend of the bargain."
+    - text: "ЀYeah... You did risk your life to fulfill\nyour promise, after all...\n\nIt'd be pretty uncouth of me to drop my \nend of the bargain."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: "Snow boots, please."
+    - text: "Snow boots, please."
     - utf16_bytes:
         - 0
   Talk_04:
@@ -484,40 +483,42 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWell, now I'm barefoot...\n\n\n"
+        - 9
+    - text: "Well, now I'm barefoot...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "But if you're happy, then I'm happy!\n\n\nAnd what's more, this whole episode\nhas endeared you even more to me!\n\nYour cutely greedy side. Your sassy,\nplayfully rude side...\n\nYour unexpectedly tough side...\n\n\nUm...\n\n\nWould you...\n\n\n...g-g-"
+    - text: "But if you're happy, then I'm happy!\n\n\nAnd what's more, this whole episode\nhas endeared you even more to me!\n\nYour cutely greedy side. Your sassy,\nplayfully rude side...\n\nYour unexpectedly tough side...\n\n\nUm...\n\n\nWould you...\n\n\n...g-g-"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: go out...
+    - text: go out...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n...w-w-w-"
+    - text: "\n\n\n...w-w-w-"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: with...
+    - text: with...
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 7
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_33:
     - utf16_bytes:
@@ -530,79 +531,77 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 4
-    - ascii: "Huh? She's not seriously considering going to\nlook for it, is she? That's crazy talk."
+    - text: "Huh? She's not seriously considering going to\nlook for it, is she? That's crazy talk."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\n\n"
+    - text: "\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Well, this is just the result of my own\ndeductions, but...\n\nThe statue of the eighth heroine is huge,\nright? So it stands to reason that the \nsword would be too.\nThat's why I think it wouldn't be possible\nfor anyone to carry it far. And THAT is\nwhy it must be in the "
+    - text: "Well, this is just the result of my own\ndeductions, but...\n\nThe statue of the eighth heroine is huge,\nright? So it stands to reason that the \nsword would be too.\nThat's why I think it wouldn't be possible\nfor anyone to carry it far. And THAT is\nwhy it must be in the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Gerudo Highlands
+    - text: Gerudo Highlands
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But look, the terrain is treacherous \nenough by itself, and then you also have\nnasty monsters to deal with.\nI heard that many Gerudo don't even\ndare set foot there. The place is\nlegitimately scary."
+    - text: "But look, the terrain is treacherous \nenough by itself, and then you also have\nnasty monsters to deal with.\nI heard that many Gerudo don't even\ndare set foot there. The place is\nlegitimately scary."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "So...instead of opting for scary...\nWhy don't you and I opt for romantic\nand maybe even a little risqu"
-    - utf16_bytes:
-        - 233
-    - ascii: "?"
+    - text: "So...instead of opting for scary...\nWhy don't you and I opt for romantic\nand maybe even a little risqué?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 1
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_05:
     - utf16_bytes:
@@ -610,51 +609,49 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "Oh, it's just a traveler..."
+    - text: "ขOh, it's just a traveler..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: But...hm.
+    - text: But...hm.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Listen, a little free advice?\nYou're looking pretty sour."
+    - text: " Listen, a little free advice?\nYou're looking pretty sour."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nYou keep walking around looking like\na grouch, and you'll never get a special someone. \n\nAw, what am I saying? Sorry about that.\nAwfully condescending of me.\n\n"
+    - text: "\n\nYou keep walking around looking like\na grouch, and you'll never get a special someone. \n\nAw, what am I saying? Sorry about that.\nAwfully condescending of me.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I've just got wooing on the brain.\nGirls have always vexed me, but right\nnow SHE is all I can think of!\n"
+    - text: "စI've just got wooing on the brain.\nGirls have always vexed me, but right\nnow SHE is all I can think of!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Sorry, but I don't even have time for\nother GIRLS right now, let alone other\nguys, know what I mean?\nIf you need something, do me a favor...\nAsk someone else."
+    - text: "Sorry, but I don't even have time for\nother GIRLS right now, let alone other\nguys, know what I mean?\nIf you need something, do me a favor...\nAsk someone else."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Feast your eyes.
+    - text: Feast your eyes.
     - utf16_bytes:
         - 0
   Talk_34:
@@ -663,8 +660,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1027
-    - ascii: G-good-bye...
+    - text: ЃG-good-bye...
     - utf16_bytes:
         - 0
   Talk_06:
@@ -673,21 +669,20 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "Gah!\n\n\nS-sav'otta!"
+    - text: "ᐄGah!\n\n\nS-sav'otta!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2
-    - ascii: Wait.
+    - text: Wait.
     - utf16_bytes:
         - 14
         - 5
@@ -695,7 +690,7 @@ entries:
         - 0
         - 0
   "0006":
-    - ascii: The snow boots...
+    - text: The snow boots...
     - utf16_bytes:
         - 0
   Talk_35:
@@ -705,14 +700,14 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Y-you look stunning today, too.\n\n\nI have to say, your insatiable craving for\nthese snow boots fascinates me.\n\nBut I hate the idea of you trekking in\nthem out in the dangerous wilds...\nSo I had a brilliant idea!\n"
+    - text: "Y-you look stunning today, too.\n\n\nI have to say, your insatiable craving for\nthese snow boots fascinates me.\n\nBut I hate the idea of you trekking in\nthem out in the dangerous wilds...\nSo I had a brilliant idea!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 7
-    - ascii: "I could just keep the boots on and\nCARRY you around! Then you wouldn't\nneed to wear them! How about it?"
+    - text: "I could just keep the boots on and\nCARRY you around! Then you wouldn't\nneed to wear them! How about it?"
     - utf16_bytes:
         - 14
         - 1
@@ -720,7 +715,8 @@ entries:
         - 6
         - 8
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_07:
     - utf16_bytes:
@@ -728,18 +724,17 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Like I said...
+    - text: ขLike I said...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nI'm not interested in talking to anyone\nbut HER. She is all things to me!\nIf you need something...\nbe a pal and ask someone else, huh?"
+    - text: "\n\n\nI'm not interested in talking to anyone\nbut HER. She is all things to me!\nIf you need something...\nbe a pal and ask someone else, huh?"
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Not a chance.
+    - text: Not a chance.
     - utf16_bytes:
         - 0
   Talk_36:
@@ -748,38 +743,37 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: "Next time... "
+    - text: "℀Next time... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: For sure...
+    - text: For sure...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " We will..."
+    - text: " We will..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: go on...
+    - text: go on...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\na da..."
+    - text: "\na da..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: date...
+    - text: date...
     - utf16_bytes:
         - 0
   Talk_08:
@@ -788,21 +782,20 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "Gaaaah!\n\n\nS-sav'otta!"
+    - text: "ᐄGaaaah!\n\n\nS-sav'otta!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\n"
+    - text: "\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2
-    - ascii: Wait.
+    - text: Wait.
     - utf16_bytes:
         - 14
         - 5
@@ -812,11 +805,11 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촌 You again?
+    - text: 촌 You again?
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: "Where's the sword?"
+    - text: "Where's the sword?"
     - utf16_bytes:
         - 0
   Talk_09:
@@ -825,40 +818,38 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "Oh, it's just you..."
+    - text: "ขOh, it's just you..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\n\nBut...huh. "
+    - text: "\n\n\nBut...huh. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Look, I feel like someone \nshould tell you that you have kind of a\nsulky look about you."
+    - text: "Look, I feel like someone \nshould tell you that you have kind of a\nsulky look about you."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou keep walking around looking all\nmiserable, and you'll never get a special someone. \n\nAw, what am I saying? Sorry about that.\nAwfully condescending of me.\n\n"
+    - text: "\nYou keep walking around looking all\nmiserable, and you'll never get a special someone. \n\nAw, what am I saying? Sorry about that.\nAwfully condescending of me.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I've just got wooing on the brain.\nGirls have always vexed me, but right\nnow SHE is all I can think of!\n"
+    - text: "စI've just got wooing on the brain.\nGirls have always vexed me, but right\nnow SHE is all I can think of!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Sorry, but I don't even have time for\nother GIRLS right now, let alone other\nguys, know what I mean?\nIf you need something, do me a favor...\nAsk someone else."
+    - text: "Sorry, but I don't even have time for\nother GIRLS right now, let alone other\nguys, know what I mean?\nIf you need something, do me a favor...\nAsk someone else."
     - utf16_bytes:
         - 0
   Talk_10:
@@ -868,15 +859,16 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "You!\n\n\nYou came! I mean, hey, yeah, of course.\nFigured you'd swing by. Yup. \nDo the ol' swing-by.\nWe didn't get a chance to spend much\ntime together earlier, did we? Whoosh!\nTotal whirlwind! So...wanna hang out?"
+    - text: "You!\n\n\nYou came! I mean, hey, yeah, of course.\nFigured you'd swing by. Yup. \nDo the ol' swing-by.\nWe didn't get a chance to spend much\ntime together earlier, did we? Whoosh!\nTotal whirlwind! So...wanna hang out?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_11:
     - utf16_bytes:
@@ -885,35 +877,36 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "You!\n\n\nYou came back! I mean, yeah. Heyyyyy.\nCourse you came by. What's up?\n\n"
+    - text: "You!\n\n\nYou came back! I mean, yeah. Heyyyyy.\nCourse you came by. What's up?\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-    - ascii: "촉And look at you, wearing those\n"
+    - text: "촉And look at you, wearing those\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sand boots
+    - text: sand boots
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " already like a...saucy little\npink heron or something.\nY'know, gotta say, they're designed for\nburly men like myself, so I was worried\nthey wouldn't fit such a flower as you...\nBut they look absolutely fantastic!\n\n\nGosh! Anyway, I realized we never really\ngot a chance to chat earlier, so you want\nto grab a spot somewhere and hang out?"
+    - text: " already like a...saucy little\npink heron or something.\nY'know, gotta say, they're designed for\nburly men like myself, so I was worried\nthey wouldn't fit such a flower as you...\nBut they look absolutely fantastic!\n\n\nGosh! Anyway, I realized we never really\ngot a chance to chat earlier, so you want\nto grab a spot somewhere and hang out?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_12:
     - utf16_bytes:
@@ -922,7 +915,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "What?\n\n\nYou want my snow boots, too?"
+    - text: "What?\n\n\nYou want my snow boots, too?"
     - utf16_bytes:
         - 0
   Talk_13:
@@ -932,13 +925,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ha! Well aren't we greedy!\nOr should I say insatiable for boots.\nA boot thirst that cannot be slaked!\n"
+    - text: "Ha! Well aren't we greedy!\nOr should I say insatiable for boots.\nA boot thirst that cannot be slaked!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Adorable. But listen, if I give you these,\nthen I'll have nothing for my feet!"
+    - text: "Adorable. But listen, if I give you these,\nthen I'll have nothing for my feet!"
     - utf16_bytes:
         - 0

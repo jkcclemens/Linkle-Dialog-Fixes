@@ -7,27 +7,27 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "This is it. "
+    - text: "This is it. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: The
+    - text: The
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: " armor shop"
+    - text: " armor shop"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk15:
@@ -37,53 +37,53 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "With that monster there, we can't get\nanywhere near "
+    - text: "With that monster there, we can't get\nanywhere near "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Death Mountain
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nEvery day the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Boss "
+    - text: Death Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "uses our "
+    - text: ".\n\nEvery day the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: cannon
+        - 2
+    - text: "Boss "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nto blast that thing back to the mouth\nof the crater...\nBut it just comes right back...and so the\ncycle continues."
+    - text: "uses our "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: cannon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nto blast that thing back to the mouth\nof the crater...\nBut it just comes right back...and so the\ncycle continues."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: A customer...
+    - text: A customer...
     - utf16_bytes:
         - 0
   talk03:
@@ -92,22 +92,21 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Hmm? "
+    - text: "ȀHmm? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Need somethin'?"
+    - text: "Need somethin'?"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "4"
+    - text: "4"
     - utf16_bytes:
         - 0
-    - ascii: "\"NPC_Goron003_Boss"
+    - text: "\"NPC_Goron003_Boss"
     - utf16_bytes:
         - 1
         - 0
@@ -129,24 +128,24 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Boss "
+    - text: "Boss "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is...the boss. He's also the leader\nof Goron City. He's a big deal.\n\nSo big, in fact, that he lives in a house\nwith a humongous sign on top of it!"
+    - text: "is...the boss. He's also the leader\nof Goron City. He's a big deal.\n\nSo big, in fact, that he lives in a house\nwith a humongous sign on top of it!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou should go and introduce yourself."
+    - text: "\nYou should go and introduce yourself."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Over here...
+    - text: Over here...
     - utf16_bytes:
         - 0
   talk04:
@@ -155,16 +154,15 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "You still need somethin'?"
+    - text: "ȀYou still need somethin'?"
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "4"
+    - text: "4"
     - utf16_bytes:
         - 0
-    - ascii: "\"NPC_Goron003_Boss"
+    - text: "\"NPC_Goron003_Boss"
     - utf16_bytes:
         - 1
         - 0
@@ -181,46 +179,46 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "I was wanderin' by "
+    - text: "I was wanderin' by "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Death Mountain "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "not\ntoo long ago, and it seems the Boss"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: " "
+    - text: "Death Mountain "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "and\nYunobo showed that beast what's what.\n"
+    - text: "not\ntoo long ago, and it seems the Boss"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "and\nYunobo showed that beast what's what.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: "That thing cost me my job. girl, it sure\nfeels good to taste sweet justice!"
+    - text: "That thing cost me my job. girl, it sure\nfeels good to taste sweet justice!"
     - utf16_bytes:
         - 0
   near02:
-    - ascii: Hmm...
+    - text: Hmm...
     - utf16_bytes:
         - 0
   talk05:
@@ -230,15 +228,15 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Anything else you wanna ask?
+    - text: Anything else you wanna ask?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: "4"
+    - text: "4"
     - utf16_bytes:
         - 0
-    - ascii: "\"NPC_Goron003_Boss"
+    - text: "\"NPC_Goron003_Boss"
     - utf16_bytes:
         - 1
         - 0
@@ -254,76 +252,75 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Hey, "
+    - text: "ȀHey, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian
+    - text: Hylian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You came at a good time.\n\n\nLately the "
+    - text: " You came at a good time.\n\n\nLately the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: magma bombs
+    - text: magma bombs
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " have stopped\nrainin' down..."
+    - text: " have stopped\nrainin' down..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That means it's safe to\nstart sightseeing again.\n"
+    - text: " That means it's safe to\nstart sightseeing again.\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Rudania "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "has calmed down, so now\nit's finally possible to go up to\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Death Mountain Summit
+    - text: "Rudania "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nIf you have the time to spare,\nyou should try goin' up there."
+    - text: "has calmed down, so now\nit's finally possible to go up to\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Death Mountain Summit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "...\nIf you have the time to spare,\nyou should try goin' up there."
     - utf16_bytes:
         - 0
   talk06:
@@ -333,7 +330,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "That's what we call that volcano\nover there."
+    - text: "That's what we call that volcano\nover there."
     - utf16_bytes:
         - 0
   talk19:
@@ -342,14 +339,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hey...
+    - text: ȀHey...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Do ya need me for somethin'?"
+    - text: " Do ya need me for somethin'?"
     - utf16_bytes:
         - 14
         - 1
@@ -372,35 +368,35 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "That's the name of the "
+    - text: "That's the name of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "gigantic lizard\nmonster "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "that recently showed up on\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Death Mountain
+    - text: "gigantic lizard\nmonster "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "that recently showed up on\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Death Mountain
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk08:
@@ -410,11 +406,11 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: See ya later.
+    - text: See ya later.
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: The Boss?
+    - text: The Boss?
     - utf16_bytes:
         - 0
   talk20:
@@ -424,7 +420,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Is there anything else you wanna\nask about?"
+    - text: "Is there anything else you wanna\nask about?"
     - utf16_bytes:
         - 14
         - 1
@@ -441,15 +437,15 @@ entries:
         - 768
         - 0
   "0001":
-    - ascii: Death Mountain?
+    - text: Death Mountain?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Rudania?
+    - text: Rudania?
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Take care.
+    - text: Take care.
     - utf16_bytes:
         - 0
   talk10:
@@ -459,59 +455,59 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Recently, somethin' called the "
+    - text: "Recently, somethin' called the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine\nBeast Vah Rudania"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " showed up on\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Death Mountain
+    - text: "Divine\nBeast Vah Rudania"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nSince then, it's gotten a lot hotter here."
+    - text: " showed up on\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Death Mountain
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nSince then, it's gotten a lot hotter here."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nThat's why we're sellin' "
+    - text: "\nThat's why we're sellin' "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fireproof armor
+    - text: fireproof armor
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Rudania?
+    - text: Rudania?
     - utf16_bytes:
         - 0
   talk12:
@@ -521,55 +517,55 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Until recently, I had a job as a miner on\n"
+    - text: "Until recently, I had a job as a miner on\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Death Mountain
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\n\nBut ever since "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast Vah Rudania
+    - text: Death Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nshowed up, "
+    - text: "...\n\nBut ever since "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast Vah Rudania
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nshowed up, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "we haven't been able to work\nthe sites on "
+    - text: "we haven't been able to work\nthe sites on "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Death Mountain
+    - text: Death Mountain
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThe company had to cut its workforce\nas a result, and I was let go..."
+    - text: ".\nThe company had to cut its workforce\nas a result, and I was let go..."
     - utf16_bytes:
         - 0
   talk00:
@@ -578,14 +574,13 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "You're a traveler?\n\n\nIn that case, I'll take ya somewhere nice."
+    - text: "ȀYou're a traveler?\n\n\nIn that case, I'll take ya somewhere nice."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nFollow me."
+    - text: "\nFollow me."
     - utf16_bytes:
         - 0
   talk13:
@@ -594,13 +589,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWhat do you do, eh?\n"
+        - 9
+    - text: "What do you do, eh?\n"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I miss the good ol' days..."
+    - text: "I miss the good ol' days..."
     - utf16_bytes:
         - 0
   talk01:
@@ -610,13 +606,13 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "We're not there yet."
+    - text: "We're not there yet."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Just take it easy\nand follow me."
+    - text: " Just take it easy\nand follow me."
     - utf16_bytes:
         - 0
   talk14:
@@ -626,27 +622,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Look what happened to mean ol'\n"
+    - text: "Look what happened to mean ol'\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Rudania
+    - text: Divine Beast Vah Rudania
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHa! Not so tough now, are ya?!\n"
+    - text: "\nHa! Not so tough now, are ya?!\n"
     - utf16_bytes:
         - 14
         - 0
@@ -663,26 +659,26 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "And that means "
+    - text: "And that means "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Death Mountain Summit
+    - text: Death Mountain Summit
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nis accessible again."
+    - text: "\nis accessible again."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Makes me wanna run\nup there and dig it clean outta ore!"
+    - text: " Makes me wanna run\nup there and dig it clean outta ore!"
     - utf16_bytes:
         - 0

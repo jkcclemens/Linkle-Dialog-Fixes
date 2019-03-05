@@ -7,21 +7,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You don't have a "
+    - text: "You don't have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: cobble crusher
+    - text: cobble crusher
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk16:
@@ -31,21 +31,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You don't have a "
+    - text: "You don't have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: diamond
+    - text: diamond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk17:
@@ -55,35 +55,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You don't have a "
+    - text: "You don't have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: cobble crusher
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nor a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: diamond
+    - text: cobble crusher
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "\nor a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: diamond
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   talk18:
@@ -93,21 +93,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You need more pieces of "
+    - text: "You need more pieces of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: flint
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk19:
@@ -117,35 +117,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Look, ya don't have a "
+    - text: "Look, ya don't have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: cobble crusher
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nand ya don't have enough "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: flint
+    - text: cobble crusher
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: ",\nand ya don't have enough "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   talk20:
@@ -155,35 +155,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You don't have a "
+    - text: "You don't have a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: diamond
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", and you don't\nhave enough pieces of "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: flint
+    - text: diamond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: ", and you don't\nhave enough pieces of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 0
   talk21:
@@ -193,7 +193,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "If ya don't have everything I need,\nthen I can't do anything for ya.\n\n"
+    - text: "If ya don't have everything I need,\nthen I can't do anything for ya.\n\n"
     - utf16_bytes:
         - 14
         - 0
@@ -210,77 +210,77 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "If ya want another "
+    - text: "If ya want another "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boulder Breaker
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\nbring me a"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: " cobble crusher"
+    - text: Boulder Breaker
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: five pieces
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nof "
+    - text: ",\nbring me a"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: " cobble crusher"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", and a "
+    - text: ", "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: diamond
+        - 0
+    - text: five pieces
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "\nof "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", and a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: diamond
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk23:
@@ -295,20 +295,20 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Diamonds "
+    - text: "Diamonds "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "are a precious ore you can't\neasily find, even around these parts.\n"
+    - text: "are a precious ore you can't\neasily find, even around these parts.\n"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: You sure ya want me to do this?
+    - text: You sure ya want me to do this?
     - utf16_bytes:
         - 14
         - 1
@@ -316,7 +316,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk24:
     - utf16_bytes:
@@ -325,13 +326,13 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "Hmph. "
+    - text: "Hmph. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Come back when ya want me\nto forge it again."
+    - text: "Come back when ya want me\nto forge it again."
     - utf16_bytes:
         - 0
   talk25:
@@ -341,17 +342,17 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Right. I'll get started, then."
+    - text: "Right. I'll get started, then."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWait over there."
+    - text: "\nWait over there."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Hmph! Hmph!
+    - text: Hmph! Hmph!
     - utf16_bytes:
         - 0
   talk26:
@@ -361,23 +362,23 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Hmph.
+    - text: Hmph.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I must say... I did a great job!"
+    - text: " I must say... I did a great job!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nGo on, take it."
+    - text: "\nGo on, take it."
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Well then...
+    - text: Well then...
     - utf16_bytes:
         - 0
   talk27:
@@ -386,19 +387,19 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Hey...
+    - text: ขHey...
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   near02:
-    - ascii: Phew...
+    - text: Phew...
     - utf16_bytes:
         - 0
   talk28:
@@ -407,18 +408,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I've got work to do. "
+    - text: "ЀI've got work to do. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Outta my way!
+    - text: Outta my way!
     - utf16_bytes:
         - 0
   near03:
-    - ascii: "*snort*"
+    - text: "*snort*"
     - utf16_bytes:
         - 0
   talk00:
@@ -428,7 +428,7 @@ entries:
         - 1
         - 2
         - 1538
-    - ascii: "...What are you starin' at?"
+    - text: "...What are you starin' at?"
     - utf16_bytes:
         - 14
         - 1
@@ -436,7 +436,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk29:
     - utf16_bytes:
@@ -445,18 +446,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: You want this?
+    - text: You want this?
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: Sorry!
+    - text: Sorry!
     - utf16_bytes:
         - 0
   talk01:
@@ -466,7 +468,7 @@ entries:
         - 1
         - 2
         - 1538
-    - ascii: "...I'm workin' here. Buzz off."
+    - text: "...I'm workin' here. Buzz off."
     - utf16_bytes:
         - 0
   talk30:
@@ -475,18 +477,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Here's one I screwed up... "
+    - text: "ЀHere's one I screwed up... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou can have it."
+    - text: "\nYou can have it."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   talk02:
@@ -495,12 +496,11 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Hmph...
+    - text: ขHmph...
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Please?
+    - text: Please?
     - utf16_bytes:
         - 0
   talk03:
@@ -509,8 +509,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1026
-    - ascii: "...What now?"
+    - text: Ђ...What now?
     - utf16_bytes:
         - 14
         - 1
@@ -518,7 +517,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk32:
     - utf16_bytes:
@@ -526,26 +526,25 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "So...you're the one to inherit the\n"
+    - text: "ȀSo...you're the one to inherit the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boulder Breaker
+    - text: Boulder Breaker
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", eh?\n\nI wonder if a pip-squeak like you can\nhandle Daruk's sword...\n\nWell, whatever. It is what it is."
+    - text: ", eh?\n\nI wonder if a pip-squeak like you can\nhandle Daruk's sword...\n\nWell, whatever. It is what it is."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "No, thanks."
+    - text: "No, thanks."
     - utf16_bytes:
         - 0
   talk04:
@@ -555,11 +554,11 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Time for some shut-eye...
+    - text: Time for some shut-eye...
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk05:
@@ -569,11 +568,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Hmph...
+    - text: Hmph...
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk06:
@@ -582,12 +581,11 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "You're distractin' me!"
+    - text: "ขYou're distractin' me!"
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: "I'm sorry?"
+    - text: "I'm sorry?"
     - utf16_bytes:
         - 0
   talk07:
@@ -596,8 +594,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "If ya don't need anything, get outta here."
+    - text: "ขIf ya don't need anything, get outta here."
     - utf16_bytes:
         - 0
   talk08:
@@ -606,14 +603,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Again and again...
+    - text: ขAgain and again...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can't stand it."
+    - text: " I can't stand it."
     - utf16_bytes:
         - 0
   talk09:
@@ -622,8 +618,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "I don't have time to deal with\nyour nonsense!"
+    - text: "ขI don't have time to deal with\nyour nonsense!"
     - utf16_bytes:
         - 0
   talk10:
@@ -632,8 +627,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: Pull yourself together!
+    - text: ขPull yourself together!
     - utf16_bytes:
         - 0
   talk12:
@@ -642,15 +636,14 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "If ya lose or break the "
+    - text: "ЀIf ya lose or break the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boulder Breaker
+    - text: Boulder Breaker
     - utf16_bytes:
         - 14
         - 0
@@ -661,63 +654,63 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: "\nand ya want me to make another one...\n\njust bring me a "
+    - text: "\nand ya want me to make another one...\n\njust bring me a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: cobble crusher
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ",\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "five pieces "
+    - text: cobble crusher
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "of "
+    - text: ",\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: flint
-    - utf16_bytes:
-        - 14
         - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", and a "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: diamond
+    - text: "five pieces "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", and a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: diamond
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk13:
@@ -726,22 +719,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh... Looks like ya don't have the\n"
+    - text: "ЀOh... Looks like ya don't have the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boulder Breaker
+    - text: Boulder Breaker
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". You'd better look and\nsee if ya dropped it somewhere."
+    - text: ". You'd better look and\nsee if ya dropped it somewhere."
     - utf16_bytes:
         - 0
   talk14:
@@ -750,77 +742,76 @@ entries:
         - 3
         - 1
         - 2
-        - 4096
-    - ascii: "Looks like ya don't have the\n"
+    - text: "ကLooks like ya don't have the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Boulder Breaker
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\n\nIf ya want a new one, I'm gonna need\na "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: cobble crusher
+    - text: Boulder Breaker
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "five pieces "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "of "
+    - text: "...\n\nIf ya want a new one, I'm gonna need\na "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: flint
+    - text: cobble crusher
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nand a "
+    - text: ", "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: diamond
+        - 0
+    - text: "five pieces "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: flint
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nand a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: diamond
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0

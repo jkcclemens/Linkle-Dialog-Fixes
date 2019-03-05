@@ -7,15 +7,16 @@ entries:
         - 1
         - 2
         - 3584
-    - ascii: "What is it? I feel like I've met you before,\nbut I don't recall having any Hylian\nacquaintances...\nEspecially since I've only ever served\nin the palace. I've never even set foot\nbeyond the town's walls.\nI thought I could relax at last, now that\nBuliara has come of age. But then\nsomething like this happens...\nI'm retired now, though, so there isn't\nanything I can do about it."
+    - text: "What is it? I feel like I've met you before,\nbut I don't recall having any Hylian\nacquaintances...\nEspecially since I've only ever served\nin the palace. I've never even set foot\nbeyond the town's walls.\nI thought I could relax at last, now that\nBuliara has come of age. But then\nsomething like this happens...\nI'm retired now, though, so there isn't\nanything I can do about it."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 0
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   Talk_02:
     - utf16_bytes:
@@ -23,14 +24,13 @@ entries:
         - 3
         - 1
         - 2
-        - 520
-    - ascii: "What were the guards doing while\nthieves were sneaking into town and\nmaking off with the chief's heirloom?\nWhen I was captain of the guard, such a\nfailure would have been absolutely\nunthinkable."
+    - text: "ȈWhat were the guards doing while\nthieves were sneaking into town and\nmaking off with the chief's heirloom?\nWhen I was captain of the guard, such a\nfailure would have been absolutely\nunthinkable."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's just pathetic.\nIf Buliara was out on the front lines, this\nwould never have happened."
+    - text: " It's just pathetic.\nIf Buliara was out on the front lines, this\nwould never have happened."
     - utf16_bytes:
         - 14
         - 1
@@ -38,7 +38,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_03:
     - utf16_bytes:
@@ -47,7 +48,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I hope that I never have to witness\nsuch turmoil ever again."
+    - text: "I hope that I never have to witness\nsuch turmoil ever again."
     - utf16_bytes:
         - 0
   Talk_04:
@@ -56,8 +57,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "If I were still on active duty, I'd whip all\nof those guards back into shape."
+    - text: "ȀIf I were still on active duty, I'd whip all\nof those guards back into shape."
     - utf16_bytes:
         - 0
   Talk_10:
@@ -66,28 +66,27 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "A little while ago, a gang of thieves\nslipped into the palace and stole the\nchief's heirloom, the "
+    - text: "ᤀA little while ago, a gang of thieves\nslipped into the palace and stole the\nchief's heirloom, the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Thunder Helm
+    - text: Thunder Helm
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIt's bad enough to be robbed in general,\nbut for the object stolen to be a valued\nheirloom belonging to our own chief...\nIf I was still in charge, any guard who\nfailed to catch those thieves would be\ndoing some serious manual labor.\nAnd then they'd be thrown back into\ntraining, all the way from the beginning."
+    - text: ".\nIt's bad enough to be robbed in general,\nbut for the object stolen to be a valued\nheirloom belonging to our own chief...\nIf I was still in charge, any guard who\nfailed to catch those thieves would be\ndoing some serious manual labor.\nAnd then they'd be thrown back into\ntraining, all the way from the beginning."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nNo exceptions!"
+    - text: "\nNo exceptions!"
     - utf16_bytes:
         - 0
   Talk_05:
@@ -96,84 +95,83 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "A little while ago...\n\n\nThe "
+    - text: "ᤀA little while ago...\n\n\nThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: sand seal
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " that the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: chief
+    - text: sand seal
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was\nwith got spooked by a monster and\nran off...\nShe quickly realized that it had pulled\nher very close to "
+    - text: " that the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Naboris
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\n\nAnyone who approaches "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Naboris
+    - text: chief
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " risks\nbeing struck by lightning from that\nDivine Beast.\nThe "
+    - text: " was\nwith got spooked by a monster and\nran off...\nShe quickly realized that it had pulled\nher very close to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: chief
+    - text: Naboris
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " was lucky to get away..."
+    - text: "...\n\nAnyone who approaches "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Naboris
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " risks\nbeing struck by lightning from that\nDivine Beast.\nThe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: chief
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " was lucky to get away..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " And\never since then, Buliara has refused to\nleave her side."
+    - text: " And\never since then, Buliara has refused to\nleave her side."
     - utf16_bytes:
         - 0
   Talk_11:
@@ -183,33 +181,33 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Apparently the "
+    - text: "Apparently the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Thunder Helm
+    - text: Thunder Helm
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " has been\nreturned to us. Thank goodness for\nthat...\nBut don't break out the glasses of Noble\nPursuit just yet. "
+    - text: " has been\nreturned to us. Thank goodness for\nthat...\nBut don't break out the glasses of Noble\nPursuit just yet. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It wasn't even a Gerudo\nsoldier who did it...\nIt was some outsider, I hear."
+    - text: "It wasn't even a Gerudo\nsoldier who did it...\nIt was some outsider, I hear."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " What were\nthe soldiers doing while this outsider was\ndemonstrating such skill?\nWhen I was on active duty, this\navalanche of failures would be\nunthinkable!\nBuliara needs to get back out on the\nfront lines where she belongs."
+    - text: " What were\nthe soldiers doing while this outsider was\ndemonstrating such skill?\nWhen I was on active duty, this\navalanche of failures would be\nunthinkable!\nBuliara needs to get back out on the\nfront lines where she belongs."
     - utf16_bytes:
         - 14
         - 1
@@ -217,7 +215,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Talk_12:
     - utf16_bytes:
@@ -226,14 +225,13 @@ entries:
         - 1
         - 2
         - 3584
-    - ascii: "What is it? I feel like I've met you before,\nbut I don't recall having any Hylian\nacquaintances...\nEspecially since I've only ever served\nhere in the palace. I've never even set\nfoot beyond the town's walls.\nI thought I could relax at last, now that\nBuliara has come of age. But of course\nthings can't be easy.\n"
+    - text: "What is it? I feel like I've met you before,\nbut I don't recall having any Hylian\nacquaintances...\nEspecially since I've only ever served\nhere in the palace. I've never even set\nfoot beyond the town's walls.\nI thought I could relax at last, now that\nBuliara has come of age. But of course\nthings can't be easy.\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: "With the Divine Beast raging around\nand thieves breaking into town...\n\nI'm retired now, though, so there isn't a\nlot I can do, unfortunately..."
+    - text: "촀With the Divine Beast raging around\nand thieves breaking into town...\n\nI'm retired now, though, so there isn't a\nlot I can do, unfortunately..."
     - utf16_bytes:
         - 0
   Talk_06:
@@ -242,7 +240,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tIt's impossible to get a wink of sleep with\nhow noisy everyone is! All those young\nones at the canteen...\nI'd like to whip their attitudes into\nshape."
+        - 9
+    - text: "It's impossible to get a wink of sleep with\nhow noisy everyone is! All those young\nones at the canteen...\nI'd like to whip their attitudes into\nshape."
     - utf16_bytes:
         - 0
   Talk_13:
@@ -252,35 +251,35 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "It seems like the Divine Beast has finally\nstopped stomping all over the desert...\n\nI hear "
+    - text: "It seems like the Divine Beast has finally\nstopped stomping all over the desert...\n\nI hear "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Lady Riju
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " played an active part in\ncalming the creature, too.\n\nShe may be young and may seem out of\nher depth, but she's certainly proven to\nbe a splendid chief.\nWith everything that's happened lately,\nI'd bet Buliara is starting to see "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Lady Riju
+    - text: Lady Riju
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\ndifferently, too.\nI think the mishaps are behind us now.\nMaybe now I can finally get some rest\nand really relax."
+    - text: " played an active part in\ncalming the creature, too.\n\nShe may be young and may seem out of\nher depth, but she's certainly proven to\nbe a splendid chief.\nWith everything that's happened lately,\nI'd bet Buliara is starting to see "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lady Riju
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\ndifferently, too.\nI think the mishaps are behind us now.\nMaybe now I can finally get some rest\nand really relax."
     - utf16_bytes:
         - 0
   Talk_07:
@@ -289,13 +288,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta..."
+    - text: "촙Sav'otta..."
     - utf16_bytes:
         - 0
   Talk_08:
@@ -304,17 +303,17 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq..."
+    - text: "촚Sav'aaq..."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: What happened?
+    - text: What happened?
     - utf16_bytes:
         - 0
   Talk_09:
@@ -323,13 +322,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba..."
+    - text: "촛Sav'saaba..."
     - utf16_bytes:
         - 0
   Raimei_CK_001:
@@ -339,7 +338,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
@@ -349,37 +348,36 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉That's quite an unusual thing you're\nwearing on your head, isn't it?\n\nWell, I can't say I expected to see you\nwearing that...\n\nAre you exploring what it's like to be a\nthief, now?\n\nEheheh, I'm only kidding, of course.\n\n\nSeeing that reminds me of when I still\nworked in the royal palace.\n\n"
+    - text: "촉That's quite an unusual thing you're\nwearing on your head, isn't it?\n\nWell, I can't say I expected to see you\nwearing that...\n\nAre you exploring what it's like to be a\nthief, now?\n\nEheheh, I'm only kidding, of course.\n\n\nSeeing that reminds me of when I still\nworked in the royal palace.\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52496
-    - ascii: "That item was worn by the previous\nchief, you know. It brings back such\nmemories...\n*ahem* "
+    - text: "촐That item was worn by the previous\nchief, you know. It brings back such\nmemories...\n*ahem* "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Anyway, that helm is a real\ntreasure to the Gerudo people and to\nthe "
+    - text: "Anyway, that helm is a real\ntreasure to the Gerudo people and to\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: chief
+    - text: chief
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI don't know how you got it, exactly, but\nyou must treat it with care."
+    - text: ".\nI don't know how you got it, exactly, but\nyou must treat it with care."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0

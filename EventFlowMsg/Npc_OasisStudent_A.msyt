@@ -6,19 +6,18 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: "I wasn't sleeping...\nReally, I swear I wasn't sleeping!\n\nI've always dreamed of going out into\nthe wide world, living a life of adventure,\nand then settling down with my true love.\nWe'd have a wonderful little vehvi and\nlive happily ever after. I'm sure of it.\n\n"
+    - text: "ጄI wasn't sleeping...\nReally, I swear I wasn't sleeping!\n\nI've always dreamed of going out into\nthe wide world, living a life of adventure,\nand then settling down with my true love.\nWe'd have a wonderful little vehvi and\nlive happily ever after. I'm sure of it.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2
-    - ascii: "But these lessons are critical if I want to\npull all of that off, so I can't afford to\nsleep through them!"
+    - text: "But these lessons are critical if I want to\npull all of that off, so I can't afford to\nsleep through them!"
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk04:
@@ -27,13 +26,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52505
-    - ascii: "Sav'otta!"
+    - text: "촙Sav'otta!"
     - utf16_bytes:
         - 0
   talk05:
@@ -42,13 +41,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52506
-    - ascii: "Sav'aaq!"
+    - text: "촚Sav'aaq!"
     - utf16_bytes:
         - 0
   talk06:
@@ -57,13 +56,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52507
-    - ascii: "Sav'saaba!"
+    - text: "촛Sav'saaba!"
     - utf16_bytes:
         - 0
   talk00:
@@ -72,26 +71,25 @@ entries:
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: People really crave home cooking...
+    - text: ᤀPeople really crave home cooking...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Huh."
+    - text: " Huh."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nRather than designing an elaborate meal,\nit's sometimes better to make something\nquick using a few homemade ingredients.\nHuh..."
+    - text: "\n\n\nRather than designing an elaborate meal,\nit's sometimes better to make something\nquick using a few homemade ingredients.\nHuh..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I should really write that down..."
+    - text: " I should really write that down..."
     - utf16_bytes:
         - 0
   talk01:
@@ -100,26 +98,26 @@ entries:
         - 3
         - 1
         - 2
-        - 5124
-    - ascii: "I wasn't sleeping! I was just thinking!\n\n\n"
+    - text: "ᐄI wasn't sleeping! I was just thinking!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tWait, what? "
+        - 9
+    - text: "Wait, what? "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "I thought you were the\nteacher!"
+    - text: "I thought you were the\nteacher!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Don't scare me like that!"
+    - text: " Don't scare me like that!"
     - utf16_bytes:
         - 0
   talk02:
@@ -128,22 +126,23 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tThe relationship class in the afternoon\nand the cooking class at night..."
+        - 9
+    - text: "The relationship class in the afternoon\nand the cooking class at night..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " And\nthen all the studying, too...\nI'm so tired..."
+    - text: " And\nthen all the studying, too...\nI'm so tired..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Please, could you talk with\nsomeone else?"
+    - text: " Please, could you talk with\nsomeone else?"
     - utf16_bytes:
         - 0
   near00:
-    - ascii: So...sleepy...
+    - text: So...sleepy...
     - utf16_bytes:
         - 0

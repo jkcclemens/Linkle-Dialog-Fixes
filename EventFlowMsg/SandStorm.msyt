@@ -7,34 +7,34 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A "
+    - text: "A "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "treasure hidden inside a sandstorm by\nan ancient civilization"
+    - text: "treasure hidden inside a sandstorm by\nan ancient civilization"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nThe makings of a fine adventure for sure.\n"
+    - text: "...\nThe makings of a fine adventure for sure.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "They say the sandstorm lets up for a few\nhours each day, but I haven't seen it\nsettle down for even an instant.\nI've had my eyes glued to it all this time."
+    - text: "They say the sandstorm lets up for a few\nhours each day, but I haven't seen it\nsettle down for even an instant.\nI've had my eyes glued to it all this time."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nExcept for when I've fallen asleep..."
+    - text: "\nExcept for when I've fallen asleep..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_002:
@@ -43,20 +43,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Tomorrow will be the day I see this sandstorm swirl\nto a halt... I just know it!"
+    - text: "Tomorrow will be the day I see this sandstorm swirl\nto a halt... I just know it!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_003:
@@ -66,19 +66,19 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Shifty merchants? Sorry, no idea\nwhat you're talking about.\n\nThe only things I'm interested in right\nnow are this sandstorm and the treasure\nhiding inside its..."
+    - text: "Shifty merchants? Sorry, no idea\nwhat you're talking about.\n\nThe only things I'm interested in right\nnow are this sandstorm and the treasure\nhiding inside its..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: storming...
+    - text: storming...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: sands...
+    - text: sands...
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_R_001:
@@ -88,7 +88,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "That sandstorm... They say it stops for\na few hours a day, but it hasn't let up\neven a little since I've been watching."
+    - text: "That sandstorm... They say it stops for\na few hours a day, but it hasn't let up\neven a little since I've been watching."
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_010:
@@ -98,7 +98,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "An adventure like this has been a lifelong\ndream! You could never understand!"
+    - text: "An adventure like this has been a lifelong\ndream! You could never understand!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_004:
@@ -108,28 +108,28 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A "
+    - text: "A "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "treasure hidden inside a sandstorm by\nan ancient civilization"
+    - text: "treasure hidden inside a sandstorm by\nan ancient civilization"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n\nSounds like an adventure just waiting\nto happen.\n\n"
+    - text: "...\n\nSounds like an adventure just waiting\nto happen.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "They say the sandstorm lets up for a few\nhours each day, but I haven't seen it\nsettle down for even an instant."
+    - text: "They say the sandstorm lets up for a few\nhours each day, but I haven't seen it\nsettle down for even an instant."
     - utf16_bytes:
         - 14
         - 1
@@ -137,7 +137,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Npc_SmallOasis007_R_002:
     - utf16_bytes:
@@ -145,20 +146,20 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Tomorrow will be the day I see this sandstorm swirl\nto a halt... I just know it!"
+    - text: "Tomorrow will be the day I see this sandstorm swirl\nto a halt... I just know it!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_011:
@@ -168,7 +169,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Not now! You'll distract me!"
+    - text: "Not now! You'll distract me!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_005:
@@ -178,7 +179,7 @@ entries:
         - 1
         - 2
         - 11
-    - ascii: "I haven't taken my eyes off this\nsandstorm for days. Except for when\nI've fallen asleep..."
+    - text: "I haven't taken my eyes off this\nsandstorm for days. Except for when\nI've fallen asleep..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_006:
@@ -188,13 +189,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: And that brings me to my next point!
+    - text: And that brings me to my next point!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n...Who are you?"
+    - text: "\n...Who are you?"
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_012:
@@ -203,49 +204,48 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: Huh?
+    - text: ጄHuh?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Did it..."
+    - text: " Did it..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDid the sandstorm stop?!\n\n"
+    - text: "\nDid the sandstorm stop?!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: After all this time watching it...
+    - text: After all this time watching it...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nWhy did it just disappear like that?"
+    - text: "\nWhy did it just disappear like that?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWhat a mystery!"
+    - text: "\nWhat a mystery!"
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_007:
-    - ascii: "OK, OK, I know I keep asking you this,\nbut..."
+    - text: "OK, OK, I know I keep asking you this,\nbut..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Who are you?"
+    - text: " Who are you?"
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_R_005:
@@ -255,34 +255,34 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rumor has it "
+    - text: "Rumor has it "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "an ancient civilization hid a\ntreasure"
+    - text: "an ancient civilization hid a\ntreasure"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " inside that sandstorm.\n\nI've been here for days waiting for the\nstorm to settle down so I can nab it!"
+    - text: " inside that sandstorm.\n\nI've been here for days waiting for the\nstorm to settle down so I can nab it!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "I just hope it wasn't a bad lead..."
+    - text: "I just hope it wasn't a bad lead..."
     - utf16_bytes:
         - 0
   Npc_SmallOasis007_F_008:
@@ -292,14 +292,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Wait, who did you say you are again?"
+    - text: "Wait, who did you say you are again?"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Any shifty merchants?
+    - text: Any shifty merchants?
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0

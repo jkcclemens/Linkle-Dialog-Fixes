@@ -6,28 +6,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: Well? What do you say?
+    - text: ؆Well? What do you say?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Are you willing\nto help us investigate these stories of a\n"
+    - text: " Are you willing\nto help us investigate these stories of a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: giant horse
+    - text: giant horse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -35,7 +34,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk15:
     - utf16_bytes:
@@ -44,15 +44,16 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Sorry, but can I take a good look\nat that horse?"
+    - text: "Sorry, but can I take a good look\nat that horse?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 4
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk16:
     - utf16_bytes:
@@ -61,7 +62,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Thanks, I'll be right back."
+    - text: "Thanks, I'll be right back."
     - utf16_bytes:
         - 0
   talk03:
@@ -70,8 +71,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "This is to thank you for helping with our\ninvestigation!"
+    - text: "ЀThis is to thank you for helping with our\ninvestigation!"
     - utf16_bytes:
         - 0
   talk04:
@@ -80,28 +80,28 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The really big horse in this region is\nlikely part of a rare, local species.\n\nHowever, with all the monsters roaming\naround, "
+    - text: "ЀThe really big horse in this region is\nlikely part of a rare, local species.\n\nHowever, with all the monsters roaming\naround, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "we simply can't go any farther."
+    - text: "we simply can't go any farther."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nTo be so close to discovery..."
+    - text: "\nTo be so close to discovery..."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 3
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk17:
     - utf16_bytes:
@@ -110,19 +110,19 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Hrmmm.
+    - text: Hrmmm.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This is impressive."
+    - text: " This is impressive."
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: "<"
+    - text: "<"
     - utf16_bytes:
         - 0
         - 0
@@ -133,7 +133,7 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Wow. With this much info, I can feel my\nspirit for discovery murmuring in\ncontentment.\nIt's definitely different, seeing something\nwith your own eyes rather than just\nreading about it. Thank you!"
+    - text: "Wow. With this much info, I can feel my\nspirit for discovery murmuring in\ncontentment.\nIt's definitely different, seeing something\nwith your own eyes rather than just\nreading about it. Thank you!"
     - utf16_bytes:
         - 0
   talk05:
@@ -143,7 +143,7 @@ entries:
         - 1
         - 2
         - 4
-    - ascii: "To think that there is actually a horse\nthis big out there. How surprising!"
+    - text: "To think that there is actually a horse\nthis big out there. How surprising!"
     - utf16_bytes:
         - 0
   talk06:
@@ -153,7 +153,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Ah, you're a lifesaver!"
+    - text: "Ah, you're a lifesaver!"
     - utf16_bytes:
         - 0
   talk19:
@@ -163,19 +163,19 @@ entries:
         - 1
         - 2
         - 2816
-    - ascii: "Ah, hmm."
+    - text: "Ah, hmm."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Quite interesting."
+    - text: " Quite interesting."
     - utf16_bytes:
         - 14
         - 1
         - 3
         - 4
-    - ascii: Z
+    - text: Z
     - utf16_bytes:
         - 0
         - 0
@@ -186,13 +186,13 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "I see. Well... Oh, well, then..."
+    - text: "I see. Well... Oh, well, then..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\n\n\nIf you change your mind, come back and\ntalk to me again!"
+    - text: "\n\n\nIf you change your mind, come back and\ntalk to me again!"
     - utf16_bytes:
         - 0
   talk08:
@@ -202,27 +202,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "How's it going?"
+    - text: "How's it going?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Have you made progress\nin studying the "
+    - text: " Have you made progress\nin studying the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: giant horse
+    - text: giant horse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 0
   talk09:
@@ -232,63 +232,63 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "They say that the "
+    - text: "They say that the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: giant horse
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " lives\naround the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Taobab Grassland
+    - text: giant horse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "... That'd\nbe northwest of here."
+    - text: " lives\naround the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Taobab Grassland
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "... That'd\nbe northwest of here."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: So...big...
+    - text: So...big...
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: Ohhh...
+    - text: Ohhh...
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: Leave it to me.
+    - text: Leave it to me.
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: Hey there!
+    - text: Hey there!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "I'm not interested."
+    - text: "I'm not interested."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Giant horse?
+    - text: Giant horse?
     - utf16_bytes:
         - 0
   talk10:
@@ -298,17 +298,17 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Do you think you could catch it and\nbring it back here?"
+    - text: "Do you think you could catch it and\nbring it back here?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Don't stress out\nover the request, though!"
+    - text: " Don't stress out\nover the request, though!"
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Monsters?
+    - text: Monsters?
     - utf16_bytes:
         - 0
   talk11:
@@ -317,12 +317,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: What do you want at this hour?
+    - text: စWhat do you want at this hour?
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Go ahead.
+    - text: Go ahead.
     - utf16_bytes:
         - 0
   talk12:
@@ -332,13 +331,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's gotten really late."
+    - text: "It's gotten really late."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Why not rest for\nthe night, hmm?"
+    - text: " Why not rest for\nthe night, hmm?"
     - utf16_bytes:
         - 0
   talk00:
@@ -347,42 +346,42 @@ entries:
         - 3
         - 1
         - 2
-        - 513
-    - ascii: Hey there!
+    - text: ȁHey there!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's not every day that I see\nsomeone all the way out here!\n\nWe're doing an ecological study on the\nwild animals in the area.\n\nWe'd heard that there was a "
+    - text: " It's not every day that I see\nsomeone all the way out here!\n\nWe're doing an ecological study on the\nwild animals in the area.\n\nWe'd heard that there was a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: giant horse
+    - text: giant horse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nliving in this region."
+    - text: "\nliving in this region."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Apparently it\ncan't be found anywhere else...\nThat was all we needed to hear!\nWe headed this way to investigate\nright away!"
+    - text: " Apparently it\ncan't be found anywhere else...\nThat was all we needed to hear!\nWe headed this way to investigate\nright away!"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 2
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk13:
     - utf16_bytes:
@@ -390,67 +389,66 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "That's right..."
+    - text: "ဋThat's right..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " There was even a monster\nthat looked quite a lot like a horse...\n\nI approached it, thinking at first that it\nwas the "
+    - text: " There was even a monster\nthat looked quite a lot like a horse...\n\nI approached it, thinking at first that it\nwas the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: giant horse
+    - text: giant horse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " we've been looking\nfor,"
+    - text: " we've been looking\nfor,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " but... "
+    - text: " but... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Oh, it was terrible...\n"
+    - text: "Oh, it was terrible...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Just from looking at you, I'd guess that\nyou're an adventurer, right?\nYou certainly look strong.\nHrm..."
+    - text: "Just from looking at you, I'd guess that\nyou're an adventurer, right?\nYou certainly look strong.\nHrm..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Hey, how would you like to go and\ncatch a "
+    - text: " Hey, how would you like to go and\ncatch a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: giant horse
+    - text: giant horse
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for us?"
+    - text: " for us?"
     - utf16_bytes:
         - 14
         - 1
@@ -458,7 +456,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk01:
     - utf16_bytes:
@@ -466,19 +465,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\nThat horse..."
+    - text: "\nThat horse..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's huge..."
+    - text: " It's huge..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\n\nI've never seen one that big! That is\ndefinitely an endemic species!"
+    - text: "\n\n\nI've never seen one that big! That is\ndefinitely an endemic species!"
     - utf16_bytes:
         - 0
   talk14:
@@ -487,26 +486,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Hey,"
+    - text: "ЀHey,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " we're out here doing an\necological study on the wildlife of\nthis area.\nSpecifically, we're here to look into\nreports of a giant horse.\n\n"
+    - text: " we're out here doing an\necological study on the wildlife of\nthis area.\nSpecifically, we're here to look into\nreports of a giant horse.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1
-    - ascii: And you brought it right to us!
+    - text: And you brought it right to us!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Thanks\nto you, we were able to meet the giant\nhorse without having to search!"
+    - text: " Thanks\nto you, we were able to meet the giant\nhorse without having to search!"
     - utf16_bytes:
         - 0

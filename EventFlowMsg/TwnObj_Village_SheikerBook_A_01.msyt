@@ -1,7 +1,7 @@
 ---
 entries:
   "0000":
-    - ascii: Read.
+    - text: Read.
     - utf16_bytes:
         - 0
   BookFirst:
@@ -10,7 +10,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Rumor Mill: Volume 1"
+    - text: "Rumor Mill: Volume 1"
     - utf16_bytes:
         - 14
         - 1
@@ -18,7 +18,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Book00:
     - utf16_bytes:
@@ -26,27 +27,22 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Who loves gossip more than a solid\nthree meals a day? Traysi, of course!\nAnd anyone else reading this, I'm sure!\nToday's top gossip spot is...\n\n\n"
+    - text: "Who loves gossip more than a solid\nthree meals a day? Traysi, of course!\nAnd anyone else reading this, I'm sure!\nToday's top gossip spot is...\n\n\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}The Lover's Pond!"
+    - text: "}The Lover's Pond!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nLegend says that those who find this\npond are sure to also find their true love!\nSounds worthwhile to me!\nTraysi's Recommendation: "
+    - text: "d\n\n\nLegend says that those who find this\npond are sure to also find their true love!\nSounds worthwhile to me!\nTraysi's Recommendation: ★★★★★"
     - utf16_bytes:
-        - 9733
-        - 9733
-        - 9733
-        - 9733
-        - 9733
         - 0
   "0001":
-    - ascii: "Don't read."
+    - text: "Don't read."
     - utf16_bytes:
         - 0

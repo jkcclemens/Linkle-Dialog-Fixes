@@ -6,20 +6,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "This journey... "
+    - text: "စThis journey... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm feeling a bit uneasy\nabout what lies ahead."
+    - text: "I'm feeling a bit uneasy\nabout what lies ahead."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Still, I refuse to\ngive up!"
+    - text: " Still, I refuse to\ngive up!"
     - utf16_bytes:
         - 0
   MSG_Futa_04_1:
@@ -28,26 +27,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
+    - text: စ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hateno Village "
+    - text: "Hateno Village "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "escaped the brunt of the\nGreat Calamity, but the peace enjoyed\nhere feels precarious..."
+    - text: "escaped the brunt of the\nGreat Calamity, but the peace enjoyed\nhere feels precarious..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Do you feel it?"
+    - text: " Do you feel it?"
     - utf16_bytes:
         - 0
   MSG_Futa_01_1:
@@ -56,28 +56,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I'm retracing Princess Zelda's steps."
+    - text: "ЀI'm retracing Princess Zelda's steps."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nNext, I'm off to the "
+    - text: "\nNext, I'm off to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nat Mount Lanayru."
+    - text: "\nat Mount Lanayru."
     - utf16_bytes:
         - 0
   RetMSG_Futa_03_1:
@@ -86,28 +85,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "This is the fortress said to have\nbeen built to stop the "
+    - text: "စThis is the fortress said to have\nbeen built to stop the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guardians
+    - text: Guardians
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWe have it to thank for our lives."
+    - text: "\nWe have it to thank for our lives."
     - utf16_bytes:
         - 0
   Thanks00:
@@ -117,7 +115,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Here. This is a small token of my thanks.
+    - text: Here. This is a small token of my thanks.
     - utf16_bytes:
         - 0
   RetMSG_Futa_00_1:
@@ -126,28 +124,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Spring of Wisdom "
+    - text: "Spring of Wisdom "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "has strong ties\nto Princess Zelda..."
+    - text: "has strong ties\nto Princess Zelda..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nIt is a place that the princesses of\nHyrule Castle have visited from\ngeneration to generation."
+    - text: "\n\nIt is a place that the princesses of\nHyrule Castle have visited from\ngeneration to generation."
     - utf16_bytes:
         - 0
   Atacked00:
@@ -156,14 +153,13 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: So terrifying...
+    - text: ⨃So terrifying...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " A real nightmare..."
+    - text: " A real nightmare..."
     - utf16_bytes:
         - 0
   Atacked01:
@@ -172,8 +168,7 @@ entries:
         - 3
         - 1
         - 2
-        - 10755
-    - ascii: "Maybe it would be better to just stay put\nuntil the monsters leave..."
+    - text: "⨃Maybe it would be better to just stay put\nuntil the monsters leave..."
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -182,14 +177,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: "Thank you! "
+    - text: "ଇThank you! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Really, I can't believe you\ndid that for me!"
+    - text: "Really, I can't believe you\ndid that for me!"
     - utf16_bytes:
         - 0
   SavedLv1_01:
@@ -198,14 +192,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: Thank you!
+    - text: ଇThank you!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Thank you so very much!"
+    - text: " Thank you so very much!"
     - utf16_bytes:
         - 0
   MSG_Futa_02_1:
@@ -214,28 +207,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The leader of "
+    - text: "ЀThe leader of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Kakariko Village "
+    - text: "Kakariko Village "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is a\nwonderful woman."
+    - text: "is a\nwonderful woman."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " If you can,\nyou should meet with her, as well."
+    - text: " If you can,\nyou should meet with her, as well."
     - utf16_bytes:
         - 0
   Rest_00:
@@ -245,19 +237,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I am in the midst of a journey, not unlike\nyou are."
+    - text: "I am in the midst of a journey, not unlike\nyou are."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Though, to be frank, mine is\nmore of a pilgrimage.\nI do hope that Princess Zelda's devout\nprayers for peace will touch the lives\nof others "
+    - text: " Though, to be frank, mine is\nmore of a pilgrimage.\nI do hope that Princess Zelda's devout\nprayers for peace will touch the lives\nof others "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: as they have touched mine.
+    - text: as they have touched mine.
     - utf16_bytes:
         - 0
   RetMSG_Futa_04_1:
@@ -266,28 +258,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The final destination of my journey is\nthe "
+    - text: "ЀThe final destination of my journey is\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I hope to feel\nPrincess Zelda's presence there."
+    - text: " I hope to feel\nPrincess Zelda's presence there."
     - utf16_bytes:
         - 0
   Rest_01:
@@ -296,26 +287,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I take a break from my pilgrimage\nwhenever it rains."
+    - text: "စI take a break from my pilgrimage\nwhenever it rains."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It gives me time\nfor introspection.\nIs my heart truly devoted to prayer?"
+    - text: " It gives me time\nfor introspection.\nIs my heart truly devoted to prayer?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nAm I deceiving myself in any way?"
+    - text: "\nAm I deceiving myself in any way?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou know, things like that."
+    - text: "\nYou know, things like that."
     - utf16_bytes:
         - 0
   Rest_02:
@@ -324,18 +314,17 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I wonder if this same rain is falling on\nHyrule Castle...\n\nMay the spirit of King Rhoam,\nPrincess Zelda's noble father,"
+    - text: "စI wonder if this same rain is falling on\nHyrule Castle...\n\nMay the spirit of King Rhoam,\nPrincess Zelda's noble father,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nbe at peace..."
+    - text: "\nbe at peace..."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "I'm somehow still safe..."
+    - text: "I'm somehow still safe..."
     - utf16_bytes:
         - 0
   RetMSG_Futa_01_1:
@@ -344,28 +333,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Spring of Wisdom "
+    - text: "Spring of Wisdom "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: at Mount Lanayru.
+    - text: at Mount Lanayru.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt is a storied spring... You can't tell me\nyou're not curious. Care to visit it?"
+    - text: "\nIt is a storied spring... You can't tell me\nyou're not curious. Care to visit it?"
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -374,18 +362,17 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: You saved me!
+    - text: ଇYou saved me!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I...I don't have the right\nwords to properly thank you..."
+    - text: " I...I don't have the right\nwords to properly thank you..."
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: Princess Zelda...
+    - text: Princess Zelda...
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -395,21 +382,21 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Because I was so sure I could take care\nof myself, I put you in the position of\nhaving to look after me. "
+    - text: "Because I was so sure I could take care\nof myself, I put you in the position of\nhaving to look after me. "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Heh, sorry!"
+    - text: "Heh, sorry!"
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: "I'm an adventurer..."
+    - text: "I'm an adventurer..."
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: "Stay away, monsters..."
+    - text: "Stay away, monsters..."
     - utf16_bytes:
         - 0
   MSG_Futa_00:
@@ -418,24 +405,23 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: The princess named Zelda...
+    - text: ȀThe princess named Zelda...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDo you know of her?\n\nShe's not just a fairy tale."
+    - text: "\nDo you know of her?\n\nShe's not just a fairy tale."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " She was a\nprincess who actually existed in the\nland of Hyrule.\nIn fact, I'm retracing Princess Zelda's\nfootsteps, trying to find the locations\nwhere she journeyed way back when.\nI think I'm probably moving a lot slower\nthan she did, though..."
+    - text: " She was a\nprincess who actually existed in the\nland of Hyrule.\nIn fact, I'm retracing Princess Zelda's\nfootsteps, trying to find the locations\nwhere she journeyed way back when.\nI think I'm probably moving a lot slower\nthan she did, though..."
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: "It's raining..."
+    - text: "It's raining..."
     - utf16_bytes:
         - 0
   MSG_Futa_01:
@@ -444,34 +430,33 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Who, me?"
+    - text: "ȀWho, me?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm just a traveler trying to\nretrace Princess Zelda's footsteps and\nre-create her journey.\nMy next stop is the "
+    - text: " I'm just a traveler trying to\nretrace Princess Zelda's footsteps and\nre-create her journey.\nMy next stop is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " at\nMount Lanayru."
+    - text: " at\nMount Lanayru."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " What might have\nPrincess Zelda found there?"
+    - text: " What might have\nPrincess Zelda found there?"
     - utf16_bytes:
         - 0
   MSG_Futa_02:
@@ -480,40 +465,39 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I, too, am a traveler. Or perhaps I should\nsay \"an adventurer.\" "
+    - text: "ȀI, too, am a traveler. Or perhaps I should\nsay \"an adventurer.\" "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Yes, that's the one.\n\nIn fact, I'm in the middle of a journey."
+    - text: "Yes, that's the one.\n\nIn fact, I'm in the middle of a journey."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI even had the great honor of meeting\nwith the leader of "
+    - text: "\nI even had the great honor of meeting\nwith the leader of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Kakariko Village
+    - text: Kakariko Village
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nShe is very knowledgeable of the\nhistory of Hyrule,"
+    - text: ".\nShe is very knowledgeable of the\nhistory of Hyrule,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and she is also\nblessed with a lovely personality."
+    - text: " and she is also\nblessed with a lovely personality."
     - utf16_bytes:
         - 0
   RetMSG_Futa_00:
@@ -522,28 +506,27 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Have you already been to the\n"
+    - text: "ȀHave you already been to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nIt is known that Princess Zelda visited\nthe spring in prayer. I have a great deal\nof love and respect for her."
+    - text: "\n\nIt is known that Princess Zelda visited\nthe spring in prayer. I have a great deal\nof love and respect for her."
     - utf16_bytes:
         - 0
   Guardian00:
@@ -552,14 +535,13 @@ entries:
         - 3
         - 1
         - 2
-        - 7944
-    - ascii: "Run away! Hurry, you must escape!"
+    - text: "ἈRun away! Hurry, you must escape!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nDon't let the Guardian see you!"
+    - text: "\nDon't let the Guardian see you!"
     - utf16_bytes:
         - 0
   MSG_Futa_03:
@@ -568,14 +550,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: The traces of an ancient battle linger...
+    - text: စThe traces of an ancient battle linger...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCountless precious lives must have been\nlost here..."
+    - text: "\nCountless precious lives must have been\nlost here..."
     - utf16_bytes:
         - 0
   RetMSG_Futa_01:
@@ -584,34 +565,33 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I do not know the purpose of your\njourney, but..."
+    - text: "ȀI do not know the purpose of your\njourney, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "there is a place that\nI recommend you pay a visit to.\nDeep in the recesses of Mount Lanayru\nlies the "
+    - text: "there is a place that\nI recommend you pay a visit to.\nDeep in the recesses of Mount Lanayru\nlies the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It is a storied\nspring to which I am making a pilgrimage."
+    - text: " It is a storied\nspring to which I am making a pilgrimage."
     - utf16_bytes:
         - 0
   MSG_Futa_04:
@@ -620,32 +600,33 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
+    - text: စ
+    - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hateno Village "
+    - text: "Hateno Village "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "managed to escape the\nbrunt of the Great Calamity,"
+    - text: "managed to escape the\nbrunt of the Great Calamity,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " yet somehow\nthe peace here feels so precarious...\nAs one who has traveled and seen so\nmuch of the world,"
+    - text: " yet somehow\nthe peace here feels so precarious...\nAs one who has traveled and seen so\nmuch of the world,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " surely you must\nfeel it too?"
+    - text: " surely you must\nfeel it too?"
     - utf16_bytes:
         - 0
   RetMSG_Futa_02:
@@ -654,14 +635,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "This area was once the site of an\nancient battle...\n\nUnlike other well-known ruins,"
+    - text: "စThis area was once the site of an\nancient battle...\n\nUnlike other well-known ruins,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I don't\nthink imagining what took place here\nwould be very satisfying.\nThe reason I say that is because none of\nthe old stories about the Great Calamity\nmention it being entirely defeated..."
+    - text: " I don't\nthink imagining what took place here\nwould be very satisfying.\nThe reason I say that is because none of\nthe old stories about the Great Calamity\nmention it being entirely defeated..."
     - utf16_bytes:
         - 0
   MSG_Futa_03_1:
@@ -670,14 +650,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Just think of all the lives that were\nlost here..."
+    - text: "စJust think of all the lives that were\nlost here..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " All we can do now is\npray that their souls found peace."
+    - text: " All we can do now is\npray that their souls found peace."
     - utf16_bytes:
         - 0
   RetMSG_Futa_03:
@@ -686,28 +665,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "These are the remains of a fortress that\nwas erected by villagers to try and halt\nthe advance of the "
+    - text: "စThese are the remains of a fortress that\nwas erected by villagers to try and halt\nthe advance of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guardians
+    - text: Guardians
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\nYou could safely say the fact that any\nof us are alive today"
+    - text: "...\nYou could safely say the fact that any\nof us are alive today"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " is all thanks to\nthis fortress here."
+    - text: " is all thanks to\nthis fortress here."
     - utf16_bytes:
         - 0
   RetMSG_Futa_04:
@@ -716,34 +694,33 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Do you have a final destination in mind\nfor your journey?"
+    - text: "ȀDo you have a final destination in mind\nfor your journey?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " The last place I want\nto visit is the "
+    - text: " The last place I want\nto visit is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spring of Wisdom
+    - text: Spring of Wisdom
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI really want to re-create the journey that\nPrincess Zelda experienced."
+    - text: ".\nI really want to re-create the journey that\nPrincess Zelda experienced."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I just love\nand respect her so very much..."
+    - text: " I just love\nand respect her so very much..."
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -752,14 +729,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: Thank you for saving me!
+    - text: ሀThank you for saving me!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Wow, that was\nso scary. I'm still shaking..."
+    - text: " Wow, that was\nso scary. I'm still shaking..."
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -768,14 +744,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: Thank you for helping me!
+    - text: ሀThank you for helping me!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm so sorry\nfor interrupting your journey..."
+    - text: " I'm so sorry\nfor interrupting your journey..."
     - utf16_bytes:
         - 0
   MSG_Futa_00_1:
@@ -784,14 +759,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Do you know about Princess Zelda?\n\n\nI'm retracing her steps to visit the places\nshe journeyed to."
+    - text: "ЀDo you know about Princess Zelda?\n\n\nI'm retracing her steps to visit the places\nshe journeyed to."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I wonder what she was\nfeeling at each of these locations..."
+    - text: " I wonder what she was\nfeeling at each of these locations..."
     - utf16_bytes:
         - 0
   RetMSG_Futa_02_1:
@@ -800,20 +774,19 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: An ancient battle took place here...
+    - text: စAn ancient battle took place here...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nEven just being near a place so full\nof tragic memories is painful.\nAll we can do..."
+    - text: "\nEven just being near a place so full\nof tragic memories is painful.\nAll we can do..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "is honor the brave lives\nthat were lost here..."
+    - text: "is honor the brave lives\nthat were lost here..."
     - utf16_bytes:
         - 0
   Failed00:
@@ -822,19 +795,18 @@ entries:
         - 3
         - 1
         - 2
-        - 4613
-    - ascii: You...
+    - text: ህYou...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: you saved me!
+    - text: you saved me!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I mean, unless I'm\nin heaven right now..."
+    - text: " I mean, unless I'm\nin heaven right now..."
     - utf16_bytes:
         - 0

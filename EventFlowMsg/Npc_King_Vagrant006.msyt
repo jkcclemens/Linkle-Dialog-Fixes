@@ -6,22 +6,21 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "The pins on your "
+    - text: "촂The pins on your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: map
+    - text: map
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " serve as reference\npoints for your travels. Just stick a pin\nanywhere you're interested in!"
+    - text: " serve as reference\npoints for your travels. Just stick a pin\nanywhere you're interested in!"
     - utf16_bytes:
         - 14
         - 1
@@ -29,7 +28,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   Kotsu01:
     - utf16_bytes:
@@ -37,36 +37,35 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "If you're searching for shrines, use the\n"
+    - text: "촂If you're searching for shrines, use the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "scope "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "on your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Sheikah Slate
+    - text: "scope "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "on your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Sheikah Slate
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   GoodBye02:
@@ -75,19 +74,20 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho! Wonderful!
+    - text: CustomLaughOho ho! Wonderful!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Just two more until\nyou can have my paraglider."
+    - text: " Just two more until\nyou can have my paraglider."
     - utf16_bytes:
         - 0
   FirstTalk12:
@@ -96,26 +96,26 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: "CustomLaughOho ho! \n\n\n"
+    - text: "CustomLaughOho ho! \n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Just a few tricks I've picked up\nafter many, many years in the wild..."
+    - text: "ĀJust a few tricks I've picked up\nafter many, many years in the wild..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nYou may take my advice or leave it."
+    - text: "\nYou may take my advice or leave it."
     - utf16_bytes:
         - 0
   Kotsu02:
@@ -124,8 +124,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52491
-    - ascii: "Must I keep repeating myself?\nYou really need to learn some\nself-reliance, my friend.\nJust check the pause screen if you ever\nneed a reminder of what you can do."
+    - text: "촋Must I keep repeating myself?\nYou really need to learn some\nself-reliance, my friend.\nJust check the pause screen if you ever\nneed a reminder of what you can do."
     - utf16_bytes:
         - 0
   GoodBye03:
@@ -134,19 +133,20 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho! Fantastic!
+    - text: CustomLaughOho ho! Fantastic!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Just one more until\nyou can have my paraglider."
+    - text: " Just one more until\nyou can have my paraglider."
     - utf16_bytes:
         - 0
   FirstTalk13:
@@ -156,19 +156,19 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "Experience, wisdom..."
+    - text: "Experience, wisdom..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: instinct?
+    - text: instinct?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nCall it what you will and believe\nit only if you so please."
+    - text: "\nCall it what you will and believe\nit only if you so please."
     - utf16_bytes:
         - 0
   FirstTalk14:
@@ -177,8 +177,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Go ahead and take a look if you feel\ninclined to do so."
+    - text: "ĀGo ahead and take a look if you feel\ninclined to do so."
     - utf16_bytes:
         - 0
   Talk00:
@@ -188,18 +187,17 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Having trouble finding the shrines?
+    - text: Having trouble finding the shrines?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   "1002":
-    - ascii: Help me out here.
+    - text: Help me out here.
     - utf16_bytes:
         - 0
   Talk01:
@@ -209,17 +207,17 @@ entries:
         - 1
         - 2
         - 3072
-    - ascii: So...
+    - text: So...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " How long were you planning on\ngoing au naturel? Just curious."
+    - text: " How long were you planning on\ngoing au naturel? Just curious."
     - utf16_bytes:
         - 0
   "1003":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   Talk02:
@@ -229,11 +227,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: The sun will set soon.
+    - text: The sun will set soon.
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: What is it?!
+    - text: What is it?!
     - utf16_bytes:
         - 0
   Talk03:
@@ -243,11 +241,11 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: The plateau is so quiet at night...
+    - text: The plateau is so quiet at night...
     - utf16_bytes:
         - 0
   "1004":
-    - ascii: Yes!
+    - text: Yes!
     - utf16_bytes:
         - 0
   Talk05:
@@ -257,15 +255,14 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Your shrine search is going well,\nis it not?"
+    - text: "Your shrine search is going well,\nis it not?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1004
-        - 1003
-        - 256
+    - text: ϬϫĀ
+    - utf16_bytes:
         - 0
   Talk06:
     - utf16_bytes:
@@ -274,24 +271,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: So then...
+    - text: So then...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Can I surmise that your shrine\nsearch is going well?"
+    - text: " Can I surmise that your shrine\nsearch is going well?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1004
-        - 1003
-        - 256
+    - text: ϬϫĀ
+    - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: What is this?!
+    - text: What is this?!
     - utf16_bytes:
         - 0
   FirstTalk00:
@@ -301,7 +297,7 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "I'm surprised it took you so long to\ncatch up with an old man like me!"
+    - text: "I'm surprised it took you so long to\ncatch up with an old man like me!"
     - utf16_bytes:
         - 14
         - 1
@@ -309,7 +305,8 @@ entries:
         - 6
         - 0
         - 1
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   FirstTalk01:
     - utf16_bytes:
@@ -317,19 +314,19 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: Oho ho!
+    - text: 초Oho ho!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Leave an old man his secrets."
+    - text: " Leave an old man his secrets."
     - utf16_bytes:
         - 0
   Clear3_00:
@@ -338,24 +335,23 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉You have cleared three shrines now.\nGood work.\n\nHowever..."
+    - text: "촉You have cleared three shrines now.\nGood work.\n\nHowever..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "there is still one more that\neludes you, correct?"
+    - text: "there is still one more that\neludes you, correct?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   "0000":
-    - ascii: How did you...
+    - text: How did you...
     - utf16_bytes:
         - 0
   FirstTalk02:
@@ -364,24 +360,24 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: "CustomLaughOho ho! So you think an old man like me\nneeds to fly to stay ahead of you?\n\n"
+    - text: "CustomLaughOho ho! So you think an old man like me\nneeds to fly to stay ahead of you?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: I still have a few tricks left in me.
+    - text: ĀI still have a few tricks left in me.
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Did you...fly here?
+    - text: Did you...fly here?
     - utf16_bytes:
         - 0
   FirstTalk03:
@@ -390,13 +386,14 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: "CustomLaughWell, you certainly took your time.\nDid you forget how to travel instantly?"
+    - text: "CustomLaughWell, you certainly took your time.\nDid you forget how to travel instantly?"
     - utf16_bytes:
         - 14
         - 1
@@ -404,64 +401,65 @@ entries:
         - 6
         - 2
         - 3
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: "No, I remember."
+    - text: "No, I remember."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: "Yep, I forgot..."
+    - text: "Yep, I forgot..."
     - utf16_bytes:
         - 0
   FirstTalk05:
-    - ascii: "Open the "
+    - text: "Open the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "map "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "on your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Sheikah Slate
+    - text: "map "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nand select one of the blue tower or\nshrine icons.\nIf you've registered that location to the\n"
+    - text: "on your "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: map
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you can travel there instantly."
+    - text: ",\nand select one of the blue tower or\nshrine icons.\nIf you've registered that location to the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: map
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you can travel there instantly."
     - utf16_bytes:
         - 0
   TerrorImpulse:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   FirstTalk06:
@@ -470,40 +468,39 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "I was observing you the entire time you\nwere searching for the shrines..."
+    - text: "ȀI was observing you the entire time you\nwere searching for the shrines..."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: How do you know?
+    - text: How do you know?
     - utf16_bytes:
         - 0
   FirstTalk07:
-    - ascii: "It's best to search for things from a\n"
+    - text: "It's best to search for things from a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: high vantage point
+    - text: high vantage point
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I doubt you need\na reminder of that, though.\nTaking in the view here can teach you\nmuch about shrine locations..."
+    - text: " I doubt you need\na reminder of that, though.\nTaking in the view here can teach you\nmuch about shrine locations..."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: I got it.
+    - text: I got it.
     - utf16_bytes:
         - 0
   Clear2_00:
@@ -512,22 +509,20 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: A spirited answer!
+    - text: 촇A spirited answer!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Yes, it appears you\nhave cleared two shrines now."
+    - text: " Yes, it appears you\nhave cleared two shrines now."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   FirstTalk08:
     - utf16_bytes:
@@ -535,15 +530,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Now then...\n\n\n"
+    - text: "ĀNow then...\n\n\n"
     - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: "I wanted you to join me up here so you\ncould use this as a vantage point to\nsearch for shrines."
+    - text: "촀I wanted you to join me up here so you\ncould use this as a vantage point to\nsearch for shrines."
     - utf16_bytes:
         - 0
   FirstTalk09:
@@ -552,8 +545,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Now then...
+    - text: ĀNow then...
     - utf16_bytes:
         - 14
         - 5
@@ -563,36 +555,35 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: " Have you been using the\n"
+    - text: "촂 Have you been using the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: scope
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " on your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Sheikah Slate
+    - text: scope
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\nYou can see all the shrines from up here.\nWhen you find one, just stick a pin in it."
+    - text: " on your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Sheikah Slate
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?\n\nYou can see all the shrines from up here.\nWhen you find one, just stick a pin in it."
     - utf16_bytes:
         - 0
   Near00:
@@ -602,7 +593,7 @@ entries:
         - 2
         - 24
         - 22
-    - ascii: CustomLaughOho ho!
+    - text: CustomLaughOho ho!
     - utf16_bytes:
         - 0
   Near01:
@@ -611,12 +602,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: One more...
+    - text: 촇One more...
     - utf16_bytes:
         - 0
   TerrorExplosion:
-    - ascii: Huh?!
+    - text: Huh?!
     - utf16_bytes:
         - 0
   Near02:
@@ -625,20 +615,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: Two more...
+    - text: 촇Two more...
     - utf16_bytes:
         - 0
   NakedPlayer:
-    - ascii: "Aren't you...a bit chilly?"
+    - text: "Aren't you...a bit chilly?"
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Easy there!
+    - text: Easy there!
     - utf16_bytes:
         - 0
   TerrorFire:
-    - ascii: Toasty...
+    - text: Toasty...
     - utf16_bytes:
         - 0
   Near03:
@@ -647,8 +636,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: Three more...
+    - text: 촇Three more...
     - utf16_bytes:
         - 0
   Clear1_00:
@@ -657,50 +645,49 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촊Your confidence is to be admired...\nbut you've only cleared one shrine."
+    - text: "촊Your confidence is to be admired...\nbut you've only cleared one shrine."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-        - 1002
-        - 1003
-        - 256
+    - text: ϪϫĀ
+    - utf16_bytes:
         - 0
   FirstTalk10:
-    - ascii: "Did you know about the "
+    - text: "Did you know about the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: scope
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\non your "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Sheikah Slate
+    - text: scope
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\n\nLook through it, and you can stick a pin\nanywhere you'd like to mark on the map."
+    - text: "\non your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Sheikah Slate
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?\n\nLook through it, and you can stick a pin\nanywhere you'd like to mark on the map."
     - utf16_bytes:
         - 0
   Kotsu00:
-    - ascii: "I just remembered something that may\nhelp you.\n\nYou can review some of the abilities\nyou've learned on the pause screen."
+    - text: "I just remembered something that may\nhelp you.\n\nYou can review some of the abilities\nyou've learned on the pause screen."
     - utf16_bytes:
         - 0
   GoodBye01:
@@ -709,32 +696,32 @@ entries:
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 1
         - 2
-        - 52488
-    - ascii: Oho ho!
+    - text: 초Oho ho!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " If you still wish to acquire the\n"
+    - text: " If you still wish to acquire the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: paraglider
+    - text: paraglider
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you must put in the effort.\nI will not simply give it away, you see."
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."
     - utf16_bytes:
         - 0

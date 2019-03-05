@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Mom's home cooking is the best!"
+    - text: "Mom's home cooking is the best!"
     - utf16_bytes:
         - 0
   talk15:
@@ -17,27 +17,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "How were the "
+    - text: "How were the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: ruins
+    - text: ruins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Were they\nexciting?"
+    - text: " Were they\nexciting?"
     - utf16_bytes:
         - 0
   talk16:
@@ -47,13 +47,13 @@ entries:
         - 1
         - 2
         - 1
-    - ascii: "Rain, rain..."
+    - text: "Rain, rain..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I love to run and jump and\nplay in the rain..."
+    - text: " I love to run and jump and\nplay in the rain..."
     - utf16_bytes:
         - 0
   talk04:
@@ -62,14 +62,13 @@ entries:
         - 3
         - 1
         - 2
-        - 8704
-    - ascii: "I'm going to sleep!"
+    - text: "∀I'm going to sleep!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nGood night!"
+    - text: "\nGood night!"
     - utf16_bytes:
         - 0
   talk05:
@@ -79,47 +78,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Have you heard?
+    - text: Have you heard?
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " There's this really\ninteresting spot at "
+    - text: " There's this really\ninteresting spot at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Palmorae Beach
+    - text: Palmorae Beach
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nI went there with Garini before, and it\nwas so exciting!\n\nHe said they were "
+    - text: ".\n\nI went there with Garini before, and it\nwas so exciting!\n\nHe said they were "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "ruins "
+    - text: "ruins "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: or something.
+    - text: or something.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nHey, miss, are you interested in old\nstuff like that?"
+    - text: "\nHey, miss, are you interested in old\nstuff like that?"
     - utf16_bytes:
         - 14
         - 1
@@ -127,7 +126,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk06:
     - utf16_bytes:
@@ -136,13 +136,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Then I'll take you there!"
+    - text: "Then I'll take you there!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nFollow me!"
+    - text: "\nFollow me!"
     - utf16_bytes:
         - 0
   talk07:
@@ -151,13 +151,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tWhaa, really?"
+        - 9
+    - text: "Whaa, really?"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " That's too bad."
+    - text: " That's too bad."
     - utf16_bytes:
         - 0
   talk08:
@@ -167,7 +168,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "We're not there yet!"
+    - text: "We're not there yet!"
     - utf16_bytes:
         - 0
   talk09:
@@ -176,32 +177,31 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: We made it!
+    - text: इWe made it!
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "It's rainy!"
+    - text: "It's rainy!"
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: "*yawn*"
+    - text: "*yawn*"
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I am!
+    - text: I am!
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: Eh. Not really.
+    - text: Eh. Not really.
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: This way! This way!
+    - text: This way! This way!
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: Zzz...
+    - text: Zzz...
     - utf16_bytes:
         - 0
   talk10:
@@ -211,7 +211,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "We're almost there.\nFollow me!"
+    - text: "We're almost there.\nFollow me!"
     - utf16_bytes:
         - 0
   talk11:
@@ -221,25 +221,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Those are the "
+    - text: "Those are the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: ruins
+    - text: ruins
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   Near06:
-    - ascii: Food. Foooood...
+    - text: Food. Foooood...
     - utf16_bytes:
         - 0
   talk12:
@@ -248,8 +248,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: See ya!
+    - text: ЀSee ya!
     - utf16_bytes:
         - 0
   talk00:
@@ -258,14 +257,13 @@ entries:
         - 3
         - 1
         - 2
-        - 6657
-    - ascii: "I'm gonna go have dinner!"
+    - text: "ᨁI'm gonna go have dinner!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI have to hurry back home!"
+    - text: "\nI have to hurry back home!"
     - utf16_bytes:
         - 0
   talk01:
@@ -274,8 +272,7 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-    - ascii: Zzz...
+    - text: ℀Zzz...
     - utf16_bytes:
         - 0
   talk14:
@@ -285,6 +282,6 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Tell Garini I said hi!
+    - text: Tell Garini I said hi!
     - utf16_bytes:
         - 0

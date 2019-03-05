@@ -1,11 +1,11 @@
 ---
 entries:
   TerrorExplosion:
-    - ascii: Whaaaaaaw!
+    - text: Whaaaaaaw!
     - utf16_bytes:
         - 0
   "0010":
-    - ascii: Actually...
+    - text: Actually...
     - utf16_bytes:
         - 0
   talk21:
@@ -15,7 +15,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's you..."
+    - text: "It's you..."
     - utf16_bytes:
         - 0
   talk22:
@@ -25,7 +25,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "My leg's healed up enough that I can at\nleast walk around. Sorry if I worried you.\n\nThat reminds me...\n"
+    - text: "My leg's healed up enough that I can at\nleast walk around. Sorry if I worried you.\n\nThat reminds me...\n"
     - utf16_bytes:
         - 0
   talk23:
@@ -35,27 +35,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You haven't told the "
+    - text: "You haven't told the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "elder "
+    - text: "elder "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "what\nhappened yet? "
+    - text: "what\nhappened yet? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "I think he should\nhear it straight from you."
+    - text: "I think he should\nhear it straight from you."
     - utf16_bytes:
         - 0
   talk24:
@@ -65,25 +65,25 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "elder "
+    - text: "elder "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is waiting. You should fill him\nin on the details."
+    - text: "is waiting. You should fill him\nin on the details."
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: "You're kidding me!"
+    - text: "You're kidding me!"
     - utf16_bytes:
         - 0
   talk25:
@@ -92,22 +92,21 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "OK. Tulin! Let's go to the "
+    - text: "ȀOK. Tulin! Let's go to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 0
   talk26:
@@ -116,25 +115,26 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "}"
+    - text: "}"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughHahaha!
+    - text: CustomLaughHahaha!
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk27:
@@ -144,31 +144,31 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "All right, Linkle."
+    - text: "All right, Linkle."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI'll be at the "
+    - text: "\nI'll be at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " if you need me."
+    - text: " if you need me."
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Whoa!
+    - text: Whoa!
     - utf16_bytes:
         - 0
   talk28:
@@ -177,28 +177,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "Well then...\n\n\nMy wounds are just about healed,"
+    - text: "ሀWell then...\n\n\nMy wounds are just about healed,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so\nwhen Tulin wakes up, I think I'll take him\nto the "
+    - text: " so\nwhen Tulin wakes up, I think I'll take him\nto the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
+    - text: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
     - utf16_bytes:
         - 0
   talk10:
@@ -207,22 +206,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I don't have a problem waiting for you,\nbut as soon as you give the word, I'm\nheaded off to the "
+    - text: "ЀI don't have a problem waiting for you,\nbut as soon as you give the word, I'm\nheaded off to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk29:
@@ -231,26 +229,25 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "Well then...\n\n\nOnce this rain lets up, I'm going to take\nTulin to the "
+    - text: "ሀWell then...\n\n\nOnce this rain lets up, I'm going to take\nTulin to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
+    - text: ".\n\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Take care.
+    - text: Take care.
     - utf16_bytes:
         - 0
   talk12:
@@ -260,80 +257,79 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Don't tell me...\n\n\nYou're the "
+    - text: "Don't tell me...\n\n\nYou're the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Hylian Champion
+    - text: Hylian Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?!\n\n\n...\n\n\n...\n\n\n"
+    - text: "?!\n\n\n...\n\n\n...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2567
-    - ascii: "Hahaha! "
+    - text: "ਇHahaha! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Good one, pal!\n\n\n"
+    - text: "Good one, pal!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 8
-    - ascii: "Everyone knows that all of the\n"
+    - text: "Everyone knows that all of the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Champions "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "were wiped out by\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Calamity Ganon
+    - text: "Champions "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " 100 years ago.\n"
+    - text: "were wiped out by\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Calamity Ganon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " 100 years ago.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "And even if they survived that, they'd be\nold geezers with canes instead of\nswords!"
+    - text: "And even if they survived that, they'd be\nold geezers with canes instead of\nswords!"
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: Me too.
+    - text: Me too.
     - utf16_bytes:
         - 0
   talk13:
@@ -353,35 +349,35 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "I let the "
+    - text: "I let the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "elder "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "know about what\nhappened with "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: "elder "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\nbut you should probably go talk to him."
+    - text: "know about what\nhappened with "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast Vah Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nbut you should probably go talk to him."
     - utf16_bytes:
         - 0
   talk14:
@@ -391,65 +387,64 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Hahah! "
+    - text: "Hahah! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Go on.\nThere's nothing to hide!\n\n"
+    - text: "Go on.\nThere's nothing to hide!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Your bowmanship...the way you move\nthrough the air."
+    - text: "Your bowmanship...the way you move\nthrough the air."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " There's no doubt about\nit, you have the blood of a "
+    - text: " There's no doubt about\nit, you have the blood of a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
+    - text: Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 5
-    - ascii: "What? "
+    - text: "What? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "You look like you've got\nsomething else to say."
+    - text: "You look like you've got\nsomething else to say."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: "\n"
+    - text: "\n촁"
     - utf16_bytes:
-        - 52481
         - 0
   "0008":
-    - ascii: Are you hurt?
+    - text: Are you hurt?
     - utf16_bytes:
         - 0
   talk16:
@@ -458,19 +453,19 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "You...\nI really owe you for what you did."
+    - text: "ȀYou...\nI really owe you for what you did."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 8
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0009":
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk17:
@@ -479,43 +474,42 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "It's fine."
+    - text: "ЀIt's fine."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Thanks to my wife, I've\nrecovered to the point where I can stand.\n\nActually,"
+    - text: " Thanks to my wife, I've\nrecovered to the point where I can stand.\n\nActually,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " my wife told me something\nabout you.\n\nShe says you're a descendant of the\n"
+    - text: " my wife told me something\nabout you.\n\nShe says you're a descendant of the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
+    - text: Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
-    - ascii: "\t"
+        - 9
+    - text: 촁
     - utf16_bytes:
-        - 52481
         - 0
   talk00:
     - utf16_bytes:
@@ -523,22 +517,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I guess you talked to the "
+    - text: "ЀI guess you talked to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: elder
+    - text: elder
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", then."
+    - text: ", then."
     - utf16_bytes:
         - 0
   talk01:
@@ -547,34 +540,33 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Bringing down "
+    - text: "ЀBringing down "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nlike that..."
+    - text: "\nlike that..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n\nTo tell you the truth, I might not have\nbeen able to do it alone."
+    - text: "\n\nTo tell you the truth, I might not have\nbeen able to do it alone."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Thanks again."
+    - text: " Thanks again."
     - utf16_bytes:
         - 0
   talk02:
@@ -583,42 +575,41 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "The "
+    - text: "ЀThe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "elder "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "said that the way\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "elder "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is perched\nup there now is its protective stance.\nThe beam of light that it's sending off..."
+    - text: "said that the way\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Divine Beast Vah Medoh "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "is perched\nup there now is its protective stance.\nThe beam of light that it's sending off..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI wonder what's at the other end."
+    - text: "\nI wonder what's at the other end."
     - utf16_bytes:
         - 0
   talk03:
@@ -627,45 +618,44 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "What's next for you?\nCharging headlong into danger?\n\n"
+    - text: "؋What's next for you?\nCharging headlong into danger?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: As for me...
+    - text: As for me...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Heh,"
+    - text: " Heh,"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I guess I'll be\nbabysitting Tulin at the "
+    - text: " I guess I'll be\nbabysitting Tulin at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: Nice try!
+    - text: Nice try!
     - utf16_bytes:
         - 0
   talk07:
@@ -674,28 +664,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: Well then...
+    - text: ሀWell then...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I should probably get Tulin\nover to the "
+    - text: " I should probably get Tulin\nover to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". "
+    - text: ". "
     - utf16_bytes:
         - 14
         - 1
@@ -703,7 +692,8 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk30:
     - utf16_bytes:
@@ -711,22 +701,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "When Tulin wakes up, I'm going to take\nhim to the "
+    - text: "ЀWhen Tulin wakes up, I'm going to take\nhim to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk31:
@@ -735,22 +724,21 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "When this rain lets up, I think I'll take\nTulin to the "
+    - text: "ЀWhen this rain lets up, I think I'll take\nTulin to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk08:
@@ -759,87 +747,83 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Hmm...
+    - text: ЀHmm...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI see you've got the "
+    - text: "\nI see you've got the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Great Eagle Bow
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nfrom the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: elder
+    - text: Great Eagle Bow
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". \nThat thing is way too heavy to use in\naerial fighting"
+    - text: "\nfrom the "
     - utf16_bytes:
-        - 8212
-    - ascii: "I'd end up sacrificing\nall of my speed just to take a shot.\n"
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: elder
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". \nThat thing is way too heavy to use in\naerial fighting—I'd end up sacrificing\nall of my speed just to take a shot.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Now, if I had both the strength and\nspeed of Master Revali, that would be a\ndifferent story...\n"
+    - text: "Now, if I had both the strength and\nspeed of Master Revali, that would be a\ndifferent story...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "But seeing the way you handled your\nbow against "
+    - text: "But seeing the way you handled your\nbow against "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", I suggested we\nlet you borrow the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Great Eagle Bow
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nTake it with you on your adventure,\nalong with the respect of the Rito..."
+    - text: ", I suggested we\nlet you borrow the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Great Eagle Bow
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nTake it with you on your adventure,\nalong with the respect of the Rito..."
     - utf16_bytes:
         - 0
   talk09:
@@ -848,28 +832,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "Well then...\n\n\nMy wounds are just about healed,"
+    - text: "ሀWell then...\n\n\nMy wounds are just about healed,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " so I \nguess it's time for me to take Tulin\nto the "
+    - text: " so I \nguess it's time for me to take Tulin\nto the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
+    - text: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
     - utf16_bytes:
         - 14
         - 1
@@ -877,5 +860,6 @@ entries:
         - 6
         - 4
         - 5
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0

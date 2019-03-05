@@ -6,8 +6,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Us Gorons have pretty thick skin, so we\ncan take a lot of punishment."
+    - text: "ȀUs Gorons have pretty thick skin, so we\ncan take a lot of punishment."
     - utf16_bytes:
         - 0
   Com_Talk_00:
@@ -16,12 +15,11 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: What do you want to sell?
+    - text: 촂What do you want to sell?
     - utf16_bytes:
         - 0
   Com_Talk_01:
-    - ascii: "I can give you "
+    - text: "I can give you "
     - utf16_bytes:
         - 14
         - 0
@@ -31,28 +29,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nWhat do you think?"
+    - text: ".\nWhat do you think?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_02:
     - utf16_bytes:
@@ -60,13 +57,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉It's been a pleasure!"
+    - text: "촉It's been a pleasure!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nNeed anything else?"
+    - text: "\nNeed anything else?"
     - utf16_bytes:
         - 0
   MSG_Orud_00_1:
@@ -76,27 +73,27 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "The chunks of ore I dug up from "
+    - text: "The chunks of ore I dug up from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Death\nMountain "
+    - text: "Death\nMountain "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: are pretty high quality.
+    - text: are pretty high quality.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Take a\nlook and you'll dig 'em too!"
+    - text: " Take a\nlook and you'll dig 'em too!"
     - utf16_bytes:
         - 0
   Com_Talk_04:
@@ -105,30 +102,27 @@ entries:
         - 4
         - 1
         - 2
-        - 52497
-    - ascii: Oh...
+    - text: 촑Oh...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Well, that's too bad."
+    - text: " Well, that's too bad."
     - utf16_bytes:
         - 0
   Com_Talk_10:
-    - ascii: We have a deal?
+    - text: We have a deal?
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_05:
-    - ascii: "I'll buy anything. Just try me!"
+    - text: "I'll buy anything. Just try me!"
     - utf16_bytes:
         - 0
   Com_Talk_11:
@@ -137,7 +131,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촉Good doing business with you!
+    - text: 촉Good doing business with you!
     - utf16_bytes:
         - 0
   RetMSG_Orud_02_1:
@@ -147,39 +141,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Getting hit by a "
+    - text: "Getting hit by a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "magma bomb "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "even hurts\nus Gorons!\n\nIf you're thinking about going for a climb\non "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Death Mountain
+    - text: "magma bomb "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", you had better\nbe careful."
+    - text: "even hurts\nus Gorons!\n\nIf you're thinking about going for a climb\non "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Death Mountain
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you had better\nbe careful."
     - utf16_bytes:
         - 0
   Com_Talk_06:
-    - ascii: What caught your eye?
+    - text: What caught your eye?
     - utf16_bytes:
         - 0
   Com_Talk_12:
@@ -188,14 +182,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "I have some rare ore burning a hole in\nmy pack!"
+    - text: "촂I have some rare ore burning a hole in\nmy pack!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Take your time looking it over,\nand let me know what you want."
+    - text: " Take your time looking it over,\nand let me know what you want."
     - utf16_bytes:
         - 0
   Com_Talk_02b:
@@ -204,7 +197,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Thanks for your business, brother!"
+    - text: "촉Thanks for your business, brother!"
     - utf16_bytes:
         - 0
   Com_Talk_07:
@@ -213,27 +206,24 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: 촊Uh-oh.
+    - text: 촊Uh-oh.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Looks like I'm all sold out of that\nfor now."
+    - text: " Looks like I'm all sold out of that\nfor now."
     - utf16_bytes:
         - 0
   Com_Talk_13:
-    - ascii: How many would you like to part with?
+    - text: How many would you like to part with?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Com_Talk_02c:
     - utf16_bytes:
@@ -241,8 +231,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Thank you very much, brother."
+    - text: "촇Thank you very much, brother."
     - utf16_bytes:
         - 0
   Com_Talk_08:
@@ -251,18 +240,17 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Looks like you're short on rupees."
+    - text: "촎Looks like you're short on rupees."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nScrounge some up and get back to me."
+    - text: "\nScrounge some up and get back to me."
     - utf16_bytes:
         - 0
   Com_Talk_14:
-    - ascii: "That'll get ya "
+    - text: "That'll get ya "
     - utf16_bytes:
         - 14
         - 0
@@ -272,28 +260,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nSound like a deal?"
+    - text: ".\nSound like a deal?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_20:
     - utf16_bytes:
@@ -301,21 +288,21 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉This weather has me in a rare mood to\nsell rare ore. How about a "
+    - text: "촉This weather has me in a rare mood to\nsell rare ore. How about a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: diamond
+    - text: diamond
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?\nYou interested in rare items?"
+    - text: "?\nYou interested in rare items?"
     - utf16_bytes:
         - 0
   Com_Talk_02d:
@@ -324,8 +311,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "I appreciate your business, brother!"
+    - text: "촇I appreciate your business, brother!"
     - utf16_bytes:
         - 0
   Com_Talk_09:
@@ -334,14 +320,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Your inventory is full...
+    - text: 촎Your inventory is full...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You can toss\nsomething out to make some space,\nor I can buy some items off you."
+    - text: " You can toss\nsomething out to make some space,\nor I can buy some items off you."
     - utf16_bytes:
         - 0
   Com_Talk_15:
@@ -350,14 +335,13 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Nope, can't buy that from you."
+    - text: "촎Nope, can't buy that from you."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nJust can't do it!"
+    - text: "\nJust can't do it!"
     - utf16_bytes:
         - 0
   Thanks00:
@@ -366,20 +350,19 @@ entries:
         - 3
         - 1
         - 2
-        - 257
-    - ascii: I survived?
+    - text: āI survived?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " All right!"
+    - text: " All right!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Here, take this as\na thank you, brother."
+    - text: " Here, take this as\na thank you, brother."
     - utf16_bytes:
         - 0
   Com_Talk_16:
@@ -388,20 +371,19 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: "Oh... I can't buy clothes while\nyou're still wearing them."
+    - text: "촎Oh... I can't buy clothes while\nyou're still wearing them."
     - utf16_bytes:
         - 0
   Com_Talk_30:
-    - ascii: "That'll cost "
+    - text: "That'll cost "
     - utf16_bytes:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
         - 14
@@ -409,36 +391,31 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Sound good?"
+    - text: ". Sound good?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   Com_Talk_31:
-    - ascii: How many do you want?
+    - text: How many do you want?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   MSG_Orud_04_1:
     - utf16_bytes:
@@ -447,21 +424,21 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Ah, "
+    - text: "Ah, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Foothill Stable
+    - text: Foothill Stable
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " sure is nice and cool.\nOr maybe..."
+    - text: " sure is nice and cool.\nOr maybe..."
     - utf16_bytes:
         - 14
         - 5
@@ -472,14 +449,14 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Goron City "
+    - text: "Goron City "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is just really hot.
+    - text: is just really hot.
     - utf16_bytes:
         - 0
   Atacked00:
@@ -489,17 +466,17 @@ entries:
         - 1
         - 2
         - 3076
-    - ascii: "I'll just pretend to be a boulder until\nthey go away."
+    - text: "I'll just pretend to be a boulder until\nthey go away."
     - utf16_bytes:
         - 0
   Com_Talk_33:
-    - ascii: Just one?
+    - text: Just one?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I can do "
+    - text: " I can do "
     - utf16_bytes:
         - 14
         - 0
@@ -509,28 +486,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Atacked01:
     - utf16_bytes:
@@ -539,25 +515,25 @@ entries:
         - 1
         - 2
         - 3076
-    - ascii: Is that all of them?
+    - text: Is that all of them?
     - utf16_bytes:
         - 0
   Com_Talk_34:
-    - ascii: You want to buy all that I have?
+    - text: You want to buy all that I have?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nLooks like "
+    - text: "\nLooks like "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " will run ya "
+    - text: " will run ya "
     - utf16_bytes:
         - 14
         - 0
@@ -567,45 +543,44 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_35:
-    - ascii: "All "
+    - text: "All "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Well, I can give you...\n"
+    - text: " Well, I can give you...\n"
     - utf16_bytes:
         - 14
         - 0
@@ -615,28 +590,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " total."
+    - text: " total."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_36:
     - utf16_bytes:
@@ -644,13 +618,13 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉That's the last of it. I'm all sold out!"
+    - text: "촉That's the last of it. I'm all sold out!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThanks for your business, brother!"
+    - text: "\nThanks for your business, brother!"
     - utf16_bytes:
         - 0
   MSG_Orud_01_1:
@@ -660,41 +634,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A "
+    - text: "A "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "fireproof elixir "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "will help a little Hylian\nlike you stand up to this heat. Just cook\na "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "fireproof lizard "
+    - text: "fireproof elixir "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: with a...
+    - text: "will help a little Hylian\nlike you stand up to this heat. Just cook\na "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "fireproof lizard "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: with a...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " With a, um...\nHuh. I just can't remember."
+    - text: " With a, um...\nHuh. I just can't remember."
     - utf16_bytes:
         - 0
   SavedLv1_00:
@@ -703,12 +677,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: Those monsters are pretty scary.
+    - text: ሀThose monsters are pretty scary.
     - utf16_bytes:
         - 0
   Com_Talk_05b:
-    - ascii: "I'll buy whatever it is you're selling."
+    - text: "I'll buy whatever it is you're selling."
     - utf16_bytes:
         - 0
   Com_Talk_11b:
@@ -717,7 +690,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Thank you for stopping by, brother!"
+    - text: "촉Thank you for stopping by, brother!"
     - utf16_bytes:
         - 0
   Com_Talk_37:
@@ -726,30 +699,28 @@ entries:
         - 4
         - 1
         - 2
-        - 52480
-    - ascii: "Kairo's ore shop is all sold out, but do\nyou want a sneak peek of what I'll have\nafter I restock in "
+    - text: "촀Kairo's ore shop is all sold out, but do\nyou want a sneak peek of what I'll have\nafter I restock in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron City
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   MSG_Orud_00:
     - utf16_bytes:
@@ -758,35 +729,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "My hometown of "
+    - text: "My hometown of "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron City
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is the fifth\nstop up the trail. I'm just out here selling\nthe ore I dug up from "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Death Mountain
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: " is the fifth\nstop up the trail. I'm just out here selling\nthe ore I dug up from "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Death Mountain
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   Talk01:
@@ -795,14 +766,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "All right, let's get down to brass tacks."
+    - text: "ĀAll right, let's get down to brass tacks."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nFeel free to browse my wares!"
+    - text: "\nFeel free to browse my wares!"
     - utf16_bytes:
         - 14
         - 1
@@ -811,7 +781,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   SavedLv1_01:
     - utf16_bytes:
@@ -819,12 +790,11 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: We are not the monsters here!
+    - text: ȀWe are not the monsters here!
     - utf16_bytes:
         - 0
   Com_Talk_05c:
-    - ascii: "If you have anything you don't need, I'll\nbe glad to buy it off you."
+    - text: "If you have anything you don't need, I'll\nbe glad to buy it off you."
     - utf16_bytes:
         - 0
   Com_Talk_11c:
@@ -833,8 +803,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "Thanks, brother!"
+    - text: "촇Thanks, brother!"
     - utf16_bytes:
         - 0
   MSG_Orud_01:
@@ -844,47 +813,47 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "You do not look to be made of rock,\nso here's some advice:"
+    - text: "You do not look to be made of rock,\nso here's some advice:"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " you'll need some\nfire protection if you go any farther.\nI recommend a "
+    - text: " you'll need some\nfire protection if you go any farther.\nI recommend a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fireproof elixir
+    - text: fireproof elixir
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". You can\nmake it by cooking a "
+    - text: ". You can\nmake it by cooking a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: fireproof lizard
+    - text: fireproof lizard
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nwith a..."
+    - text: "\nwith a..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " A, um...\nHuh, I forget what else."
+    - text: " A, um...\nHuh, I forget what else."
     - utf16_bytes:
         - 0
   Talk02:
@@ -893,14 +862,13 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Thanks, brother!"
+    - text: "ĀThanks, brother!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Need anything else?"
+    - text: " Need anything else?"
     - utf16_bytes:
         - 14
         - 1
@@ -909,10 +877,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Com_Talk_05d:
-    - ascii: I can buy some things from you.
+    - text: I can buy some things from you.
     - utf16_bytes:
         - 0
   Com_Talk_11d:
@@ -921,8 +890,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "I appreciate your business, brother!"
+    - text: "촇I appreciate your business, brother!"
     - utf16_bytes:
         - 0
   MSG_Orud_02:
@@ -932,28 +900,27 @@ entries:
         - 1
         - 2
         - 3075
-    - ascii: "I got plain sick and tired of working the\nGoron Hot Springs in "
+    - text: "I got plain sick and tired of working the\nGoron Hot Springs in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron City
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", so I\ndecided to just up and leave.\n"
+    - text: ", so I\ndecided to just up and leave.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I'm going to see the world! I want to see\nsomewhere cold, I want to see green\ntrees and hills!"
+    - text: "ĀI'm going to see the world! I want to see\nsomewhere cold, I want to see green\ntrees and hills!"
     - utf16_bytes:
         - 0
   RetMSG_Orud_00:
@@ -968,21 +935,20 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Goron City
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is the fifth stop on this road.\nLook out for the swirling waves of heat,\nrock slides, and lurking monsters.\n"
+    - text: " is the fifth stop on this road.\nLook out for the swirling waves of heat,\nrock slides, and lurking monsters.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I make it sound like a lot of fun, but it's\nactually pretty dangerous. But those\naren't the reasons I left in such a hurry.\nI left home to start my new life as a\ntraveling salesrock. I'm gonna see the\nworld and sell ore to everyone I meet!"
+    - text: "ĀI make it sound like a lot of fun, but it's\nactually pretty dangerous. But those\naren't the reasons I left in such a hurry.\nI left home to start my new life as a\ntraveling salesrock. I'm gonna see the\nworld and sell ore to everyone I meet!"
     - utf16_bytes:
         - 0
   RetMSG_Orud_03_1:
@@ -992,35 +958,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: mountain road
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " is pretty dangerous\nbecause of how hot it gets.\n\nIf you're taking a trip to "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Goron City
+    - text: mountain road
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", be\nsure to bring some fire protection."
+    - text: " is pretty dangerous\nbecause of how hot it gets.\n\nIf you're taking a trip to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Goron City
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", be\nsure to bring some fire protection."
     - utf16_bytes:
         - 0
   MSG_Orud_03:
@@ -1030,28 +996,27 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you're thinking of checking out "
+    - text: "If you're thinking of checking out "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Goron\nCity"
+    - text: "Goron\nCity"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s Goron Hot Springs, be careful of\nthe magma bombs on the way.\n"
+    - text: "'s Goron Hot Springs, be careful of\nthe magma bombs on the way.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "I've been away from home for a while, so\nI can't say whether or not they're falling\nright now, but be careful, little Hylian!"
+    - text: "ċI've been away from home for a while, so\nI can't say whether or not they're falling\nright now, but be careful, little Hylian!"
     - utf16_bytes:
         - 0
   RetMSG_Orud_01:
@@ -1060,50 +1025,49 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "I wonder how my old buddy "
+    - text: "ဋI wonder how my old buddy "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Yunobo "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "back\nin "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Goron City
+    - text: "Yunobo "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is doing.\n\nNice guy, that "
+    - text: "back\nin "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: Yunobo
+        - 2
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Always a pleasure\nto chomp the ore with."
+    - text: " is doing.\n\nNice guy, that "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Yunobo
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Always a pleasure\nto chomp the ore with."
     - utf16_bytes:
         - 0
   MSG_Orud_04:
@@ -1118,27 +1082,26 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Foothill Stable "
+    - text: "Foothill Stable "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is nice and cool! I have\nnever felt anything like it! Ahh, the cool\nair really soothes the skin.\n"
+    - text: "is nice and cool! I have\nnever felt anything like it! Ahh, the cool\nair really soothes the skin.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Huh?
+    - text: ĀHuh?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You look a bit warm... Could it be\nthat even this cool weather is too hot\nfor a little Hylian like you?"
+    - text: " You look a bit warm... Could it be\nthat even this cool weather is too hot\nfor a little Hylian like you?"
     - utf16_bytes:
         - 0
   RetMSG_Orud_02:
@@ -1148,13 +1111,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Is it normal for magma bombs to not rain\ndown nonstop?"
+    - text: "Is it normal for magma bombs to not rain\ndown nonstop?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I just don't understand\nthe weather around here."
+    - text: " I just don't understand\nthe weather around here."
     - utf16_bytes:
         - 0
   Rest_00:
@@ -1164,27 +1127,27 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Does a little Hylian like you know about\n"
+    - text: "Does a little Hylian like you know about\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron City
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " As you might have guessed,\nit's where the Gorons live!"
+    - text: " As you might have guessed,\nit's where the Gorons live!"
     - utf16_bytes:
         - 0
   RetMSG_Orud_03:
@@ -1194,41 +1157,41 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "road up the volcano "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "is so hot, it's\ndangerous for non-Gorons to travel.\n\nIf your heart is really set on a trip to\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Goron City
+    - text: "road up the volcano "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", be sure to bring some fire\nprotection."
+    - text: "is so hot, it's\ndangerous for non-Gorons to travel.\n\nIf your heart is really set on a trip to\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Goron City
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", be sure to bring some fire\nprotection."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Don't say I didn't warn ya!"
+    - text: " Don't say I didn't warn ya!"
     - utf16_bytes:
         - 0
   Rest_01:
@@ -1238,29 +1201,29 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Goron bodies are as tough as rocks.\nImpervious to heat, strong against\nscissors, and weak to paper.\nNo, wait..."
+    - text: "Goron bodies are as tough as rocks.\nImpervious to heat, strong against\nscissors, and weak to paper.\nNo, wait..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " That is..."
+    - text: " That is..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Yes."
+    - text: " Yes."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI definitely confused Gorons with\nrock-paper-scissors."
+    - text: "\nI definitely confused Gorons with\nrock-paper-scissors."
     - utf16_bytes:
         - 0
   "5500":
-    - ascii: Sounds good to me!
+    - text: Sounds good to me!
     - utf16_bytes:
         - 0
   RetMSG_Orud_04:
@@ -1270,23 +1233,23 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Us Gorons make a living by mining ore.
+    - text: Us Gorons make a living by mining ore.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nWe eat the rocks we dig up as we mine,\nso we get to snack all day!"
+    - text: "\nWe eat the rocks we dig up as we mine,\nso we get to snack all day!"
     - utf16_bytes:
         - 0
   Com_Talk_56:
-    - ascii: Only one?
+    - text: Only one?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That'll cost you...\n"
+    - text: " That'll cost you...\n"
     - utf16_bytes:
         - 14
         - 0
@@ -1296,32 +1259,30 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Sound good?"
+    - text: ". Sound good?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "5501":
-    - ascii: On second thought...
+    - text: On second thought...
     - utf16_bytes:
         - 0
   RetMSG_Orud_00_1:
@@ -1336,44 +1297,44 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Goron City "
+    - text: "Goron City "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is the fifth stop on this road.
+    - text: is the fifth stop on this road.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nIt can be a pretty dangerous place, but\nthere's a lot of ore to be mined."
+    - text: "\nIt can be a pretty dangerous place, but\nthere's a lot of ore to be mined."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: I wanna buy.
+    - text: I wanna buy.
     - utf16_bytes:
         - 0
   "5502":
-    - ascii: "I'll take it."
+    - text: "I'll take it."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: I wanna sell.
+    - text: I wanna sell.
     - utf16_bytes:
         - 0
   "5503":
-    - ascii: Maybe next time.
+    - text: Maybe next time.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "That's it for now."
+    - text: "That's it for now."
     - utf16_bytes:
         - 0
   Near00:
-    - ascii: "Let's find some ore to sell."
+    - text: "Let's find some ore to sell."
     - utf16_bytes:
         - 0
   SavedLv2_00:
@@ -1382,12 +1343,11 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: That was a close one!
+    - text: ሀThat was a close one!
     - utf16_bytes:
         - 0
   Near01:
-    - ascii: I could go for a good ore.
+    - text: I could go for a good ore.
     - utf16_bytes:
         - 0
   SavedLv2_01:
@@ -1397,27 +1357,27 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Phew. I'm saved!"
+    - text: "Phew. I'm saved!"
     - utf16_bytes:
         - 0
   Near02:
-    - ascii: What great scenery.
+    - text: What great scenery.
     - utf16_bytes:
         - 0
   Near03:
-    - ascii: "I'm digging this greenery."
+    - text: "I'm digging this greenery."
     - utf16_bytes:
         - 0
   "5507":
-    - ascii: "I'll take 'em all!"
+    - text: "I'll take 'em all!"
     - utf16_bytes:
         - 0
   Near04:
-    - ascii: "I'm getting soaked!"
+    - text: "I'm getting soaked!"
     - utf16_bytes:
         - 0
   "5508":
-    - ascii: All of them.
+    - text: All of them.
     - utf16_bytes:
         - 0
   MSG_Orud_02_1:
@@ -1427,21 +1387,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "I am more suited to the life of a traveling\nmerchant for sure. The scenery is much\nnicer than the "
+    - text: "I am more suited to the life of a traveling\nmerchant for sure. The scenery is much\nnicer than the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron Hot Springs
+    - text: Goron Hot Springs
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   Guardian00:
@@ -1450,28 +1410,27 @@ entries:
         - 3
         - 1
         - 2
-        - 5636
-    - ascii: "A "
+    - text: "ᘄA "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Guardian
+    - text: Guardian
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "'s beam can turn boulders\ninto pebbles!"
+    - text: "'s beam can turn boulders\ninto pebbles!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I'm out of here!"
+    - text: " I'm out of here!"
     - utf16_bytes:
         - 0
   RetMSG_Orud_04_1:
@@ -1481,13 +1440,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "It's a Goron's nature to live in harmony\nwith rocks."
+    - text: "It's a Goron's nature to live in harmony\nwith rocks."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I make a living selling the ore\nI dig up, and I eat the tastier stones!"
+    - text: " I make a living selling the ore\nI dig up, and I eat the tastier stones!"
     - utf16_bytes:
         - 0
   SavedLv3_00:
@@ -1497,7 +1456,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Looks like I'll live to sell another day!"
+    - text: "Looks like I'll live to sell another day!"
     - utf16_bytes:
         - 0
   SavedLv3_01:
@@ -1507,7 +1466,7 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "We had better make a break for it while\nwe can."
+    - text: "We had better make a break for it while\nwe can."
     - utf16_bytes:
         - 0
   RetMSG_Orud_01_1:
@@ -1516,54 +1475,53 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "I wonder if my old buddy "
+    - text: "ဋI wonder if my old buddy "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Yunobo "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "back in "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Goron\nCity "
+    - text: "Yunobo "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: is doing well.
+    - text: "back in "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Goron\nCity "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: is doing well.
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\nOops."
+    - text: "d\nOops."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Ya caught me talking to myself."
+    - text: " Ya caught me talking to myself."
     - utf16_bytes:
         - 0
   GoodBye00:
@@ -1573,7 +1531,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Maybe we'll meet again down the road!"
+    - text: "Maybe we'll meet again down the road!"
     - utf16_bytes:
         - 0
   MSG_Orud_03_1:
@@ -1583,35 +1541,35 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you're heading to "
+    - text: "If you're heading to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Goron City
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "'s famed\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Goron Hot Springs
+    - text: Goron City
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", watch out for\nmagma bombs on the way.\nI haven't had to worry about them since\nleaving to travel the world, and I do NOT\nmiss dodging those things."
+    - text: "'s famed\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Goron Hot Springs
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", watch out for\nmagma bombs on the way.\nI haven't had to worry about them since\nleaving to travel the world, and I do NOT\nmiss dodging those things."
     - utf16_bytes:
         - 0
   Failed00:
@@ -1620,7 +1578,6 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Eating me will do you no good! You will\njust break your teeth!"
+    - text: "ȀEating me will do you no good! You will\njust break your teeth!"
     - utf16_bytes:
         - 0

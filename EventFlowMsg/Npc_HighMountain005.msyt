@@ -6,44 +6,45 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᘊ
+    - text: ᘊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Descendant!"
+    - text: "}Descendant!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nDescendant!"
+    - text: "d\n\n\nDescendant!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Are you all right?\n\n\n"
+    - text: " Are you all right?\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tMy apologies..."
+        - 9
+    - text: My apologies...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI fear I have said far too much...\n\n"
+    - text: "\nI fear I have said far too much...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "If there is anything you do not\nunderstand, please do not hesitate to\nask."
+    - text: "If there is anything you do not\nunderstand, please do not hesitate to\nask."
     - utf16_bytes:
         - 0
   talk36:
@@ -53,7 +54,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Revali's Landing is a memorial\nfor the Rito Champion, Revali...\n\nSo named in the hope that none might\nforget the events of that horrible day..."
+    - text: "Revali's Landing is a memorial\nfor the Rito Champion, Revali...\n\nSo named in the hope that none might\nforget the events of that horrible day..."
     - utf16_bytes:
         - 0
   talk37:
@@ -62,14 +63,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3078
-    - ascii: I am on my way to bed.
+    - text: ఆI am on my way to bed.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWe can talk later..."
+    - text: "\nWe can talk later..."
     - utf16_bytes:
         - 0
   talk20:
@@ -79,13 +79,13 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: You met my husband?
+    - text: You met my husband?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAhhh... That is a relief."
+    - text: "\nAhhh... That is a relief."
     - utf16_bytes:
         - 0
   talk38:
@@ -94,41 +94,39 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you need my husband, he took Tulin"
+    - text: "ĀIf you need my husband, he took Tulin"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nto the "
+    - text: "\nto the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "Now that we are at peace again,"
+    - text: "ăNow that we are at peace again,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I would\nrather they stopped doing such\ndangerous training, but Teba insists."
+    - text: " I would\nrather they stopped doing such\ndangerous training, but Teba insists."
     - utf16_bytes:
         - 0
   talk21:
@@ -137,8 +135,7 @@ entries:
         - 3
         - 1
         - 2
-        - 4608
-    - ascii: "I'm happy just to hear that my husband\nis still alive. It isn't much, but please\ntake these as thanks."
+    - text: "ሀI'm happy just to hear that my husband\nis still alive. It isn't much, but please\ntake these as thanks."
     - utf16_bytes:
         - 0
   talk39:
@@ -147,22 +144,21 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "My husband took Tulin to the\n"
+    - text: "ĀMy husband took Tulin to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " again..."
+    - text: " again..."
     - utf16_bytes:
         - 0
   talk22:
@@ -172,7 +168,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "My husband left them for me to use, but\nI do not want those in the house where\nTulin might play with them."
+    - text: "My husband left them for me to use, but\nI do not want those in the house where\nTulin might play with them."
     - utf16_bytes:
         - 0
   talk23:
@@ -181,8 +177,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Well...
+    - text: ĀWell...
     - utf16_bytes:
         - 0
   talk25:
@@ -191,40 +186,39 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If you take off from "
+    - text: "ĀIf you take off from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Revali's Landing"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", it's\na straight shot down to the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Flight Range
+    - text: "Revali's Landing"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ", it's\na straight shot down to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Flight Range
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "What's wrong?"
+    - text: "What's wrong?"
     - utf16_bytes:
         - 0
   talk26:
@@ -233,23 +227,23 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "But to tell the truth, there is not much I\ncan do for you right now beyond telling\nyou where my husband went."
+    - text: "ĀBut to tell the truth, there is not much I\ncan do for you right now beyond telling\nyou where my husband went."
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 7
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   "0001":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk10:
@@ -259,39 +253,39 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: My husband is very...
+    - text: My husband is very...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: impulsive.
+    - text: impulsive.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nOnce he gets an idea in his head,\nthere's no reasoning with him.\nWe tried to stop him from going off to\nfight "
+    - text: "\nOnce he gets an idea in his head,\nthere's no reasoning with him.\nWe tried to stop him from going off to\nfight "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " on his own, but he refused\nto listen.\nThough I cannot feign surprise."
+    - text: " on his own, but he refused\nto listen.\nThough I cannot feign surprise."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I did\nmarry a Rito warrior, after all."
+    - text: " I did\nmarry a Rito warrior, after all."
     - utf16_bytes:
         - 0
   talk11:
@@ -301,58 +295,58 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Revali is the legendary Rito warrior.
+    - text: Revali is the legendary Rito warrior.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAll the warriors here idolize him.\n\nMy husband is no exception"
-    - utf16_bytes:
-        - 8212
-        - 14
-        - 5
-        - 1
-        - 0
-    - ascii: "he is\nalways talking about turning our son,"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: "\nTulin,"
-    - utf16_bytes:
-        - 14
-        - 5
-        - 0
-        - 0
-    - ascii: " into a warrior just like Revali.\nWhen they go and \"play\" together,"
+    - text: "\nAll the warriors here idolize him.\n\nMy husband is no exception—"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " he is\nreally training him at the "
+    - text: "he is\nalways talking about turning our son,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nTulin,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " into a warrior just like Revali.\nWhen they go and \"play\" together,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " he is\nreally training him at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tI have never wanted my sweet Tulin to \nbecome a warrior, myself..."
+        - 9
+    - text: "I have never wanted my sweet Tulin to \nbecome a warrior, myself..."
     - utf16_bytes:
         - 0
   talk29:
@@ -361,24 +355,23 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: Hello.
+    - text: ІHello.
     - utf16_bytes:
         - 0
   "0004":
-    - ascii: Where did Teba go?
+    - text: Where did Teba go?
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: About Teba.
+    - text: About Teba.
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: About Revali.
+    - text: About Revali.
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Where did he go?
+    - text: Where did he go?
     - utf16_bytes:
         - 0
   talk15:
@@ -387,8 +380,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3078
-    - ascii: "Sorry, I am on my way to bed."
+    - text: "ఆSorry, I am on my way to bed."
     - utf16_bytes:
         - 0
   talk16:
@@ -398,21 +390,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Hello, "
+    - text: "Hello, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
+    - text: Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " descendant."
+    - text: " descendant."
     - utf16_bytes:
         - 0
   talk17:
@@ -422,21 +414,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Good evening, "
+    - text: "Good evening, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Champion "
+    - text: "Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: descendant.
+    - text: descendant.
     - utf16_bytes:
         - 0
   talk40:
@@ -445,57 +437,55 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "My husband headed to a place called\nthe "
+    - text: "ĀMy husband headed to a place called\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Flight Range
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 6400
-    - ascii: "It's in "
+    - text: "ᤀIt's in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Dronoc's Pass "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "at the base of \nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hebra Mountains
+    - text: "Dronoc's Pass "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "at the base of \nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hebra Mountains
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk00:
@@ -504,8 +494,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1542
-    - ascii: "...Can I help you?"
+    - text: ؆...Can I help you?
     - utf16_bytes:
         - 14
         - 1
@@ -513,7 +502,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk41:
     - utf16_bytes:
@@ -521,8 +511,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "It's a place where Rito warriors\nprepare for aerial combat..."
+    - text: "ĀIt's a place where Rito warriors\nprepare for aerial combat..."
     - utf16_bytes:
         - 0
   talk01:
@@ -531,14 +520,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3078
-    - ascii: Never mind.
+    - text: ఆNever mind.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Forget it."
+    - text: " Forget it."
     - utf16_bytes:
         - 0
   talk19:
@@ -547,8 +535,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Please...
+    - text: ĀPlease...
     - utf16_bytes:
         - 14
         - 0
@@ -564,7 +551,7 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "help my husband, Teba."
+    - text: "help my husband, Teba."
     - utf16_bytes:
         - 0
   talk42:
@@ -573,48 +560,47 @@ entries:
         - 4
         - 1
         - 2
-        - 52484
+    - text: 촄
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I imagine he's gone there to gather\nweapons for another run at "
+    - text: "ĀI imagine he's gone there to gather\nweapons for another run at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "As it happens, he made his way to the\n"
+    - text: "ĀAs it happens, he made his way to the\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "Flight Range "
+    - text: "Flight Range "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: on foot this time.
+    - text: on foot this time.
     - utf16_bytes:
         - 0
   talk02:
@@ -623,8 +609,7 @@ entries:
         - 3
         - 1
         - 2
-        - 3078
-    - ascii: Good-bye.
+    - text: ఆGood-bye.
     - utf16_bytes:
         - 0
   talk43:
@@ -633,14 +618,13 @@ entries:
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "He keeps saying it's to help Tulin come\nof age as a warrior or something."
+    - text: "ăHe keeps saying it's to help Tulin come\nof age as a warrior or something."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nBut Tulin's still a fledgling..."
+    - text: "\nBut Tulin's still a fledgling..."
     - utf16_bytes:
         - 0
   talk03:
@@ -649,47 +633,47 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
+    - text: 촂
+    - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Forgive my intrusion,"
+    - text: "ĆForgive my intrusion,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I overheard\nyou speaking with the "
+    - text: " but I overheard\nyou speaking with the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: elder
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ".\n\nIt sounds like you intend to help my\nhusband, Teba, in the fight against\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Medoh
+    - text: elder
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: ".\n\nIt sounds like you intend to help my\nhusband, Teba, in the fight against\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   talk44:
@@ -698,18 +682,17 @@ entries:
         - 3
         - 1
         - 2
-        - 259
-    - ascii: I just...
+    - text: ăI just...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "do not want Tulin to lose his\ninnocence too early. He is such a sweet\nboy."
+    - text: "do not want Tulin to lose his\ninnocence too early. He is such a sweet\nboy."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: "..."
+    - text: "..."
     - utf16_bytes:
         - 0
   talk04:
@@ -719,12 +702,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Is there something else you wanted\nto ask?"
+    - text: "Is there something else you wanted\nto ask?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
@@ -733,7 +716,7 @@ entries:
         - 768
         - 0
   near01:
-    - ascii: The traveler...
+    - text: The traveler...
     - utf16_bytes:
         - 0
   talk05:
@@ -743,7 +726,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: Please. Now is not a good time.
+    - text: Please. Now is not a good time.
     - utf16_bytes:
         - 0
   talk06:
@@ -753,68 +736,67 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: Teba told me everything...
+    - text: Teba told me everything...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nAbout the "
+    - text: "\nAbout the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Flight Range
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\nThe fight with "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Medoh
+    - text: Flight Range
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n"
+    - text: "...\nThe fight with "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "And that "
+    - text: "ĀAnd that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " being perched above\nthe village means that everything\nis back to normal.\nTo have my husband home safe and\nsound..."
+    - text: " being perched above\nthe village means that everything\nis back to normal.\nTo have my husband home safe and\nsound..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I cannot begin to express my\ngratitude."
+    - text: " I cannot begin to express my\ngratitude."
     - utf16_bytes:
         - 0
   talk30:
@@ -823,24 +805,25 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
+    - text: ℀
+    - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: PAhhhhh...
+    - text: PAhhhhh...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Hmm..."
+    - text: " Hmm..."
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: d
     - utf16_bytes:
         - 0
   talk08:
@@ -849,33 +832,32 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "If the "
+    - text: "ĀIf the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: elder
+    - text: elder
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " trusts you,"
+    - text: " trusts you,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I will tell you\nwhat I can."
+    - text: " I will tell you\nwhat I can."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
@@ -889,18 +871,19 @@ entries:
         - 3
         - 1
         - 2
-        - 8448
-        - 14
-        - 0
-        - 2
-        - 2
-    - ascii: PZzz... Zzz...
+    - text: ℀
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: d
+    - text: PZzz... Zzz...
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
     - utf16_bytes:
         - 0
   talk09:
@@ -920,12 +903,12 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: Traveler...
+    - text: Traveler...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Please help my husband,\nTeba...and our village."
+    - text: " Please help my husband,\nTeba...and our village."
     - utf16_bytes:
         - 0

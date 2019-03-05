@@ -7,7 +7,7 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: Tee hee!
+    - text: Tee hee!
     - utf16_bytes:
         - 0
   talk111:
@@ -17,19 +17,19 @@ entries:
         - 1
         - 2
         - 2817
-    - ascii: "So then... "
+    - text: "So then... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Next it's her turn to write,"
+    - text: "Next it's her turn to write,"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nso I'll just wait here awhile."
+    - text: "\nso I'll just wait here awhile."
     - utf16_bytes:
         - 0
   talk113:
@@ -38,22 +38,22 @@ entries:
         - 3
         - 1
         - 2
-        - 4868
-    - ascii: So...
+    - text: ጄSo...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: you were following this letter?
+    - text: you were following this letter?
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 6
-        - 52481
+    - text: 촁
+    - utf16_bytes:
         - 0
   talk114:
     - utf16_bytes:
@@ -61,51 +61,43 @@ entries:
         - 3
         - 1
         - 2
-        - 4107
-    - ascii: "Hm, so she asked you to come down\nhere and see what kind of person I am."
+    - text: "ဋHm, so she asked you to come down\nhere and see what kind of person I am."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIs that it?\n"
+    - text: "\nIs that it?\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Well, earlier I lied when I wrote to her\nthat I was a buff traveler. "
+    - text: "ĀWell, earlier I lied when I wrote to her\nthat I was a buff traveler. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "She said she\nwanted to meet me, but...\nEven though I'm dying to meet her,"
+    - text: "She said she\nwanted to meet me, but...\nEven though I'm dying to meet her,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI can't do it.\n\n"
+    - text: "\nI can't do it.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ఉI've really blown it."
+    - text: "ఉI've really blown it."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If I had known this\nwould happen"
-    - utf16_bytes:
-        - 8212
-    - ascii: "that I'd fall for her"
-    - utf16_bytes:
-        - 8212
-    - ascii: "\nI never would've lied..."
+    - text: " If I had known this\nwould happen—that I'd fall for her—\nI never would've lied..."
     - utf16_bytes:
         - 14
         - 1
@@ -113,10 +105,11 @@ entries:
         - 6
         - 5
         - 19
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0002":
-    - ascii: OK.
+    - text: OK.
     - utf16_bytes:
         - 0
   talk115:
@@ -125,28 +118,27 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Love reigns supreme... "
+    - text: "စLove reigns supreme... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Hmm. I suppose\nit does."
+    - text: "Hmm. I suppose\nit does."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Ya know, hearing that does make\nme feel a little better."
+    - text: " Ya know, hearing that does make\nme feel a little better."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Wait...
+    - text: Wait...
     - utf16_bytes:
         - 0
   "0020":
-    - ascii: Fine...
+    - text: Fine...
     - utf16_bytes:
         - 0
   talk00:
@@ -155,14 +147,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2821
-    - ascii: Carry my thoughts...
+    - text: ଅCarry my thoughts...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: to him...
+    - text: to him...
     - utf16_bytes:
         - 0
   talk116:
@@ -171,14 +162,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: This could work...
+    - text: စThis could work...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I guess I just have to\nstart pumping up my muscles now..."
+    - text: " I guess I just have to\nstart pumping up my muscles now..."
     - utf16_bytes:
         - 0
   talk01:
@@ -187,45 +177,44 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hm? "
+    - text: "ĀHm? "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "Do you have a wish for the water\nfairy too?\n\nOh... I suppose not. "
+    - text: "Do you have a wish for the water\nfairy too?\n\nOh... I suppose not. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "If you did,\nyou'd have a letter to send.\n\n"
+    - text: "If you did,\nyou'd have a letter to send.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 1536
-    - ascii: "But wait, does that mean you're..."
+    - text: "But wait, does that mean you're..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\na servant of the water fairy?!"
+    - text: "\na servant of the water fairy?!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
         - 11
-    - ascii: 
+        - 12
+    - text: Ȁ
     - utf16_bytes:
-        - 512
         - 0
   "0005":
-    - ascii: Love reigns supreme.
+    - text: Love reigns supreme.
     - utf16_bytes:
         - 0
   talk02:
@@ -234,33 +223,31 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "OH, WOW! If that's the case, I have an\nimportant request for you!\n\nOnce I release it, I'd like you to follow\nmy "
+    - text: "ĀOH, WOW! If that's the case, I have an\nimportant request for you!\n\nOnce I release it, I'd like you to follow\nmy "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "love letter "
+    - text: "love letter "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "and get to know whoever\npicks it up.\n"
+    - text: "and get to know whoever\npicks it up.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Once you do that, please report back to\nme so I can find out what kind of person\nhe is..."
+    - text: "စOnce you do that, please report back to\nme so I can find out what kind of person\nhe is..."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   talk03:
@@ -269,49 +256,45 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "I know, I know. You're probably thinking,\n\"Why not just go yourself, lazy girl?!\""
+    - text: "ขI know, I know. You're probably thinking,\n\"Why not just go yourself, lazy girl?!\""
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI'm right, aren't I?\nThe thing is, I promised my mother\nI wouldn't venture out too far.\n\n"
+    - text: "\nI'm right, aren't I?\nThe thing is, I promised my mother\nI wouldn't venture out too far.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "So I'm begging you. Please..."
+    - text: "ĀSo I'm begging you. Please..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Find the\nperson who picks up this letter. OK?"
+    - text: " Find the\nperson who picks up this letter. OK?"
     - utf16_bytes:
         - 14
         - 1
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 20
-        - 52481
-    - ascii: "\n\n"
+    - text: "촁\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: Tee hee!
+    - text: इTee hee!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Thank you!"
+    - text: " Thank you!"
     - utf16_bytes:
         - 0
   talk119:
@@ -320,43 +303,42 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊ
+    - text: ᔊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}Ahhh!!"
+    - text: "}Ahhh!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\n"
+    - text: "d\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 259
-    - ascii: "I worked really hard on that letter...\n\n\n"
+    - text: "ăI worked really hard on that letter...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "But it's OK..."
+    - text: "But it's OK..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " It's not like you did it\non purpose or anything.\n\nI bet I could be even more eloquent than\nthat anyway, so I'll just start over and\nwrite a new letter... "
+    - text: " It's not like you did it\non purpose or anything.\n\nI bet I could be even more eloquent than\nthat anyway, so I'll just start over and\nwrite a new letter... "
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   talk04:
@@ -366,13 +348,13 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "Excellent! OK, I'm going to throw the\nletter in now!"
+    - text: "Excellent! OK, I'm going to throw the\nletter in now!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Are you ready?"
+    - text: " Are you ready?"
     - utf16_bytes:
         - 14
         - 1
@@ -380,7 +362,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk05:
     - utf16_bytes:
@@ -388,14 +371,13 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "Oh. Sure, I can wait..."
+    - text: "ЀOh. Sure, I can wait..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nBut please make it quick!"
+    - text: "\nBut please make it quick!"
     - utf16_bytes:
         - 0
   talk22:
@@ -404,14 +386,13 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Oh, really?!"
+    - text: "इOh, really?!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " How lucky!"
+    - text: " How lucky!"
     - utf16_bytes:
         - 0
   talk06:
@@ -420,28 +401,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "These letter containers "
+    - text: "ЀThese letter containers "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: break easily
+    - text: break easily
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nso please be careful."
+    - text: "\nso please be careful."
     - utf16_bytes:
         - 0
   talk07:
@@ -450,8 +430,7 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh, you..."
+    - text: "ĀOh, you..."
     - utf16_bytes:
         - 0
   talk08:
@@ -460,14 +439,13 @@ entries:
         - 3
         - 1
         - 2
-        - 3586
-    - ascii: "That can't possibly be so..."
+    - text: "ขThat can't possibly be so..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Please don't\nmake fun of me just because I'm a\ncute girl."
+    - text: " Please don't\nmake fun of me just because I'm a\ncute girl."
     - utf16_bytes:
         - 0
   talk09:
@@ -476,8 +454,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "If you're a traveler, that's lucky for me!"
+    - text: "इIf you're a traveler, that's lucky for me!"
     - utf16_bytes:
         - 0
   talk100:
@@ -486,8 +463,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Good morning.
+    - text: ȀGood morning.
     - utf16_bytes:
         - 0
   talk101:
@@ -496,8 +472,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hello.
+    - text: ȀHello.
     - utf16_bytes:
         - 0
   talk102:
@@ -506,8 +481,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Good evening.
+    - text: ȀGood evening.
     - utf16_bytes:
         - 0
   talk103:
@@ -516,8 +490,7 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: Hey!
+    - text: ȀHey!
     - utf16_bytes:
         - 0
   talk104:
@@ -526,28 +499,27 @@ entries:
         - 3
         - 1
         - 2
-        - 1547
-    - ascii: "Sorry for the random question,"
+    - text: "؋Sorry for the random question,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but have\nyou ever been to "
+    - text: " but have\nyou ever been to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -555,7 +527,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk121:
     - utf16_bytes:
@@ -563,51 +536,50 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊ
+    - text: ᔊ
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "}AHHH!!"
+    - text: "}AHHH!!"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: "d\n\n\nI worked SO hard on that letter! "
+    - text: "d\n\n\nI worked SO hard on that letter! "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "And now\nI have to write ANOTHER one?\n\n"
+    - text: "And now\nI have to write ANOTHER one?\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 257
-    - ascii: "*sigh* Oh, well. \n\n\n"
+    - text: "ā*sigh* Oh, well. \n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2305
-    - ascii: "After all, they say the more you have\nto struggle for love, the sweeter it is."
+    - text: "After all, they say the more you have\nto struggle for love, the sweeter it is."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nHee hee, yeah... "
+    - text: "\nHee hee, yeah... "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: That must be true.
+    - text: That must be true.
     - utf16_bytes:
         - 0
   talk105:
@@ -616,14 +588,13 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I see... "
+    - text: "စI see... "
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: Is it far from here?
+    - text: Is it far from here?
     - utf16_bytes:
         - 14
         - 1
@@ -631,7 +602,8 @@ entries:
         - 6
         - 17
         - 18
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk122:
     - utf16_bytes:
@@ -639,74 +611,72 @@ entries:
         - 3
         - 1
         - 2
-        - 3585
-    - ascii: "OK! "
+    - text: "กOK! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's time for me to take a chance\nand try to meet her...\n\nOh, that reminds me..."
+    - text: "It's time for me to take a chance\nand try to meet her...\n\nOh, that reminds me..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I wonder if the\ntorrential rain has stopped."
+    - text: " I wonder if the\ntorrential rain has stopped."
     - utf16_bytes:
         - 14
         - 0
         - 4
         - 0
-    - ascii: "She's waiting in "
+    - text: "She's waiting in "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nThat's what her letter says, anyway.\n\n"
+    - text: "\nThat's what her letter says, anyway.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "So I'll achieve two goals at the same\ntime and train up my muscles on\nthe way there! I'll get super beefy!\nYeah, that's the ticket! I'll run all the way\nto the domain!"
+    - text: "So I'll achieve two goals at the same\ntime and train up my muscles on\nthe way there! I'll get super beefy!\nYeah, that's the ticket! I'll run all the way\nto the domain!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Catch ya later!\n\nWe'll meet again at "
+    - text: " Catch ya later!\n\nWe'll meet again at "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-        - 8212
-    - ascii: "\nI'm sure of it!"
+    - text: "—\nI'm sure of it!"
     - utf16_bytes:
         - 0
   talk106:
@@ -715,75 +685,71 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "I see...\n\n\n"
+    - text: "စI see...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Oh! "
+    - text: "ĀOh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Sorry.
+    - text: Sorry.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I forgot to introduce myself.\n\n\n"
+    - text: " I forgot to introduce myself.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "I am Sasan, the traveling merchant.\n\n\n"
+    - text: "ЀI am Sasan, the traveling merchant.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "I was on my way to Zora's Domain..."
+    - text: "ĀI was on my way to Zora's Domain..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nbut a "
+    - text: "\nbut a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "love letter "
+    - text: "love letter "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in this inlet caught\nmy eye.\nThe writer seems to be a lovely Zora\nnamed Finley.\n\nI've been corresponding with her by\ngiving my replies to travelers heading\nto "
+    - text: "in this inlet caught\nmy eye.\nThe writer seems to be a lovely Zora\nnamed Finley.\n\nI've been corresponding with her by\ngiving my replies to travelers heading\nto "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk123:
@@ -792,24 +758,23 @@ entries:
         - 3
         - 1
         - 2
-        - 2823
-    - ascii: Oh!
+    - text: ଇOh!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " It's you!\n\n\nHey, Sasan!"
+    - text: " It's you!\n\n\nHey, Sasan!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This is the girl who made\nsure my letter reached you safely!"
+    - text: " This is the girl who made\nsure my letter reached you safely!"
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   talk107:
@@ -818,14 +783,13 @@ entries:
         - 3
         - 1
         - 2
-        - 261
-    - ascii: A mysterious letter from a Zora woman...
+    - text: ąA mysterious letter from a Zora woman...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nIntriguing, is it not?"
+    - text: "\nIntriguing, is it not?"
     - utf16_bytes:
         - 14
         - 1
@@ -833,7 +797,8 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk124:
     - utf16_bytes:
@@ -841,57 +806,56 @@ entries:
         - 3
         - 1
         - 2
-        - 5380
-    - ascii: "Oh! "
+    - text: "ᔄOh! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It's you!"
+    - text: "It's you!"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " As you can see, I somehow\nmade it to "
+    - text: " As you can see, I somehow\nmade it to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n"
+    - text: ".\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "Thanks to you, I managed to work up the\ncourage"
+    - text: "Thanks to you, I managed to work up the\ncourage"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " to finally meet Finley."
+    - text: " to finally meet Finley."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " At least,\nthat's how I see it."
+    - text: " At least,\nthat's how I see it."
     - utf16_bytes:
         - 0
   "0012":
-    - ascii: "I'm a traveler."
+    - text: "I'm a traveler."
     - utf16_bytes:
         - 0
   talk108:
@@ -900,39 +864,38 @@ entries:
         - 3
         - 1
         - 2
-        - 4101
-    - ascii: "Unfortunately, I can't tell you what she\nwrote. "
+    - text: "စUnfortunately, I can't tell you what she\nwrote. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "A gentleman would never read\na lady's letter to a stranger.\n"
+    - text: "A gentleman would never read\na lady's letter to a stranger.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "But I CAN assure you that she writes in\nthe sweetest, most refined way ever."
+    - text: "But I CAN assure you that she writes in\nthe sweetest, most refined way ever."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nShe must be a very elegant young lady.\nActually, as a Zora, she's probably a lot\nolder than me."
+    - text: "\nShe must be a very elegant young lady.\nActually, as a Zora, she's probably a lot\nolder than me."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That doesn't bother me\none bit, but..."
+    - text: " That doesn't bother me\none bit, but..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: I hope she feels the same.
+    - text: I hope she feels the same.
     - utf16_bytes:
         - 0
   talk125:
@@ -941,12 +904,11 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Thank you so much for introducing me\nto my soul mate!\n\nSasan and I discussed it, and we decided\nwe just HAD to thank you the next time\nwe saw you.\nSo here... This is from both of us.\nThank you for everything!"
+    - text: "इThank you so much for introducing me\nto my soul mate!\n\nSasan and I discussed it, and we decided\nwe just HAD to thank you the next time\nwe saw you.\nSo here... This is from both of us.\nThank you for everything!"
     - utf16_bytes:
         - 0
   "0013":
-    - ascii: "I can't see the letter."
+    - text: "I can't see the letter."
     - utf16_bytes:
         - 0
   talk10:
@@ -956,12 +918,15 @@ entries:
         - 1
         - 2
         - 1540
-    - ascii: Hm? What is it?
+    - text: Hm? What is it?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: ">\r,Npc_Zora026_BottleLost"
+    - text: ">"
+    - utf16_bytes:
+        - 13
+    - text: ",Npc_Zora026_BottleLost"
     - utf16_bytes:
         - 14
         - 0
@@ -978,13 +943,13 @@ entries:
         - 1
         - 2
         - 2304
-    - ascii: "I see... "
+    - text: "I see... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: Very well then.
+    - text: Very well then.
     - utf16_bytes:
         - 0
   talk126:
@@ -994,23 +959,23 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "Sasan! "
+    - text: "Sasan! "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "Be sure to swim and climb and lift\nand stuff. A LOT. "
+    - text: "Be sure to swim and climb and lift\nand stuff. A LOT. "
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "That will help you build\nup those muscles you promised me!"
+    - text: "That will help you build\nup those muscles you promised me!"
     - utf16_bytes:
         - 0
   "0014":
-    - ascii: A letter?
+    - text: A letter?
     - utf16_bytes:
         - 0
   talk11:
@@ -1019,20 +984,19 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Right...
+    - text: ЀRight...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " As I was saying:"
+    - text: " As I was saying:"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " please follow\nthat letter. And don't let it break!"
+    - text: " please follow\nthat letter. And don't let it break!"
     - utf16_bytes:
         - 0
   talk127:
@@ -1041,24 +1005,23 @@ entries:
         - 3
         - 1
         - 2
-        - 1029
-    - ascii: As you wish...
+    - text: ЅAs you wish...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: my darling...
+    - text: my darling...
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll try my best..."
+    - text: "\nI'll try my best..."
     - utf16_bytes:
         - 0
   "0015":
-    - ascii: Who are you?
+    - text: Who are you?
     - utf16_bytes:
         - 0
   talk12:
@@ -1067,98 +1030,94 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: "For Zora girls, there's a superstition that\nif you send a "
+    - text: "ЀFor Zora girls, there's a superstition that\nif you send a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: love letter
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " from the\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Bank of Wishes
+    - text: love letter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and get a response...\nYou'll have good fortune for life!"
+    - text: " from the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Bank of Wishes
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and get a response...\nYou'll have good fortune for life!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nWho doesn't want that?!\n\n"
+    - text: "\nWho doesn't want that?!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: And after many attempts...
+    - text: इAnd after many attempts...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI finally got a response!\n\n"
+    - text: "\nI finally got a response!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Of course, I'm no chump and certainly\nno fool. I wasn't hatched yesterday!\n\nI need to know what kind of person my\nmystery man is. That's why I desperately\nwant to meet him.\n"
+    - text: "इOf course, I'm no chump and certainly\nno fool. I wasn't hatched yesterday!\n\nI need to know what kind of person my\nmystery man is. That's why I desperately\nwant to meet him.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "ఉThing is, my mom told me not to venture\ntoo far, and I agree going on my own is\na dumb idea. I'm not sure what to do.\n"
+    - text: "ఉThing is, my mom told me not to venture\ntoo far, and I agree going on my own is\na dumb idea. I'm not sure what to do.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "Hmmm... He described himself as,\n\"a buff and super gorgeous traveler.\"\nGosh, I hope THAT'S the truth.\n"
+    - text: "ĀHmmm... He described himself as,\n\"a buff and super gorgeous traveler.\"\nGosh, I hope THAT'S the truth.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 2817
-    - ascii: "And with that delicate penmanship,"
+    - text: "And with that delicate penmanship,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI suspect he's quite refined."
+    - text: "\nI suspect he's quite refined."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nRegal, even!\nIf he's a Hylian, I do hope he's OK with\nbeing with a Zora who's considerably\nolder than him. Wiser too, no doubt.\nHey, love requires an open mind,\nwouldn't you say?"
+    - text: "\nRegal, even!\nIf he's a Hylian, I do hope he's OK with\nbeing with a Zora who's considerably\nolder than him. Wiser too, no doubt.\nHey, love requires an open mind,\nwouldn't you say?"
     - utf16_bytes:
         - 0
   "0016":
-    - ascii: "It's nothing."
+    - text: "It's nothing."
     - utf16_bytes:
         - 0
   talk13:
@@ -1168,37 +1127,37 @@ entries:
         - 1
         - 2
         - 2305
-    - ascii: "I'm Finley."
+    - text: "I'm Finley."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I came from "
+    - text: " I came from "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Zora's Domain"
+    - text: "Zora's Domain"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\nMy mother and father are so busy,\nwe rarely spend time together anymore."
+    - text: ".\n\n\nMy mother and father are so busy,\nwe rarely spend time together anymore."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI spend most days in solitude."
+    - text: "\nI spend most days in solitude."
     - utf16_bytes:
         - 0
   "0017":
-    - ascii: "It's a long ways."
+    - text: "It's a long ways."
     - utf16_bytes:
         - 0
   talk14:
@@ -1208,21 +1167,21 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: "You lost sight of my "
+    - text: "You lost sight of my "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: love letter
+    - text: love letter
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ",\ndidn't you?"
+    - text: ",\ndidn't you?"
     - utf16_bytes:
         - 14
         - 1
@@ -1230,10 +1189,11 @@ entries:
         - 6
         - 6
         - 7
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   "0018":
-    - ascii: "It's not that far."
+    - text: "It's not that far."
     - utf16_bytes:
         - 0
   talk15:
@@ -1242,18 +1202,17 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: I understand.
+    - text: ЀI understand.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " These containers break\nreally easily, so please be careful."
+    - text: " These containers break\nreally easily, so please be careful."
     - utf16_bytes:
         - 0
   "0019":
-    - ascii: Good luck with that.
+    - text: Good luck with that.
     - utf16_bytes:
         - 0
   talk16:
@@ -1263,12 +1222,15 @@ entries:
         - 1
         - 2
         - 1536
-    - ascii: Do you have any other questions?
+    - text: Do you have any other questions?
     - utf16_bytes:
         - 14
         - 1
         - 8
-    - ascii: ">\r,Npc_Zora026_BottleLost"
+    - text: ">"
+    - utf16_bytes:
+        - 13
+    - text: ",Npc_Zora026_BottleLost"
     - utf16_bytes:
         - 14
         - 0
@@ -1279,7 +1241,7 @@ entries:
         - 768
         - 0
   near01:
-    - ascii: Find him...
+    - text: Find him...
     - utf16_bytes:
         - 0
   talk17:
@@ -1288,7 +1250,6 @@ entries:
         - 3
         - 1
         - 2
-        - 4609
-    - ascii: "Luckily, I thought something like that\nmight happen, so I made an extra."
+    - text: "ሁLuckily, I thought something like that\nmight happen, so I made an extra."
     - utf16_bytes:
         - 0

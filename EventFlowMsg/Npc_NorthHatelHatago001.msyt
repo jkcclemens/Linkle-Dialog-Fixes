@@ -6,13 +6,14 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tI hope the sun comes out soon...\n\n\nI bet all the men coming into the stable\nwill track dirt in,"
+        - 9
+    - text: "I hope the sun comes out soon...\n\n\nI bet all the men coming into the stable\nwill track dirt in,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " making a filthy place\neven worse..."
+    - text: " making a filthy place\neven worse..."
     - utf16_bytes:
         - 0
   talk000:
@@ -22,19 +23,19 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Ahh, I feel a little refreshed.\n\n\nAnyway, I guess it's time I went back in."
+    - text: "Ahh, I feel a little refreshed.\n\n\nAnyway, I guess it's time I went back in."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nUgh... "
+    - text: "\nUgh... "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "That place is so filthy and women\nfree, it might as well be called a manfill."
+    - text: "That place is so filthy and women\nfree, it might as well be called a manfill."
     - utf16_bytes:
         - 0
   talk001:
@@ -44,7 +45,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you want to learn about the area, you\nshould go talk to Ami.\n\nIt's so nice to have a little brother who\ncan really pull his weight!"
+    - text: "If you want to learn about the area, you\nshould go talk to Ami.\n\nIt's so nice to have a little brother who\ncan really pull his weight!"
     - utf16_bytes:
         - 0
   talk100:
@@ -53,26 +54,25 @@ entries:
         - 3
         - 1
         - 2
-        - 8707
-    - ascii: Hmm?
+    - text: ∃Hmm?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Ah..."
+    - text: " Ah..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I wasn't sleeping. "
+    - text: " I wasn't sleeping. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I wasn't..."
+    - text: "I wasn't..."
     - utf16_bytes:
         - 0
   talk002:
@@ -82,7 +82,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "What? I'm not slacking off! I'm just\nchecking to see if anything got\ndropped accidentally."
+    - text: "What? I'm not slacking off! I'm just\nchecking to see if anything got\ndropped accidentally."
     - utf16_bytes:
         - 0
   talk003:
@@ -92,13 +92,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Don't get the wrong idea! I'm not\nslacking off. "
+    - text: "Don't get the wrong idea! I'm not\nslacking off. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "I'm just checking to see if\nanything useful is lying around!"
+    - text: "I'm just checking to see if\nanything useful is lying around!"
     - utf16_bytes:
         - 0
   talk030:
@@ -107,19 +107,19 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ᔊUrk!
+    - text: ᔊUrk!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Your skin! It's"
+    - text: " Your skin! It's"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "...too bright..."
+    - text: "...too bright..."
     - utf16_bytes:
         - 0
   talk004:
@@ -129,12 +129,12 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: There could be something useful just...
+    - text: There could be something useful just...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nabandoned in busted wagons on the\nmain roads, even."
+    - text: "\nabandoned in busted wagons on the\nmain roads, even."
     - utf16_bytes:
         - 0

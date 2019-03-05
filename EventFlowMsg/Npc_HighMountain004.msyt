@@ -7,21 +7,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you had the "
+    - text: "If you had the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "sword that seals the\ndarkness "
+    - text: "sword that seals the\ndarkness "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "in your possession, you would\nbe the spitting image..."
+    - text: "in your possession, you would\nbe the spitting image..."
     - utf16_bytes:
         - 0
   talk40:
@@ -30,17 +30,15 @@ entries:
         - 3
         - 1
         - 2
-        - 256
-    - ascii: Was there anything else?
+    - text: ĀWas there anything else?
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 6
         - 7
         - 768
@@ -51,12 +49,11 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: A guest...
+    - text: ȀA guest...
     - utf16_bytes:
         - 0
   "0011":
-    - ascii: "How's Medoh?"
+    - text: "How's Medoh?"
     - utf16_bytes:
         - 0
   talk42:
@@ -66,13 +63,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Feel free to take what you find in that\ntreasure chest."
+    - text: "Feel free to take what you find in that\ntreasure chest."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " You will get more use out\nof it than I."
+    - text: " You will get more use out\nof it than I."
     - utf16_bytes:
         - 0
   talk43:
@@ -82,7 +79,7 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: Hoo hoo hoo...
+    - text: Hoo hoo hoo...
     - utf16_bytes:
         - 0
   talk44:
@@ -92,46 +89,46 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Your skills rival those of the "
+    - text: "Your skills rival those of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian\nChampion "
+    - text: "Hylian\nChampion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "who lived 100 years ago.\n\n"
+    - text: "who lived 100 years ago.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "All you lack is the "
+    - text: "All you lack is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "sword that seals the \ndarkness"
+    - text: "sword that seals the \ndarkness"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   TerrorBomb:
-    - ascii: Hoo?
+    - text: Hoo?
     - utf16_bytes:
         - 0
   talk10:
@@ -145,21 +142,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "So you've met Teba.\n\n\n"
+    - text: "So you've met Teba.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: Hmm...
+    - text: ċHmm...
     - utf16_bytes:
         - 14
         - 0
@@ -170,40 +166,41 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "He says he will not come back\nuntil he has destroyed\n"
+    - text: "He says he will not come back\nuntil he has destroyed\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tThere is not a reasonable bone in that\ngirl's body. Facing Medoh alone is\nunthinkably reckless..."
+        - 9
+    - text: "There is not a reasonable bone in that\ngirl's body. Facing Medoh alone is\nunthinkably reckless..."
     - utf16_bytes:
         - 0
   talk11:
@@ -217,40 +214,39 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\t"
+        - 9
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "Facing "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "Facing "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: "Divine Beast Vah Medoh "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "alone\nis unthinkably reckless...\n\nIf you could help Teba,"
+    - text: "alone\nis unthinkably reckless...\n\nIf you could help Teba,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " or at least talk\nsome sense into him,"
+    - text: " or at least talk\nsome sense into him,"
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " I'm sure his family\nwould be very grateful."
+    - text: " I'm sure his family\nwould be very grateful."
     - utf16_bytes:
         - 0
   talk12:
@@ -259,46 +255,46 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: ଊYou have done it!
+    - text: ଊYou have done it!
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " And you survived,\nat that!"
+    - text: " And you survived,\nat that!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " You conquered\n"
+    - text: " You conquered\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n"
+    - text: "!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "To think the beast has taken up\nroost at the top of the village!"
+    - text: "To think the beast has taken up\nroost at the top of the village!"
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nIt looks simply...divine."
+    - text: "\nIt looks simply...divine."
     - utf16_bytes:
         - 0
   talk13:
@@ -308,30 +304,27 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "That bow I gave you is the finest in the\nland, crafted in the Rito tradition. The\n"
+    - text: "That bow I gave you is the finest in the\nland, crafted in the Rito tradition. The\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
+    - text: Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " Revali once called it his own.\nI will not lie"
-    - utf16_bytes:
-        - 8212
-    - ascii: "the bow is difficult to\nhandle."
+    - text: " Revali once called it his own.\nI will not lie—the bow is difficult to\nhandle."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " No Rito alive is capable of using\nit to its full potential.\nFortunately, our bowyer, Harth, knows\nthe bow well. You should talk to him for\ndetails."
+    - text: " No Rito alive is capable of using\nit to its full potential.\nFortunately, our bowyer, Harth, knows\nthe bow well. You should talk to him for\ndetails."
     - utf16_bytes:
         - 0
   talk14:
@@ -341,97 +334,98 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Teba is a warrior of Rito Village.\nHe lives right next door to my humble\nabode.\nHe's the one who decided to confront\n"
+    - text: "Teba is a warrior of Rito Village.\nHe lives right next door to my humble\nabode.\nHe's the one who decided to confront\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". He set off\nalongside another villager named Harth.\n"
+    - text: ". He set off\nalongside another villager named Harth.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tUnfortunately, Harth was shot down by\n"
+        - 9
+    - text: "Unfortunately, Harth was shot down by\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Medoh "
+    - text: "Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: and had to retreat.
+    - text: and had to retreat.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\n\nThis defeat only made Teba more\ndetermined. I fear he has set out to face\n"
+    - text: "\n\nThis defeat only made Teba more\ndetermined. I fear he has set out to face\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " by himself.\n"
+    - text: " by himself.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "As you can see, "
+    - text: "As you can see, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Medoh "
+    - text: "Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "is still flying\nabout up there. I hope Teba is OK.\n\n"
+    - text: "is still flying\nabout up there. I hope Teba is OK.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Teba's wife Saki may be able to tell you\nmore about his whereabouts."
+    - text: "Teba's wife Saki may be able to tell you\nmore about his whereabouts."
     - utf16_bytes:
         - 0
   near00:
-    - ascii: Hmmm...
+    - text: Hmmm...
     - utf16_bytes:
         - 0
   TerrorArrow:
-    - ascii: Hoohoo!
+    - text: Hoohoo!
     - utf16_bytes:
         - 0
   talk15:
@@ -441,96 +435,96 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Master Revali was a fierce warrior from\nRito Village who died 100 years ago.\n\nAccording to the stories, he flew like the\nwind itself"
+    - text: "Master Revali was a fierce warrior from\nRito Village who died 100 years ago.\n\nAccording to the stories, he flew like the\nwind itself"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " and wielded a bow twice his\nown size with ease.\nHis skill was recognized by "
+    - text: " and wielded a bow twice his\nown size with ease.\nHis skill was recognized by "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: King Rhoam
+    - text: King Rhoam
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nand he was entrusted to control\n"
+    - text: "\nand he was entrusted to control\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "Master Revali lost his life while piloting\nthe Divine Beast during the great battle\nwith "
+    - text: "Master Revali lost his life while piloting\nthe Divine Beast during the great battle\nwith "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Calamity
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: Ganon
+    - text: Calamity
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Ganon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "What could have happened inside \n"
+    - text: "What could have happened inside \n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
@@ -541,11 +535,11 @@ entries:
         - 5
         - 0
         - 0
-    - ascii: " 100 years ago\nto kill such a celebrated warrior?"
+    - text: " 100 years ago\nto kill such a celebrated warrior?"
     - utf16_bytes:
         - 0
   near01:
-    - ascii: Ah!
+    - text: Ah!
     - utf16_bytes:
         - 0
   talk16:
@@ -555,41 +549,41 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "You, descendant of the "
+    - text: "You, descendant of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champions
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "...\nPlease stop "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Medoh
+    - text: Champions
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "..."
+    - text: "...\nPlease stop "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: and help Teba.
+    - text: and help Teba.
     - utf16_bytes:
         - 0
   talk18:
@@ -599,39 +593,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Champion descendant, "
+    - text: "Champion descendant, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "it pains me to ask\nagain but..."
+    - text: "it pains me to ask\nagain but..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " Please, help Teba and stop\n"
+    - text: " Please, help Teba and stop\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " I beg of you."
+    - text: " I beg of you."
     - utf16_bytes:
         - 0
   talk19:
@@ -641,7 +635,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: But never mind that now...
+    - text: But never mind that now...
     - utf16_bytes:
         - 0
   talk30:
@@ -651,39 +645,39 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "They say the "
+    - text: "They say the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian Champion "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "wielded\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: sword that seals the darkness
+    - text: "Hylian Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " that\nnow sleeps deep within the forest."
+    - text: "wielded\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sword that seals the darkness
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " that\nnow sleeps deep within the forest."
     - utf16_bytes:
         - 0
   "0000":
-    - ascii: "That's right."
+    - text: "That's right."
     - utf16_bytes:
         - 0
   talk31:
@@ -693,53 +687,53 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "They say the "
+    - text: "They say the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian Champion "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "wielded\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "sword that seals the darkness "
+    - text: "Hylian Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "that\nnow sleeps in the "
+    - text: "wielded\nthe "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 2
-    - ascii: Lost Woods
+        - 0
+    - text: "sword that seals the darkness "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "that\nnow sleeps in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lost Woods
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: "No, it's not."
+    - text: "No, it's not."
     - utf16_bytes:
         - 0
   talk32:
@@ -749,42 +743,42 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "They say the "
+    - text: "They say the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian Champion "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "wielded\nthe "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 0
-    - ascii: "sword that seals the darkness "
+    - text: "Hylian Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "that\nsleeps in the "
+    - text: "wielded\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "sword that seals the darkness "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "that\nsleeps in the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Lost Woods "
+    - text: "Lost Woods "
     - utf16_bytes:
         - 14
         - 0
@@ -796,22 +790,22 @@ entries:
         - 3
         - 2
         - 0
-    - ascii: east
+    - text: east
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " of here."
+    - text: " of here."
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: "I'll listen."
+    - text: "I'll listen."
     - utf16_bytes:
         - 0
   "0003":
-    - ascii: Maybe later...
+    - text: Maybe later...
     - utf16_bytes:
         - 0
   talk34:
@@ -821,22 +815,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: I am happy to answer anything I can.
+    - text: I am happy to answer anything I can.
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 8
-    - ascii: "\t"
-    - utf16_bytes:
+        - 9
         - 11
         - 7
         - 768
         - 0
   "0004":
-    - ascii: "Who's Teba?"
+    - text: "Who's Teba?"
     - utf16_bytes:
         - 0
   talk00:
@@ -845,44 +838,43 @@ entries:
         - 3
         - 1
         - 2
-        - 512
-    - ascii: "Ah, a visitor.\nWelcome to...\n\n...\n\n\n"
+    - text: "ȀAh, a visitor.\nWelcome to...\n\n...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\nOh. "
+    - text: "\nOh. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "OH!\n\n\n"
+    - text: "OH!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "That object on your hip...\nCould it be...\n\n"
+    - text: "That object on your hip...\nCould it be...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Forgive me. Where are my manners?
+    - text: Forgive me. Where are my manners?
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nI am Kaneli, elder of Rito Village."
+    - text: "\nI am Kaneli, elder of Rito Village."
     - utf16_bytes:
         - 0
   "0005":
-    - ascii: "Who's Master Revali?"
+    - text: "Who's Master Revali?"
     - utf16_bytes:
         - 0
   talk01:
@@ -891,57 +883,54 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ଊOh, my!"
+    - text: "ଊOh, my!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " So it is true!\n\n\n"
+    - text: " So it is true!\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "That means you must be a "
+    - text: "That means you must be a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: "\nlike Master Revali"
-    - utf16_bytes:
-        - 8212
-    - ascii: "one of the few able to\nboard "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\n"
+    - text: "\nlike Master Revali—one of the few able to\nboard "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast Vah Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\n"
     - utf16_bytes:
         - 14
         - 0
         - 2
         - 2
-    - ascii: P
+    - text: P
     - utf16_bytes:
         - 14
         - 3
@@ -953,54 +942,54 @@ entries:
         - 3
         - 2
         - 3
-    - ascii: No... What am I thinking?
+    - text: No... What am I thinking?
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " The "
+    - text: " The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Champions "
+    - text: "Champions "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "have all\nbeen dead for 100 years."
+    - text: "have all\nbeen dead for 100 years."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " This girl must be a mere\ndescendant...an inheritor of the "
+    - text: " This girl must be a mere\ndescendant...an inheritor of the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 3
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 14
         - 3
@@ -1011,7 +1000,7 @@ entries:
         - 0
         - 2
         - 2
-    - ascii: "dAh, forgive me..."
+    - text: "dAh, forgive me..."
     - utf16_bytes:
         - 0
   talk36:
@@ -1021,92 +1010,91 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "No, no, I was only joking...\n\n\n"
+    - text: "No, no, I was only joking...\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: That sword you have there.
+    - text: ĆThat sword you have there.
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nThat is indeed the "
+    - text: "\nThat is indeed the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "sword that seals the\ndarkness"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", is it not?\nLegend has it that the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Hylian Champion
+    - text: "sword that seals the\ndarkness"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\nfought against "
+    - text: ", is it not?\nLegend has it that the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
-        - 0
-    - ascii: "Ganon "
+        - 2
+    - text: Hylian Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "with that very\nsword.\nChampion descendant..."
+    - text: "\nfought against "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Ganon "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "with that very\nsword.\nChampion descendant..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " That "
+    - text: " That "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: sword
+    - text: sword
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " is a\nprecious gift from your ancestors..."
+    - text: " is a\nprecious gift from your ancestors..."
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: "\nYou must never let it go."
+    - text: "\nYou must never let it go."
     - utf16_bytes:
         - 0
   "0006":
-    - ascii: Medoh?
+    - text: Medoh?
     - utf16_bytes:
         - 0
   talk02:
@@ -1115,7 +1103,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHoo hoo...\nSo I was mistaken..."
+        - 9
+    - text: "Hoo hoo...\nSo I was mistaken..."
     - utf16_bytes:
         - 0
   talk37:
@@ -1140,24 +1129,24 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "...\n\n\nAn ancient Sheikah weapon with the\npower to seal evil. "
+    - text: "...\n\n\nAn ancient Sheikah weapon with the\npower to seal evil. "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "It was once piloted by\nthe Rito Champion, Revali..."
+    - text: "It was once piloted by\nthe Rito Champion, Revali..."
     - utf16_bytes:
         - 0
   "0007":
-    - ascii: Bye.
+    - text: Bye.
     - utf16_bytes:
         - 0
   talk03:
@@ -1166,7 +1155,8 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tHoo hoo..."
+        - 9
+    - text: Hoo hoo...
     - utf16_bytes:
         - 0
   talk38:
@@ -1176,43 +1166,44 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If the legends are true, \"the light from\nthe Divine Beasts will ravage the\nCalamity.\"\nFor now, "
+    - text: "If the legends are true, \"the light from\nthe Divine Beasts will ravage the\nCalamity.\"\nFor now, "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Divine Beast Vah Medoh "
+    - text: "Divine Beast Vah Medoh "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "will\nbecome the protector of this village\nand live on in legend..."
+    - text: "will\nbecome the protector of this village\nand live on in legend..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "alongside you.\n"
+    - text: "alongside you.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
+    - text: ć
+    - utf16_bytes:
         - 14
         - 4
         - 2
         - 24
         - 22
-    - ascii: CustomLaughHoo hoo hoo...
+    - text: CustomLaughHoo hoo hoo...
     - utf16_bytes:
         - 0
   "0008":
-    - ascii: Sword?
+    - text: Sword?
     - utf16_bytes:
         - 0
   talk04:
@@ -1222,70 +1213,70 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Thank you. Truly.\n\n\n"
+    - text: "Thank you. Truly.\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Now that I know you have the blood of a\n"
+    - text: "Now that I know you have the blood of a\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", there is something I must ask\nof you.\nHow shall I put this...\n\n\nI would like you to deal with\n"
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Champion
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nThe giant beast circling above us.\nOnly a chosen one, a "
+    - text: ", there is something I must ask\nof you.\nHow shall I put this...\n\n\nI would like you to deal with\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Champion
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: ", can stop\na "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". You must enter the beast\nand bend it to your will.\nI tried explaining this to the more\nheadstrong Rito warriors, but they\nwouldn't listen to reason.\n"
+    - text: ".\nThe giant beast circling above us.\nOnly a chosen one, a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Champion
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", can stop\na "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". You must enter the beast\nand bend it to your will.\nI tried explaining this to the more\nheadstrong Rito warriors, but they\nwouldn't listen to reason.\n"
     - utf16_bytes:
         - 14
         - 0
@@ -1296,117 +1287,118 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "\tTeba"
+        - 9
+    - text: Teba
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " and "
+    - text: " and "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Harth
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " tried to confront "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Medoh
+    - text: Harth
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: " tried to confront "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nbut it did not go well, and "
+    - text: "\nbut it did not go well, and "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Harth "
+    - text: "Harth "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "was\ninjured.\n"
+    - text: "was\ninjured.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "Teba escaped unscathed, but I fear he\nnow plans to face "
+    - text: "Teba escaped unscathed, but I fear he\nnow plans to face "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Medoh
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " alone. \n\nAs a descendant of the "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Champions
+    - text: Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ","
+    - text: " alone. \n\nAs a descendant of the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Champions
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ","
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nperhaps you can help us.\n\nPlease. Find Teba. If you work together,\nyou may be able to stop\n"
+    - text: "\nperhaps you can help us.\n\nPlease. Find Teba. If you work together,\nyou may be able to stop\n"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: Divine Beast Vah Medoh
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0
   talk39:
@@ -1415,17 +1407,17 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ଊ...Oh, yes! Of course!"
+    - text: "ଊ...Oh, yes! Of course!"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nI must reward you properly!"
+    - text: "\nI must reward you properly!"
     - utf16_bytes:
         - 0
   "0009":
-    - ascii: Great Eagle Bow?
+    - text: Great Eagle Bow?
     - utf16_bytes:
         - 0
   talk05:
@@ -1434,13 +1426,12 @@ entries:
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "Is there something else you wish to\nknow?"
+    - text: "ċIs there something else you wish to\nknow?"
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
@@ -1449,7 +1440,7 @@ entries:
         - 768
         - 0
   TerrorExplosion:
-    - ascii: Hoohooh!
+    - text: Hoohooh!
     - utf16_bytes:
         - 0
   talk06:
@@ -1459,98 +1450,99 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Did you perchance see that "
+    - text: "Did you perchance see that "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: giant bird
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 65535
-    - ascii: " up\nthere? Soaring high above our village?\n\nThat...is "
-    - utf16_bytes:
-        - 14
-        - 0
-        - 3
-        - 2
-        - 2
-    - ascii: Divine Beast Vah Medoh
+    - text: giant bird
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n\n\n"
+    - text: " up\nthere? Soaring high above our village?\n\nThat...is "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast Vah Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: The Divine Beasts.
+    - text: The Divine Beasts.
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " Our misbegotten\ninheritance from the ancient Sheikah."
+    - text: " Our misbegotten\ninheritance from the ancient Sheikah."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nCreated eons ago to defeat "
+    - text: "\nCreated eons ago to defeat "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: Ganon
+    - text: Ganon
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\n"
+    - text: ".\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "In an ironic turn of events, the Divine\nBeasts were taken over by the same evil\nforce they were created to defeat.\n"
+    - text: "In an ironic turn of events, the Divine\nBeasts were taken over by the same evil\nforce they were created to defeat.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-    - ascii: "\tBut that was 100 years ago. To think the\nDivine Beasts would suddenly reappear"
+        - 9
+    - text: "But that was 100 years ago. To think the\nDivine Beasts would suddenly reappear"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nand begin attacking innocent people...\n"
+    - text: "\nand begin attacking innocent people...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: Could this foretell the return of Ganon?
+    - text: Could this foretell the return of Ganon?
     - utf16_bytes:
         - 0
   TerrorSword:
-    - ascii: Hoohoo?!
+    - text: Hoohoo?!
     - utf16_bytes:
         - 0
   talk07:
@@ -1560,12 +1552,12 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "If you mean to help us, then allow me\nto fill you in on the particulars."
+    - text: "If you mean to help us, then allow me\nto fill you in on the particulars."
     - utf16_bytes:
         - 14
         - 1
         - 6
-    - ascii: "\n"
+    - text: "\n"
     - utf16_bytes:
         - 4
         - 5
@@ -1580,21 +1572,21 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: "That there on your hip.\nIs that not a "
+    - text: "That there on your hip.\nIs that not a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 1
@@ -1602,7 +1594,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk20:
     - utf16_bytes:
@@ -1616,34 +1609,34 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Champion "
+    - text: "Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "descendant...\nThe Rito you met at the "
+    - text: "descendant...\nThe Rito you met at the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Flight Range "
+    - text: "Flight Range "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "was\nin fact none other than Teba...\nHe is the fiercest of warriors,"
+    - text: "was\nin fact none other than Teba...\nHe is the fiercest of warriors,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " but I\ncannot say he was ever one to listen..."
+    - text: " but I\ncannot say he was ever one to listen..."
     - utf16_bytes:
         - 0
   talk21:
@@ -1653,27 +1646,27 @@ entries:
         - 1
         - 2
         - 5
-    - ascii: Now then...
+    - text: Now then...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "is that not a "
+    - text: "is that not a "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Sheikah Slate
+    - text: Sheikah Slate
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "\ndangling from your hip?"
+    - text: "\ndangling from your hip?"
     - utf16_bytes:
         - 14
         - 1
@@ -1681,7 +1674,8 @@ entries:
         - 6
         - 0
         - 1
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk23:
     - utf16_bytes:
@@ -1689,8 +1683,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2822
-    - ascii: Champion descendant...
+    - text: ଆChampion descendant...
     - utf16_bytes:
         - 0
   talk24:
@@ -1700,7 +1693,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "A thousand times, thank you."
+    - text: "A thousand times, thank you."
     - utf16_bytes:
         - 0
   talk26:
@@ -1715,20 +1708,20 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Champion "
+    - text: "Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: descendant...
+    - text: descendant...
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " If you would\nlisten to this old man's request, you\nwould have my eternal gratitude."
+    - text: " If you would\nlisten to this old man's request, you\nwould have my eternal gratitude."
     - utf16_bytes:
         - 14
         - 1
@@ -1736,7 +1729,8 @@ entries:
         - 6
         - 2
         - 3
-        - 256
+    - text: Ā
+    - utf16_bytes:
         - 0
   talk27:
     - utf16_bytes:
@@ -1750,34 +1744,34 @@ entries:
         - 3
         - 2
         - 2
-    - ascii: "Champion "
+    - text: "Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: descendant...
+    - text: descendant...
     - utf16_bytes:
         - 14
         - 5
         - 2
         - 0
-    - ascii: " I have only just\nrealized. That sword you have in your\npossession...\nCould it be the "
+    - text: " I have only just\nrealized. That sword you have in your\npossession...\nCould it be the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "sword that seals the\ndarkness"
+    - text: "sword that seals the\ndarkness"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "?"
+    - text: "?"
     - utf16_bytes:
         - 14
         - 0
@@ -1788,21 +1782,21 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The "
+    - text: "The "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian Champion "
+    - text: "Hylian Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "who fought\nalongside Master Revali 100 years ago...\n\nCould...that be you?"
+    - text: "who fought\nalongside Master Revali 100 years ago...\n\nCould...that be you?"
     - utf16_bytes:
         - 0
   talk28:
@@ -1812,53 +1806,53 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: What you did was miraculous.
+    - text: What you did was miraculous.
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: " Though I\nshould expect nothing less of one from\nthe bloodline of a Champion.\nWhy..."
+    - text: " Though I\nshould expect nothing less of one from\nthe bloodline of a Champion.\nWhy..."
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "you are almost the equal of the\nvery "
+    - text: "you are almost the equal of the\nvery "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: "Hylian Champion "
+    - text: "Hylian Champion "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "who fought with\nMaster Revali 100 years ago...\n"
+    - text: "who fought with\nMaster Revali 100 years ago...\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 11
-    - ascii: "All you lack is the "
+    - text: "All you lack is the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 0
-    - ascii: "sword that seals the\ndarkness"
+    - text: "sword that seals the\ndarkness"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "."
+    - text: "."
     - utf16_bytes:
         - 0

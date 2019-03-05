@@ -1,7 +1,7 @@
 ---
 entries:
   "5503":
-    - ascii: Never mind.
+    - text: Never mind.
     - utf16_bytes:
         - 0
   Npc_kokiri004_Talk010:
@@ -11,46 +11,45 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Welcome to the "
+    - text: "Welcome to the "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spore Store
+    - text: Spore Store
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!\nMy shrooms are delicious, "
+    - text: "!\nMy shrooms are delicious, "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "suspicious,"
+    - text: "suspicious,"
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nbut never malicious!\n"
+    - text: "\nbut never malicious!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "Look around! "
+    - text: "ćLook around! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Buy something!\nOr would you rather sell something?"
+    - text: "Buy something!\nOr would you rather sell something?"
     - utf16_bytes:
         - 14
         - 1
@@ -59,10 +58,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   "5507":
-    - ascii: "I'll take 'em all!"
+    - text: "I'll take 'em all!"
     - utf16_bytes:
         - 0
   Com_Talk_00:
@@ -71,12 +71,11 @@ entries:
         - 3
         - 1
         - 2
-        - 1024
-    - ascii: Do you want to sell something?
+    - text: ЀDo you want to sell something?
     - utf16_bytes:
         - 0
   "5508":
-    - ascii: All of them.
+    - text: All of them.
     - utf16_bytes:
         - 0
   Npc_kokiri004_Talk030:
@@ -85,21 +84,20 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "ሉI had no idea you liked mushrooms so\nmuch, Ms. Heroine...\n\n"
+    - text: "ሉI had no idea you liked mushrooms so\nmuch, Ms. Heroine...\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "I'll have to go out to forage for more\nmushrooms!\n\n"
+    - text: "ćI'll have to go out to forage for more\nmushrooms!\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
         - 0
-    - ascii: "I'd love to buy something from you.\nIs there anything you want to sell?"
+    - text: "I'd love to buy something from you.\nIs there anything you want to sell?"
     - utf16_bytes:
         - 14
         - 1
@@ -108,7 +106,8 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Com_Talk_01:
     - utf16_bytes:
@@ -126,7 +125,7 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: "I'll give you "
+    - text: "I'll give you "
     - utf16_bytes:
         - 14
         - 0
@@ -136,31 +135,30 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for that, OK?"
+    - text: " for that, OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   "0000":
-    - ascii: I want to sell.
+    - text: I want to sell.
     - utf16_bytes:
         - 0
   Com_Talk_02:
@@ -169,15 +167,15 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉Thanks! Is there anything else you want\nto sell?"
+    - text: "촉Thanks! Is there anything else you want\nto sell?"
     - utf16_bytes:
         - 0
   "0001":
-    - ascii: What is this place?
+    - text: What is this place?
     - utf16_bytes:
         - 0
   "0002":
-    - ascii: Good-bye.
+    - text: Good-bye.
     - utf16_bytes:
         - 0
   Npc_kokiri004_Talk050:
@@ -187,13 +185,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "That's right! "
+    - text: "That's right! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "There are mushrooms out\nthere that glow in the dark.\nYou should remember that!"
+    - text: "There are mushrooms out\nthere that glow in the dark.\nYou should remember that!"
     - utf16_bytes:
         - 0
   Com_Talk_04:
@@ -202,8 +200,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "Oh, you changed your mind?\nThat's OK."
+    - text: "촂Oh, you changed your mind?\nThat's OK."
     - utf16_bytes:
         - 0
   Com_Talk_05:
@@ -212,7 +209,7 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "It doesn't have to be a mushroom, you\nknow. I'll buy anything."
+    - text: "It doesn't have to be a mushroom, you\nknow. I'll buy anything."
     - utf16_bytes:
         - 0
   Com_Talk_05b:
@@ -221,7 +218,7 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "I'll buy anything of yours, Ms. Heroine!"
+    - text: "I'll buy anything of yours, Ms. Heroine!"
     - utf16_bytes:
         - 0
   Npc_kokiri004_Talk070:
@@ -230,29 +227,25 @@ entries:
         - 3
         - 1
         - 2
-        - 1030
-    - ascii: "We're technically inside the\nGreat Deku Tree's stomach, you know.\nTry not to think too hard about it.\n"
+    - text: "ІWe're technically inside the\nGreat Deku Tree's stomach, you know.\nTry not to think too hard about it.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "We all decided to open shops in\npreparation for your visit, so the Great\nDeku Tree let us set up shop here.\n"
+    - text: "ćWe all decided to open shops in\npreparation for your visit, so the Great\nDeku Tree let us set up shop here.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 267
-    - ascii: "But you're a lot bigger than us, so it\nprobably feels a little cramped for you.\n\n"
+    - text: "ċBut you're a lot bigger than us, so it\nprobably feels a little cramped for you.\n\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 262
-    - ascii: "Anyway, take your time and enjoy\nshopping!"
+    - text: "ĆAnyway, take your time and enjoy\nshopping!"
     - utf16_bytes:
         - 0
   Com_Talk_05c:
@@ -261,7 +254,7 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: Oooh! Whatcha got? Whatcha got?
+    - text: Oooh! Whatcha got? Whatcha got?
     - utf16_bytes:
         - 0
   Npc_kokiri004_Sell010:
@@ -271,7 +264,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Thanks!
+    - text: Thanks!
     - utf16_bytes:
         - 0
   Com_Talk_05d:
@@ -280,7 +273,7 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "*sniff sniff*\nYou smell nice, Ms. Heroine!"
+    - text: "*sniff sniff*\nYou smell nice, Ms. Heroine!"
     - utf16_bytes:
         - 0
   Npc_kokiri004_Sell030:
@@ -289,8 +282,7 @@ entries:
         - 3
         - 1
         - 2
-        - 2311
-    - ascii: "Thanks for buying my mushrooms!\nI'll go pick some more."
+    - text: "इThanks for buying my mushrooms!\nI'll go pick some more."
     - utf16_bytes:
         - 0
   Npc_kokiri004_Talk000:
@@ -300,30 +292,29 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Huh? "
+    - text: "Huh? "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "\nYou're here, you're here!\nI've been waiting for you!\n"
+    - text: "\nYou're here, you're here!\nI've been waiting for you!\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 256
-    - ascii: "The Great Deku Tree was right!\nHe said you would come, Ms. Heroine.\n\nI thought you might be hungry..."
+    - text: "ĀThe Great Deku Tree was right!\nHe said you would come, Ms. Heroine.\n\nI thought you might be hungry..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "so I\nwent out and gathered a bunch of forest\nmushrooms for you!"
+    - text: "so I\nwent out and gathered a bunch of forest\nmushrooms for you!"
     - utf16_bytes:
         - 0
   Npc_kokiri004_Near000:
-    - ascii: "Mushrooms, mushrooms!"
+    - text: "Mushrooms, mushrooms!"
     - utf16_bytes:
         - 0
   Npc_kokiri004_Talk020:
@@ -333,34 +324,33 @@ entries:
         - 1
         - 2
         - 6
-    - ascii: "Welcome to "
+    - text: "Welcome to "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 2
-    - ascii: Spore Store
+    - text: Spore Store
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "! The sun\nhas set, but my mushrooms are still\nas lively as ever.\n"
+    - text: "! The sun\nhas set, but my mushrooms are still\nas lively as ever.\n"
     - utf16_bytes:
         - 14
         - 3
         - 1
         - 2
-        - 263
-    - ascii: "Look around! "
+    - text: "ćLook around! "
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "Buy something!\nOr would you rather sell something?"
+    - text: "Buy something!\nOr would you rather sell something?"
     - utf16_bytes:
         - 14
         - 1
@@ -369,10 +359,11 @@ entries:
         - 0
         - 1
         - 2
-        - 512
+    - text: Ȁ
+    - utf16_bytes:
         - 0
   Npc_kokiri004_Near020:
-    - ascii: I need more mushrooms...
+    - text: I need more mushrooms...
     - utf16_bytes:
         - 0
   Com_Talk_02b:
@@ -381,8 +372,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52487
-    - ascii: "I want to buy things from you, Ms. Heroine!\nWill you sell me more?"
+    - text: "촇I want to buy things from you, Ms. Heroine!\nWill you sell me more?"
     - utf16_bytes:
         - 0
   Npc_kokiri004_Talk040:
@@ -392,7 +382,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Bring anything you don't need to me!\nIt doesn't even have to be a mushroom!"
+    - text: "Bring anything you don't need to me!\nIt doesn't even have to be a mushroom!"
     - utf16_bytes:
         - 0
   Com_Talk_02c:
@@ -401,7 +391,7 @@ entries:
         - 4
         - 1
         - 2
-    - ascii: "촉I'll take good care of the things I bought\nfrom you, Mr. Hero!"
+    - text: "촉I'll take good care of the things I bought\nfrom you, Mr. Hero!"
     - utf16_bytes:
         - 0
   Com_Talk_02d:
@@ -410,8 +400,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: Come on. Sell me some stuff!
+    - text: 촂Come on. Sell me some stuff!
     - utf16_bytes:
         - 0
   Com_Talk_13:
@@ -430,17 +419,14 @@ entries:
         - 3
         - 2
         - 65535
-    - ascii: How many will you sell me?
+    - text: How many will you sell me?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕼ
+    - text: ᕼᖄᕿȀ
     - utf16_bytes:
-        - 5508
-        - 5503
-        - 512
         - 0
   Npc_kokiri004_Talk060:
     - utf16_bytes:
@@ -449,13 +435,13 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Thanks
+    - text: Thanks
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: " for buying so many mushrooms!"
+    - text: " for buying so many mushrooms!"
     - utf16_bytes:
         - 0
   Com_Talk_14:
@@ -464,15 +450,15 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "I'll buy "
+    - text: "I'll buy "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them for "
+    - text: " of them for "
     - utf16_bytes:
         - 14
         - 0
@@ -482,28 +468,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ".\nIs that OK?"
+    - text: ".\nIs that OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Npc_kokiri004_Sell000:
     - utf16_bytes:
@@ -512,13 +497,13 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "The Great Deku Tree told us you'd\nbe coming, Ms. Heroine!\n\nI thought you might be hungry..."
+    - text: "The Great Deku Tree told us you'd\nbe coming, Ms. Heroine!\n\nI thought you might be hungry..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "so I\nwent out and gathered a bunch of forest\nmushrooms for you!\nIf you have something you want to sell,\njust let me know, OK?"
+    - text: "so I\nwent out and gathered a bunch of forest\nmushrooms for you!\nIf you have something you want to sell,\njust let me know, OK?"
     - utf16_bytes:
         - 0
   Com_Talk_15:
@@ -527,8 +512,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52482
-    - ascii: "I can't buy that from you."
+    - text: "촂I can't buy that from you."
     - utf16_bytes:
         - 0
   Com_Talk_16:
@@ -537,8 +521,7 @@ entries:
         - 4
         - 1
         - 2
-        - 52494
-    - ascii: Would you mind unequipping that first?
+    - text: 촎Would you mind unequipping that first?
     - utf16_bytes:
         - 0
   Com_Talk_33:
@@ -547,7 +530,7 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "I can offer "
+    - text: "I can offer "
     - utf16_bytes:
         - 14
         - 0
@@ -557,28 +540,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Is that OK?"
+    - text: ". Is that OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_50:
     - utf16_bytes:
@@ -586,8 +568,7 @@ entries:
         - 3
         - 1
         - 2
-        - 1543
-    - ascii: "That'll be "
+    - text: "؇That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -597,28 +578,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ". Is that OK?"
+    - text: ". Is that OK?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_34:
     - utf16_bytes:
@@ -626,7 +606,7 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "All of them? OK!\nIt'll be "
+    - text: "All of them? OK!\nIt'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -636,36 +616,35 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees "
+    - text: " rupees "
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "for "
+    - text: "for "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them."
+    - text: " of them."
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_51:
     - utf16_bytes:
@@ -673,18 +652,14 @@ entries:
         - 3
         - 1
         - 2
-        - 1543
-    - ascii: How many do you want?
+    - text: ؇How many do you want?
     - utf16_bytes:
         - 14
         - 1
         - 5
         - 8
-    - ascii: ᕾ
+    - text: ᕾᖃᕿȀ
     - utf16_bytes:
-        - 5507
-        - 5503
-        - 512
         - 0
   Npc_kokiri004_Sell010b:
     - utf16_bytes:
@@ -693,7 +668,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Thanks for buying my mushrooms,\nMs. Heroine!"
+    - text: "Thanks for buying my mushrooms,\nMs. Heroine!"
     - utf16_bytes:
         - 0
   Npc_kokiri004_Sell020:
@@ -703,19 +678,19 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: Thanks for buying my mushrooms!
+    - text: Thanks for buying my mushrooms!
     - utf16_bytes:
         - 14
         - 5
         - 1
         - 0
-    - ascii: "\nI'll go pick some more.\n\nThe Great Deku Tree said you'd show up,\nMs. Heroine!\n\nI thought you might be hungry..."
+    - text: "\nI'll go pick some more.\n\nThe Great Deku Tree said you'd show up,\nMs. Heroine!\n\nI thought you might be hungry..."
     - utf16_bytes:
         - 14
         - 5
         - 0
         - 0
-    - ascii: "so I\nwent out and gathered a bunch of forest\nmushrooms for you!\nAnd just let me know if you want to sell\nany of your stuff, OK?"
+    - text: "so I\nwent out and gathered a bunch of forest\nmushrooms for you!\nAnd just let me know if you want to sell\nany of your stuff, OK?"
     - utf16_bytes:
         - 0
   Com_Talk_35:
@@ -724,15 +699,15 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "OK. I'll buy "
+    - text: "OK. I'll buy "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of them for\n"
+    - text: " of them for\n"
     - utf16_bytes:
         - 14
         - 0
@@ -742,28 +717,27 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: "!"
+    - text: "!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Com_Talk_52:
     - utf16_bytes:
@@ -771,7 +745,7 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "It'll be "
+    - text: "It'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -781,36 +755,35 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: " for "
+    - text: " for "
     - utf16_bytes:
         - 14
         - 2
         - 15
-    - ascii: "&\"Shop_TradeItemNum"
+    - text: "&\"Shop_TradeItemNum"
     - utf16_bytes:
         - 0
-    - ascii: " of those.\nDoes that work?"
+    - text: " of those.\nDoes that work?"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕼᕽ
+    - text: ᕼᕽĀ
     - utf16_bytes:
-        - 256
         - 0
   Npc_kokiri004_Sell010c:
     - utf16_bytes:
@@ -819,7 +792,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "I'm glad I thought to go pick mushrooms!"
+    - text: "I'm glad I thought to go pick mushrooms!"
     - utf16_bytes:
         - 0
   Com_Talk_53:
@@ -829,7 +802,7 @@ entries:
         - 1
         - 2
         - 0
-    - ascii: "Oh, you changed your mind?"
+    - text: "Oh, you changed your mind?"
     - utf16_bytes:
         - 0
   Npc_kokiri004_Sell010d:
@@ -839,7 +812,7 @@ entries:
         - 1
         - 2
         - 7
-    - ascii: "Eat your fill, OK?"
+    - text: "Eat your fill, OK?"
     - utf16_bytes:
         - 0
   Com_Talk_54:
@@ -849,7 +822,7 @@ entries:
         - 1
         - 2
         - 8
-    - ascii: "You don't have enough rupees!\nI can't just give them away for free,\nyou know..."
+    - text: "You don't have enough rupees!\nI can't just give them away for free,\nyou know..."
     - utf16_bytes:
         - 0
   Com_Talk_55:
@@ -858,11 +831,11 @@ entries:
         - 3
         - 1
         - 2
-    - ascii: "؉It looks like your pouch is full to\nbursting...\n\nIf you can't carry them on your head or\ngrow them on your back, you'll just have\nto make space in your inventory."
+    - text: "؉It looks like your pouch is full to\nbursting...\n\nIf you can't carry them on your head or\ngrow them on your back, you'll just have\nto make space in your inventory."
     - utf16_bytes:
         - 0
   "5500":
-    - ascii: Yes.
+    - text: Yes.
     - utf16_bytes:
         - 0
   Com_Talk_56:
@@ -871,7 +844,7 @@ entries:
         - 4
         - 3
         - 0
-    - ascii: "That'll be "
+    - text: "That'll be "
     - utf16_bytes:
         - 14
         - 0
@@ -881,35 +854,33 @@ entries:
         - 14
         - 2
         - 18
-    - ascii: " "
+    - text: " "
     - utf16_bytes:
         - 28
-    - ascii: ShopTradePrice
+    - text: ShopTradePrice
     - utf16_bytes:
         - 0
-    - ascii: " rupees"
+    - text: " rupees"
     - utf16_bytes:
         - 14
         - 0
         - 3
         - 2
         - 65535
-    - ascii: ", please!"
+    - text: ", please!"
     - utf16_bytes:
         - 14
         - 1
         - 4
         - 6
-    - ascii: ᕾ
+    - text: ᕾᕿĀ
     - utf16_bytes:
-        - 5503
-        - 256
         - 0
   "5501":
-    - ascii: No.
+    - text: No.
     - utf16_bytes:
         - 0
   "5502":
-    - ascii: "I'm buying."
+    - text: "I'm buying."
     - utf16_bytes:
         - 0
