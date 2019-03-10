@@ -1,0 +1,46 @@
+---
+entries:
+  QL_HatenoMini_DevilSeal_GiveUtsuwa:
+    - text: "The horned statue in Hateno Village took one\nof your containers!\n\nThe only thing to do is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: talk
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to him and try to\nconvince him to give it back.\u0000"
+  QL_HatenoMini_DevilSeal_Finish:
+    - text: "You persuaded the horned statue to return your\ncontainer. Now you can exchange containers\nfor a small cost.\n\nThe horned statue will buy a Heart Container or\nStamina Vessel for 100 rupees and sell your\nchoice afterward for 120 rupees.\u0000"
+  QL_HatenoMini_DevilSeal_Desc:
+    - text: "The horned statue in Hateno Village told you\nto increase either your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Heart Containers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or\nyour "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Stamina Vessel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "by one and come back.\u0000"
+  QL_HatenoMini_DevilSeal_Name:
+    - text: "The Statue's Bargain\u0000"

@@ -1,0 +1,70 @@
+---
+entries:
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 20
+    - text: "Whaaa?! You came to see me again?!\nThat makes Beedle SO HAPPY!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "But don't get the wrong idea now—"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBeedle's heart belongs to Hyrule.\u0000"
+  TerrorArrow:
+    - text: "Please stop!\u0000"
+  TerrorLightning:
+    - text: "AHHH!\u0000"
+  TerrorBomb:
+    - text: "WHOA NOW!\u0000"
+  TerrorGuardian:
+    - text: "Hyeeeeeeehh!\u0000"
+  TerrorHorse:
+    - text: "Whoa!\u0000"
+  ClearTerrorEnemy:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "Phew...\u0000"
+  TerrorInsect:
+    - text: "NOT BEES! AHHHH!\u0000"
+  TerrorFire:
+    - text: "I don't like fire!\u0000"
+  TerrorExplosion:
+    - text: "Haaaaeeeeee!\u0000"
+  TerrorEnemy:
+    - text: "Eeeeeeeeek!\u0000"
+  TerrorSword:
+    - text: "Owww!\u0000"
+  TerrorAnimal:
+    - text: "Get back!\u0000"
+  ClearTerrorGuardian:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "That was scary...\u0000"
+  Near:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: "Come take a look!\u0000"
+  TerrorImpulse:
+    - text: "Ohhh!\u0000"

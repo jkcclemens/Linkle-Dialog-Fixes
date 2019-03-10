@@ -1,0 +1,417 @@
+---
+entries:
+  "1002":
+    - text: "Bye.\u0000"
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Heh hah hoh...\u0000"
+  Near01:
+    - text: "Aaah!\u0000"
+  FirstTalk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "You're finally here...\u0000"
+  NomalSword00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "So, uh, you're not the hero of legend?\nI was so sure...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "...But now that you mention it, you're\nway too scrawny to be the hero. And you\ndon't have the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\u0000"
+  FirstTalk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "So it was true! I met the hero of Hyrule\nunder this sacred tree!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 1000
+            field_3: 1001
+            field_4: 1002
+            field_5:
+              - 0
+              - 2
+    - text: "\u0000"
+  NoSword00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "So...uh...you're not the hero of Hyrule?\nI was so sure...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "...But now you mention it, you're way too\nscrawny to be a hero. You don't even\nhave a sword!\u0000"
+  NomalSword01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I knew it! At long last I—\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 15
+    - text: "...Wait a minute!\nYou can't fool me!\n\nEveryone knows the hero of Hyrule\nwields the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nYou don't have it!\u0000"
+  FirstGoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 2
+    - text: "Wait!\u0000"
+  "0000":
+    - text: "Legendary hero?\u0000"
+  Run_Rain00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Eek! Rain!\u0000"
+  NoSword01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I knew it! At long last I—\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 15
+    - text: "Wait a minute! You don't even have a\nsword. You can't be the hero of legend!\n\nNice try, buddy. The hero of Hyrule\nalways carries the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " with\nhim. Plus he's way tougher looking...\u0000"
+  FirstGoodBye01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you happen to meet the hero who\nwields the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "legendary sword "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "during your\ntravels...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Tell him I'm waiting for him here.\u0000"
+  "0001":
+    - text: "Legendary sword?\u0000"
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "Oh, did you meet the hero of Hyrule that\nwielded the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+    - text: "\u0000"
+  "0002":
+    - text: "Bye.\u0000"
+  MasterTalk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: So did you meet the hero of Hyrule?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+    - text: "\u0000"
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Hee hee...
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+    - text: "\u0000"
+  "0003":
+    - text: "I am he.\u0000"
+  MasterTalk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "WHAT?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "So...it WAS you!\n\n\nThat sword is proof enough..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'M SO HAPPY RIGHT NOW!\u0000"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Oh, come on...\nYou know—the hero who saves Hyrule\nwhenever the Calamity takes hold?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "He carries the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "legendary sword "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on his\nback like it's no big thing.\nHow cool is that?\u0000"
+  MasterTalk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "This...is a little something I've been\nsaving for you. Please take it!\u0000"
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The stories say that the sword sleeps\nsomewhere in the forest...waiting for the\nhero to awaken it.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Oh, I wish I could meet him...\u0000"
+  MasterTalk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "Oh, man. It feels SO good to check that\noff the bucket list!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: But...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "now that I've met you, some of the\nexcitement's gone."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I mean, you're not\neven my type...\u0000"
+  MasterTalk02_PorchFull:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I want to give you something, but your\npouch is totally full...as I would expect of\na hero!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Please come see me again once you have\na little room in there. I'll be waiting!\u0000"
+  MasterTalk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Sorry, buddy.\n\n\nWell, toodle-oo!\u0000"
+  MasterTalk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "You must be really busy, you know,\nsaving the world and all.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "So instead of spending your time\nchatting with random strangers, maybe\nthink about doing your job, yeah?\u0000"
+  MasterSword00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Don't try to hide it!\n\n\nThat sword there is proof enough...\nYou are the hero I've been waiting for!\u0000"
+  MasterSword01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I knew it was you!\n\n\nThat sword leaves no room for doubt.\nI'm so happy to finally meet you!\u0000"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Please search for the hero of Hyrule!\nTell him I'm waiting for him!\u0000"
+  "1000":
+    - text: "Uh... What?\u0000"
+  "1001":
+    - text: "Yes, I am the hero.\u0000"

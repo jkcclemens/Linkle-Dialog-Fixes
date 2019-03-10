@@ -1,0 +1,32 @@
+---
+entries:
+  QL_GoronMini_ImportGem_Finish:
+    - text: "True to her word, Ramella paid well for your\n10 amber chunks.\n\nAs any merchant would, Ramella is looking to\nmaintain a steady stock of gems. She'll continue\nto pay well for whatever gems you bring her\nin the future.\u0000"
+  QL_GoronMini_ImportGem_Name:
+    - text: "The Jewel Trade\u0000"
+  QL_GoronMini_ImportGem_Desc:
+    - text: "Ramella, a precious-stone wholesaler, let you\nknow that she'll pay top rupee for gems.\n\nBring Ramella "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 pieces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: amber
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to establish\na working relationship.\u0000"

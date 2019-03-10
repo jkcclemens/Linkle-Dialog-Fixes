@@ -1,0 +1,77 @@
+---
+entries:
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Wow, never thought I'd see you here!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "You must really enjoy my company.\u0000"
+  TerrorArrow:
+    - text: "Please stop!\u0000"
+  TerrorLightning:
+    - text: "AHHH!\u0000"
+  TerrorBomb:
+    - text: "WHOA NOW!\u0000"
+  TerrorGuardian:
+    - text: "Hyeeeeeeehh!\u0000"
+  TerrorHorse:
+    - text: "Whoa!\u0000"
+  ClearTerrorEnemy:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "Phew...\u0000"
+  NakedPlayer:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "Lookin' good!\u0000"
+  TerrorInsect:
+    - text: "NOT BEES! AHHHH!\u0000"
+  TerrorFire:
+    - text: "I don't like fire!\u0000"
+  TerrorExplosion:
+    - text: "Haaaaeeeeee!\u0000"
+  TerrorEnemy:
+    - text: "Eeeeeeeeek!\u0000"
+  TerrorSword:
+    - text: "Owww!\u0000"
+  TerrorAnimal:
+    - text: "Get back!\u0000"
+  ClearTerrorGuardian:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "That was scary...\u0000"
+  Near:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: "I'm Beedle!\u0000"
+  TerrorImpulse:
+    - text: "Ohhh!\u0000"
