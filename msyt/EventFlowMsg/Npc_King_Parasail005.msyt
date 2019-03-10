@@ -27,7 +27,6 @@ entries:
           type3:
             field_1: 4
             field_2: 60
-    - text: "\u0000"
   Appear01:
     - control:
         three:
@@ -47,7 +46,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "from the shrines on\nthis plateau.\u0000"
+    - text: "from the shrines on\nthis plateau."
   Appear02:
     - control:
         three:
@@ -60,7 +59,7 @@ entries:
           type2:
             field_1: 24
             string: CustomLaugh
-    - text: "Oho ho! Extraordinary!\u0000"
+    - text: Oho ho! Extraordinary!
   Appear03:
     - control:
         three:
@@ -73,7 +72,7 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "But first...\u0000"
+    - text: But first...
   Appear04:
     - control:
         four:
@@ -98,4 +97,4 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nI shall wait for you there.\u0000"
+    - text: "\nI shall wait for you there."

@@ -18,7 +18,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "!\u0000"
+    - text: "!"
   Talk_08:
     - control:
         zero:
@@ -37,7 +37,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   Talk_09:
     - control:
         three:
@@ -45,11 +44,11 @@ entries:
           field_2:
             - 1
             - 0
-    - text: "This is all I have to thank you with, \nbut I insist you take it.\u0000"
+    - text: "This is all I have to thank you with, \nbut I insist you take it."
   near_00:
-    - text: "Someone...\u0000"
+    - text: Someone...
   near_02:
-    - text: "Please...\u0000"
+    - text: Please...
   Talk_10:
     - control:
         three:
@@ -72,7 +71,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   Talk_12:
     - control:
         three:
@@ -91,7 +89,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   Talk_13:
     - control:
         three:
@@ -120,9 +117,8 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   "0001":
-    - text: "Good-bye.\u0000"
+    - text: Good-bye.
   Talk_14:
     - control:
         three:
@@ -151,7 +147,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   Talk_01:
     - control:
         three:
@@ -224,9 +219,8 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   "0002":
-    - text: "Molduga?\u0000"
+    - text: Molduga?
   Talk_15:
     - control:
         three:
@@ -255,7 +249,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   Talk_02:
     - control:
         zero:
@@ -279,9 +272,8 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   "0003":
-    - text: "Here, take 'em.\u0000"
+    - text: "Here, take 'em."
   Talk_16:
     - control:
         three:
@@ -354,7 +346,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   Talk_03:
     - control:
         three:
@@ -389,7 +380,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   Talk_17:
     - control:
         three:
@@ -431,7 +421,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   Talk_04:
     - control:
         three:
@@ -485,9 +474,8 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   Talk_05:
-    - text: "Wait, these...\u0000"
+    - text: "Wait, these..."
   Talk_18:
     - control:
         zero:
@@ -506,7 +494,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   Talk_06:
     - control:
         zero:
@@ -572,7 +559,7 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: " And you can't use someone\nas bait...\nSo what am I to do...\u0000"
+    - text: " And you can't use someone\nas bait...\nSo what am I to do..."
   Talk_19:
     - control:
         zero:
@@ -614,4 +601,4 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "...\n\nEven the Gerudo, who thrive in the heat,\nmight well expire there if they were clad\nin their regular gear...\nIf you dare to go to that region, \nplease be careful.\u0000"
+    - text: "...\n\nEven the Gerudo, who thrive in the heat,\nmight well expire there if they were clad\nin their regular gear...\nIf you dare to go to that region, \nplease be careful."

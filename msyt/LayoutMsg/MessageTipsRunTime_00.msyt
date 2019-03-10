@@ -13,7 +13,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ", dealing 2x damage.\u0000"
+    - text: ", dealing 2x damage."
   "0009":
     - text: "Throw a weapon at an enemy to\nperform a "
     - control:
@@ -27,7 +27,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ", dealing\ntwice the weapon damage.\u0000"
+    - text: ", dealing\ntwice the weapon damage."
   "0020":
     - text: "The air has become very "
     - control:
@@ -41,7 +41,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\nYou'll take damage even with\nyour current food and clothes.\u0000"
+    - text: ".\nYou'll take damage even with\nyour current food and clothes."
   "0021":
     - text: "The air has become very "
     - control:
@@ -55,11 +55,11 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\nYou'll take damage even with\nyour current food and clothes.\u0000"
+    - text: ".\nYou'll take damage even with\nyour current food and clothes."
   "0022":
-    - text: "The air itself burns. Your current\nclothes and food won't protect\nyou from taking damage.\u0000"
+    - text: "The air itself burns. Your current\nclothes and food won't protect\nyou from taking damage."
   "0010":
-    - text: "The very air around you is\nburning. You'll take damage\nif you stay here any longer.\u0000"
+    - text: "The very air around you is\nburning. You'll take damage\nif you stay here any longer."
   "0023":
     - text: "You can manipulate certain\naspects of the Divine Beast\nfrom the "
     - control:
@@ -73,7 +73,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\u0000"
+    - text: "."
   "0024":
     - text: "Master Cycle Zero's "
     - control:
@@ -87,7 +87,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: " can\nbe refilled by placing materials\nin its fuel tank.\u0000"
+    - text: " can\nbe refilled by placing materials\nin its fuel tank."
   "0000":
     - text: "Press "
     - control:
@@ -109,9 +109,9 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\u0000"
+    - text: "."
   "0013":
-    - text: "Vertical surfaces become slick\nwith water when it rains, making\nclimbing more difficult.\u0000"
+    - text: "Vertical surfaces become slick\nwith water when it rains, making\nclimbing more difficult."
   "0001":
     - text: "Jump out of the way of an\nattack at the last moment to\nexecute a "
     - control:
@@ -125,9 +125,9 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\u0000"
+    - text: "."
   "0014":
-    - text: "Wooden weapons or\nshields will catch fire if\nequipped in this area.\u0000"
+    - text: "Wooden weapons or\nshields will catch fire if\nequipped in this area."
   "0002":
     - text: "To shield surf, jump ("
     - control:
@@ -145,7 +145,7 @@ entries:
             field_2:
               - 10
               - 205
-    - text: " while in the air.\u0000"
+    - text: " while in the air."
   "0015":
     - text: "Crouching increases your\n"
     - control:
@@ -159,7 +159,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ", making it easier to\nsneak up on foes and animals.\u0000"
+    - text: ", making it easier to\nsneak up on foes and animals."
   "0003":
     - text: "Hit an enemy's head with an\narrow to perform a "
     - control:
@@ -183,15 +183,15 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "\nthat deals 2x damage.\u0000"
+    - text: "\nthat deals 2x damage."
   "0016":
-    - text: "You can't sand-seal surf\nwithout a shield.\u0000"
+    - text: "You can't sand-seal surf\nwithout a shield."
   "0004":
-    - text: "If your Stamina Wheel runs out,\nyou'll be too tired to do certain\nactions until it fills up again.\u0000"
+    - text: "If your Stamina Wheel runs out,\nyou'll be too tired to do certain\nactions until it fills up again."
   "0017":
-    - text: "Wolf Link will guide you\nto locations that trigger\nyour Sheikah Sensor.\u0000"
+    - text: "Wolf Link will guide you\nto locations that trigger\nyour Sheikah Sensor."
   "0005":
-    - text: "The temperature is getting\ndangerously low. Find warmth\nsoon or you'll take damage.\u0000"
+    - text: "The temperature is getting\ndangerously low. Find warmth\nsoon or you'll take damage."
   "0018":
     - text: "Check a meal's ingredients by\nselecting it from your inventory\nand then selecting "
     - control:
@@ -205,11 +205,11 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\u0000"
+    - text: "."
   TextBox_00:
-    - text: "\u0000"
+    - text: 
   "0006":
-    - text: "The temperature is getting\nvery high. Find a way to cool\ndown or you'll take damage.\u0000"
+    - text: "The temperature is getting\nvery high. Find a way to cool\ndown or you'll take damage."
   "0019":
     - text: "Electrical attacks can shock\nyou, causing you to drop the\n"
     - control:
@@ -223,8 +223,8 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "you're holding.\u0000"
+    - text: "you're holding."
   T_Guide_00:
-    - text: "Controls Overview\u0000"
+    - text: Controls Overview
   "0007":
-    - text: "Sneak up on an enemy and\nunleash a melee attack to do\nsome major damage.\u0000"
+    - text: "Sneak up on an enemy and\nunleash a melee attack to do\nsome major damage."

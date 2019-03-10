@@ -47,13 +47,12 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   "0010":
-    - text: "I'll keep at it.\u0000"
+    - text: "I'll keep at it."
   "0011":
-    - text: "Oops. My mistake.\u0000"
+    - text: Oops. My mistake.
   "0012":
-    - text: "I'll do it!\u0000"
+    - text: "I'll do it!"
   end:
     - control:
         three:
@@ -76,7 +75,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   restart_end:
     - control:
         three:
@@ -99,7 +97,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   game_start:
     - control:
         three:
@@ -117,7 +114,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nYou get two rolls. Knock 'em flat!\u0000"
+    - text: "\nYou get two rolls. Knock 'em flat!"
   restart:
     - control:
         three:
@@ -140,7 +137,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   about_snowbowl_03:
     - control:
         three:
@@ -168,7 +164,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   ask_payment:
     - control:
         three:
@@ -208,7 +203,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   about_snowbowl_04:
     - control:
         three:
@@ -216,7 +210,7 @@ entries:
           field_2:
             - 0
             - 4
-    - text: "Well, good luck!\u0000"
+    - text: "Well, good luck!"
   break_00:
     - control:
         three:
@@ -239,7 +233,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   break_01:
     - control:
         three:
@@ -252,7 +245,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "\nI didn't have you pinned as the quitting\ntype!\u0000"
+    - text: "\nI didn't have you pinned as the quitting\ntype!"
   result_10:
     - control:
         three:
@@ -260,9 +253,9 @@ entries:
           field_2:
             - 0
             - 4
-    - text: "Take a deep breath, and go for broke on\nyour second throw!\u0000"
+    - text: "Take a deep breath, and go for broke on\nyour second throw!"
   "0000":
-    - text: "I'll try it!\u0000"
+    - text: "I'll try it!"
   break_02:
     - control:
         three:
@@ -285,7 +278,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   result_11:
     - control:
         three:
@@ -322,19 +314,19 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "?!\u0000"
+    - text: "?!"
   "0001":
-    - text: "How does it work?\u0000"
+    - text: How does it work?
   "0002":
-    - text: "Not interested.\u0000"
+    - text: Not interested.
   "0003":
-    - text: "Explain again?\u0000"
+    - text: Explain again?
   "0004":
-    - text: "I've lost interest.\u0000"
+    - text: "I've lost interest."
   "0005":
-    - text: "OK!\u0000"
+    - text: OK!
   "0006":
-    - text: "I'll pass.\u0000"
+    - text: "I'll pass."
   prize_00:
     - control:
         three:
@@ -352,9 +344,8 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   "0007":
-    - text: "I have to split.\u0000"
+    - text: I have to split.
   prize_01:
     - control:
         three:
@@ -399,9 +390,8 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   "0008":
-    - text: "It's nothing.\u0000"
+    - text: "It's nothing."
   explanation_00:
     - control:
         three:
@@ -419,7 +409,7 @@ entries:
         zero:
           type4:
             field_1: 0
-    - text: "At the foot of the hill, we have 10, count\n'em, 10 pillars or \"pins.\"\u0000"
+    - text: "At the foot of the hill, we have 10, count\n'em, 10 pillars or \"pins.\""
   prize_02:
     - text: "How many "
     - control:
@@ -466,9 +456,9 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nTell you what, I'll give you a sampler\nprize to get you shivering for more!\u0000"
+    - text: "\nTell you what, I'll give you a sampler\nprize to get you shivering for more!"
   "0009":
-    - text: "I quit!\u0000"
+    - text: I quit!
   explanation_01:
     - control:
         three:
@@ -476,7 +466,7 @@ entries:
           field_2:
             - 0
             - 0
-    - text: "Give that snowball a good, hearty toss\nfrom the tippy-top of the hill to try and\nknock over all the pins you can!\u0000"
+    - text: "Give that snowball a good, hearty toss\nfrom the tippy-top of the hill to try and\nknock over all the pins you can!"
   prize_03:
     - control:
         three:
@@ -489,7 +479,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   explanation_02:
     - control:
         three:
@@ -497,7 +486,7 @@ entries:
           field_2:
             - 1
             - 11
-    - text: "The ball might take a few detours on its\nride down the hill, but any pins it hits\nwhen it reaches bottom are done for!\u0000"
+    - text: "The ball might take a few detours on its\nride down the hill, but any pins it hits\nwhen it reaches bottom are done for!"
   area_out_00:
     - control:
         three:
@@ -520,7 +509,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   prize_04:
     - control:
         three:
@@ -543,7 +531,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   area_out_01:
     - control:
         three:
@@ -566,7 +553,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   prize_05:
     - control:
         three:
@@ -574,7 +560,7 @@ entries:
           field_2:
             - 0
             - 0
-    - text: "I hear this'll freeze things but good.\u0000"
+    - text: "I hear this'll freeze things but good."
   area_out_02:
     - control:
         three:
@@ -592,7 +578,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   prize_06:
     - control:
         three:
@@ -600,7 +585,7 @@ entries:
           field_2:
             - 0
             - 0
-    - text: "I'm too chill to fight, so I've never\nseen it in action with my own two\npeepers.\u0000"
+    - text: "I'm too chill to fight, so I've never\nseen it in action with my own two\npeepers."
   area_out_03:
     - control:
         three:
@@ -618,7 +603,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   result_00:
     - control:
         three:
@@ -653,7 +637,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   prize_07:
     - control:
         three:
@@ -671,7 +654,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   ask_again:
     - control:
         three:
@@ -700,7 +682,6 @@ entries:
             field_5:
               - 0
               - 2
-    - text: "\u0000"
   area_out_04:
     - control:
         three:
@@ -751,7 +732,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   result_01:
     - control:
         three:
@@ -793,7 +773,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "\nKeep your eye on the snowball!\u0000"
+    - text: "\nKeep your eye on the snowball!"
   prize_08:
     - control:
         three:
@@ -823,7 +803,6 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\u0000"
   result_02:
     - control:
         three:
@@ -870,7 +849,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: " Ice work, kiddums!\u0000"
+    - text: " Ice work, kiddums!"
   prize_09:
     - control:
         three:
@@ -883,7 +862,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "Just for\nthat, you get a prize.\u0000"
+    - text: "Just for\nthat, you get a prize."
   result_03:
     - control:
         three:
@@ -929,7 +908,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nSnow close...and yet snow far.\u0000"
+    - text: "\nSnow close...and yet snow far."
   Initial:
     - control:
         three:
@@ -992,7 +971,6 @@ entries:
             field_5:
               - 0
               - 2
-    - text: "\u0000"
   refuse:
     - control:
         three:
@@ -1005,7 +983,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "\nThere's snow way this is enough!\u0000"
+    - text: "\nThere's snow way this is enough!"
   game_start_00:
     - control:
         three:
@@ -1018,7 +996,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "I gotta set up\nthe pins, but I'll be back in a flurry.\u0000"
+    - text: "I gotta set up\nthe pins, but I'll be back in a flurry."
   result_04:
     - control:
         three:
@@ -1076,7 +1054,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "! Snow 'em how it's done!\u0000"
+    - text: "! Snow 'em how it's done!"
   game_start_01:
     - control:
         three:
@@ -1118,7 +1096,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: " Not as good as a strike,\nbut nothing to sneeze at!\u0000"
+    - text: " Not as good as a strike,\nbut nothing to sneeze at!"
   result_05:
     - control:
         three:
@@ -1165,7 +1143,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nBut hey, one throw left! Make it count!\u0000"
+    - text: "\nBut hey, one throw left! Make it count!"
   Initial_00:
     - control:
         three:
@@ -1196,7 +1174,6 @@ entries:
             field_5:
               - 0
               - 2
-    - text: "\u0000"
   result_06:
     - control:
         three:
@@ -1247,7 +1224,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nYou got one throw left! Make it count!\u0000"
+    - text: "\nYou got one throw left! Make it count!"
   result_07:
     - control:
         three:
@@ -1305,7 +1282,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: " on the second throw!\u0000"
+    - text: " on the second throw!"
   result_08:
     - control:
         three:
@@ -1351,4 +1328,4 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nSnow close...and yet snow far...\n\nOne throw left, though! Put your back\ninto it this time!\u0000"
+    - text: "\nSnow close...and yet snow far...\n\nOne throw left, though! Put your back\ninto it this time!"

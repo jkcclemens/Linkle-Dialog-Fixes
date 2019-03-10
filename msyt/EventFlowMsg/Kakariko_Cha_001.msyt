@@ -37,7 +37,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   Talk04_2:
     - control:
         three:
@@ -85,13 +84,12 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   "0002":
-    - text: "This is for you.\u0000"
+    - text: This is for you.
   "0003":
-    - text: "You're nuts.\u0000"
+    - text: "You're nuts."
   "0004":
-    - text: "You'll live.\u0000"
+    - text: "You'll live."
   Talk10:
     - control:
         three:
@@ -99,7 +97,7 @@ entries:
           field_2:
             - 9
             - 0
-    - text: "Oooh, that's cold...\u0000"
+    - text: "Oooh, that's cold..."
   Talk01:
     - control:
         three:
@@ -118,7 +116,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   Talk12:
     - control:
         three:
@@ -131,7 +128,7 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\n\n\nHere, please have some!\nKoko's treat!\u0000"
+    - text: "\n\n\nHere, please have some!\nKoko's treat!"
   Talk03:
     - control:
         three:
@@ -173,7 +170,7 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: " Koko is a bad big sister...\u0000"
+    - text: " Koko is a bad big sister..."
   Talk13:
     - control:
         zero:
@@ -191,7 +188,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "Koko wants to try cooking different\nthings so Koko can be a great chef,\njust like Mother!\u0000"
+    - text: "Koko wants to try cooking different\nthings so Koko can be a great chef,\njust like Mother!"
   Talk04:
     - control:
         three:
@@ -216,7 +213,7 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: " Koko is a bad big sister...\u0000"
+    - text: " Koko is a bad big sister..."
   Talk15:
     - control:
         three:
@@ -236,7 +233,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "!\u0000"
+    - text: "!"
   Talk05:
     - control:
         three:
@@ -282,9 +279,9 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "\nYeah! Time to get cookin'!\u0000"
+    - text: "\nYeah! Time to get cookin'!"
   Near00:
-    - text: "Hrmmm...\u0000"
+    - text: Hrmmm...
   Talk07:
     - control:
         three:
@@ -364,7 +361,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "So yummy!\u0000"
+    - text: So yummy!
   Talk08:
     - control:
         three:
@@ -394,6 +391,5 @@ entries:
             field_4:
               - 0
               - 2
-    - text: "\u0000"
   "0000":
-    - text: "I'll bring you some.\u0000"
+    - text: "I'll bring you some."

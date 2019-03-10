@@ -23,7 +23,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   Fail_Run_St11:
     - text: So many times...
     - control:
@@ -31,9 +30,8 @@ entries:
           type0:
             field_1: 4
             field_2: 30
-    - text: "\u0000"
   Near01:
-    - text: "So pretty in bloom!\u0000"
+    - text: So pretty in bloom!
   Fail_Run_St12:
     - text: "I've lost count of how many times I've\ntold you... It's just so many now..."
     - control:
@@ -41,7 +39,6 @@ entries:
           type0:
             field_1: 4
             field_2: 30
-    - text: "\u0000"
   Fail_Run_St13:
     - text: "How do you not understand?\nWhy don't you get it?"
     - control:
@@ -49,7 +46,6 @@ entries:
           type0:
             field_1: 4
             field_2: 30
-    - text: "\u0000"
   Ready_Intro2:
     - control:
         three:
@@ -57,7 +53,7 @@ entries:
           field_2:
             - 0
             - 8
-    - text: "I planted flowers around the shrine.\nPlease be careful where you step. You\ndon't want to hurt them, do you?\u0000"
+    - text: "I planted flowers around the shrine.\nPlease be careful where you step. You\ndon't want to hurt them, do you?"
   Fail_Run_St2:
     - control:
         four:
@@ -76,7 +72,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   Fail_1:
     - control:
         three:
@@ -101,7 +96,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "\nThey are screaming out in pain!\u0000"
+    - text: "\nThey are screaming out in pain!"
   Fail_2:
     - control:
         three:
@@ -121,7 +116,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "!\nThey're living things, you know!\u0000"
+    - text: "!\nThey're living things, you know!"
   Ready_Intro:
     - control:
         three:
@@ -146,7 +141,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nJust don't step on them!\u0000"
+    - text: "\nJust don't step on them!"
   Game_Intro:
     - control:
         three:
@@ -154,7 +149,7 @@ entries:
           field_2:
             - 0
             - 8
-    - text: "Please take some time to really admire\nthe flowers. I worked so hard to plant\nthem...\u0000"
+    - text: "Please take some time to really admire\nthe flowers. I worked so hard to plant\nthem..."
   Fail_3:
     - control:
         one:
@@ -167,7 +162,6 @@ entries:
           type0:
             field_1: 4
             field_2: 12
-    - text: "\u0000"
   Fail_Run:
     - control:
         one:
@@ -216,7 +210,6 @@ entries:
           type0:
             field_1: 4
             field_2: 16
-    - text: "\u0000"
   Fail_4:
     - control:
         three:
@@ -236,4 +229,4 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "!\u0000"
+    - text: "!"

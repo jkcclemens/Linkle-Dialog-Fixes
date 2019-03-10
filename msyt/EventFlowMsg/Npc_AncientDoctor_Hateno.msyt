@@ -12,7 +12,7 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\nThis morning really is quite good...\u0000"
+    - text: "\nThis morning really is quite good..."
   talk03:
     - control:
         three:
@@ -25,7 +25,7 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\nAnd a good day it is.\u0000"
+    - text: "\nAnd a good day it is."
   talk04:
     - control:
         three:
@@ -38,7 +38,7 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\nYes, yes, I would describe this evening\nas good.\u0000"
+    - text: "\nYes, yes, I would describe this evening\nas good."
   talk06:
     - control:
         three:
@@ -85,7 +85,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "parts, instead.\u0000"
+    - text: "parts, instead."
   talk07:
     - control:
         three:
@@ -98,9 +98,9 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "How are you doing?\u0000"
+    - text: How are you doing?
   TerrorArrow:
-    - text: "What?!\u0000"
+    - text: What?!
   talk08:
     - control:
         three:
@@ -125,7 +125,6 @@ entries:
             field_6:
               - 0
               - 3
-    - text: "\u0000"
   talk09:
     - control:
         three:
@@ -138,19 +137,19 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\nOr is it good morning?\u0000"
+    - text: "\nOr is it good morning?"
   "0000":
-    - text: "Who are you?\u0000"
+    - text: Who are you?
   "0001":
-    - text: "What's a Guardian?\u0000"
+    - text: "What's a Guardian?"
   "0002":
-    - text: "Cherry?\u0000"
+    - text: Cherry?
   "0003":
-    - text: "Good-bye.\u0000"
+    - text: Good-bye.
   TerrorBomb:
-    - text: "Remote Bombs...\u0000"
+    - text: Remote Bombs...
   TerrorExplosion:
-    - text: "Goodness gracious!\u0000"
+    - text: Goodness gracious!
   talk10:
     - control:
         three:
@@ -208,7 +207,7 @@ entries:
           field_2:
             - 6
             - 1
-    - text: "I've been researching ways to take\nthem back...\u0000"
+    - text: "I've been researching ways to take\nthem back..."
   talk11:
     - control:
         three:
@@ -228,7 +227,6 @@ entries:
             field_6:
               - 0
               - 3
-    - text: "\u0000"
   talk12:
     - control:
         three:
@@ -241,11 +239,11 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: " Well, they can leave\nlasting memories in their mind as well.\u0000"
+    - text: " Well, they can leave\nlasting memories in their mind as well."
   NakedPlayer:
-    - text: "Hm?\u0000"
+    - text: Hm?
   TerrorSword:
-    - text: "What?!\u0000"
+    - text: What?!
   talk00:
     - control:
         zero:
@@ -276,7 +274,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\u0000"
+    - text: "."
   talk01:
     - control:
         three:
@@ -284,4 +282,4 @@ entries:
           field_2:
             - 0
             - 0
-    - text: "Bye-bye.\u0000"
+    - text: Bye-bye.

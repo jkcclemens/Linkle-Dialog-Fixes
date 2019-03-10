@@ -7,9 +7,9 @@ entries:
           field_2:
             - 0
             - 14
-    - text: "Insufficient materials available\nfor exchange.\u0000"
+    - text: "Insufficient materials available\nfor exchange."
   "0002":
-    - text: "Make exchange.\u0000"
+    - text: Make exchange.
   talk07:
     - control:
         three:
@@ -17,9 +17,9 @@ entries:
           field_2:
             - 0
             - 14
-    - text: "Insufficient rupees available\nfor exchange.\u0000"
+    - text: "Insufficient rupees available\nfor exchange."
   "0003":
-    - text: "Change exchange.\u0000"
+    - text: Change exchange.
   talk08:
     - control:
         three:
@@ -27,9 +27,9 @@ entries:
           field_2:
             - 0
             - 14
-    - text: "No room in inventory.\u0000"
+    - text: No room in inventory.
   talk09:
-    - text: "OK.\u0000"
+    - text: OK.
   talk00:
     - control:
         three:
@@ -47,25 +47,25 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nWelcome!\u0000"
+    - text: "\nWelcome!"
   talk10:
     - text: "Hey hey, *beep*,"
     - control:
         five:
           field_1: 2
           field_2: 0
-    - text: " FamiliarNameMissing!\u0000"
+    - text: " FamiliarNameMissing!"
   near00:
-    - text: "*zzzzzzrt*\u0000"
+    - text: "*zzzzzzrt*"
   talk01:
     - text: Insert materials and rupees.
     - control:
         five:
           field_1: 2
           field_2: 0
-    - text: "\nReceive ancient equipment in exchange.\u0000"
+    - text: "\nReceive ancient equipment in exchange."
   near01:
-    - text: "Materials required.\u0000"
+    - text: Materials required.
   talk02:
     - control:
         three:
@@ -83,9 +83,9 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: " FamiliarNameMissing!\u0000"
+    - text: " FamiliarNameMissing!"
   near02:
-    - text: "Systems green.\u0000"
+    - text: Systems green.
   talk03:
     - control:
         three:
@@ -110,9 +110,8 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   near03:
-    - text: "Optimal conditions.\u0000"
+    - text: Optimal conditions.
   talk04:
     - text: "Exchanging... "
     - control:
@@ -150,7 +149,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   talk05:
     - control:
         zero:
@@ -174,4 +172,3 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"

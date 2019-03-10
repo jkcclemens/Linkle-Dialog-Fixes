@@ -24,11 +24,11 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\"\n\u0000"
+    - text: ".\"\n"
   Near04:
-    - text: "Maybe I'll go to bed.\u0000"
+    - text: "Maybe I'll go to bed."
   "0001":
-    - text: "I'm busy.\u0000"
+    - text: "I'm busy."
   talk09:
     - control:
         three:
@@ -58,7 +58,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   talk10:
     - control:
         three:
@@ -66,7 +65,7 @@ entries:
           field_2:
             - 0
             - 4
-    - text: "I see. Come on back when you change\nyour mind.\u0000"
+    - text: "I see. Come on back when you change\nyour mind."
   talk11:
     - control:
         three:
@@ -106,7 +105,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "\nIt's tied up at the wharf. Help yourself.\u0000"
+    - text: "\nIt's tied up at the wharf. Help yourself."
   talk02:
     - control:
         three:
@@ -136,7 +135,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "A diligent\nboy like you could get rich finding it...\nMay all your delving end in gold!\u0000"
+    - text: "A diligent\nboy like you could get rich finding it...\nMay all your delving end in gold!"
   talk13:
     - control:
         three:
@@ -144,11 +143,11 @@ entries:
           field_2:
             - 0
             - 34
-    - text: "I'm going to bed now. If you need\nsomething, please come back tomorrow.\u0000"
+    - text: "I'm going to bed now. If you need\nsomething, please come back tomorrow."
   Near01:
-    - text: "*yawn...*\u0000"
+    - text: "*yawn...*"
   talk04:
-    - text: "Zzz...\u0000"
+    - text: Zzz...
   talk14:
     - control:
         three:
@@ -161,9 +160,9 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "\nDon't do anything reckless.\u0000"
+    - text: "\nDon't do anything reckless."
   Near02:
-    - text: "Nice winds today.\u0000"
+    - text: Nice winds today.
   talk05:
     - control:
         three:
@@ -200,8 +199,7 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   Near03:
-    - text: "Rain, rain, go away...\u0000"
+    - text: "Rain, rain, go away..."
   "0000":
-    - text: "I'm on it!\u0000"
+    - text: "I'm on it!"

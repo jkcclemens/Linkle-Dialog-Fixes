@@ -21,7 +21,6 @@ entries:
           type3:
             field_1: 4
             field_2: 60
-    - text: "\u0000"
   Npc_King001_00:
     - control:
         three:
@@ -46,7 +45,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ", just as\nI promised.\u0000"
+    - text: ", just as\nI promised."
   Npc_King001_01:
     - control:
         three:
@@ -54,7 +53,7 @@ entries:
           field_2:
             - 0
             - 1
-    - text: "With that, you should be able to safely\nfly off the cliffs surrounding this area.\u0000"
+    - text: "With that, you should be able to safely\nfly off the cliffs surrounding this area."
   Npc_King001_02:
     - control:
         three:
@@ -74,4 +73,4 @@ entries:
             field_1:
               - 7
               - 205
-    - text: "I've told you everything I can...\u0000"
+    - text: "I've told you everything I can..."

@@ -1,7 +1,7 @@
 ---
 entries:
   "0003":
-    - text: "Good-bye.\u0000"
+    - text: Good-bye.
   talk04:
     - control:
         zero:
@@ -96,7 +96,6 @@ entries:
           type2:
             field_1: 2
             field_2: 100
-    - text: "\u0000"
   talk05:
     - control:
         three:
@@ -136,7 +135,6 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "\u0000"
   talk06:
     - control:
         three:
@@ -144,9 +142,9 @@ entries:
           field_2:
             - 7
             - 0
-    - text: "By the way, in Gerudo, \"thank you\" is\n\"sarqso.\"\n\nSARQSO!\u0000"
+    - text: "By the way, in Gerudo, \"thank you\" is\n\"sarqso.\"\n\nSARQSO!"
   near00:
-    - text: "What am I going to do?\u0000"
+    - text: What am I going to do?
   talk00:
     - control:
         three:
@@ -188,7 +186,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   talk01:
     - control:
         three:
@@ -211,9 +208,8 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   "0000":
-    - text: "Here's an elixir.\u0000"
+    - text: "Here's an elixir."
   talk02:
     - control:
         three:
@@ -243,11 +239,11 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\n\nFine, then.\u0000"
+    - text: "\n\nFine, then."
   "0001":
-    - text: "Good-bye.\u0000"
+    - text: Good-bye.
   "0002":
-    - text: "An elixir?\u0000"
+    - text: An elixir?
   talk03:
     - control:
         three:
@@ -255,4 +251,4 @@ entries:
           field_2:
             - 7
             - 0
-    - text: "Thank you! Now I can get across the\ndesert while it's still light out!\n\nHere, let me give you something in\nreturn.\u0000"
+    - text: "Thank you! Now I can get across the\ndesert while it's still light out!\n\nHere, let me give you something in\nreturn."

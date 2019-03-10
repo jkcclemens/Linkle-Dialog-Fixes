@@ -22,7 +22,6 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "\u0000"
   Talk03:
     - control:
         three:
@@ -66,7 +65,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ",\nto the west of here.\u0000"
+    - text: ",\nto the west of here."
   Talk05:
     - control:
         three:
@@ -74,4 +73,4 @@ entries:
           field_2:
             - 0
             - 4
-    - text: "It's pretty much directly west of here.\nI'm certain you'll be able to find it\nwithout any trouble.\u0000"
+    - text: "It's pretty much directly west of here.\nI'm certain you'll be able to find it\nwithout any trouble."

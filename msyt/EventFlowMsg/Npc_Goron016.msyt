@@ -19,7 +19,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "...\u0000"
+    - text: "..."
   talk16:
     - control:
         three:
@@ -39,7 +39,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "...\u0000"
+    - text: "..."
   talk17:
     - control:
         three:
@@ -71,7 +71,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "...\u0000"
+    - text: "..."
   talk18:
     - control:
         three:
@@ -91,7 +91,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "...\u0000"
+    - text: "..."
   talk19:
     - control:
         three:
@@ -123,7 +123,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "...\u0000"
+    - text: "..."
   talk20:
     - control:
         three:
@@ -155,7 +155,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: "...\u0000"
+    - text: "..."
   talk21:
     - control:
         three:
@@ -240,7 +240,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\u0000"
+    - text: "."
   talk23:
     - control:
         zero:
@@ -274,7 +274,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   talk24:
     - control:
         three:
@@ -287,7 +286,7 @@ entries:
         five:
           field_1: 1
           field_2: 0
-    - text: "Come back when ya want me\nto forge it again.\u0000"
+    - text: "Come back when ya want me\nto forge it again."
   talk25:
     - control:
         three:
@@ -300,9 +299,9 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\nWait over there.\u0000"
+    - text: "\nWait over there."
   near00:
-    - text: "Hmph! Hmph!\u0000"
+    - text: Hmph! Hmph!
   talk26:
     - control:
         three:
@@ -320,9 +319,9 @@ entries:
         five:
           field_1: 2
           field_2: 0
-    - text: "\nGo on, take it.\u0000"
+    - text: "\nGo on, take it."
   near01:
-    - text: "Well then...\u0000"
+    - text: Well then...
   talk27:
     - control:
         three:
@@ -339,9 +338,8 @@ entries:
             field_3:
               - 1
               - 205
-    - text: "\u0000"
   near02:
-    - text: "Phew...\u0000"
+    - text: Phew...
   talk28:
     - control:
         three:
@@ -354,9 +352,9 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "Outta my way!\u0000"
+    - text: Outta my way!
   near03:
-    - text: "*snort*\u0000"
+    - text: "*snort*"
   talk00:
     - control:
         three:
@@ -374,7 +372,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   talk29:
     - control:
         three:
@@ -391,9 +388,8 @@ entries:
             field_3:
               - 1
               - 205
-    - text: "\u0000"
   "0000":
-    - text: "Sorry!\u0000"
+    - text: Sorry!
   talk01:
     - control:
         three:
@@ -401,7 +397,7 @@ entries:
           field_2:
             - 2
             - 6
-    - text: "...I'm workin' here. Buzz off.\u0000"
+    - text: "...I'm workin' here. Buzz off."
   talk30:
     - control:
         three:
@@ -414,9 +410,9 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "\nYou can have it.\u0000"
+    - text: "\nYou can have it."
   "0001":
-    - text: "Good-bye.\u0000"
+    - text: Good-bye.
   talk02:
     - control:
         three:
@@ -424,9 +420,9 @@ entries:
           field_2:
             - 2
             - 14
-    - text: "Hmph...\u0000"
+    - text: Hmph...
   "0002":
-    - text: "Please?\u0000"
+    - text: Please?
   talk03:
     - control:
         three:
@@ -444,7 +440,6 @@ entries:
             field_4:
               - 0
               - 1
-    - text: "\u0000"
   talk32:
     - control:
         three:
@@ -464,9 +459,9 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ", eh?\n\nI wonder if a pip-squeak like you can\nhandle Daruk's sword...\n\nWell, whatever. It is what it is.\u0000"
+    - text: ", eh?\n\nI wonder if a pip-squeak like you can\nhandle Daruk's sword...\n\nWell, whatever. It is what it is."
   "0003":
-    - text: "No, thanks.\u0000"
+    - text: "No, thanks."
   talk04:
     - control:
         three:
@@ -474,9 +469,9 @@ entries:
           field_2:
             - 6
             - 0
-    - text: "Time for some shut-eye...\u0000"
+    - text: Time for some shut-eye...
   "0004":
-    - text: "Yes.\u0000"
+    - text: Yes.
   talk05:
     - control:
         three:
@@ -484,9 +479,9 @@ entries:
           field_2:
             - 0
             - 0
-    - text: "Hmph...\u0000"
+    - text: Hmph...
   "0005":
-    - text: "No.\u0000"
+    - text: No.
   talk06:
     - control:
         three:
@@ -494,9 +489,9 @@ entries:
           field_2:
             - 2
             - 14
-    - text: "You're distractin' me!\u0000"
+    - text: "You're distractin' me!"
   "0006":
-    - text: "I'm sorry?\u0000"
+    - text: "I'm sorry?"
   talk07:
     - control:
         three:
@@ -504,7 +499,7 @@ entries:
           field_2:
             - 2
             - 14
-    - text: "If ya don't need anything, get outta here.\u0000"
+    - text: "If ya don't need anything, get outta here."
   talk08:
     - control:
         three:
@@ -517,7 +512,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: " I can't stand it.\u0000"
+    - text: " I can't stand it."
   talk09:
     - control:
         three:
@@ -525,7 +520,7 @@ entries:
           field_2:
             - 2
             - 14
-    - text: "I don't have time to deal with\nyour nonsense!\u0000"
+    - text: "I don't have time to deal with\nyour nonsense!"
   talk10:
     - control:
         three:
@@ -533,7 +528,7 @@ entries:
           field_2:
             - 2
             - 14
-    - text: "Pull yourself together!\u0000"
+    - text: Pull yourself together!
   talk12:
     - control:
         three:
@@ -605,7 +600,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\u0000"
+    - text: "."
   talk13:
     - control:
         three:
@@ -625,7 +620,7 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ". You'd better look and\nsee if ya dropped it somewhere.\u0000"
+    - text: ". You'd better look and\nsee if ya dropped it somewhere."
   talk14:
     - control:
         three:
@@ -693,4 +688,4 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: ".\u0000"
+    - text: "."
